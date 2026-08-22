@@ -1,0 +1,3252 @@
+[
+  {
+    "id": "lvl6-001",
+    "level": 6,
+    "order": 1,
+    "word": "fight",
+    "pronunciation": "/faɪt/",
+    "banglaPronunciation": "ফাইট",
+    "meaning": "A struggle or battle.",
+    "banglaMeaning": "লড়াই",
+    "syllables": [
+      "fight"
+    ],
+    "example": "The two boys started a fight.",
+    "hint": "Part of the '-ight' family — starts with F.",
+    "image": "/images/level6/fight.webp"
+  },
+  {
+    "id": "lvl6-002",
+    "level": 6,
+    "order": 2,
+    "word": "might",
+    "pronunciation": "/maɪt/",
+    "banglaPronunciation": "মাইট",
+    "meaning": "Great strength or power.",
+    "banglaMeaning": "শক্তি",
+    "syllables": [
+      "might"
+    ],
+    "example": "With all his might, he pushed the door.",
+    "hint": "Part of the '-ight' family — starts with M.",
+    "image": "/images/level6/might.webp"
+  },
+  {
+    "id": "lvl6-003",
+    "level": 6,
+    "order": 3,
+    "word": "slight",
+    "pronunciation": "/slaɪt/",
+    "banglaPronunciation": "স্লাইট",
+    "meaning": "Very small in amount.",
+    "banglaMeaning": "সামান্য",
+    "syllables": [
+      "slight"
+    ],
+    "example": "There was a slight change in the plan.",
+    "hint": "Part of the '-ight' family — starts with SL.",
+    "image": "/images/level6/slight.webp"
+  },
+  {
+    "id": "lvl6-004",
+    "level": 6,
+    "order": 4,
+    "word": "plight",
+    "pronunciation": "/plaɪt/",
+    "banglaPronunciation": "প্লাইট",
+    "meaning": "A difficult or dangerous situation.",
+    "banglaMeaning": "দুর্দশা",
+    "syllables": [
+      "plight"
+    ],
+    "example": "The charity helped the plight of the poor.",
+    "hint": "Part of the '-ight' family — starts with PL.",
+    "image": "/images/level6/plight.webp"
+  },
+  {
+    "id": "lvl6-005",
+    "level": 6,
+    "order": 5,
+    "word": "delight",
+    "pronunciation": "/dɪˈlaɪt/",
+    "banglaPronunciation": "ডিলাইট",
+    "meaning": "Great pleasure.",
+    "banglaMeaning": "আনন্দ",
+    "syllables": [
+      "de",
+      "light"
+    ],
+    "example": "The children squealed with delight.",
+    "hint": "Made of 'de-' + the '-ight' family.",
+    "image": "/images/level6/delight.webp"
+  },
+  {
+    "id": "lvl6-006",
+    "level": 6,
+    "order": 6,
+    "word": "sunlight",
+    "pronunciation": "/ˈsʌn.laɪt/",
+    "banglaPronunciation": "সানলাইট",
+    "meaning": "Light from the sun.",
+    "banglaMeaning": "সূর্যালোক",
+    "syllables": [
+      "sun",
+      "light"
+    ],
+    "example": "The sunlight streamed through the window.",
+    "hint": "Made of 'sun' + the '-ight' family.",
+    "image": "/images/level6/sunlight.webp"
+  },
+  {
+    "id": "lvl6-007",
+    "level": 6,
+    "order": 7,
+    "word": "snake",
+    "pronunciation": "/sneɪk/",
+    "banglaPronunciation": "স্নেক",
+    "meaning": "A long reptile with no legs.",
+    "banglaMeaning": "সাপ",
+    "syllables": [
+      "snake"
+    ],
+    "example": "A snake slithered through the grass.",
+    "hint": "Part of the '-ake' family — starts with SN.",
+    "image": "/images/level6/snake.webp"
+  },
+  {
+    "id": "lvl6-008",
+    "level": 6,
+    "order": 8,
+    "word": "rake",
+    "pronunciation": "/reɪk/",
+    "banglaPronunciation": "রেক",
+    "meaning": "A tool used to gather leaves.",
+    "banglaMeaning": "রেক",
+    "syllables": [
+      "rake"
+    ],
+    "example": "He used a rake to gather leaves.",
+    "hint": "Part of the '-ake' family — starts with R.",
+    "image": "/images/level6/rake.webp"
+  },
+  {
+    "id": "lvl6-009",
+    "level": 6,
+    "order": 9,
+    "word": "stake",
+    "pronunciation": "/steɪk/",
+    "banglaPronunciation": "স্টেক",
+    "meaning": "A pointed piece of wood or metal.",
+    "banglaMeaning": "খুঁটি",
+    "syllables": [
+      "stake"
+    ],
+    "example": "The farmer drove a stake into the ground.",
+    "hint": "Part of the '-ake' family — starts with ST.",
+    "image": "/images/level6/stake.webp"
+  },
+  {
+    "id": "lvl6-010",
+    "level": 6,
+    "order": 10,
+    "word": "drake",
+    "pronunciation": "/dreɪk/",
+    "banglaPronunciation": "ড্রেক",
+    "meaning": "A male duck.",
+    "banglaMeaning": "পুরুষ হাঁস",
+    "syllables": [
+      "drake"
+    ],
+    "example": "The drake swam beside the duck.",
+    "hint": "Part of the '-ake' family — starts with DR.",
+    "image": "/images/level6/drake.webp"
+  },
+  {
+    "id": "lvl6-011",
+    "level": 6,
+    "order": 11,
+    "word": "flake",
+    "pronunciation": "/fleɪk/",
+    "banglaPronunciation": "ফ্লেক",
+    "meaning": "A small, flat piece of something.",
+    "banglaMeaning": "টুকরা",
+    "syllables": [
+      "flake"
+    ],
+    "example": "A snowflake landed on her nose.",
+    "hint": "Part of the '-ake' family — starts with FL.",
+    "image": "/images/level6/flake.webp"
+  },
+  {
+    "id": "lvl6-012",
+    "level": 6,
+    "order": 12,
+    "word": "intake",
+    "pronunciation": "/ˈɪn.teɪk/",
+    "banglaPronunciation": "ইনটেক",
+    "meaning": "The amount taken in.",
+    "banglaMeaning": "গ্রহণ",
+    "syllables": [
+      "in",
+      "take"
+    ],
+    "example": "Drink plenty of water for your daily intake.",
+    "hint": "Made of 'in-' + the '-ake' family.",
+    "image": "/images/level6/intake.webp"
+  },
+  {
+    "id": "lvl6-013",
+    "level": 6,
+    "order": 13,
+    "word": "mistake",
+    "pronunciation": "/mɪˈsteɪk/",
+    "banglaPronunciation": "মিস্টেক",
+    "meaning": "An error.",
+    "banglaMeaning": "ভুল",
+    "syllables": [
+      "mis",
+      "take"
+    ],
+    "example": "It was an honest mistake.",
+    "hint": "Made of 'mis-' + the '-ake' family.",
+    "image": "/images/level6/mistake.webp"
+  },
+  {
+    "id": "lvl6-014",
+    "level": 6,
+    "order": 14,
+    "word": "sound",
+    "pronunciation": "/saʊnd/",
+    "banglaPronunciation": "সাউন্ড",
+    "meaning": "Something that can be heard.",
+    "banglaMeaning": "শব্দ",
+    "syllables": [
+      "sound"
+    ],
+    "example": "I heard a strange sound.",
+    "hint": "Part of the '-ound' family — starts with S.",
+    "image": "/images/level6/sound.webp"
+  },
+  {
+    "id": "lvl6-015",
+    "level": 6,
+    "order": 15,
+    "word": "round",
+    "pronunciation": "/raʊnd/",
+    "banglaPronunciation": "রাউন্ড",
+    "meaning": "Shaped like a circle.",
+    "banglaMeaning": "গোলাকার",
+    "syllables": [
+      "round"
+    ],
+    "example": "The table is round.",
+    "hint": "Part of the '-ound' family — starts with R.",
+    "image": "/images/level6/round.webp"
+  },
+  {
+    "id": "lvl6-016",
+    "level": 6,
+    "order": 16,
+    "word": "found",
+    "pronunciation": "/faʊnd/",
+    "banglaPronunciation": "ফাউন্ড",
+    "meaning": "Past tense of find.",
+    "banglaMeaning": "খুঁজে পাওয়া",
+    "syllables": [
+      "found"
+    ],
+    "example": "She found her lost keys.",
+    "hint": "Part of the '-ound' family — starts with F.",
+    "image": "/images/level6/found.webp"
+  },
+  {
+    "id": "lvl6-017",
+    "level": 6,
+    "order": 17,
+    "word": "ground",
+    "pronunciation": "/ɡraʊnd/",
+    "banglaPronunciation": "গ্রাউন্ড",
+    "meaning": "The surface of the earth.",
+    "banglaMeaning": "মাটি",
+    "syllables": [
+      "ground"
+    ],
+    "example": "The apple fell to the ground.",
+    "hint": "Part of the '-ound' family — starts with GR.",
+    "image": "/images/level6/ground.webp"
+  },
+  {
+    "id": "lvl6-018",
+    "level": 6,
+    "order": 18,
+    "word": "pound",
+    "pronunciation": "/paʊnd/",
+    "banglaPronunciation": "পাউন্ড",
+    "meaning": "A unit of weight, or to hit hard.",
+    "banglaMeaning": "পাউন্ড",
+    "syllables": [
+      "pound"
+    ],
+    "example": "The boxer landed a heavy pound.",
+    "hint": "Part of the '-ound' family — starts with P.",
+    "image": "/images/level6/pound.webp"
+  },
+  {
+    "id": "lvl6-019",
+    "level": 6,
+    "order": 19,
+    "word": "hound",
+    "pronunciation": "/haʊnd/",
+    "banglaPronunciation": "হাউন্ড",
+    "meaning": "A breed of hunting dog.",
+    "banglaMeaning": "শিকারি কুকুর",
+    "syllables": [
+      "hound"
+    ],
+    "example": "The hound chased the fox.",
+    "hint": "Part of the '-ound' family — starts with H.",
+    "image": "/images/level6/hound.webp"
+  },
+  {
+    "id": "lvl6-020",
+    "level": 6,
+    "order": 20,
+    "word": "mound",
+    "pronunciation": "/maʊnd/",
+    "banglaPronunciation": "মাউন্ড",
+    "meaning": "A small hill or pile.",
+    "banglaMeaning": "ঢিবি",
+    "syllables": [
+      "mound"
+    ],
+    "example": "There was a mound of dirt by the road.",
+    "hint": "Part of the '-ound' family — starts with M.",
+    "image": "/images/level6/mound.webp"
+  },
+  {
+    "id": "lvl6-021",
+    "level": 6,
+    "order": 21,
+    "word": "bound",
+    "pronunciation": "/baʊnd/",
+    "banglaPronunciation": "বাউন্ড",
+    "meaning": "Heading toward, or tied up.",
+    "banglaMeaning": "আবদ্ধ",
+    "syllables": [
+      "bound"
+    ],
+    "example": "The rabbit is bound for the forest.",
+    "hint": "Part of the '-ound' family — starts with B.",
+    "image": "/images/level6/bound.webp"
+  },
+  {
+    "id": "lvl6-022",
+    "level": 6,
+    "order": 22,
+    "word": "astound",
+    "pronunciation": "/əˈstaʊnd/",
+    "banglaPronunciation": "অ্যাস্টাউন্ড",
+    "meaning": "To surprise greatly.",
+    "banglaMeaning": "হতবাক করা",
+    "syllables": [
+      "a",
+      "stound"
+    ],
+    "example": "The magic trick will astound you.",
+    "hint": "Made of 'a-' + the '-stound' sound.",
+    "image": "/images/level6/astound.webp"
+  },
+  {
+    "id": "lvl6-023",
+    "level": 6,
+    "order": 23,
+    "word": "background",
+    "pronunciation": "/ˈbæk.ɡraʊnd/",
+    "banglaPronunciation": "ব্যাকগ্রাউন্ড",
+    "meaning": "The area behind the main subject.",
+    "banglaMeaning": "পটভূমি",
+    "syllables": [
+      "back",
+      "ground"
+    ],
+    "example": "The mountains form the background of the photo.",
+    "hint": "Made of 'back' + the '-ground' family.",
+    "image": "/images/level6/background.webp"
+  },
+  {
+    "id": "lvl6-024",
+    "level": 6,
+    "order": 24,
+    "word": "playground",
+    "pronunciation": "/ˈpleɪ.ɡraʊnd/",
+    "banglaPronunciation": "প্লেগ্রাউন্ড",
+    "meaning": "An outdoor area for children to play.",
+    "banglaMeaning": "খেলার মাঠ",
+    "syllables": [
+      "play",
+      "ground"
+    ],
+    "example": "The children played at the playground.",
+    "hint": "Made of 'play' + the '-ground' family.",
+    "image": "/images/level6/playground.webp"
+  },
+  {
+    "id": "lvl6-025",
+    "level": 6,
+    "order": 25,
+    "word": "tray",
+    "pronunciation": "/treɪ/",
+    "banglaPronunciation": "ট্রে",
+    "meaning": "A flat container for carrying things.",
+    "banglaMeaning": "ট্রে",
+    "syllables": [
+      "tray"
+    ],
+    "example": "She carried the tray of food.",
+    "hint": "Part of the '-ay' family — starts with TR.",
+    "image": "/images/level6/tray.webp"
+  },
+  {
+    "id": "lvl6-026",
+    "level": 6,
+    "order": 26,
+    "word": "stray",
+    "pronunciation": "/streɪ/",
+    "banglaPronunciation": "স্ট্রে",
+    "meaning": "To wander away, or a lost animal.",
+    "banglaMeaning": "ভবঘুরে",
+    "syllables": [
+      "stray"
+    ],
+    "example": "A stray cat followed us home.",
+    "hint": "Part of the '-ay' family — starts with STR.",
+    "image": "/images/level6/stray.webp"
+  },
+  {
+    "id": "lvl6-027",
+    "level": 6,
+    "order": 27,
+    "word": "clay",
+    "pronunciation": "/kleɪ/",
+    "banglaPronunciation": "ক্লে",
+    "meaning": "A type of heavy, sticky earth.",
+    "banglaMeaning": "কাদামাটি",
+    "syllables": [
+      "clay"
+    ],
+    "example": "The children made pots from clay.",
+    "hint": "Part of the '-ay' family — starts with CL.",
+    "image": "/images/level6/clay.webp"
+  },
+  {
+    "id": "lvl6-028",
+    "level": 6,
+    "order": 28,
+    "word": "spray",
+    "pronunciation": "/spreɪ/",
+    "banglaPronunciation": "স্প্রে",
+    "meaning": "Fine drops of liquid.",
+    "banglaMeaning": "স্প্রে",
+    "syllables": [
+      "spray"
+    ],
+    "example": "The gardener used a spray to water the plants.",
+    "hint": "Part of the '-ay' family — starts with SPR.",
+    "image": "/images/level6/spray.webp"
+  },
+  {
+    "id": "lvl6-029",
+    "level": 6,
+    "order": 29,
+    "word": "pray",
+    "pronunciation": "/preɪ/",
+    "banglaPronunciation": "প্রে",
+    "meaning": "To speak to God.",
+    "banglaMeaning": "প্রার্থনা করা",
+    "syllables": [
+      "pray"
+    ],
+    "example": "They pray before every meal.",
+    "hint": "Part of the '-ay' family — starts with PR.",
+    "image": "/images/level6/pray.webp"
+  },
+  {
+    "id": "lvl6-030",
+    "level": 6,
+    "order": 30,
+    "word": "array",
+    "pronunciation": "/əˈreɪ/",
+    "banglaPronunciation": "অ্যারে",
+    "meaning": "A large group or display.",
+    "banglaMeaning": "সারি",
+    "syllables": [
+      "ar",
+      "ray"
+    ],
+    "example": "There was an array of colors on display.",
+    "hint": "Made of 'ar-' + the '-ay' family.",
+    "image": "/images/level6/array.webp"
+  },
+  {
+    "id": "lvl6-031",
+    "level": 6,
+    "order": 31,
+    "word": "decay",
+    "pronunciation": "/dɪˈkeɪ/",
+    "banglaPronunciation": "ডিকে",
+    "meaning": "To slowly rot or break down.",
+    "banglaMeaning": "ক্ষয় হওয়া",
+    "syllables": [
+      "de",
+      "cay"
+    ],
+    "example": "Sugar can cause tooth decay.",
+    "hint": "Made of 'de-' + the '-ay' family.",
+    "image": "/images/level6/decay.webp"
+  },
+  {
+    "id": "lvl6-032",
+    "level": 6,
+    "order": 32,
+    "word": "delay",
+    "pronunciation": "/dɪˈleɪ/",
+    "banglaPronunciation": "ডিলে",
+    "meaning": "To make something happen later.",
+    "banglaMeaning": "বিলম্ব করা",
+    "syllables": [
+      "de",
+      "lay"
+    ],
+    "example": "The flight was delayed by an hour.",
+    "hint": "Made of 'de-' + the '-lay' sound.",
+    "image": "/images/level6/delay.webp"
+  },
+  {
+    "id": "lvl6-033",
+    "level": 6,
+    "order": 33,
+    "word": "essay",
+    "pronunciation": "/ˈɛs.eɪ/",
+    "banglaPronunciation": "এসে",
+    "meaning": "A short piece of writing on a topic.",
+    "banglaMeaning": "প্রবন্ধ",
+    "syllables": [
+      "es",
+      "say"
+    ],
+    "example": "She wrote an essay about her summer trip.",
+    "hint": "Made of 'es-' + the '-ay' family.",
+    "image": "/images/level6/essay.webp"
+  },
+  {
+    "id": "lvl6-034",
+    "level": 6,
+    "order": 34,
+    "word": "betray",
+    "pronunciation": "/bɪˈtreɪ/",
+    "banglaPronunciation": "বিট্রে",
+    "meaning": "To be disloyal to someone.",
+    "banglaMeaning": "বিশ্বাসঘাতকতা করা",
+    "syllables": [
+      "be",
+      "tray"
+    ],
+    "example": "A true friend will never betray you.",
+    "hint": "Made of 'be-' + the '-tray' sound.",
+    "image": "/images/level6/betray.webp"
+  },
+  {
+    "id": "lvl6-035",
+    "level": 6,
+    "order": 35,
+    "word": "wing",
+    "pronunciation": "/wɪŋ/",
+    "banglaPronunciation": "উইং",
+    "meaning": "A part of a bird or plane used for flying.",
+    "banglaMeaning": "ডানা",
+    "syllables": [
+      "wing"
+    ],
+    "example": "The bird spread its wing.",
+    "hint": "Part of the '-ing' family — starts with W.",
+    "image": "/images/level6/wing.webp"
+  },
+  {
+    "id": "lvl6-036",
+    "level": 6,
+    "order": 36,
+    "word": "thing",
+    "pronunciation": "/θɪŋ/",
+    "banglaPronunciation": "থিং",
+    "meaning": "An object or item.",
+    "banglaMeaning": "জিনিস",
+    "syllables": [
+      "thing"
+    ],
+    "example": "What is that thing on the table?",
+    "hint": "Part of the '-ing' family — starts with TH.",
+    "image": "/images/level6/thing.webp"
+  },
+  {
+    "id": "lvl6-037",
+    "level": 6,
+    "order": 37,
+    "word": "cling",
+    "pronunciation": "/klɪŋ/",
+    "banglaPronunciation": "ক্লিং",
+    "meaning": "To hold on tightly.",
+    "banglaMeaning": "আঁকড়ে ধরা",
+    "syllables": [
+      "cling"
+    ],
+    "example": "The wet shirt began to cling to his skin.",
+    "hint": "Part of the '-ing' family — starts with CL.",
+    "image": "/images/level6/cling.webp"
+  },
+  {
+    "id": "lvl6-038",
+    "level": 6,
+    "order": 38,
+    "word": "fling",
+    "pronunciation": "/flɪŋ/",
+    "banglaPronunciation": "ফ্লিং",
+    "meaning": "To throw with force.",
+    "banglaMeaning": "ছুঁড়ে ফেলা",
+    "syllables": [
+      "fling"
+    ],
+    "example": "She gave the ball a fling.",
+    "hint": "Part of the '-ing' family — starts with FL.",
+    "image": "/images/level6/fling.webp"
+  },
+  {
+    "id": "lvl6-039",
+    "level": 6,
+    "order": 39,
+    "word": "sting",
+    "pronunciation": "/stɪŋ/",
+    "banglaPronunciation": "স্টিং",
+    "meaning": "A sharp pain from an insect bite.",
+    "banglaMeaning": "হুল ফোটানো",
+    "syllables": [
+      "sting"
+    ],
+    "example": "A bee sting can be painful.",
+    "hint": "Part of the '-ing' family — starts with ST.",
+    "image": "/images/level6/sting.webp"
+  },
+  {
+    "id": "lvl6-040",
+    "level": 6,
+    "order": 40,
+    "word": "sling",
+    "pronunciation": "/slɪŋ/",
+    "banglaPronunciation": "স্লিং",
+    "meaning": "A strap used to carry or throw something.",
+    "banglaMeaning": "স্লিং",
+    "syllables": [
+      "sling"
+    ],
+    "example": "His arm was in a sling after the fall.",
+    "hint": "Part of the '-ing' family — starts with SL.",
+    "image": "/images/level6/sling.webp"
+  },
+  {
+    "id": "lvl6-041",
+    "level": 6,
+    "order": 41,
+    "word": "zing",
+    "pronunciation": "/zɪŋ/",
+    "banglaPronunciation": "জিং",
+    "meaning": "Lively energy.",
+    "banglaMeaning": "প্রাণবন্ততা",
+    "syllables": [
+      "zing"
+    ],
+    "example": "The lemon added a zing to the drink.",
+    "hint": "Part of the '-ing' family — starts with Z.",
+    "image": "/images/level6/zing.webp"
+  },
+  {
+    "id": "lvl6-042",
+    "level": 6,
+    "order": 42,
+    "word": "ping",
+    "pronunciation": "/pɪŋ/",
+    "banglaPronunciation": "পিং",
+    "meaning": "A short, sharp sound.",
+    "banglaMeaning": "টুং শব্দ",
+    "syllables": [
+      "ping"
+    ],
+    "example": "The phone made a ping sound.",
+    "hint": "Part of the '-ing' family — starts with P.",
+    "image": "/images/level6/ping.webp"
+  },
+  {
+    "id": "lvl6-043",
+    "level": 6,
+    "order": 43,
+    "word": "wring",
+    "pronunciation": "/rɪŋ/",
+    "banglaPronunciation": "রিং",
+    "meaning": "To twist and squeeze.",
+    "banglaMeaning": "নিংড়ানো",
+    "syllables": [
+      "wring"
+    ],
+    "example": "She had to wring out the wet towel.",
+    "hint": "Part of the '-ing' family — starts with WR (silent W).",
+    "image": "/images/level6/wring.webp"
+  },
+  {
+    "id": "lvl6-044",
+    "level": 6,
+    "order": 44,
+    "word": "call",
+    "pronunciation": "/kɔːl/",
+    "banglaPronunciation": "কল",
+    "meaning": "To speak loudly or phone someone.",
+    "banglaMeaning": "ডাকা",
+    "syllables": [
+      "call"
+    ],
+    "example": "Please call me tonight.",
+    "hint": "Part of the '-all' family — starts with C.",
+    "image": "/images/level6/call.webp"
+  },
+  {
+    "id": "lvl6-045",
+    "level": 6,
+    "order": 45,
+    "word": "fall",
+    "pronunciation": "/fɔːl/",
+    "banglaPronunciation": "ফল",
+    "meaning": "To drop down, or the autumn season.",
+    "banglaMeaning": "পড়ে যাওয়া",
+    "syllables": [
+      "fall"
+    ],
+    "example": "Leaves fall in autumn.",
+    "hint": "Part of the '-all' family — starts with F.",
+    "image": "/images/level6/fall.webp"
+  },
+  {
+    "id": "lvl6-046",
+    "level": 6,
+    "order": 46,
+    "word": "hall",
+    "pronunciation": "/hɔːl/",
+    "banglaPronunciation": "হল",
+    "meaning": "A large room or passage.",
+    "banglaMeaning": "হল",
+    "syllables": [
+      "hall"
+    ],
+    "example": "We waited in the hall.",
+    "hint": "Part of the '-all' family — starts with H.",
+    "image": "/images/level6/hall.webp"
+  },
+  {
+    "id": "lvl6-047",
+    "level": 6,
+    "order": 47,
+    "word": "mall",
+    "pronunciation": "/mɔːl/",
+    "banglaPronunciation": "মল",
+    "meaning": "A large shopping building.",
+    "banglaMeaning": "শপিং মল",
+    "syllables": [
+      "mall"
+    ],
+    "example": "They went shopping at the mall.",
+    "hint": "Part of the '-all' family — starts with M.",
+    "image": "/images/level6/mall.webp"
+  },
+  {
+    "id": "lvl6-048",
+    "level": 6,
+    "order": 48,
+    "word": "small",
+    "pronunciation": "/smɔːl/",
+    "banglaPronunciation": "স্মল",
+    "meaning": "Not large in size.",
+    "banglaMeaning": "ছোট",
+    "syllables": [
+      "small"
+    ],
+    "example": "The kitten is very small.",
+    "hint": "Part of the '-all' family — starts with SM.",
+    "image": "/images/level6/small.webp"
+  },
+  {
+    "id": "lvl6-049",
+    "level": 6,
+    "order": 49,
+    "word": "stall",
+    "pronunciation": "/stɔːl/",
+    "banglaPronunciation": "স্টল",
+    "meaning": "A small stand for selling goods.",
+    "banglaMeaning": "দোকানের স্টল",
+    "syllables": [
+      "stall"
+    ],
+    "example": "He set up a stall at the market.",
+    "hint": "Part of the '-all' family — starts with ST.",
+    "image": "/images/level6/stall.webp"
+  },
+  {
+    "id": "lvl6-050",
+    "level": 6,
+    "order": 50,
+    "word": "install",
+    "pronunciation": "/ɪnˈstɔːl/",
+    "banglaPronunciation": "ইনস্টল",
+    "meaning": "To set something up for use.",
+    "banglaMeaning": "স্থাপন করা",
+    "syllables": [
+      "in",
+      "stall"
+    ],
+    "example": "Dad will install the new software.",
+    "hint": "Made of 'in-' + the '-stall' sound.",
+    "image": "/images/level6/install.webp"
+  },
+  {
+    "id": "lvl6-051",
+    "level": 6,
+    "order": 51,
+    "word": "recall",
+    "pronunciation": "/rɪˈkɔːl/",
+    "banglaPronunciation": "রিকল",
+    "meaning": "To remember something.",
+    "banglaMeaning": "স্মরণ করা",
+    "syllables": [
+      "re",
+      "call"
+    ],
+    "example": "I can't recall her name.",
+    "hint": "Made of 're-' + the '-call' sound.",
+    "image": "/images/level6/recall.webp"
+  },
+  {
+    "id": "lvl6-052",
+    "level": 6,
+    "order": 52,
+    "word": "overall",
+    "pronunciation": "/ˈoʊ.vər.ɔːl/",
+    "banglaPronunciation": "ওভারঅল",
+    "meaning": "Including everything.",
+    "banglaMeaning": "সামগ্রিকভাবে",
+    "syllables": [
+      "o",
+      "ver",
+      "all"
+    ],
+    "example": "The overall result was excellent.",
+    "hint": "Made of 'over-' + the '-all' family.",
+    "image": "/images/level6/overall.webp"
+  },
+  {
+    "id": "lvl6-053",
+    "level": 6,
+    "order": 53,
+    "word": "baseball",
+    "pronunciation": "/ˈbeɪs.bɔːl/",
+    "banglaPronunciation": "বেসবল",
+    "meaning": "A bat-and-ball game.",
+    "banglaMeaning": "বেসবল",
+    "syllables": [
+      "base",
+      "ball"
+    ],
+    "example": "He hit the baseball over the fence.",
+    "hint": "Made of 'base' + the '-ball' sound.",
+    "image": "/images/level6/baseball.webp"
+  },
+  {
+    "id": "lvl6-054",
+    "level": 6,
+    "order": 54,
+    "word": "keep",
+    "pronunciation": "/kiːp/",
+    "banglaPronunciation": "কিপ",
+    "meaning": "To hold onto something.",
+    "banglaMeaning": "রাখা",
+    "syllables": [
+      "keep"
+    ],
+    "example": "You can keep the extra pencil.",
+    "hint": "Part of the '-eep' family — starts with K.",
+    "image": "/images/level6/keep.webp"
+  },
+  {
+    "id": "lvl6-055",
+    "level": 6,
+    "order": 55,
+    "word": "deep",
+    "pronunciation": "/diːp/",
+    "banglaPronunciation": "ডিপ",
+    "meaning": "Extending far down.",
+    "banglaMeaning": "গভীর",
+    "syllables": [
+      "deep"
+    ],
+    "example": "The ocean is very deep.",
+    "hint": "Part of the '-eep' family — starts with D.",
+    "image": "/images/level6/deep.webp"
+  },
+  {
+    "id": "lvl6-056",
+    "level": 6,
+    "order": 56,
+    "word": "sweep",
+    "pronunciation": "/swiːp/",
+    "banglaPronunciation": "সুইপ",
+    "meaning": "To clean with a broom.",
+    "banglaMeaning": "ঝাড়ু দেওয়া",
+    "syllables": [
+      "sweep"
+    ],
+    "example": "Please sweep the floor.",
+    "hint": "Part of the '-eep' family — starts with SW.",
+    "image": "/images/level6/sweep.webp"
+  },
+  {
+    "id": "lvl6-057",
+    "level": 6,
+    "order": 57,
+    "word": "creep",
+    "pronunciation": "/kriːp/",
+    "banglaPronunciation": "ক্রিপ",
+    "meaning": "To move slowly and quietly.",
+    "banglaMeaning": "নিঃশব্দে চলা",
+    "syllables": [
+      "creep"
+    ],
+    "example": "The cat began to creep toward the mouse.",
+    "hint": "Part of the '-eep' family — starts with CR.",
+    "image": "/images/level6/creep.webp"
+  },
+  {
+    "id": "lvl6-058",
+    "level": 6,
+    "order": 58,
+    "word": "steep",
+    "pronunciation": "/stiːp/",
+    "banglaPronunciation": "স্টিপ",
+    "meaning": "Rising or falling sharply.",
+    "banglaMeaning": "খাড়া",
+    "syllables": [
+      "steep"
+    ],
+    "example": "The hill was very steep.",
+    "hint": "Part of the '-eep' family — starts with ST.",
+    "image": "/images/level6/steep.webp"
+  },
+  {
+    "id": "lvl6-059",
+    "level": 6,
+    "order": 59,
+    "word": "weep",
+    "pronunciation": "/wiːp/",
+    "banglaPronunciation": "উইপ",
+    "meaning": "To cry.",
+    "banglaMeaning": "কাঁদা",
+    "syllables": [
+      "weep"
+    ],
+    "example": "She began to weep with joy.",
+    "hint": "Part of the '-eep' family — starts with W.",
+    "image": "/images/level6/weep.webp"
+  },
+  {
+    "id": "lvl6-060",
+    "level": 6,
+    "order": 60,
+    "word": "jeep",
+    "pronunciation": "/dʒiːp/",
+    "banglaPronunciation": "জিপ",
+    "meaning": "A rugged type of vehicle.",
+    "banglaMeaning": "জিপ",
+    "syllables": [
+      "jeep"
+    ],
+    "example": "We rode in an old jeep.",
+    "hint": "Part of the '-eep' family — starts with J.",
+    "image": "/images/level6/jeep.webp"
+  },
+  {
+    "id": "lvl6-061",
+    "level": 6,
+    "order": 61,
+    "word": "peep",
+    "pronunciation": "/piːp/",
+    "banglaPronunciation": "পিপ",
+    "meaning": "To look quickly and secretly.",
+    "banglaMeaning": "উঁকি দেওয়া",
+    "syllables": [
+      "peep"
+    ],
+    "example": "He took a peep through the window.",
+    "hint": "Part of the '-eep' family — starts with P.",
+    "image": "/images/level6/peep.webp"
+  },
+  {
+    "id": "lvl6-062",
+    "level": 6,
+    "order": 62,
+    "word": "beep",
+    "pronunciation": "/biːp/",
+    "banglaPronunciation": "বিপ",
+    "meaning": "A short, high-pitched sound.",
+    "banglaMeaning": "বিপ শব্দ",
+    "syllables": [
+      "beep"
+    ],
+    "example": "The alarm let out a loud beep.",
+    "hint": "Part of the '-eep' family — starts with B.",
+    "image": "/images/level6/beep.webp"
+  },
+  {
+    "id": "lvl6-063",
+    "level": 6,
+    "order": 63,
+    "word": "asleep",
+    "pronunciation": "/əˈsliːp/",
+    "banglaPronunciation": "অ্যাসলিপ",
+    "meaning": "In a state of sleep.",
+    "banglaMeaning": "ঘুমন্ত",
+    "syllables": [
+      "a",
+      "sleep"
+    ],
+    "example": "The baby is finally asleep.",
+    "hint": "Made of 'a-' + the '-sleep' sound.",
+    "image": "/images/level6/asleep.webp"
+  },
+  {
+    "id": "lvl6-064",
+    "level": 6,
+    "order": 64,
+    "word": "seep",
+    "pronunciation": "/siːp/",
+    "banglaPronunciation": "সিপ",
+    "meaning": "To flow slowly through something.",
+    "banglaMeaning": "চুইয়ে পড়া",
+    "syllables": [
+      "seep"
+    ],
+    "example": "Water began to seep through the crack.",
+    "hint": "Part of the '-eep' family — starts with S.",
+    "image": "/images/level6/seep.webp"
+  },
+  {
+    "id": "lvl6-065",
+    "level": 6,
+    "order": 65,
+    "word": "town",
+    "pronunciation": "/taʊn/",
+    "banglaPronunciation": "টাউন",
+    "meaning": "A small city.",
+    "banglaMeaning": "শহর",
+    "syllables": [
+      "town"
+    ],
+    "example": "They live in a small town.",
+    "hint": "Part of the '-own' family — starts with T.",
+    "image": "/images/level6/town.webp"
+  },
+  {
+    "id": "lvl6-066",
+    "level": 6,
+    "order": 66,
+    "word": "down",
+    "pronunciation": "/daʊn/",
+    "banglaPronunciation": "ডাউন",
+    "meaning": "Toward a lower place.",
+    "banglaMeaning": "নিচে",
+    "syllables": [
+      "down"
+    ],
+    "example": "The cat jumped down from the tree.",
+    "hint": "Part of the '-own' family — starts with D.",
+    "image": "/images/level6/down.webp"
+  },
+  {
+    "id": "lvl6-067",
+    "level": 6,
+    "order": 67,
+    "word": "frown",
+    "pronunciation": "/fraʊn/",
+    "banglaPronunciation": "ফ্রাউন",
+    "meaning": "To make an unhappy facial expression.",
+    "banglaMeaning": "ভ্রুকুটি করা",
+    "syllables": [
+      "frown"
+    ],
+    "example": "Don't frown, everything will be fine.",
+    "hint": "Part of the '-own' family — starts with FR.",
+    "image": "/images/level6/frown.webp"
+  },
+  {
+    "id": "lvl6-068",
+    "level": 6,
+    "order": 68,
+    "word": "gown",
+    "pronunciation": "/ɡaʊn/",
+    "banglaPronunciation": "গাউন",
+    "meaning": "A long, formal dress.",
+    "banglaMeaning": "গাউন",
+    "syllables": [
+      "gown"
+    ],
+    "example": "She wore a beautiful gown to the ball.",
+    "hint": "Part of the '-own' family — starts with G.",
+    "image": "/images/level6/gown.webp"
+  },
+  {
+    "id": "lvl6-069",
+    "level": 6,
+    "order": 69,
+    "word": "clown",
+    "pronunciation": "/klaʊn/",
+    "banglaPronunciation": "ক্লাউন",
+    "meaning": "A performer who makes people laugh.",
+    "banglaMeaning": "ভাঁড়",
+    "syllables": [
+      "clown"
+    ],
+    "example": "The clown made everyone laugh.",
+    "hint": "Part of the '-own' family — starts with CL.",
+    "image": "/images/level6/clown.webp"
+  },
+  {
+    "id": "lvl6-070",
+    "level": 6,
+    "order": 70,
+    "word": "drown",
+    "pronunciation": "/draʊn/",
+    "banglaPronunciation": "ড্রাউন",
+    "meaning": "To die from being underwater too long.",
+    "banglaMeaning": "ডুবে মারা যাওয়া",
+    "syllables": [
+      "drown"
+    ],
+    "example": "Always wear a life jacket so you don't drown.",
+    "hint": "Part of the '-own' family — starts with DR.",
+    "image": "/images/level6/drown.webp"
+  },
+  {
+    "id": "lvl6-071",
+    "level": 6,
+    "order": 71,
+    "word": "renown",
+    "pronunciation": "/rɪˈnaʊn/",
+    "banglaPronunciation": "রিনাউন",
+    "meaning": "Fame.",
+    "banglaMeaning": "খ্যাতি",
+    "syllables": [
+      "re",
+      "nown"
+    ],
+    "example": "The scientist gained international renown.",
+    "hint": "Made of 're-' + the '-nown' sound.",
+    "image": "/images/level6/renown.webp"
+  },
+  {
+    "id": "lvl6-072",
+    "level": 6,
+    "order": 72,
+    "word": "uptown",
+    "pronunciation": "/ˈʌp.taʊn/",
+    "banglaPronunciation": "আপটাউন",
+    "meaning": "The upper or residential part of a town.",
+    "banglaMeaning": "শহরের উপরের অংশ",
+    "syllables": [
+      "up",
+      "town"
+    ],
+    "example": "We took the bus uptown.",
+    "hint": "Made of 'up' + the '-town' sound.",
+    "image": "/images/level6/uptown.webp"
+  },
+  {
+    "id": "lvl6-073",
+    "level": 6,
+    "order": 73,
+    "word": "downtown",
+    "pronunciation": "/ˈdaʊn.taʊn/",
+    "banglaPronunciation": "ডাউনটাউন",
+    "meaning": "The central business part of a town.",
+    "banglaMeaning": "শহরের কেন্দ্রস্থল",
+    "syllables": [
+      "down",
+      "town"
+    ],
+    "example": "The office is located downtown.",
+    "hint": "Made of 'down' + the '-town' sound.",
+    "image": "/images/level6/downtown.webp"
+  },
+  {
+    "id": "lvl6-074",
+    "level": 6,
+    "order": 74,
+    "word": "sundown",
+    "pronunciation": "/ˈsʌn.daʊn/",
+    "banglaPronunciation": "সানডাউন",
+    "meaning": "Sunset.",
+    "banglaMeaning": "সূর্যাস্ত",
+    "syllables": [
+      "sun",
+      "down"
+    ],
+    "example": "We watched the sky change color at sundown.",
+    "hint": "Made of 'sun' + the '-down' sound.",
+    "image": "/images/level6/sundown.webp"
+  },
+  {
+    "id": "lvl6-075",
+    "level": 6,
+    "order": 75,
+    "word": "lick",
+    "pronunciation": "/lɪk/",
+    "banglaPronunciation": "লিক",
+    "meaning": "To pass the tongue over something.",
+    "banglaMeaning": "জিহ্বা দিয়ে চাটা",
+    "syllables": [
+      "lick"
+    ],
+    "example": "The dog began to lick its paw.",
+    "hint": "Part of the '-ick' family — starts with L.",
+    "image": "/images/level6/lick.webp"
+  },
+  {
+    "id": "lvl6-076",
+    "level": 6,
+    "order": 76,
+    "word": "pick",
+    "pronunciation": "/pɪk/",
+    "banglaPronunciation": "পিক",
+    "meaning": "To choose or select.",
+    "banglaMeaning": "বেছে নেওয়া",
+    "syllables": [
+      "pick"
+    ],
+    "example": "Please pick a color you like.",
+    "hint": "Part of the '-ick' family — starts with P.",
+    "image": "/images/level6/pick.webp"
+  },
+  {
+    "id": "lvl6-077",
+    "level": 6,
+    "order": 77,
+    "word": "tick",
+    "pronunciation": "/tɪk/",
+    "banglaPronunciation": "টিক",
+    "meaning": "A small clicking sound, or a tiny bug.",
+    "banglaMeaning": "টিক টিক শব্দ",
+    "syllables": [
+      "tick"
+    ],
+    "example": "I could hear the clock tick.",
+    "hint": "Part of the '-ick' family — starts with T.",
+    "image": "/images/level6/tick.webp"
+  },
+  {
+    "id": "lvl6-078",
+    "level": 6,
+    "order": 78,
+    "word": "trick",
+    "pronunciation": "/trɪk/",
+    "banglaPronunciation": "ট্রিক",
+    "meaning": "A clever or deceptive act.",
+    "banglaMeaning": "কৌশল",
+    "syllables": [
+      "trick"
+    ],
+    "example": "The magician performed a clever trick.",
+    "hint": "Part of the '-ick' family — starts with TR.",
+    "image": "/images/level6/trick.webp"
+  },
+  {
+    "id": "lvl6-079",
+    "level": 6,
+    "order": 79,
+    "word": "brick",
+    "pronunciation": "/brɪk/",
+    "banglaPronunciation": "ব্রিক",
+    "meaning": "A block used for building.",
+    "banglaMeaning": "ইট",
+    "syllables": [
+      "brick"
+    ],
+    "example": "The house is made of brick.",
+    "hint": "Part of the '-ick' family — starts with BR.",
+    "image": "/images/level6/brick.webp"
+  },
+  {
+    "id": "lvl6-080",
+    "level": 6,
+    "order": 80,
+    "word": "chick",
+    "pronunciation": "/tʃɪk/",
+    "banglaPronunciation": "চিক",
+    "meaning": "A baby chicken.",
+    "banglaMeaning": "বাচ্চা মুরগি",
+    "syllables": [
+      "chick"
+    ],
+    "example": "The chick hatched from its egg.",
+    "hint": "Part of the '-ick' family — starts with CH.",
+    "image": "/images/level6/chick.webp"
+  },
+  {
+    "id": "lvl6-081",
+    "level": 6,
+    "order": 81,
+    "word": "stick",
+    "pronunciation": "/stɪk/",
+    "banglaPronunciation": "স্টিক",
+    "meaning": "A thin piece of wood.",
+    "banglaMeaning": "লাঠি",
+    "syllables": [
+      "stick"
+    ],
+    "example": "The dog fetched the stick.",
+    "hint": "Part of the '-ick' family — starts with ST.",
+    "image": "/images/level6/stick.webp"
+  },
+  {
+    "id": "lvl6-082",
+    "level": 6,
+    "order": 82,
+    "word": "flick",
+    "pronunciation": "/flɪk/",
+    "banglaPronunciation": "ফ্লিক",
+    "meaning": "A quick, light movement.",
+    "banglaMeaning": "ঝটকা",
+    "syllables": [
+      "flick"
+    ],
+    "example": "With a flick of her wrist, she threw the ball.",
+    "hint": "Part of the '-ick' family — starts with FL.",
+    "image": "/images/level6/flick.webp"
+  },
+  {
+    "id": "lvl6-083",
+    "level": 6,
+    "order": 83,
+    "word": "click",
+    "pronunciation": "/klɪk/",
+    "banglaPronunciation": "ক্লিক",
+    "meaning": "A short, sharp sound.",
+    "banglaMeaning": "ক্লিক শব্দ",
+    "syllables": [
+      "click"
+    ],
+    "example": "Click the button to continue.",
+    "hint": "Part of the '-ick' family — starts with CL.",
+    "image": "/images/level6/click.webp"
+  },
+  {
+    "id": "lvl6-084",
+    "level": 6,
+    "order": 84,
+    "word": "slick",
+    "pronunciation": "/slɪk/",
+    "banglaPronunciation": "স্লিক",
+    "meaning": "Smooth and slippery.",
+    "banglaMeaning": "পিচ্ছিল",
+    "syllables": [
+      "slick"
+    ],
+    "example": "The road was slick with ice.",
+    "hint": "Part of the '-ick' family — starts with SL.",
+    "image": "/images/level6/slick.webp"
+  },
+  {
+    "id": "lvl6-085",
+    "level": 6,
+    "order": 85,
+    "word": "dock",
+    "pronunciation": "/dɒk/",
+    "banglaPronunciation": "ডক",
+    "meaning": "A place where ships are loaded.",
+    "banglaMeaning": "জাহাজঘাটা",
+    "syllables": [
+      "dock"
+    ],
+    "example": "The boat is tied to the dock.",
+    "hint": "Part of the '-ock' family — starts with D.",
+    "image": "/images/level6/dock.webp"
+  },
+  {
+    "id": "lvl6-086",
+    "level": 6,
+    "order": 86,
+    "word": "block",
+    "pronunciation": "/blɒk/",
+    "banglaPronunciation": "ব্লক",
+    "meaning": "A solid piece of material, or to obstruct.",
+    "banglaMeaning": "বাধা দেওয়া",
+    "syllables": [
+      "block"
+    ],
+    "example": "A block of ice sat on the table.",
+    "hint": "Part of the '-ock' family — starts with BL.",
+    "image": "/images/level6/block.webp"
+  },
+  {
+    "id": "lvl6-087",
+    "level": 6,
+    "order": 87,
+    "word": "shock",
+    "pronunciation": "/ʃɒk/",
+    "banglaPronunciation": "শক",
+    "meaning": "A sudden, surprising event.",
+    "banglaMeaning": "ধাক্কা",
+    "syllables": [
+      "shock"
+    ],
+    "example": "The news came as a shock.",
+    "hint": "Part of the '-ock' family — starts with SH.",
+    "image": "/images/level6/shock.webp"
+  },
+  {
+    "id": "lvl6-088",
+    "level": 6,
+    "order": 88,
+    "word": "stock",
+    "pronunciation": "/stɒk/",
+    "banglaPronunciation": "স্টক",
+    "meaning": "A supply of goods.",
+    "banglaMeaning": "মজুদ",
+    "syllables": [
+      "stock"
+    ],
+    "example": "The store restocked its stock of pencils.",
+    "hint": "Part of the '-ock' family — starts with ST.",
+    "image": "/images/level6/stock.webp"
+  },
+  {
+    "id": "lvl6-089",
+    "level": 6,
+    "order": 89,
+    "word": "flock",
+    "pronunciation": "/flɒk/",
+    "banglaPronunciation": "ফ্লক",
+    "meaning": "A group of birds or sheep.",
+    "banglaMeaning": "পালের দল",
+    "syllables": [
+      "flock"
+    ],
+    "example": "A flock of birds flew overhead.",
+    "hint": "Part of the '-ock' family — starts with FL.",
+    "image": "/images/level6/flock.webp"
+  },
+  {
+    "id": "lvl6-090",
+    "level": 6,
+    "order": 90,
+    "word": "frock",
+    "pronunciation": "/frɒk/",
+    "banglaPronunciation": "ফ্রক",
+    "meaning": "A woman's or child's dress.",
+    "banglaMeaning": "জামা",
+    "syllables": [
+      "frock"
+    ],
+    "example": "The girl wore a pretty frock.",
+    "hint": "Part of the '-ock' family — starts with FR.",
+    "image": "/images/level6/frock.webp"
+  },
+  {
+    "id": "lvl6-091",
+    "level": 6,
+    "order": 91,
+    "word": "padlock",
+    "pronunciation": "/ˈpæd.lɒk/",
+    "banglaPronunciation": "প্যাডলক",
+    "meaning": "A portable lock with a shackle.",
+    "banglaMeaning": "তালা",
+    "syllables": [
+      "pad",
+      "lock"
+    ],
+    "example": "He secured the gate with a padlock.",
+    "hint": "Made of 'pad' + the '-lock' sound.",
+    "image": "/images/level6/padlock.webp"
+  },
+  {
+    "id": "lvl6-092",
+    "level": 6,
+    "order": 92,
+    "word": "peacock",
+    "pronunciation": "/ˈpiː.kɒk/",
+    "banglaPronunciation": "পিকক",
+    "meaning": "A large bird with colorful feathers.",
+    "banglaMeaning": "ময়ূর",
+    "syllables": [
+      "pea",
+      "cock"
+    ],
+    "example": "The peacock spread its colorful feathers.",
+    "hint": "Made of 'pea' + the '-cock' sound.",
+    "image": "/images/level6/peacock.webp"
+  },
+  {
+    "id": "lvl6-093",
+    "level": 6,
+    "order": 93,
+    "word": "bug",
+    "pronunciation": "/bʌɡ/",
+    "banglaPronunciation": "বাগ",
+    "meaning": "A small insect.",
+    "banglaMeaning": "পোকা",
+    "syllables": [
+      "bug"
+    ],
+    "example": "A bug crawled across the table.",
+    "hint": "Part of the '-ug' family — starts with B.",
+    "image": "/images/level6/bug.webp"
+  },
+  {
+    "id": "lvl6-094",
+    "level": 6,
+    "order": 94,
+    "word": "jug",
+    "pronunciation": "/dʒʌɡ/",
+    "banglaPronunciation": "জাগ",
+    "meaning": "A container for holding liquids.",
+    "banglaMeaning": "জগ",
+    "syllables": [
+      "jug"
+    ],
+    "example": "Fill the jug with water.",
+    "hint": "Part of the '-ug' family — starts with J.",
+    "image": "/images/level6/jug.webp"
+  },
+  {
+    "id": "lvl6-095",
+    "level": 6,
+    "order": 95,
+    "word": "tug",
+    "pronunciation": "/tʌɡ/",
+    "banglaPronunciation": "টাগ",
+    "meaning": "To pull with force.",
+    "banglaMeaning": "টানা",
+    "syllables": [
+      "tug"
+    ],
+    "example": "He gave the rope a strong tug.",
+    "hint": "Part of the '-ug' family — starts with T.",
+    "image": "/images/level6/tug.webp"
+  },
+  {
+    "id": "lvl6-096",
+    "level": 6,
+    "order": 96,
+    "word": "dug",
+    "pronunciation": "/dʌɡ/",
+    "banglaPronunciation": "ডাগ",
+    "meaning": "Past tense of dig.",
+    "banglaMeaning": "খুঁড়েছিল",
+    "syllables": [
+      "dug"
+    ],
+    "example": "The dog dug a hole in the yard.",
+    "hint": "Part of the '-ug' family — starts with D.",
+    "image": "/images/level6/dug.webp"
+  },
+  {
+    "id": "lvl6-097",
+    "level": 6,
+    "order": 97,
+    "word": "plug",
+    "pronunciation": "/plʌɡ/",
+    "banglaPronunciation": "প্লাগ",
+    "meaning": "A device used to connect electrical power.",
+    "banglaMeaning": "প্লাগ",
+    "syllables": [
+      "plug"
+    ],
+    "example": "Please plug in the lamp.",
+    "hint": "Part of the '-ug' family — starts with PL.",
+    "image": "/images/level6/plug.webp"
+  },
+  {
+    "id": "lvl6-098",
+    "level": 6,
+    "order": 98,
+    "word": "drug",
+    "pronunciation": "/drʌɡ/",
+    "banglaPronunciation": "ড্রাগ",
+    "meaning": "A medicine or substance.",
+    "banglaMeaning": "ওষুধ",
+    "syllables": [
+      "drug"
+    ],
+    "example": "The doctor prescribed a new drug.",
+    "hint": "Part of the '-ug' family — starts with DR.",
+    "image": "/images/level6/drug.webp"
+  },
+  {
+    "id": "lvl6-099",
+    "level": 6,
+    "order": 99,
+    "word": "shrug",
+    "pronunciation": "/ʃrʌɡ/",
+    "banglaPronunciation": "শ্রাগ",
+    "meaning": "To raise the shoulders to show doubt.",
+    "banglaMeaning": "কাঁধ ঝাঁকানো",
+    "syllables": [
+      "shrug"
+    ],
+    "example": "He gave a shrug when asked.",
+    "hint": "Part of the '-ug' family — starts with SHR.",
+    "image": "/images/level6/shrug.webp"
+  },
+  {
+    "id": "lvl6-100",
+    "level": 6,
+    "order": 100,
+    "word": "slug",
+    "pronunciation": "/slʌɡ/",
+    "banglaPronunciation": "স্লাগ",
+    "meaning": "A small, slow-moving creature.",
+    "banglaMeaning": "শামুক জাতীয় প্রাণী",
+    "syllables": [
+      "slug"
+    ],
+    "example": "A slug crawled across the leaf.",
+    "hint": "Part of the '-ug' family — starts with SL.",
+    "image": "/images/level6/slug.webp"
+  },
+  {
+    "id": "lvl6-101",
+    "level": 6,
+    "order": 101,
+    "word": "snug",
+    "pronunciation": "/snʌɡ/",
+    "banglaPronunciation": "স্নাগ",
+    "meaning": "Warm and comfortable.",
+    "banglaMeaning": "আরামদায়ক",
+    "syllables": [
+      "snug"
+    ],
+    "example": "The blanket felt warm and snug.",
+    "hint": "Part of the '-ug' family — starts with SN.",
+    "image": "/images/level6/snug.webp"
+  },
+  {
+    "id": "lvl6-102",
+    "level": 6,
+    "order": 102,
+    "word": "thug",
+    "pronunciation": "/θʌɡ/",
+    "banglaPronunciation": "থাগ",
+    "meaning": "A violent criminal.",
+    "banglaMeaning": "দুর্বৃত্ত",
+    "syllables": [
+      "thug"
+    ],
+    "example": "The thug ran from the police.",
+    "hint": "Part of the '-ug' family — starts with TH.",
+    "image": "/images/level6/thug.webp"
+  },
+  {
+    "id": "lvl6-103",
+    "level": 6,
+    "order": 103,
+    "word": "name",
+    "pronunciation": "/neɪm/",
+    "banglaPronunciation": "নেম",
+    "meaning": "What a person or thing is called.",
+    "banglaMeaning": "নাম",
+    "syllables": [
+      "name"
+    ],
+    "example": "What is your name?",
+    "hint": "Part of the '-ame' family — starts with N.",
+    "image": "/images/level6/name.webp"
+  },
+  {
+    "id": "lvl6-104",
+    "level": 6,
+    "order": 104,
+    "word": "same",
+    "pronunciation": "/seɪm/",
+    "banglaPronunciation": "সেম",
+    "meaning": "Not different.",
+    "banglaMeaning": "একই",
+    "syllables": [
+      "same"
+    ],
+    "example": "We wore the same shirt.",
+    "hint": "Part of the '-ame' family — starts with S.",
+    "image": "/images/level6/same.webp"
+  },
+  {
+    "id": "lvl6-105",
+    "level": 6,
+    "order": 105,
+    "word": "came",
+    "pronunciation": "/keɪm/",
+    "banglaPronunciation": "কেম",
+    "meaning": "Past tense of come.",
+    "banglaMeaning": "এসেছিল",
+    "syllables": [
+      "came"
+    ],
+    "example": "She came home late.",
+    "hint": "Part of the '-ame' family — starts with C.",
+    "image": "/images/level6/came.webp"
+  },
+  {
+    "id": "lvl6-106",
+    "level": 6,
+    "order": 106,
+    "word": "fame",
+    "pronunciation": "/feɪm/",
+    "banglaPronunciation": "ফেম",
+    "meaning": "The state of being well-known.",
+    "banglaMeaning": "খ্যাতি",
+    "syllables": [
+      "fame"
+    ],
+    "example": "The singer rose to fame quickly.",
+    "hint": "Part of the '-ame' family — starts with F.",
+    "image": "/images/level6/fame.webp"
+  },
+  {
+    "id": "lvl6-107",
+    "level": 6,
+    "order": 107,
+    "word": "tame",
+    "pronunciation": "/teɪm/",
+    "banglaPronunciation": "টেম",
+    "meaning": "Not wild; gentle.",
+    "banglaMeaning": "পোষ মানা",
+    "syllables": [
+      "tame"
+    ],
+    "example": "The zoo has a tame lion.",
+    "hint": "Part of the '-ame' family — starts with T.",
+    "image": "/images/level6/tame.webp"
+  },
+  {
+    "id": "lvl6-108",
+    "level": 6,
+    "order": 108,
+    "word": "blame",
+    "pronunciation": "/bleɪm/",
+    "banglaPronunciation": "ব্লেম",
+    "meaning": "To hold someone responsible.",
+    "banglaMeaning": "দোষারোপ করা",
+    "syllables": [
+      "blame"
+    ],
+    "example": "Don't blame yourself for the mistake.",
+    "hint": "Part of the '-ame' family — starts with BL.",
+    "image": "/images/level6/blame.webp"
+  },
+  {
+    "id": "lvl6-109",
+    "level": 6,
+    "order": 109,
+    "word": "flame",
+    "pronunciation": "/fleɪm/",
+    "banglaPronunciation": "ফ্লেম",
+    "meaning": "The visible part of a fire.",
+    "banglaMeaning": "শিখা",
+    "syllables": [
+      "flame"
+    ],
+    "example": "The candle's flame flickered.",
+    "hint": "Part of the '-ame' family — starts with FL.",
+    "image": "/images/level6/flame.webp"
+  },
+  {
+    "id": "lvl6-110",
+    "level": 6,
+    "order": 110,
+    "word": "frame",
+    "pronunciation": "/freɪm/",
+    "banglaPronunciation": "ফ্রেম",
+    "meaning": "A border or structure around something.",
+    "banglaMeaning": "ফ্রেম",
+    "syllables": [
+      "frame"
+    ],
+    "example": "He hung the photo in a frame.",
+    "hint": "Part of the '-ame' family — starts with FR.",
+    "image": "/images/level6/frame.webp"
+  },
+  {
+    "id": "lvl6-111",
+    "level": 6,
+    "order": 111,
+    "word": "shame",
+    "pronunciation": "/ʃeɪm/",
+    "banglaPronunciation": "শেম",
+    "meaning": "A feeling of embarrassment.",
+    "banglaMeaning": "লজ্জা",
+    "syllables": [
+      "shame"
+    ],
+    "example": "It's a shame you missed the party.",
+    "hint": "Part of the '-ame' family — starts with SH.",
+    "image": "/images/level6/shame.webp"
+  },
+  {
+    "id": "lvl6-112",
+    "level": 6,
+    "order": 112,
+    "word": "became",
+    "pronunciation": "/bɪˈkeɪm/",
+    "banglaPronunciation": "বিকেম",
+    "meaning": "Past tense of become.",
+    "banglaMeaning": "হয়ে উঠেছিল",
+    "syllables": [
+      "be",
+      "came"
+    ],
+    "example": "He became a doctor after years of study.",
+    "hint": "Made of 'be-' + the '-came' sound.",
+    "image": "/images/level6/became.webp"
+  },
+  {
+    "id": "lvl6-113",
+    "level": 6,
+    "order": 113,
+    "word": "reframe",
+    "pronunciation": "/riˈfreɪm/",
+    "banglaPronunciation": "রিফ্রেম",
+    "meaning": "To frame something differently.",
+    "banglaMeaning": "নতুনভাবে সাজানো",
+    "syllables": [
+      "re",
+      "frame"
+    ],
+    "example": "Let's reframe the question.",
+    "hint": "Made of 're-' + the '-frame' sound.",
+    "image": "/images/level6/reframe.webp"
+  },
+  {
+    "id": "lvl6-114",
+    "level": 6,
+    "order": 114,
+    "word": "fine",
+    "pronunciation": "/faɪn/",
+    "banglaPronunciation": "ফাইন",
+    "meaning": "Of good quality, or a payment for breaking a rule.",
+    "banglaMeaning": "চমৎকার",
+    "syllables": [
+      "fine"
+    ],
+    "example": "The weather is fine today.",
+    "hint": "Part of the '-ine' family — starts with F.",
+    "image": "/images/level6/fine.webp"
+  },
+  {
+    "id": "lvl6-115",
+    "level": 6,
+    "order": 115,
+    "word": "line",
+    "pronunciation": "/laɪn/",
+    "banglaPronunciation": "লাইন",
+    "meaning": "A long, thin mark.",
+    "banglaMeaning": "রেখা",
+    "syllables": [
+      "line"
+    ],
+    "example": "Stand in a straight line.",
+    "hint": "Part of the '-ine' family — starts with L.",
+    "image": "/images/level6/line.webp"
+  },
+  {
+    "id": "lvl6-116",
+    "level": 6,
+    "order": 116,
+    "word": "mine",
+    "pronunciation": "/maɪn/",
+    "banglaPronunciation": "মাইন",
+    "meaning": "Belonging to me, or a place to dig resources.",
+    "banglaMeaning": "আমার",
+    "syllables": [
+      "mine"
+    ],
+    "example": "This book is mine.",
+    "hint": "Part of the '-ine' family — starts with M.",
+    "image": "/images/level6/mine.webp"
+  },
+  {
+    "id": "lvl6-117",
+    "level": 6,
+    "order": 117,
+    "word": "nine",
+    "pronunciation": "/naɪn/",
+    "banglaPronunciation": "নাইন",
+    "meaning": "The number 9.",
+    "banglaMeaning": "নয়",
+    "syllables": [
+      "nine"
+    ],
+    "example": "The clock struck nine.",
+    "hint": "Part of the '-ine' family — starts with N.",
+    "image": "/images/level6/nine.webp"
+  },
+  {
+    "id": "lvl6-118",
+    "level": 6,
+    "order": 118,
+    "word": "pine",
+    "pronunciation": "/paɪn/",
+    "banglaPronunciation": "পাইন",
+    "meaning": "A type of evergreen tree.",
+    "banglaMeaning": "পাইন গাছ",
+    "syllables": [
+      "pine"
+    ],
+    "example": "A tall pine tree stood in the yard.",
+    "hint": "Part of the '-ine' family — starts with P.",
+    "image": "/images/level6/pine.webp"
+  },
+  {
+    "id": "lvl6-119",
+    "level": 6,
+    "order": 119,
+    "word": "spine",
+    "pronunciation": "/spaɪn/",
+    "banglaPronunciation": "স্পাইন",
+    "meaning": "The backbone.",
+    "banglaMeaning": "মেরুদণ্ড",
+    "syllables": [
+      "spine"
+    ],
+    "example": "The book's spine was cracked.",
+    "hint": "Part of the '-ine' family — starts with SP.",
+    "image": "/images/level6/spine.webp"
+  },
+  {
+    "id": "lvl6-120",
+    "level": 6,
+    "order": 120,
+    "word": "twine",
+    "pronunciation": "/twaɪn/",
+    "banglaPronunciation": "টোয়াইন",
+    "meaning": "Strong thread or string.",
+    "banglaMeaning": "সরু দড়ি",
+    "syllables": [
+      "twine"
+    ],
+    "example": "He tied the box with twine.",
+    "hint": "Part of the '-ine' family — starts with TW.",
+    "image": "/images/level6/twine.webp"
+  },
+  {
+    "id": "lvl6-121",
+    "level": 6,
+    "order": 121,
+    "word": "vine",
+    "pronunciation": "/vaɪn/",
+    "banglaPronunciation": "ভাইন",
+    "meaning": "A climbing plant.",
+    "banglaMeaning": "লতা",
+    "syllables": [
+      "vine"
+    ],
+    "example": "Grapes grow on a vine.",
+    "hint": "Part of the '-ine' family — starts with V.",
+    "image": "/images/level6/vine.webp"
+  },
+  {
+    "id": "lvl6-122",
+    "level": 6,
+    "order": 122,
+    "word": "wine",
+    "pronunciation": "/waɪn/",
+    "banglaPronunciation": "ওয়াইন",
+    "meaning": "An alcoholic drink made from grapes.",
+    "banglaMeaning": "ওয়াইন",
+    "syllables": [
+      "wine"
+    ],
+    "example": "They served wine at the dinner.",
+    "hint": "Part of the '-ine' family — starts with W.",
+    "image": "/images/level6/wine.webp"
+  },
+  {
+    "id": "lvl6-123",
+    "level": 6,
+    "order": 123,
+    "word": "decline",
+    "pronunciation": "/dɪˈklaɪn/",
+    "banglaPronunciation": "ডিক্লাইন",
+    "meaning": "To become smaller, or to refuse.",
+    "banglaMeaning": "হ্রাস পাওয়া",
+    "syllables": [
+      "de",
+      "cline"
+    ],
+    "example": "Sales began to decline last year.",
+    "hint": "Made of 'de-' + the '-cline' sound.",
+    "image": "/images/level6/decline.webp"
+  },
+  {
+    "id": "lvl6-124",
+    "level": 6,
+    "order": 124,
+    "word": "bell",
+    "pronunciation": "/bɛl/",
+    "banglaPronunciation": "বেল",
+    "meaning": "A device that makes a ringing sound.",
+    "banglaMeaning": "ঘণ্টা",
+    "syllables": [
+      "bell"
+    ],
+    "example": "The school bell rang.",
+    "hint": "Part of the '-ell' family — starts with B.",
+    "image": "/images/level6/bell.webp"
+  },
+  {
+    "id": "lvl6-125",
+    "level": 6,
+    "order": 125,
+    "word": "tell",
+    "pronunciation": "/tɛl/",
+    "banglaPronunciation": "টেল",
+    "meaning": "To say something to someone.",
+    "banglaMeaning": "বলা",
+    "syllables": [
+      "tell"
+    ],
+    "example": "Please tell me the truth.",
+    "hint": "Part of the '-ell' family — starts with T.",
+    "image": "/images/level6/tell.webp"
+  },
+  {
+    "id": "lvl6-126",
+    "level": 6,
+    "order": 126,
+    "word": "well",
+    "pronunciation": "/wɛl/",
+    "banglaPronunciation": "ওয়েল",
+    "meaning": "A hole dug to get water, or in good health.",
+    "banglaMeaning": "কুয়া",
+    "syllables": [
+      "well"
+    ],
+    "example": "She felt well after resting.",
+    "hint": "Part of the '-ell' family — starts with W.",
+    "image": "/images/level6/well.webp"
+  },
+  {
+    "id": "lvl6-127",
+    "level": 6,
+    "order": 127,
+    "word": "shell",
+    "pronunciation": "/ʃɛl/",
+    "banglaPronunciation": "শেল",
+    "meaning": "The hard outer covering of an animal.",
+    "banglaMeaning": "খোলস",
+    "syllables": [
+      "shell"
+    ],
+    "example": "The turtle hid in its shell.",
+    "hint": "Part of the '-ell' family — starts with SH.",
+    "image": "/images/level6/shell.webp"
+  },
+  {
+    "id": "lvl6-128",
+    "level": 6,
+    "order": 128,
+    "word": "swell",
+    "pronunciation": "/swɛl/",
+    "banglaPronunciation": "সুয়েল",
+    "meaning": "To become larger.",
+    "banglaMeaning": "ফুলে ওঠা",
+    "syllables": [
+      "swell"
+    ],
+    "example": "Her ankle began to swell.",
+    "hint": "Part of the '-ell' family — starts with SW.",
+    "image": "/images/level6/swell.webp"
+  },
+  {
+    "id": "lvl6-129",
+    "level": 6,
+    "order": 129,
+    "word": "dwell",
+    "pronunciation": "/dwɛl/",
+    "banglaPronunciation": "ডুয়েল",
+    "meaning": "To live in a place.",
+    "banglaMeaning": "বসবাস করা",
+    "syllables": [
+      "dwell"
+    ],
+    "example": "They dwell in a small village.",
+    "hint": "Part of the '-ell' family — starts with DW.",
+    "image": "/images/level6/dwell.webp"
+  },
+  {
+    "id": "lvl6-130",
+    "level": 6,
+    "order": 130,
+    "word": "farewell",
+    "pronunciation": "/ˌfɛrˈwɛl/",
+    "banglaPronunciation": "ফেয়ারওয়েল",
+    "meaning": "A goodbye.",
+    "banglaMeaning": "বিদায়",
+    "syllables": [
+      "fare",
+      "well"
+    ],
+    "example": "We said our farewell at the station.",
+    "hint": "Made of 'fare' + the '-well' sound.",
+    "image": "/images/level6/farewell.webp"
+  },
+  {
+    "id": "lvl6-131",
+    "level": 6,
+    "order": 131,
+    "word": "retell",
+    "pronunciation": "/riːˈtɛl/",
+    "banglaPronunciation": "রিটেল",
+    "meaning": "To tell again.",
+    "banglaMeaning": "আবার বলা",
+    "syllables": [
+      "re",
+      "tell"
+    ],
+    "example": "Can you retell the story?",
+    "hint": "Made of 're-' + the '-tell' sound.",
+    "image": "/images/level6/retell.webp"
+  },
+  {
+    "id": "lvl6-132",
+    "level": 6,
+    "order": 132,
+    "word": "misspell",
+    "pronunciation": "/mɪsˈspɛl/",
+    "banglaPronunciation": "মিসস্পেল",
+    "meaning": "To spell incorrectly.",
+    "banglaMeaning": "ভুল বানান করা",
+    "syllables": [
+      "mis",
+      "spell"
+    ],
+    "example": "Try not to misspell any words.",
+    "hint": "Made of 'mis-' + the '-spell' sound.",
+    "image": "/images/level6/misspell.webp"
+  },
+  {
+    "id": "lvl6-133",
+    "level": 6,
+    "order": 133,
+    "word": "beat",
+    "pronunciation": "/biːt/",
+    "banglaPronunciation": "বিট",
+    "meaning": "To hit repeatedly, or to win against.",
+    "banglaMeaning": "আঘাত করা",
+    "syllables": [
+      "beat"
+    ],
+    "example": "My heart began to beat faster.",
+    "hint": "Part of the '-eat' family — starts with B.",
+    "image": "/images/level6/beat.webp"
+  },
+  {
+    "id": "lvl6-134",
+    "level": 6,
+    "order": 134,
+    "word": "heat",
+    "pronunciation": "/hiːt/",
+    "banglaPronunciation": "হিট",
+    "meaning": "Warmth or high temperature.",
+    "banglaMeaning": "তাপ",
+    "syllables": [
+      "heat"
+    ],
+    "example": "The heat outside was intense.",
+    "hint": "Part of the '-eat' family — starts with H.",
+    "image": "/images/level6/heat.webp"
+  },
+  {
+    "id": "lvl6-135",
+    "level": 6,
+    "order": 135,
+    "word": "meat",
+    "pronunciation": "/miːt/",
+    "banglaPronunciation": "মিট",
+    "meaning": "The flesh of an animal used as food.",
+    "banglaMeaning": "মাংস",
+    "syllables": [
+      "meat"
+    ],
+    "example": "We had meat for dinner.",
+    "hint": "Part of the '-eat' family — starts with M.",
+    "image": "/images/level6/meat.webp"
+  },
+  {
+    "id": "lvl6-136",
+    "level": 6,
+    "order": 136,
+    "word": "neat",
+    "pronunciation": "/niːt/",
+    "banglaPronunciation": "নিট",
+    "meaning": "Tidy and orderly.",
+    "banglaMeaning": "পরিপাটি",
+    "syllables": [
+      "neat"
+    ],
+    "example": "Keep your room neat.",
+    "hint": "Part of the '-eat' family — starts with N.",
+    "image": "/images/level6/neat.webp"
+  },
+  {
+    "id": "lvl6-137",
+    "level": 6,
+    "order": 137,
+    "word": "seat",
+    "pronunciation": "/siːt/",
+    "banglaPronunciation": "সিট",
+    "meaning": "A place to sit.",
+    "banglaMeaning": "আসন",
+    "syllables": [
+      "seat"
+    ],
+    "example": "Please take a seat.",
+    "hint": "Part of the '-eat' family — starts with S.",
+    "image": "/images/level6/seat.webp"
+  },
+  {
+    "id": "lvl6-138",
+    "level": 6,
+    "order": 138,
+    "word": "treat",
+    "pronunciation": "/triːt/",
+    "banglaPronunciation": "ট্রিট",
+    "meaning": "Something special given as a pleasure.",
+    "banglaMeaning": "উপহার",
+    "syllables": [
+      "treat"
+    ],
+    "example": "The dog got a treat for behaving.",
+    "hint": "Part of the '-eat' family — starts with TR.",
+    "image": "/images/level6/treat.webp"
+  },
+  {
+    "id": "lvl6-139",
+    "level": 6,
+    "order": 139,
+    "word": "cheat",
+    "pronunciation": "/tʃiːt/",
+    "banglaPronunciation": "চিট",
+    "meaning": "To act dishonestly.",
+    "banglaMeaning": "প্রতারণা করা",
+    "syllables": [
+      "cheat"
+    ],
+    "example": "It is wrong to cheat on a test.",
+    "hint": "Part of the '-eat' family — starts with CH.",
+    "image": "/images/level6/cheat.webp"
+  },
+  {
+    "id": "lvl6-140",
+    "level": 6,
+    "order": 140,
+    "word": "repeat",
+    "pronunciation": "/rɪˈpiːt/",
+    "banglaPronunciation": "রিপিট",
+    "meaning": "To say or do again.",
+    "banglaMeaning": "পুনরাবৃত্তি করা",
+    "syllables": [
+      "re",
+      "peat"
+    ],
+    "example": "Please repeat the question.",
+    "hint": "Made of 're-' + the '-peat' sound.",
+    "image": "/images/level6/repeat.webp"
+  },
+  {
+    "id": "lvl6-141",
+    "level": 6,
+    "order": 141,
+    "word": "defeat",
+    "pronunciation": "/dɪˈfiːt/",
+    "banglaPronunciation": "ডিফিট",
+    "meaning": "To win against someone.",
+    "banglaMeaning": "পরাজিত করা",
+    "syllables": [
+      "de",
+      "feat"
+    ],
+    "example": "The team suffered a defeat.",
+    "hint": "Made of 'de-' + the '-feat' sound.",
+    "image": "/images/level6/defeat.webp"
+  },
+  {
+    "id": "lvl6-142",
+    "level": 6,
+    "order": 142,
+    "word": "retreat",
+    "pronunciation": "/rɪˈtriːt/",
+    "banglaPronunciation": "রিট্রিট",
+    "meaning": "To move back and away.",
+    "banglaMeaning": "পিছু হটা",
+    "syllables": [
+      "re",
+      "treat"
+    ],
+    "example": "The soldiers began to retreat.",
+    "hint": "Made of 're-' + the '-treat' sound.",
+    "image": "/images/level6/retreat.webp"
+  },
+  {
+    "id": "lvl6-143",
+    "level": 6,
+    "order": 143,
+    "word": "show",
+    "pronunciation": "/ʃoʊ/",
+    "banglaPronunciation": "শো",
+    "meaning": "To let something be seen.",
+    "banglaMeaning": "দেখানো",
+    "syllables": [
+      "show"
+    ],
+    "example": "Let me show you how it works.",
+    "hint": "Part of the long '-ow' family — starts with SH.",
+    "image": "/images/level6/show.webp"
+  },
+  {
+    "id": "lvl6-144",
+    "level": 6,
+    "order": 144,
+    "word": "blow",
+    "pronunciation": "/bloʊ/",
+    "banglaPronunciation": "ব্লো",
+    "meaning": "To move air out of the mouth.",
+    "banglaMeaning": "ফুঁ দেওয়া",
+    "syllables": [
+      "blow"
+    ],
+    "example": "The wind began to blow hard.",
+    "hint": "Part of the long '-ow' family — starts with BL.",
+    "image": "/images/level6/blow.webp"
+  },
+  {
+    "id": "lvl6-145",
+    "level": 6,
+    "order": 145,
+    "word": "flow",
+    "pronunciation": "/floʊ/",
+    "banglaPronunciation": "ফ্লো",
+    "meaning": "To move steadily, like water.",
+    "banglaMeaning": "প্রবাহিত হওয়া",
+    "syllables": [
+      "flow"
+    ],
+    "example": "Water began to flow through the pipe.",
+    "hint": "Part of the long '-ow' family — starts with FL.",
+    "image": "/images/level6/flow.webp"
+  },
+  {
+    "id": "lvl6-146",
+    "level": 6,
+    "order": 146,
+    "word": "glow",
+    "pronunciation": "/ɡloʊ/",
+    "banglaPronunciation": "গ্লো",
+    "meaning": "To give off a soft light.",
+    "banglaMeaning": "আলোকিত হওয়া",
+    "syllables": [
+      "glow"
+    ],
+    "example": "The fireflies glow at night.",
+    "hint": "Part of the long '-ow' family — starts with GL.",
+    "image": "/images/level6/glow.webp"
+  },
+  {
+    "id": "lvl6-147",
+    "level": 6,
+    "order": 147,
+    "word": "below",
+    "pronunciation": "/bɪˈloʊ/",
+    "banglaPronunciation": "বিলো",
+    "meaning": "In a lower position.",
+    "banglaMeaning": "নিচে",
+    "syllables": [
+      "be",
+      "low"
+    ],
+    "example": "The valley lies below the mountain.",
+    "hint": "Made of 'be-' + the long '-ow' family.",
+    "image": "/images/level6/below.webp"
+  },
+  {
+    "id": "lvl6-148",
+    "level": 6,
+    "order": 148,
+    "word": "elbow",
+    "pronunciation": "/ˈɛl.boʊ/",
+    "banglaPronunciation": "এলবো",
+    "meaning": "The joint between the arm and forearm.",
+    "banglaMeaning": "কনুই",
+    "syllables": [
+      "el",
+      "bow"
+    ],
+    "example": "She bent her elbow to wave.",
+    "hint": "Made of 'el-' + the long '-ow' family.",
+    "image": "/images/level6/elbow.webp"
+  },
+  {
+    "id": "lvl6-149",
+    "level": 6,
+    "order": 149,
+    "word": "narrow",
+    "pronunciation": "/ˈnær.oʊ/",
+    "banglaPronunciation": "ন্যারো",
+    "meaning": "Not wide.",
+    "banglaMeaning": "সরু",
+    "syllables": [
+      "nar",
+      "row"
+    ],
+    "example": "The path was long and narrow.",
+    "hint": "Made of 'narr-' + the long '-ow' family.",
+    "image": "/images/level6/narrow.webp"
+  },
+  {
+    "id": "lvl6-150",
+    "level": 6,
+    "order": 150,
+    "word": "sorrow",
+    "pronunciation": "/ˈsɒr.oʊ/",
+    "banglaPronunciation": "সরো",
+    "meaning": "A feeling of deep sadness.",
+    "banglaMeaning": "দুঃখ",
+    "syllables": [
+      "sor",
+      "row"
+    ],
+    "example": "She felt deep sorrow at the news.",
+    "hint": "Made of 'sorr-' + the long '-ow' family.",
+    "image": "/images/level6/sorrow.webp"
+  },
+  {
+    "id": "lvl6-151",
+    "level": 6,
+    "order": 151,
+    "word": "cash",
+    "pronunciation": "/kæʃ/",
+    "banglaPronunciation": "ক্যাশ",
+    "meaning": "Money in the form of notes and coins.",
+    "banglaMeaning": "নগদ টাকা",
+    "syllables": [
+      "cash"
+    ],
+    "example": "He paid in cash.",
+    "hint": "Part of the '-ash' family — starts with C.",
+    "image": "/images/level6/cash.webp"
+  },
+  {
+    "id": "lvl6-152",
+    "level": 6,
+    "order": 152,
+    "word": "dash",
+    "pronunciation": "/dæʃ/",
+    "banglaPronunciation": "ড্যাশ",
+    "meaning": "To run quickly, or a short line (-).",
+    "banglaMeaning": "ড্যাশ চিহ্ন",
+    "syllables": [
+      "dash"
+    ],
+    "example": "She made a dash for the bus.",
+    "hint": "Part of the '-ash' family — starts with D.",
+    "image": "/images/level6/dash.webp"
+  },
+  {
+    "id": "lvl6-153",
+    "level": 6,
+    "order": 153,
+    "word": "splash",
+    "pronunciation": "/splæʃ/",
+    "banglaPronunciation": "স্প্ল্যাশ",
+    "meaning": "To scatter liquid.",
+    "banglaMeaning": "ছিটানো",
+    "syllables": [
+      "splash"
+    ],
+    "example": "The kids love to splash in the pool.",
+    "hint": "Part of the '-ash' family — starts with SPL.",
+    "image": "/images/level6/splash.webp"
+  },
+  {
+    "id": "lvl6-154",
+    "level": 6,
+    "order": 154,
+    "word": "trash",
+    "pronunciation": "/træʃ/",
+    "banglaPronunciation": "ট্র্যাশ",
+    "meaning": "Waste material.",
+    "banglaMeaning": "আবর্জনা",
+    "syllables": [
+      "trash"
+    ],
+    "example": "Please take out the trash.",
+    "hint": "Part of the '-ash' family — starts with TR.",
+    "image": "/images/level6/trash.webp"
+  },
+  {
+    "id": "lvl6-155",
+    "level": 6,
+    "order": 155,
+    "word": "smash",
+    "pronunciation": "/smæʃ/",
+    "banglaPronunciation": "স্ম্যাশ",
+    "meaning": "To break violently into pieces.",
+    "banglaMeaning": "চূর্ণ করা",
+    "syllables": [
+      "smash"
+    ],
+    "example": "The vase fell and began to smash.",
+    "hint": "Part of the '-ash' family — starts with SM.",
+    "image": "/images/level6/smash.webp"
+  },
+  {
+    "id": "lvl6-156",
+    "level": 6,
+    "order": 156,
+    "word": "clash",
+    "pronunciation": "/klæʃ/",
+    "banglaPronunciation": "ক্ল্যাশ",
+    "meaning": "A violent conflict.",
+    "banglaMeaning": "সংঘর্ষ",
+    "syllables": [
+      "clash"
+    ],
+    "example": "The two teams had a clash on the field.",
+    "hint": "Part of the '-ash' family — starts with CL.",
+    "image": "/images/level6/clash.webp"
+  },
+  {
+    "id": "lvl6-157",
+    "level": 6,
+    "order": 157,
+    "word": "slash",
+    "pronunciation": "/slæʃ/",
+    "banglaPronunciation": "স্ল্যাশ",
+    "meaning": "To cut with a sweeping stroke.",
+    "banglaMeaning": "কাটা",
+    "syllables": [
+      "slash"
+    ],
+    "example": "He used a knife to slash the rope.",
+    "hint": "Part of the '-ash' family — starts with SL.",
+    "image": "/images/level6/slash.webp"
+  },
+  {
+    "id": "lvl6-158",
+    "level": 6,
+    "order": 158,
+    "word": "rash",
+    "pronunciation": "/ræʃ/",
+    "banglaPronunciation": "র‍্যাশ",
+    "meaning": "A red, itchy area on the skin.",
+    "banglaMeaning": "ফুসকুড়ি",
+    "syllables": [
+      "rash"
+    ],
+    "example": "The rash appeared on her arm.",
+    "hint": "Part of the '-ash' family — starts with R.",
+    "image": "/images/level6/rash.webp"
+  },
+  {
+    "id": "lvl6-159",
+    "level": 6,
+    "order": 159,
+    "word": "gash",
+    "pronunciation": "/ɡæʃ/",
+    "banglaPronunciation": "গ্যাশ",
+    "meaning": "A long, deep cut.",
+    "banglaMeaning": "গভীর ক্ষত",
+    "syllables": [
+      "gash"
+    ],
+    "example": "He got a deep gash on his leg.",
+    "hint": "Part of the '-ash' family — starts with G.",
+    "image": "/images/level6/gash.webp"
+  },
+  {
+    "id": "lvl6-160",
+    "level": 6,
+    "order": 160,
+    "word": "lunch",
+    "pronunciation": "/lʌntʃ/",
+    "banglaPronunciation": "লাঞ্চ",
+    "meaning": "A meal eaten in the middle of the day.",
+    "banglaMeaning": "দুপুরের খাবার",
+    "syllables": [
+      "lunch"
+    ],
+    "example": "We eat lunch at noon.",
+    "hint": "Part of the '-unch' family — starts with L.",
+    "image": "/images/level6/lunch.webp"
+  },
+  {
+    "id": "lvl6-161",
+    "level": 6,
+    "order": 161,
+    "word": "bunch",
+    "pronunciation": "/bʌntʃ/",
+    "banglaPronunciation": "বাঞ্চ",
+    "meaning": "A group of things together.",
+    "banglaMeaning": "গুচ্ছ",
+    "syllables": [
+      "bunch"
+    ],
+    "example": "She bought a bunch of bananas.",
+    "hint": "Part of the '-unch' family — starts with B.",
+    "image": "/images/level6/bunch.webp"
+  },
+  {
+    "id": "lvl6-162",
+    "level": 6,
+    "order": 162,
+    "word": "munch",
+    "pronunciation": "/mʌntʃ/",
+    "banglaPronunciation": "মাঞ্চ",
+    "meaning": "To chew noisily.",
+    "banglaMeaning": "চিবানো",
+    "syllables": [
+      "munch"
+    ],
+    "example": "The rabbit began to munch on carrots.",
+    "hint": "Part of the '-unch' family — starts with M.",
+    "image": "/images/level6/munch.webp"
+  },
+  {
+    "id": "lvl6-163",
+    "level": 6,
+    "order": 163,
+    "word": "crunch",
+    "pronunciation": "/krʌntʃ/",
+    "banglaPronunciation": "ক্রাঞ্চ",
+    "meaning": "To crush noisily with the teeth.",
+    "banglaMeaning": "মচমচ করে চিবানো",
+    "syllables": [
+      "crunch"
+    ],
+    "example": "I love the crunch of fresh chips.",
+    "hint": "Part of the '-unch' family — starts with CR.",
+    "image": "/images/level6/crunch.webp"
+  },
+  {
+    "id": "lvl6-164",
+    "level": 6,
+    "order": 164,
+    "word": "hunch",
+    "pronunciation": "/hʌntʃ/",
+    "banglaPronunciation": "হাঞ্চ",
+    "meaning": "A feeling that something is true.",
+    "banglaMeaning": "ধারণা",
+    "syllables": [
+      "hunch"
+    ],
+    "example": "I had a hunch it would rain.",
+    "hint": "Part of the '-unch' family — starts with H.",
+    "image": "/images/level6/hunch.webp"
+  },
+  {
+    "id": "lvl6-165",
+    "level": 6,
+    "order": 165,
+    "word": "brunch",
+    "pronunciation": "/brʌntʃ/",
+    "banglaPronunciation": "ব্রাঞ্চ",
+    "meaning": "A meal combining breakfast and lunch.",
+    "banglaMeaning": "ব্রাঞ্চ",
+    "syllables": [
+      "brunch"
+    ],
+    "example": "We went out for brunch on Sunday.",
+    "hint": "Part of the '-unch' family — starts with BR.",
+    "image": "/images/level6/brunch.webp"
+  },
+  {
+    "id": "lvl6-166",
+    "level": 6,
+    "order": 166,
+    "word": "joke",
+    "pronunciation": "/dʒoʊk/",
+    "banglaPronunciation": "জোক",
+    "meaning": "Something said to cause laughter.",
+    "banglaMeaning": "রসিকতা",
+    "syllables": [
+      "joke"
+    ],
+    "example": "He told a funny joke.",
+    "hint": "Part of the '-oke' family — starts with J.",
+    "image": "/images/level6/joke.webp"
+  },
+  {
+    "id": "lvl6-167",
+    "level": 6,
+    "order": 167,
+    "word": "smoke",
+    "pronunciation": "/smoʊk/",
+    "banglaPronunciation": "স্মোক",
+    "meaning": "The gray cloud produced by fire.",
+    "banglaMeaning": "ধোঁয়া",
+    "syllables": [
+      "smoke"
+    ],
+    "example": "Smoke rose from the chimney.",
+    "hint": "Part of the '-oke' family — starts with SM.",
+    "image": "/images/level6/smoke.webp"
+  },
+  {
+    "id": "lvl6-168",
+    "level": 6,
+    "order": 168,
+    "word": "spoke",
+    "pronunciation": "/spoʊk/",
+    "banglaPronunciation": "স্পোক",
+    "meaning": "Past tense of speak.",
+    "banglaMeaning": "বলেছিল",
+    "syllables": [
+      "spoke"
+    ],
+    "example": "She spoke softly to the baby.",
+    "hint": "Part of the '-oke' family — starts with SP.",
+    "image": "/images/level6/spoke.webp"
+  },
+  {
+    "id": "lvl6-169",
+    "level": 6,
+    "order": 169,
+    "word": "broke",
+    "pronunciation": "/broʊk/",
+    "banglaPronunciation": "ব্রোক",
+    "meaning": "Past tense of break.",
+    "banglaMeaning": "ভেঙেছিল",
+    "syllables": [
+      "broke"
+    ],
+    "example": "The glass broke when it fell.",
+    "hint": "Part of the '-oke' family — starts with BR.",
+    "image": "/images/level6/broke.webp"
+  },
+  {
+    "id": "lvl6-170",
+    "level": 6,
+    "order": 170,
+    "word": "choke",
+    "pronunciation": "/tʃoʊk/",
+    "banglaPronunciation": "চোক",
+    "meaning": "To have trouble breathing.",
+    "banglaMeaning": "দম বন্ধ হওয়া",
+    "syllables": [
+      "choke"
+    ],
+    "example": "Chew your food slowly so you don't choke.",
+    "hint": "Part of the '-oke' family — starts with CH.",
+    "image": "/images/level6/choke.webp"
+  },
+  {
+    "id": "lvl6-171",
+    "level": 6,
+    "order": 171,
+    "word": "poke",
+    "pronunciation": "/poʊk/",
+    "banglaPronunciation": "পোক",
+    "meaning": "To jab with a finger or pointed object.",
+    "banglaMeaning": "খোঁচা দেওয়া",
+    "syllables": [
+      "poke"
+    ],
+    "example": "Don't poke your sister.",
+    "hint": "Part of the '-oke' family — starts with P.",
+    "image": "/images/level6/poke.webp"
+  },
+  {
+    "id": "lvl6-172",
+    "level": 6,
+    "order": 172,
+    "word": "height",
+    "pronunciation": "/haɪt/",
+    "banglaPronunciation": "হাইট",
+    "meaning": "How tall something is.",
+    "banglaMeaning": "উচ্চতা",
+    "syllables": [
+      "height"
+    ],
+    "example": "The height of the tower is amazing.",
+    "hint": "Part of the '-ight' family — starts with H.",
+    "image": "/images/level6/height.webp"
+  },
+  {
+    "id": "lvl6-173",
+    "level": 6,
+    "order": 173,
+    "word": "midnight",
+    "pronunciation": "/ˈmɪd.naɪt/",
+    "banglaPronunciation": "মিডনাইট",
+    "meaning": "Twelve o’clock at night.",
+    "banglaMeaning": "মধ্যরাত",
+    "syllables": [
+      "mid",
+      "night"
+    ],
+    "example": "The clock struck midnight.",
+    "hint": "Made of 'mid-' + the '-ight' family.",
+    "image": "/images/level6/midnight.webp"
+  },
+  {
+    "id": "lvl6-174",
+    "level": 6,
+    "order": 174,
+    "word": "twilight",
+    "pronunciation": "/ˈtwaɪ.laɪt/",
+    "banglaPronunciation": "টোয়াইলাইট",
+    "meaning": "The soft light after sunset.",
+    "banglaMeaning": "গোধূলি",
+    "syllables": [
+      "twi",
+      "light"
+    ],
+    "example": "The twilight sky was painted pink.",
+    "hint": "Made of 'twi-' + the '-ight' family.",
+    "image": "/images/level6/twilight.webp"
+  },
+  {
+    "id": "lvl6-175",
+    "level": 6,
+    "order": 175,
+    "word": "tonight",
+    "pronunciation": "/təˈnaɪt/",
+    "banglaPronunciation": "টুনাইট",
+    "meaning": "This present night.",
+    "banglaMeaning": "আজ রাতে",
+    "syllables": [
+      "to",
+      "night"
+    ],
+    "example": "We will watch a movie tonight.",
+    "hint": "Made of 'to-' + the '-ight' family.",
+    "image": "/images/level6/tonight.webp"
+  },
+  {
+    "id": "lvl6-176",
+    "level": 6,
+    "order": 176,
+    "word": "lightweight",
+    "pronunciation": "/ˈlaɪt.weɪt/",
+    "banglaPronunciation": "লাইটওয়েট",
+    "meaning": "Not heavy.",
+    "banglaMeaning": "হালকা ওজনের",
+    "syllables": [
+      "light",
+      "weight"
+    ],
+    "example": "This backpack is lightweight.",
+    "hint": "Made of 'light' + the '-eight' sound.",
+    "image": "/images/level6/lightweight.webp"
+  },
+  {
+    "id": "lvl6-177",
+    "level": 6,
+    "order": 177,
+    "word": "quake",
+    "pronunciation": "/kweɪk/",
+    "banglaPronunciation": "কোয়েক",
+    "meaning": "A sudden shaking of the ground.",
+    "banglaMeaning": "কম্পন",
+    "syllables": [
+      "quake"
+    ],
+    "example": "The ground began to quake.",
+    "hint": "Part of the '-ake' family — starts with QU.",
+    "image": "/images/level6/quake.webp"
+  },
+  {
+    "id": "lvl6-178",
+    "level": 6,
+    "order": 178,
+    "word": "earthquake",
+    "pronunciation": "/ˈɜːrθ.kweɪk/",
+    "banglaPronunciation": "আর্থকোয়েক",
+    "meaning": "A sudden shaking of the earth’s surface.",
+    "banglaMeaning": "ভূমিকম্প",
+    "syllables": [
+      "earth",
+      "quake"
+    ],
+    "example": "The earthquake damaged many buildings.",
+    "hint": "Made of 'earth' + the '-ake' family.",
+    "image": "/images/level6/earthquake.webp"
+  },
+  {
+    "id": "lvl6-179",
+    "level": 6,
+    "order": 179,
+    "word": "handshake",
+    "pronunciation": "/ˈhænd.ʃeɪk/",
+    "banglaPronunciation": "হ্যান্ডশেক",
+    "meaning": "A greeting where hands are gripped and shaken.",
+    "banglaMeaning": "হাত মেলানো",
+    "syllables": [
+      "hand",
+      "shake"
+    ],
+    "example": "They exchanged a firm handshake.",
+    "hint": "Made of 'hand' + the '-ake' family.",
+    "image": "/images/level6/handshake.webp"
+  },
+  {
+    "id": "lvl6-180",
+    "level": 6,
+    "order": 180,
+    "word": "awake",
+    "pronunciation": "/əˈweɪk/",
+    "banglaPronunciation": "অ্যাওয়েক",
+    "meaning": "Not asleep.",
+    "banglaMeaning": "জাগ্রত",
+    "syllables": [
+      "a",
+      "wake"
+    ],
+    "example": "The baby is still awake.",
+    "hint": "Made of 'a-' + the '-ake' family.",
+    "image": "/images/level6/awake.webp"
+  },
+  {
+    "id": "lvl6-181",
+    "level": 6,
+    "order": 181,
+    "word": "mock",
+    "pronunciation": "/mɒk/",
+    "banglaPronunciation": "মক",
+    "meaning": "To make fun of someone.",
+    "banglaMeaning": "ঠাট্টা করা",
+    "syllables": [
+      "mock"
+    ],
+    "example": "Don't mock your little brother.",
+    "hint": "Part of the '-ock' family — starts with M.",
+    "image": "/images/level6/mock.webp"
+  },
+  {
+    "id": "lvl6-182",
+    "level": 6,
+    "order": 182,
+    "word": "unlock",
+    "pronunciation": "/ʌnˈlɒk/",
+    "banglaPronunciation": "আনলক",
+    "meaning": "To open with a key.",
+    "banglaMeaning": "তালা খোলা",
+    "syllables": [
+      "un",
+      "lock"
+    ],
+    "example": "Use this key to unlock the door.",
+    "hint": "Made of 'un-' + the '-ock' family.",
+    "image": "/images/level6/unlock.webp"
+  },
+  {
+    "id": "lvl6-183",
+    "level": 6,
+    "order": 183,
+    "word": "hammock",
+    "pronunciation": "/ˈhæm.ək/",
+    "banglaPronunciation": "হ্যামক",
+    "meaning": "A hanging bed made of cloth or rope.",
+    "banglaMeaning": "দোলনা বিছানা",
+    "syllables": [
+      "ham",
+      "mock"
+    ],
+    "example": "He napped in the hammock.",
+    "hint": "Made of 'ham-' + the '-ock' family.",
+    "image": "/images/level6/hammock.webp"
+  },
+  {
+    "id": "lvl6-184",
+    "level": 6,
+    "order": 184,
+    "word": "mail",
+    "pronunciation": "/meɪl/",
+    "banglaPronunciation": "মেইল",
+    "meaning": "Letters and packages delivered to your home.",
+    "banglaMeaning": "ডাক",
+    "syllables": [
+      "mail"
+    ],
+    "example": "The mailman delivered the mail.",
+    "hint": "Part of the '-ail' family — starts with M.",
+    "image": "/images/level6/mail.webp"
+  },
+  {
+    "id": "lvl6-185",
+    "level": 6,
+    "order": 185,
+    "word": "trail",
+    "pronunciation": "/treɪl/",
+    "banglaPronunciation": "ট্রেইল",
+    "meaning": "A path through a natural area.",
+    "banglaMeaning": "পথ",
+    "syllables": [
+      "trail"
+    ],
+    "example": "We followed the trail through the woods.",
+    "hint": "Part of the '-ail' family — starts with TR.",
+    "image": "/images/level6/trail.webp"
+  },
+  {
+    "id": "lvl6-186",
+    "level": 6,
+    "order": 186,
+    "word": "goat",
+    "pronunciation": "/ɡoʊt/",
+    "banglaPronunciation": "গোট",
+    "meaning": "A farm animal with horns.",
+    "banglaMeaning": "ছাগল",
+    "syllables": [
+      "goat"
+    ],
+    "example": "The goat ate the grass.",
+    "hint": "Part of the '-oat' family — starts with G.",
+    "image": "/images/level6/goat.webp"
+  },
+  {
+    "id": "lvl6-187",
+    "level": 6,
+    "order": 187,
+    "word": "coat",
+    "pronunciation": "/koʊt/",
+    "banglaPronunciation": "কোট",
+    "meaning": "A piece of clothing worn over other clothes.",
+    "banglaMeaning": "কোট",
+    "syllables": [
+      "coat"
+    ],
+    "example": "Wear your coat, it's cold.",
+    "hint": "Part of the '-oat' family — starts with C.",
+    "image": "/images/level6/coat.webp"
+  },
+  {
+    "id": "lvl6-188",
+    "level": 6,
+    "order": 188,
+    "word": "bash",
+    "pronunciation": "/bæʃ/",
+    "banglaPronunciation": "ব্যাশ",
+    "meaning": "To hit hard.",
+    "banglaMeaning": "সজোরে আঘাত করা",
+    "syllables": [
+      "bash"
+    ],
+    "example": "He gave the door a bash.",
+    "hint": "Part of the '-ash' family — starts with B.",
+    "image": "/images/level6/bash.webp"
+  },
+  {
+    "id": "lvl6-189",
+    "level": 6,
+    "order": 189,
+    "word": "hash",
+    "pronunciation": "/hæʃ/",
+    "banglaPronunciation": "হ্যাশ",
+    "meaning": "The symbol #, or chopped food.",
+    "banglaMeaning": "হ্যাশ চিহ্ন",
+    "syllables": [
+      "hash"
+    ],
+    "example": "Type the hash symbol on your phone.",
+    "hint": "Part of the '-ash' family — starts with H.",
+    "image": "/images/level6/hash.webp"
+  },
+  {
+    "id": "lvl6-190",
+    "level": 6,
+    "order": 190,
+    "word": "hay",
+    "pronunciation": "/heɪ/",
+    "banglaPronunciation": "হে",
+    "meaning": "Dried grass used as animal feed.",
+    "banglaMeaning": "খড়",
+    "syllables": [
+      "hay"
+    ],
+    "example": "The farmer fed hay to the cows.",
+    "hint": "Part of the '-ay' family — starts with H.",
+    "image": "/images/level6/hay.webp"
+  },
+  {
+    "id": "lvl6-191",
+    "level": 6,
+    "order": 191,
+    "word": "pug",
+    "pronunciation": "/pʌɡ/",
+    "banglaPronunciation": "পাগ",
+    "meaning": "A small breed of dog with a wrinkled face.",
+    "banglaMeaning": "পাগ (কুকুরের জাত)",
+    "syllables": [
+      "pug"
+    ],
+    "example": "The pug slept on the sofa.",
+    "hint": "Part of the '-ug' family — starts with P.",
+    "image": "/images/level6/pug.webp"
+  },
+  {
+    "id": "lvl6-192",
+    "level": 6,
+    "order": 192,
+    "word": "scrunch",
+    "pronunciation": "/skrʌntʃ/",
+    "banglaPronunciation": "স্ক্রাঞ্চ",
+    "meaning": "To squeeze into a tight mass.",
+    "banglaMeaning": "কুঁচকানো",
+    "syllables": [
+      "scrunch"
+    ],
+    "example": "She scrunched up the paper.",
+    "hint": "Part of the '-unch' family — starts with SCR.",
+    "image": "/images/level6/scrunch.webp"
+  },
+  {
+    "id": "lvl6-193",
+    "level": 6,
+    "order": 193,
+    "word": "shrine",
+    "pronunciation": "/ʃraɪn/",
+    "banglaPronunciation": "শ্রাইন",
+    "meaning": "A place considered holy.",
+    "banglaMeaning": "মন্দির / পবিত্র স্থান",
+    "syllables": [
+      "shrine"
+    ],
+    "example": "Pilgrims visit the ancient shrine.",
+    "hint": "Part of the '-ine' family — starts with SHR.",
+    "image": "/images/level6/shrine.webp"
+  },
+  {
+    "id": "lvl6-194",
+    "level": 6,
+    "order": 194,
+    "word": "wick",
+    "pronunciation": "/wɪk/",
+    "banglaPronunciation": "উইক",
+    "meaning": "The string in the middle of a candle.",
+    "banglaMeaning": "মোমবাতির সলতে",
+    "syllables": [
+      "wick"
+    ],
+    "example": "Light the wick of the candle.",
+    "hint": "Part of the '-ick' family — starts with W.",
+    "image": "/images/level6/wick.webp"
+  },
+  {
+    "id": "lvl6-195",
+    "level": 6,
+    "order": 195,
+    "word": "great",
+    "pronunciation": "/ɡreɪt/",
+    "banglaPronunciation": "গ্রেট",
+    "meaning": "Very good, or large in amount.",
+    "banglaMeaning": "মহান / দারুণ",
+    "syllables": [
+      "great"
+    ],
+    "example": "That was a great movie.",
+    "hint": "Part of the '-eat' family — starts with GR.",
+    "image": "/images/level6/great.webp"
+  },
+  {
+    "id": "lvl6-196",
+    "level": 6,
+    "order": 196,
+    "word": "grow",
+    "pronunciation": "/ɡroʊ/",
+    "banglaPronunciation": "গ্রো",
+    "meaning": "To become bigger.",
+    "banglaMeaning": "বড় হওয়া",
+    "syllables": [
+      "grow"
+    ],
+    "example": "Plants grow with water and sunlight.",
+    "hint": "Part of the long '-ow' family — starts with GR.",
+    "image": "/images/level6/grow.webp"
+  },
+  {
+    "id": "lvl6-197",
+    "level": 6,
+    "order": 197,
+    "word": "arrow",
+    "pronunciation": "/ˈær.oʊ/",
+    "banglaPronunciation": "অ্যারো",
+    "meaning": "A thin pointed stick shot from a bow.",
+    "banglaMeaning": "তীর",
+    "syllables": [
+      "ar",
+      "row"
+    ],
+    "example": "The arrow hit the target.",
+    "hint": "Made of 'arr-' + the long '-ow' family.",
+    "image": "/images/level6/arrow.webp"
+  },
+  {
+    "id": "lvl6-198",
+    "level": 6,
+    "order": 198,
+    "word": "borrow",
+    "pronunciation": "/ˈbɒr.oʊ/",
+    "banglaPronunciation": "বরো",
+    "meaning": "To take something temporarily.",
+    "banglaMeaning": "ধার নেওয়া",
+    "syllables": [
+      "bor",
+      "row"
+    ],
+    "example": "Can I borrow your pen?",
+    "hint": "Made of 'borr-' + the long '-ow' family.",
+    "image": "/images/level6/borrow.webp"
+  },
+  {
+    "id": "lvl6-199",
+    "level": 6,
+    "order": 199,
+    "word": "cartoon",
+    "pronunciation": "/kɑːrˈtuːn/",
+    "banglaPronunciation": "কার্টুন",
+    "meaning": "An animated show or drawing.",
+    "banglaMeaning": "কার্টুন",
+    "syllables": [
+      "car",
+      "toon"
+    ],
+    "example": "The children watched a cartoon.",
+    "hint": "Made of 'car-' + the '-toon' sound.",
+    "image": "/images/level6/cartoon.webp"
+  },
+  {
+    "id": "lvl6-200",
+    "level": 6,
+    "order": 200,
+    "word": "eyeball",
+    "pronunciation": "/ˈaɪ.bɔːl/",
+    "banglaPronunciation": "আইবল",
+    "meaning": "The round part of the eye.",
+    "banglaMeaning": "চোখের গোলক",
+    "syllables": [
+      "eye",
+      "ball"
+    ],
+    "example": "The eyeball is protected by the eyelid.",
+    "hint": "Made of 'eye' + the '-ball' sound.",
+    "image": "/images/level6/eyeball.webp"
+  }
+]

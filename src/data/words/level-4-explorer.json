@@ -1,0 +1,2461 @@
+[
+  {
+    "id": "lvl4-001",
+    "level": 4,
+    "order": 1,
+    "word": "mirror",
+    "pronunciation": "/ˈmɪr.ər/",
+    "banglaPronunciation": "মিরর",
+    "meaning": "A glass surface that shows your reflection.",
+    "banglaMeaning": "আয়না",
+    "syllables": [
+      "mir",
+      "ror"
+    ],
+    "example": "She looked at herself in the mirror.",
+    "hint": "Double R in the middle.",
+    "image": "/images/level4/mirror.webp"
+  },
+  {
+    "id": "lvl4-002",
+    "level": 4,
+    "order": 2,
+    "word": "curtain",
+    "pronunciation": "/ˈkɜːr.tən/",
+    "banglaPronunciation": "কার্টেইন",
+    "meaning": "A cloth hung to cover a window.",
+    "banglaMeaning": "পর্দা",
+    "syllables": [
+      "cur",
+      "tain"
+    ],
+    "example": "Close the curtain, it's too bright.",
+    "hint": "Ends with -tain, not -ten.",
+    "image": "/images/level4/curtain.webp"
+  },
+  {
+    "id": "lvl4-003",
+    "level": 4,
+    "order": 3,
+    "word": "carpet",
+    "pronunciation": "/ˈkɑːr.pɪt/",
+    "banglaPronunciation": "কার্পেট",
+    "meaning": "A thick fabric covering for a floor.",
+    "banglaMeaning": "কার্পেট",
+    "syllables": [
+      "car",
+      "pet"
+    ],
+    "example": "The carpet feels soft under my feet.",
+    "hint": "Starts with CAR, like a vehicle.",
+    "image": "/images/level4/carpet.webp"
+  },
+  {
+    "id": "lvl4-004",
+    "level": 4,
+    "order": 4,
+    "word": "shelf",
+    "pronunciation": "/ʃɛlf/",
+    "banglaPronunciation": "শেলফ",
+    "meaning": "A flat board for storing things.",
+    "banglaMeaning": "তাক",
+    "syllables": [
+      "shelf"
+    ],
+    "example": "Put the books back on the shelf.",
+    "hint": "Rhymes with \"self\".",
+    "image": "/images/level4/shelf.webp"
+  },
+  {
+    "id": "lvl4-005",
+    "level": 4,
+    "order": 5,
+    "word": "drawer",
+    "pronunciation": "/drɔːr/",
+    "banglaPronunciation": "ড্রয়ার",
+    "meaning": "A sliding storage box in furniture.",
+    "banglaMeaning": "ড্রয়ার",
+    "syllables": [
+      "draw",
+      "er"
+    ],
+    "example": "She opened the drawer to find a pen.",
+    "hint": "Contains the word \"draw\" plus -er.",
+    "image": "/images/level4/drawer.webp"
+  },
+  {
+    "id": "lvl4-006",
+    "level": 4,
+    "order": 6,
+    "word": "sofa",
+    "pronunciation": "/ˈsoʊ.fə/",
+    "banglaPronunciation": "সোফা",
+    "meaning": "A soft, long seat for several people.",
+    "banglaMeaning": "সোফা",
+    "syllables": [
+      "so",
+      "fa"
+    ],
+    "example": "We sat together on the sofa.",
+    "hint": "Starts like \"so\", ends like \"far\" without R.",
+    "image": "/images/level4/sofa.webp"
+  },
+  {
+    "id": "lvl4-007",
+    "level": 4,
+    "order": 7,
+    "word": "couch",
+    "pronunciation": "/kaʊtʃ/",
+    "banglaPronunciation": "কাউচ",
+    "meaning": "Another word for a soft, long seat.",
+    "banglaMeaning": "কাউচ",
+    "syllables": [
+      "couch"
+    ],
+    "example": "He fell asleep on the couch.",
+    "hint": "Rhymes with \"pouch\".",
+    "image": "/images/level4/couch.webp"
+  },
+  {
+    "id": "lvl4-008",
+    "level": 4,
+    "order": 8,
+    "word": "candle",
+    "pronunciation": "/ˈkæn.dl̩/",
+    "banglaPronunciation": "ক্যান্ডল",
+    "meaning": "A wax stick with a wick, burned for light.",
+    "banglaMeaning": "মোমবাতি",
+    "syllables": [
+      "can",
+      "dle"
+    ],
+    "example": "We lit a candle in the dark.",
+    "hint": "Starts with CAN, ends with -dle.",
+    "image": "/images/level4/candle.webp"
+  },
+  {
+    "id": "lvl4-009",
+    "level": 4,
+    "order": 9,
+    "word": "broom",
+    "pronunciation": "/bruːm/",
+    "banglaPronunciation": "ব্রুম",
+    "meaning": "A brush with a long handle for sweeping.",
+    "banglaMeaning": "ঝাড়ু",
+    "syllables": [
+      "broom"
+    ],
+    "example": "He swept the floor with a broom.",
+    "hint": "Starts with BR, double O makes the long \"oo\" sound.",
+    "image": "/images/level4/broom.webp"
+  },
+  {
+    "id": "lvl4-010",
+    "level": 4,
+    "order": 10,
+    "word": "bucket",
+    "pronunciation": "/ˈbʌk.ɪt/",
+    "banglaPronunciation": "বাকেট",
+    "meaning": "A round container with a handle, for carrying liquid.",
+    "banglaMeaning": "বালতি",
+    "syllables": [
+      "buck",
+      "et"
+    ],
+    "example": "She filled the bucket with water.",
+    "hint": "Starts with BUCK, like a deer.",
+    "image": "/images/level4/bucket.webp"
+  },
+  {
+    "id": "lvl4-011",
+    "level": 4,
+    "order": 11,
+    "word": "basket",
+    "pronunciation": "/ˈbæs.kɪt/",
+    "banglaPronunciation": "বাসকেট",
+    "meaning": "A container woven from strips of material.",
+    "banglaMeaning": "ঝুড়ি",
+    "syllables": [
+      "bas",
+      "ket"
+    ],
+    "example": "She put the apples in a basket.",
+    "hint": "Starts with BAS, ends with -ket.",
+    "image": "/images/level4/basket.webp"
+  },
+  {
+    "id": "lvl4-012",
+    "level": 4,
+    "order": 12,
+    "word": "ladder",
+    "pronunciation": "/ˈlæd.ər/",
+    "banglaPronunciation": "ল্যাডার",
+    "meaning": "A set of steps for climbing up or down.",
+    "banglaMeaning": "মই",
+    "syllables": [
+      "lad",
+      "der"
+    ],
+    "example": "He climbed the ladder to fix the roof.",
+    "hint": "Double D in the middle.",
+    "image": "/images/level4/ladder.webp"
+  },
+  {
+    "id": "lvl4-013",
+    "level": 4,
+    "order": 13,
+    "word": "hammer",
+    "pronunciation": "/ˈhæm.ər/",
+    "banglaPronunciation": "হ্যামার",
+    "meaning": "A tool used for hitting nails.",
+    "banglaMeaning": "হাতুড়ি",
+    "syllables": [
+      "ham",
+      "mer"
+    ],
+    "example": "She used a hammer to fix the shelf.",
+    "hint": "Double M in the middle.",
+    "image": "/images/level4/hammer.webp"
+  },
+  {
+    "id": "lvl4-014",
+    "level": 4,
+    "order": 14,
+    "word": "nail",
+    "pronunciation": "/neɪl/",
+    "banglaPronunciation": "নেইল",
+    "meaning": "A thin metal spike used to join things.",
+    "banglaMeaning": "পেরেক",
+    "syllables": [
+      "nail"
+    ],
+    "example": "He hit the nail with a hammer.",
+    "hint": "Rhymes with \"mail\".",
+    "image": "/images/level4/nail.webp"
+  },
+  {
+    "id": "lvl4-015",
+    "level": 4,
+    "order": 15,
+    "word": "screw",
+    "pronunciation": "/skruː/",
+    "banglaPronunciation": "স্ক্রু",
+    "meaning": "A metal fastener with a spiral thread.",
+    "banglaMeaning": "স্ক্রু",
+    "syllables": [
+      "screw"
+    ],
+    "example": "Turn the screw to tighten it.",
+    "hint": "Double letters: sc + rew.",
+    "image": "/images/level4/screw.webp"
+  },
+  {
+    "id": "lvl4-016",
+    "level": 4,
+    "order": 16,
+    "word": "wrench",
+    "pronunciation": "/rɛntʃ/",
+    "banglaPronunciation": "রেঞ্চ",
+    "meaning": "A tool for turning nuts and bolts.",
+    "banglaMeaning": "রেঞ্চ",
+    "syllables": [
+      "wrench"
+    ],
+    "example": "He used a wrench to fix the pipe.",
+    "hint": "Silent W at the start.",
+    "image": "/images/level4/wrench.webp"
+  },
+  {
+    "id": "lvl4-017",
+    "level": 4,
+    "order": 17,
+    "word": "saw",
+    "pronunciation": "/sɔː/",
+    "banglaPronunciation": "স",
+    "meaning": "A tool with a sharp blade for cutting wood.",
+    "banglaMeaning": "করাত",
+    "syllables": [
+      "saw"
+    ],
+    "example": "He used a saw to cut the wood.",
+    "hint": "Just three letters — S, A, W.",
+    "image": "/images/level4/saw.webp"
+  },
+  {
+    "id": "lvl4-018",
+    "level": 4,
+    "order": 18,
+    "word": "brush",
+    "pronunciation": "/brʌʃ/",
+    "banglaPronunciation": "ব্রাশ",
+    "meaning": "A tool with bristles for cleaning or painting.",
+    "banglaMeaning": "ব্রাশ",
+    "syllables": [
+      "brush"
+    ],
+    "example": "She used a brush to clean her hair.",
+    "hint": "Ends with -ush like \"rush\".",
+    "image": "/images/level4/brush.webp"
+  },
+  {
+    "id": "lvl4-019",
+    "level": 4,
+    "order": 19,
+    "word": "comb",
+    "pronunciation": "/koʊm/",
+    "banglaPronunciation": "কোম্ব",
+    "meaning": "A flat tool with teeth for tidying hair.",
+    "banglaMeaning": "চিরুনি",
+    "syllables": [
+      "comb"
+    ],
+    "example": "He combed his hair before school.",
+    "hint": "Silent B at the end.",
+    "image": "/images/level4/comb.webp"
+  },
+  {
+    "id": "lvl4-020",
+    "level": 4,
+    "order": 20,
+    "word": "towel",
+    "pronunciation": "/ˈtaʊ.əl/",
+    "banglaPronunciation": "টাওয়েল",
+    "meaning": "A cloth used for drying yourself.",
+    "banglaMeaning": "তোয়ালে",
+    "syllables": [
+      "tow",
+      "el"
+    ],
+    "example": "She dried her hands with a towel.",
+    "hint": "Starts like \"tow\", ends with -el.",
+    "image": "/images/level4/towel.webp"
+  },
+  {
+    "id": "lvl4-021",
+    "level": 4,
+    "order": 21,
+    "word": "soap",
+    "pronunciation": "/soʊp/",
+    "banglaPronunciation": "সোপ",
+    "meaning": "A substance used with water for washing.",
+    "banglaMeaning": "সাবান",
+    "syllables": [
+      "soap"
+    ],
+    "example": "Wash your hands with soap.",
+    "hint": "Double O makes the long O sound.",
+    "image": "/images/level4/soap.webp"
+  },
+  {
+    "id": "lvl4-022",
+    "level": 4,
+    "order": 22,
+    "word": "sponge",
+    "pronunciation": "/spʌndʒ/",
+    "banglaPronunciation": "স্পঞ্জ",
+    "meaning": "A soft material used for cleaning.",
+    "banglaMeaning": "স্পঞ্জ",
+    "syllables": [
+      "sponge"
+    ],
+    "example": "She wiped the table with a sponge.",
+    "hint": "The G sounds like J.",
+    "image": "/images/level4/sponge.webp"
+  },
+  {
+    "id": "lvl4-023",
+    "level": 4,
+    "order": 23,
+    "word": "bowl",
+    "pronunciation": "/boʊl/",
+    "banglaPronunciation": "বোল",
+    "meaning": "A round, deep dish for food.",
+    "banglaMeaning": "বাটি",
+    "syllables": [
+      "bowl"
+    ],
+    "example": "She ate soup from a bowl.",
+    "hint": "Rhymes with \"coal\".",
+    "image": "/images/level4/bowl.webp"
+  },
+  {
+    "id": "lvl4-024",
+    "level": 4,
+    "order": 24,
+    "word": "kettle",
+    "pronunciation": "/ˈkɛt.l̩/",
+    "banglaPronunciation": "কেটল",
+    "meaning": "A container for boiling water.",
+    "banglaMeaning": "কেটলি",
+    "syllables": [
+      "ket",
+      "tle"
+    ],
+    "example": "He boiled water in the kettle.",
+    "hint": "Double T in the middle.",
+    "image": "/images/level4/kettle.webp"
+  },
+  {
+    "id": "lvl4-025",
+    "level": 4,
+    "order": 25,
+    "word": "oven",
+    "pronunciation": "/ˈʌv.ən/",
+    "banglaPronunciation": "ওভেন",
+    "meaning": "An appliance used for baking food.",
+    "banglaMeaning": "ওভেন",
+    "syllables": [
+      "ov",
+      "en"
+    ],
+    "example": "Mom baked bread in the oven.",
+    "hint": "Starts with OV, like \"of\" plus V.",
+    "image": "/images/level4/oven.webp"
+  },
+  {
+    "id": "lvl4-026",
+    "level": 4,
+    "order": 26,
+    "word": "stove",
+    "pronunciation": "/stoʊv/",
+    "banglaPronunciation": "স্টোভ",
+    "meaning": "An appliance for cooking food.",
+    "banglaMeaning": "চুলা",
+    "syllables": [
+      "stove"
+    ],
+    "example": "She cooked rice on the stove.",
+    "hint": "Silent E makes the O long.",
+    "image": "/images/level4/stove.webp"
+  },
+  {
+    "id": "lvl4-027",
+    "level": 4,
+    "order": 27,
+    "word": "blender",
+    "pronunciation": "/ˈblɛn.dər/",
+    "banglaPronunciation": "ব্লেন্ডার",
+    "meaning": "A machine that mixes or crushes food.",
+    "banglaMeaning": "ব্লেন্ডার",
+    "syllables": [
+      "blend",
+      "er"
+    ],
+    "example": "She made juice in the blender.",
+    "hint": "Contains the word \"blend\".",
+    "image": "/images/level4/blender.webp"
+  },
+  {
+    "id": "lvl4-028",
+    "level": 4,
+    "order": 28,
+    "word": "toaster",
+    "pronunciation": "/ˈtoʊ.stər/",
+    "banglaPronunciation": "টোস্টার",
+    "meaning": "A machine that browns slices of bread.",
+    "banglaMeaning": "টোস্টার",
+    "syllables": [
+      "toast",
+      "er"
+    ],
+    "example": "He put bread in the toaster.",
+    "hint": "Contains the word \"toast\".",
+    "image": "/images/level4/toaster.webp"
+  },
+  {
+    "id": "lvl4-029",
+    "level": 4,
+    "order": 29,
+    "word": "iron",
+    "pronunciation": "/ˈaɪ.ərn/",
+    "banglaPronunciation": "আয়রন",
+    "meaning": "A hot appliance used to smooth clothes.",
+    "banglaMeaning": "ইস্ত্রি",
+    "syllables": [
+      "i",
+      "ron"
+    ],
+    "example": "She used an iron to press her shirt.",
+    "hint": "Sounds like \"eye-ern\", not \"eye-ron\".",
+    "image": "/images/level4/iron.webp"
+  },
+  {
+    "id": "lvl4-030",
+    "level": 4,
+    "order": 30,
+    "word": "mop",
+    "pronunciation": "/mɒp/",
+    "banglaPronunciation": "মপ",
+    "meaning": "A tool with a sponge or strings for washing floors.",
+    "banglaMeaning": "মপ",
+    "syllables": [
+      "mop"
+    ],
+    "example": "He cleaned the floor with a mop.",
+    "hint": "Rhymes with \"top\".",
+    "image": "/images/level4/mop.webp"
+  },
+  {
+    "id": "lvl4-031",
+    "level": 4,
+    "order": 31,
+    "word": "backpack",
+    "pronunciation": "/ˈbæk.pæk/",
+    "banglaPronunciation": "ব্যাকপ্যাক",
+    "meaning": "A bag carried on the back.",
+    "banglaMeaning": "স্কুল ব্যাগ",
+    "syllables": [
+      "back",
+      "pack"
+    ],
+    "example": "She carried her books in a backpack.",
+    "hint": "Two small words joined: back + pack.",
+    "image": "/images/level4/backpack.webp"
+  },
+  {
+    "id": "lvl4-032",
+    "level": 4,
+    "order": 32,
+    "word": "ruler",
+    "pronunciation": "/ˈruː.lər/",
+    "banglaPronunciation": "রুলার",
+    "meaning": "A straight tool used for measuring or drawing lines.",
+    "banglaMeaning": "স্কেল",
+    "syllables": [
+      "rul",
+      "er"
+    ],
+    "example": "He used a ruler to draw a straight line.",
+    "hint": "Contains the word \"rule\".",
+    "image": "/images/level4/ruler.webp"
+  },
+  {
+    "id": "lvl4-033",
+    "level": 4,
+    "order": 33,
+    "word": "eraser",
+    "pronunciation": "/ɪˈreɪ.sər/",
+    "banglaPronunciation": "ইরেজার",
+    "meaning": "A tool used to remove pencil marks.",
+    "banglaMeaning": "রাবার",
+    "syllables": [
+      "e",
+      "ras",
+      "er"
+    ],
+    "example": "She used an eraser to fix her mistake.",
+    "hint": "Contains the word \"erase\".",
+    "image": "/images/level4/eraser.webp"
+  },
+  {
+    "id": "lvl4-034",
+    "level": 4,
+    "order": 34,
+    "word": "crayon",
+    "pronunciation": "/ˈkreɪ.ɒn/",
+    "banglaPronunciation": "ক্রেয়ন",
+    "meaning": "A stick of colored wax for drawing.",
+    "banglaMeaning": "ক্রেয়ন",
+    "syllables": [
+      "cray",
+      "on"
+    ],
+    "example": "The child drew with a red crayon.",
+    "hint": "Starts with CRAY, like \"cray-fish\".",
+    "image": "/images/level4/crayon.webp"
+  },
+  {
+    "id": "lvl4-035",
+    "level": 4,
+    "order": 35,
+    "word": "marker",
+    "pronunciation": "/ˈmɑːr.kər/",
+    "banglaPronunciation": "মার্কার",
+    "meaning": "A pen with a thick, colored tip.",
+    "banglaMeaning": "মার্কার",
+    "syllables": [
+      "mark",
+      "er"
+    ],
+    "example": "She wrote her name with a marker.",
+    "hint": "Contains the word \"mark\".",
+    "image": "/images/level4/marker.webp"
+  },
+  {
+    "id": "lvl4-036",
+    "level": 4,
+    "order": 36,
+    "word": "notebook",
+    "pronunciation": "/ˈnoʊt.bʊk/",
+    "banglaPronunciation": "নোটবুক",
+    "meaning": "A book with blank pages for writing notes.",
+    "banglaMeaning": "খাতা",
+    "syllables": [
+      "note",
+      "book"
+    ],
+    "example": "He wrote the answers in his notebook.",
+    "hint": "Two words joined: note + book.",
+    "image": "/images/level4/notebook.webp"
+  },
+  {
+    "id": "lvl4-037",
+    "level": 4,
+    "order": 37,
+    "word": "chalk",
+    "pronunciation": "/tʃɔːk/",
+    "banglaPronunciation": "চক",
+    "meaning": "A soft white stick used for writing on boards.",
+    "banglaMeaning": "চক",
+    "syllables": [
+      "chalk"
+    ],
+    "example": "The teacher wrote with white chalk.",
+    "hint": "Silent L before K.",
+    "image": "/images/level4/chalk.webp"
+  },
+  {
+    "id": "lvl4-038",
+    "level": 4,
+    "order": 38,
+    "word": "blackboard",
+    "pronunciation": "/ˈblæk.bɔːrd/",
+    "banglaPronunciation": "ব্ল্যাকবোর্ড",
+    "meaning": "A dark board used for writing with chalk.",
+    "banglaMeaning": "ব্ল্যাকবোর্ড",
+    "syllables": [
+      "black",
+      "board"
+    ],
+    "example": "The teacher wrote on the blackboard.",
+    "hint": "Two words joined: black + board.",
+    "image": "/images/level4/blackboard.webp"
+  },
+  {
+    "id": "lvl4-039",
+    "level": 4,
+    "order": 39,
+    "word": "globe",
+    "pronunciation": "/ɡloʊb/",
+    "banglaPronunciation": "গ্লোব",
+    "meaning": "A round model of the Earth.",
+    "banglaMeaning": "গ্লোব",
+    "syllables": [
+      "globe"
+    ],
+    "example": "The globe shows all the countries.",
+    "hint": "Silent E, rhymes with \"robe\".",
+    "image": "/images/level4/globe.webp"
+  },
+  {
+    "id": "lvl4-040",
+    "level": 4,
+    "order": 40,
+    "word": "calculator",
+    "pronunciation": "/ˈkæl.kjə.leɪ.tər/",
+    "banglaPronunciation": "ক্যালকুলেটর",
+    "meaning": "A device used to do math quickly.",
+    "banglaMeaning": "ক্যালকুলেটর",
+    "syllables": [
+      "cal",
+      "cu",
+      "la",
+      "tor"
+    ],
+    "example": "She used a calculator for the test.",
+    "hint": "Contains the word \"calculate\".",
+    "image": "/images/level4/calculator.webp"
+  },
+  {
+    "id": "lvl4-041",
+    "level": 4,
+    "order": 41,
+    "word": "scissors",
+    "pronunciation": "/ˈsɪz.ərz/",
+    "banglaPronunciation": "সিজরস",
+    "meaning": "A tool with two blades for cutting paper.",
+    "banglaMeaning": "কাঁচি",
+    "syllables": [
+      "scis",
+      "sors"
+    ],
+    "example": "He cut the paper with scissors.",
+    "hint": "Silent C at the start.",
+    "image": "/images/level4/scissors.webp"
+  },
+  {
+    "id": "lvl4-042",
+    "level": 4,
+    "order": 42,
+    "word": "glue",
+    "pronunciation": "/ɡluː/",
+    "banglaPronunciation": "গ্লু",
+    "meaning": "A sticky substance used to join things.",
+    "banglaMeaning": "আঠা",
+    "syllables": [
+      "glue"
+    ],
+    "example": "She used glue to fix the paper.",
+    "hint": "Just four letters: g-l-u-e.",
+    "image": "/images/level4/glue.webp"
+  },
+  {
+    "id": "lvl4-043",
+    "level": 4,
+    "order": 43,
+    "word": "stapler",
+    "pronunciation": "/ˈsteɪ.plər/",
+    "banglaPronunciation": "স্টেপলার",
+    "meaning": "A tool that fastens papers with a metal pin.",
+    "banglaMeaning": "স্টেপলার",
+    "syllables": [
+      "sta",
+      "pler"
+    ],
+    "example": "He stapled the pages together.",
+    "hint": "Contains the word \"staple\".",
+    "image": "/images/level4/stapler.webp"
+  },
+  {
+    "id": "lvl4-044",
+    "level": 4,
+    "order": 44,
+    "word": "folder",
+    "pronunciation": "/ˈfoʊl.dər/",
+    "banglaPronunciation": "ফোল্ডার",
+    "meaning": "A cover used to keep papers together.",
+    "banglaMeaning": "ফোল্ডার",
+    "syllables": [
+      "fold",
+      "er"
+    ],
+    "example": "She kept her papers in a folder.",
+    "hint": "Contains the word \"fold\".",
+    "image": "/images/level4/folder.webp"
+  },
+  {
+    "id": "lvl4-045",
+    "level": 4,
+    "order": 45,
+    "word": "bench",
+    "pronunciation": "/bɛntʃ/",
+    "banglaPronunciation": "বেঞ্চ",
+    "meaning": "A long seat for more than one person.",
+    "banglaMeaning": "বেঞ্চ",
+    "syllables": [
+      "bench"
+    ],
+    "example": "They sat together on the bench.",
+    "hint": "Rhymes with \"trench\".",
+    "image": "/images/level4/bench.webp"
+  },
+  {
+    "id": "lvl4-046",
+    "level": 4,
+    "order": 46,
+    "word": "swing",
+    "pronunciation": "/swɪŋ/",
+    "banglaPronunciation": "সুইং",
+    "meaning": "A seat hung by ropes that moves back and forth.",
+    "banglaMeaning": "দোলনা",
+    "syllables": [
+      "swing"
+    ],
+    "example": "The children played on the swing.",
+    "hint": "Ends with -ing, not -ink.",
+    "image": "/images/level4/swing.webp"
+  },
+  {
+    "id": "lvl4-047",
+    "level": 4,
+    "order": 47,
+    "word": "slide",
+    "pronunciation": "/slaɪd/",
+    "banglaPronunciation": "স্লাইড",
+    "meaning": "A smooth ramp used for sliding down.",
+    "banglaMeaning": "স্লাইড",
+    "syllables": [
+      "slide"
+    ],
+    "example": "The kids went down the slide.",
+    "hint": "Silent E makes the I long.",
+    "image": "/images/level4/slide.webp"
+  },
+  {
+    "id": "lvl4-048",
+    "level": 4,
+    "order": 48,
+    "word": "fence",
+    "pronunciation": "/fɛns/",
+    "banglaPronunciation": "ফেন্স",
+    "meaning": "A barrier made of wood or wire around a place.",
+    "banglaMeaning": "বেড়া",
+    "syllables": [
+      "fence"
+    ],
+    "example": "A fence surrounds the garden.",
+    "hint": "The C sounds like S.",
+    "image": "/images/level4/fence.webp"
+  },
+  {
+    "id": "lvl4-049",
+    "level": 4,
+    "order": 49,
+    "word": "gate",
+    "pronunciation": "/ɡeɪt/",
+    "banglaPronunciation": "গেট",
+    "meaning": "A hinged barrier used to open or close an entrance.",
+    "banglaMeaning": "গেট",
+    "syllables": [
+      "gate"
+    ],
+    "example": "She opened the gate to the yard.",
+    "hint": "Starts with G, silent E makes the A long.",
+    "image": "/images/level4/gate.webp"
+  },
+  {
+    "id": "lvl4-050",
+    "level": 4,
+    "order": 50,
+    "word": "bridge",
+    "pronunciation": "/brɪdʒ/",
+    "banglaPronunciation": "ব্রিজ",
+    "meaning": "A structure built over a river or road.",
+    "banglaMeaning": "সেতু",
+    "syllables": [
+      "bridge"
+    ],
+    "example": "We crossed the bridge to the other side.",
+    "hint": "The DG makes a J sound.",
+    "image": "/images/level4/bridge.webp"
+  },
+  {
+    "id": "lvl4-051",
+    "level": 4,
+    "order": 51,
+    "word": "stone",
+    "pronunciation": "/stoʊn/",
+    "banglaPronunciation": "স্টোন",
+    "meaning": "A small piece of rock.",
+    "banglaMeaning": "পাথর",
+    "syllables": [
+      "stone"
+    ],
+    "example": "He threw a stone into the pond.",
+    "hint": "Silent E, rhymes with \"bone\".",
+    "image": "/images/level4/stone.webp"
+  },
+  {
+    "id": "lvl4-052",
+    "level": 4,
+    "order": 52,
+    "word": "rock",
+    "pronunciation": "/rɒk/",
+    "banglaPronunciation": "রক",
+    "meaning": "A large, hard piece of mineral.",
+    "banglaMeaning": "পাথরখণ্ড",
+    "syllables": [
+      "rock"
+    ],
+    "example": "The children climbed on the big rock.",
+    "hint": "Rhymes with \"sock\".",
+    "image": "/images/level4/rock.webp"
+  },
+  {
+    "id": "lvl4-053",
+    "level": 4,
+    "order": 53,
+    "word": "sand",
+    "pronunciation": "/sænd/",
+    "banglaPronunciation": "স্যান্ড",
+    "meaning": "Tiny grains of rock found on beaches.",
+    "banglaMeaning": "বালি",
+    "syllables": [
+      "sand"
+    ],
+    "example": "The children built castles in the sand.",
+    "hint": "Rhymes with \"hand\".",
+    "image": "/images/level4/sand.webp"
+  },
+  {
+    "id": "lvl4-054",
+    "level": 4,
+    "order": 54,
+    "word": "hill",
+    "pronunciation": "/hɪl/",
+    "banglaPronunciation": "হিল",
+    "meaning": "A small, raised piece of land.",
+    "banglaMeaning": "পাহাড়ি টিলা",
+    "syllables": [
+      "hill"
+    ],
+    "example": "They walked up the hill.",
+    "hint": "Starts with H, double L at the end.",
+    "image": "/images/level4/hill.webp"
+  },
+  {
+    "id": "lvl4-055",
+    "level": 4,
+    "order": 55,
+    "word": "pond",
+    "pronunciation": "/pɒnd/",
+    "banglaPronunciation": "পন্ড",
+    "meaning": "A small area of still water.",
+    "banglaMeaning": "পুকুর",
+    "syllables": [
+      "pond"
+    ],
+    "example": "Ducks swim in the pond.",
+    "hint": "Rhymes with \"fond\".",
+    "image": "/images/level4/pond.webp"
+  },
+  {
+    "id": "lvl4-056",
+    "level": 4,
+    "order": 56,
+    "word": "lake",
+    "pronunciation": "/leɪk/",
+    "banglaPronunciation": "লেক",
+    "meaning": "A large area of water surrounded by land.",
+    "banglaMeaning": "হ্রদ",
+    "syllables": [
+      "lake"
+    ],
+    "example": "We went boating on the lake.",
+    "hint": "Starts with L, silent E makes the A long.",
+    "image": "/images/level4/lake.webp"
+  },
+  {
+    "id": "lvl4-057",
+    "level": 4,
+    "order": 57,
+    "word": "wave",
+    "pronunciation": "/weɪv/",
+    "banglaPronunciation": "ওয়েভ",
+    "meaning": "A moving ridge of water in the sea.",
+    "banglaMeaning": "ঢেউ",
+    "syllables": [
+      "wave"
+    ],
+    "example": "The wave crashed on the shore.",
+    "hint": "Starts with W, silent E makes the A long.",
+    "image": "/images/level4/wave.webp"
+  },
+  {
+    "id": "lvl4-058",
+    "level": 4,
+    "order": 58,
+    "word": "branch",
+    "pronunciation": "/bræntʃ/",
+    "banglaPronunciation": "ব্রাঞ্চ",
+    "meaning": "A part of a tree that grows from the trunk.",
+    "banglaMeaning": "গাছের ডাল",
+    "syllables": [
+      "branch"
+    ],
+    "example": "A bird sat on the branch.",
+    "hint": "Ends with -anch, not -antch.",
+    "image": "/images/level4/branch.webp"
+  },
+  {
+    "id": "lvl4-059",
+    "level": 4,
+    "order": 59,
+    "word": "root",
+    "pronunciation": "/ruːt/",
+    "banglaPronunciation": "রুট",
+    "meaning": "The part of a plant that grows underground.",
+    "banglaMeaning": "শিকড়",
+    "syllables": [
+      "root"
+    ],
+    "example": "The root holds the tree in the ground.",
+    "hint": "Starts with R, double O makes the long \"oo\" sound.",
+    "image": "/images/level4/root.webp"
+  },
+  {
+    "id": "lvl4-060",
+    "level": 4,
+    "order": 60,
+    "word": "seed",
+    "pronunciation": "/siːd/",
+    "banglaPronunciation": "সিড",
+    "meaning": "A small object from which a plant grows.",
+    "banglaMeaning": "বীজ",
+    "syllables": [
+      "seed"
+    ],
+    "example": "She planted a seed in the garden.",
+    "hint": "Starts with SE, double E sound.",
+    "image": "/images/level4/seed.webp"
+  },
+  {
+    "id": "lvl4-061",
+    "level": 4,
+    "order": 61,
+    "word": "soil",
+    "pronunciation": "/sɔɪl/",
+    "banglaPronunciation": "সয়েল",
+    "meaning": "The top layer of earth where plants grow.",
+    "banglaMeaning": "মাটি",
+    "syllables": [
+      "soil"
+    ],
+    "example": "Plants grow well in rich soil.",
+    "hint": "Rhymes with \"boil\".",
+    "image": "/images/level4/soil.webp"
+  },
+  {
+    "id": "lvl4-062",
+    "level": 4,
+    "order": 62,
+    "word": "mud",
+    "pronunciation": "/mʌd/",
+    "banglaPronunciation": "মাড",
+    "meaning": "Wet, soft earth.",
+    "banglaMeaning": "কাদা",
+    "syllables": [
+      "mud"
+    ],
+    "example": "The pig rolled in the mud.",
+    "hint": "Rhymes with \"bud\".",
+    "image": "/images/level4/mud.webp"
+  },
+  {
+    "id": "lvl4-063",
+    "level": 4,
+    "order": 63,
+    "word": "puddle",
+    "pronunciation": "/ˈpʌd.l̩/",
+    "banglaPronunciation": "পাডল",
+    "meaning": "A small pool of water on the ground.",
+    "banglaMeaning": "জলের ছোট গর্ত",
+    "syllables": [
+      "pud",
+      "dle"
+    ],
+    "example": "He jumped over the puddle.",
+    "hint": "Ends with -uddle, double D in the middle.",
+    "image": "/images/level4/puddle.webp"
+  },
+  {
+    "id": "lvl4-064",
+    "level": 4,
+    "order": 64,
+    "word": "rainbow",
+    "pronunciation": "/ˈreɪn.boʊ/",
+    "banglaPronunciation": "রেইনবো",
+    "meaning": "An arc of colors seen after rain.",
+    "banglaMeaning": "রংধনু",
+    "syllables": [
+      "rain",
+      "bow"
+    ],
+    "example": "We saw a rainbow after the storm.",
+    "hint": "Two words joined: rain + bow.",
+    "image": "/images/level4/rainbow.webp"
+  },
+  {
+    "id": "lvl4-065",
+    "level": 4,
+    "order": 65,
+    "word": "thunder",
+    "pronunciation": "/ˈθʌn.dər/",
+    "banglaPronunciation": "থান্ডার",
+    "meaning": "A loud sound that follows lightning.",
+    "banglaMeaning": "বজ্রধ্বনি",
+    "syllables": [
+      "thun",
+      "der"
+    ],
+    "example": "The thunder scared the puppy.",
+    "hint": "Starts with TH like \"think\".",
+    "image": "/images/level4/thunder.webp"
+  },
+  {
+    "id": "lvl4-066",
+    "level": 4,
+    "order": 66,
+    "word": "lightning",
+    "pronunciation": "/ˈlaɪt.nɪŋ/",
+    "banglaPronunciation": "লাইটনিং",
+    "meaning": "A bright flash of light in the sky during a storm.",
+    "banglaMeaning": "বিদ্যুৎ চমক",
+    "syllables": [
+      "light",
+      "ning"
+    ],
+    "example": "Lightning lit up the dark sky.",
+    "hint": "Contains the word \"light\".",
+    "image": "/images/level4/lightning.webp"
+  },
+  {
+    "id": "lvl4-067",
+    "level": 4,
+    "order": 67,
+    "word": "storm",
+    "pronunciation": "/stɔːrm/",
+    "banglaPronunciation": "স্টর্ম",
+    "meaning": "Very bad weather with strong wind and rain.",
+    "banglaMeaning": "ঝড়",
+    "syllables": [
+      "storm"
+    ],
+    "example": "A storm is coming, take shelter.",
+    "hint": "Rhymes with \"form\".",
+    "image": "/images/level4/storm.webp"
+  },
+  {
+    "id": "lvl4-068",
+    "level": 4,
+    "order": 68,
+    "word": "fog",
+    "pronunciation": "/fɒɡ/",
+    "banglaPronunciation": "ফগ",
+    "meaning": "A thick cloud of tiny water drops near the ground.",
+    "banglaMeaning": "কুয়াশা",
+    "syllables": [
+      "fog"
+    ],
+    "example": "We could not see far in the fog.",
+    "hint": "Rhymes with \"dog\".",
+    "image": "/images/level4/fog.webp"
+  },
+  {
+    "id": "lvl4-069",
+    "level": 4,
+    "order": 69,
+    "word": "dew",
+    "pronunciation": "/djuː/",
+    "banglaPronunciation": "ডিউ",
+    "meaning": "Small drops of water on grass in the morning.",
+    "banglaMeaning": "শিশির",
+    "syllables": [
+      "dew"
+    ],
+    "example": "The grass was wet with morning dew.",
+    "hint": "Sounds like the letters \"D-U\".",
+    "image": "/images/level4/dew.webp"
+  },
+  {
+    "id": "lvl4-070",
+    "level": 4,
+    "order": 70,
+    "word": "pebble",
+    "pronunciation": "/ˈpɛb.l̩/",
+    "banglaPronunciation": "পেবল",
+    "meaning": "A small, smooth stone.",
+    "banglaMeaning": "নুড়ি পাথর",
+    "syllables": [
+      "peb",
+      "ble"
+    ],
+    "example": "She skipped a pebble across the lake.",
+    "hint": "Double B in the middle.",
+    "image": "/images/level4/pebble.webp"
+  },
+  {
+    "id": "lvl4-071",
+    "level": 4,
+    "order": 71,
+    "word": "truck",
+    "pronunciation": "/trʌk/",
+    "banglaPronunciation": "ট্রাক",
+    "meaning": "A large vehicle used to carry goods.",
+    "banglaMeaning": "ট্রাক",
+    "syllables": [
+      "truck"
+    ],
+    "example": "The truck carried boxes to the shop.",
+    "hint": "Rhymes with \"duck\".",
+    "image": "/images/level4/truck.webp"
+  },
+  {
+    "id": "lvl4-072",
+    "level": 4,
+    "order": 72,
+    "word": "train",
+    "pronunciation": "/treɪn/",
+    "banglaPronunciation": "ট্রেন",
+    "meaning": "A line of connected cars that runs on tracks.",
+    "banglaMeaning": "ট্রেন",
+    "syllables": [
+      "train"
+    ],
+    "example": "We traveled by train to the city.",
+    "hint": "The AI makes the long A sound.",
+    "image": "/images/level4/train.webp"
+  },
+  {
+    "id": "lvl4-073",
+    "level": 4,
+    "order": 73,
+    "word": "boat",
+    "pronunciation": "/boʊt/",
+    "banglaPronunciation": "বোট",
+    "meaning": "A small vehicle that travels on water.",
+    "banglaMeaning": "নৌকা",
+    "syllables": [
+      "boat"
+    ],
+    "example": "They rowed the boat across the river.",
+    "hint": "The OA makes the long O sound.",
+    "image": "/images/level4/boat.webp"
+  },
+  {
+    "id": "lvl4-074",
+    "level": 4,
+    "order": 74,
+    "word": "ship",
+    "pronunciation": "/ʃɪp/",
+    "banglaPronunciation": "শিপ",
+    "meaning": "A large vehicle that travels on the sea.",
+    "banglaMeaning": "জাহাজ",
+    "syllables": [
+      "ship"
+    ],
+    "example": "The ship sailed across the ocean.",
+    "hint": "Rhymes with \"trip\".",
+    "image": "/images/level4/ship.webp"
+  },
+  {
+    "id": "lvl4-075",
+    "level": 4,
+    "order": 75,
+    "word": "plane",
+    "pronunciation": "/pleɪn/",
+    "banglaPronunciation": "প্লেন",
+    "meaning": "A vehicle that flies through the air.",
+    "banglaMeaning": "বিমান",
+    "syllables": [
+      "plane"
+    ],
+    "example": "We flew to Dhaka by plane.",
+    "hint": "Starts with PL, silent E makes the A long.",
+    "image": "/images/level4/plane.webp"
+  },
+  {
+    "id": "lvl4-076",
+    "level": 4,
+    "order": 76,
+    "word": "helicopter",
+    "pronunciation": "/ˈhɛl.ɪ.kɒp.tər/",
+    "banglaPronunciation": "হেলিকপ্টার",
+    "meaning": "An aircraft with spinning blades on top.",
+    "banglaMeaning": "হেলিকপ্টার",
+    "syllables": [
+      "hel",
+      "i",
+      "cop",
+      "ter"
+    ],
+    "example": "The helicopter landed on the roof.",
+    "hint": "Long word — break it into four parts.",
+    "image": "/images/level4/helicopter.webp"
+  },
+  {
+    "id": "lvl4-077",
+    "level": 4,
+    "order": 77,
+    "word": "bicycle",
+    "pronunciation": "/ˈbaɪ.sɪ.kl̩/",
+    "banglaPronunciation": "বাইসাইকেল",
+    "meaning": "A two-wheeled vehicle you pedal.",
+    "banglaMeaning": "সাইকেল",
+    "syllables": [
+      "bi",
+      "cy",
+      "cle"
+    ],
+    "example": "She rides her bicycle to school.",
+    "hint": "Starts with BI, meaning \"two\".",
+    "image": "/images/level4/bicycle.webp"
+  },
+  {
+    "id": "lvl4-078",
+    "level": 4,
+    "order": 78,
+    "word": "motorcycle",
+    "pronunciation": "/ˈmoʊ.tər.saɪ.kl̩/",
+    "banglaPronunciation": "মোটরসাইকেল",
+    "meaning": "A two-wheeled vehicle with an engine.",
+    "banglaMeaning": "মোটরসাইকেল",
+    "syllables": [
+      "mo",
+      "tor",
+      "cy",
+      "cle"
+    ],
+    "example": "He rides a motorcycle to work.",
+    "hint": "Contains the words \"motor\" and \"cycle\".",
+    "image": "/images/level4/motorcycle.webp"
+  },
+  {
+    "id": "lvl4-079",
+    "level": 4,
+    "order": 79,
+    "word": "scooter",
+    "pronunciation": "/ˈskuː.tər/",
+    "banglaPronunciation": "স্কুটার",
+    "meaning": "A small vehicle with two wheels and a footboard.",
+    "banglaMeaning": "স্কুটার",
+    "syllables": [
+      "scoot",
+      "er"
+    ],
+    "example": "The child rode a scooter in the park.",
+    "hint": "Contains the word \"scoot\", double O sound.",
+    "image": "/images/level4/scooter.webp"
+  },
+  {
+    "id": "lvl4-080",
+    "level": 4,
+    "order": 80,
+    "word": "wheel",
+    "pronunciation": "/wiːl/",
+    "banglaPronunciation": "হুইল",
+    "meaning": "A round object that turns to make things move.",
+    "banglaMeaning": "চাকা",
+    "syllables": [
+      "wheel"
+    ],
+    "example": "The car has four wheels.",
+    "hint": "Silent W, rhymes with \"feel\".",
+    "image": "/images/level4/wheel.webp"
+  },
+  {
+    "id": "lvl4-081",
+    "level": 4,
+    "order": 81,
+    "word": "engine",
+    "pronunciation": "/ˈɛn.dʒɪn/",
+    "banglaPronunciation": "ইঞ্জিন",
+    "meaning": "The part of a vehicle that makes it move.",
+    "banglaMeaning": "ইঞ্জিন",
+    "syllables": [
+      "en",
+      "gine"
+    ],
+    "example": "The engine started with a loud noise.",
+    "hint": "The G sounds like J, ends in -gine.",
+    "image": "/images/level4/engine.webp"
+  },
+  {
+    "id": "lvl4-082",
+    "level": 4,
+    "order": 82,
+    "word": "brake",
+    "pronunciation": "/breɪk/",
+    "banglaPronunciation": "ব্রেক",
+    "meaning": "A device used to slow or stop a vehicle.",
+    "banglaMeaning": "ব্রেক",
+    "syllables": [
+      "brake"
+    ],
+    "example": "She pressed the brake to stop the car.",
+    "hint": "Silent E, sounds the same as \"break\".",
+    "image": "/images/level4/brake.webp"
+  },
+  {
+    "id": "lvl4-083",
+    "level": 4,
+    "order": 83,
+    "word": "rope",
+    "pronunciation": "/roʊp/",
+    "banglaPronunciation": "রোপ",
+    "meaning": "A thick, strong cord.",
+    "banglaMeaning": "দড়ি",
+    "syllables": [
+      "rope"
+    ],
+    "example": "They tied the boat with a rope.",
+    "hint": "Silent E, rhymes with \"hope\".",
+    "image": "/images/level4/rope.webp"
+  },
+  {
+    "id": "lvl4-084",
+    "level": 4,
+    "order": 84,
+    "word": "chain",
+    "pronunciation": "/tʃeɪn/",
+    "banglaPronunciation": "চেইন",
+    "meaning": "A series of connected metal rings.",
+    "banglaMeaning": "শিকল",
+    "syllables": [
+      "chain"
+    ],
+    "example": "The dog was tied with a chain.",
+    "hint": "Starts with CH, the AI makes the long A sound.",
+    "image": "/images/level4/chain.webp"
+  },
+  {
+    "id": "lvl4-085",
+    "level": 4,
+    "order": 85,
+    "word": "lock",
+    "pronunciation": "/lɒk/",
+    "banglaPronunciation": "লক",
+    "meaning": "A device used to fasten something shut.",
+    "banglaMeaning": "তালা",
+    "syllables": [
+      "lock"
+    ],
+    "example": "She put a lock on the door.",
+    "hint": "Rhymes with \"rock\".",
+    "image": "/images/level4/lock.webp"
+  },
+  {
+    "id": "lvl4-086",
+    "level": 4,
+    "order": 86,
+    "word": "sweater",
+    "pronunciation": "/ˈswɛt.ər/",
+    "banglaPronunciation": "সোয়েটার",
+    "meaning": "A warm knitted piece of clothing.",
+    "banglaMeaning": "সোয়েটার",
+    "syllables": [
+      "sweat",
+      "er"
+    ],
+    "example": "He wore a sweater in winter.",
+    "hint": "Contains the word \"sweat\".",
+    "image": "/images/level4/sweater.webp"
+  },
+  {
+    "id": "lvl4-087",
+    "level": 4,
+    "order": 87,
+    "word": "scarf",
+    "pronunciation": "/skɑːrf/",
+    "banglaPronunciation": "স্কার্ফ",
+    "meaning": "A piece of cloth worn around the neck.",
+    "banglaMeaning": "স্কার্ফ",
+    "syllables": [
+      "scarf"
+    ],
+    "example": "She wrapped a scarf around her neck.",
+    "hint": "Ends with -arf, like \"barf\" but for clothes.",
+    "image": "/images/level4/scarf.webp"
+  },
+  {
+    "id": "lvl4-088",
+    "level": 4,
+    "order": 88,
+    "word": "glove",
+    "pronunciation": "/ɡlʌv/",
+    "banglaPronunciation": "গ্লাভ",
+    "meaning": "A covering worn on the hand.",
+    "banglaMeaning": "দস্তানা",
+    "syllables": [
+      "glove"
+    ],
+    "example": "He wore gloves to keep his hands warm.",
+    "hint": "Rhymes with \"love\", not \"cove\".",
+    "image": "/images/level4/glove.webp"
+  },
+  {
+    "id": "lvl4-089",
+    "level": 4,
+    "order": 89,
+    "word": "boot",
+    "pronunciation": "/buːt/",
+    "banglaPronunciation": "বুট",
+    "meaning": "A strong shoe that covers the ankle.",
+    "banglaMeaning": "বুট জুতা",
+    "syllables": [
+      "boot"
+    ],
+    "example": "He wore boots in the rain.",
+    "hint": "Starts with B, double O sound, rhymes with \"root\".",
+    "image": "/images/level4/boot.webp"
+  },
+  {
+    "id": "lvl4-090",
+    "level": 4,
+    "order": 90,
+    "word": "belt",
+    "pronunciation": "/bɛlt/",
+    "banglaPronunciation": "বেল্ট",
+    "meaning": "A strip worn around the waist.",
+    "banglaMeaning": "বেল্ট",
+    "syllables": [
+      "belt"
+    ],
+    "example": "He wore a leather belt.",
+    "hint": "Rhymes with \"felt\".",
+    "image": "/images/level4/belt.webp"
+  },
+  {
+    "id": "lvl4-091",
+    "level": 4,
+    "order": 91,
+    "word": "button",
+    "pronunciation": "/ˈbʌt.ən/",
+    "banglaPronunciation": "বাটন",
+    "meaning": "A small disc used to fasten clothing.",
+    "banglaMeaning": "বোতাম",
+    "syllables": [
+      "but",
+      "ton"
+    ],
+    "example": "She fastened the button on her shirt.",
+    "hint": "Double T, rhymes with \"mutton\".",
+    "image": "/images/level4/button.webp"
+  },
+  {
+    "id": "lvl4-092",
+    "level": 4,
+    "order": 92,
+    "word": "zipper",
+    "pronunciation": "/ˈzɪp.ər/",
+    "banglaPronunciation": "জিপার",
+    "meaning": "A fastener with two rows of teeth.",
+    "banglaMeaning": "জিপার",
+    "syllables": [
+      "zip",
+      "per"
+    ],
+    "example": "He pulled up the zipper on his jacket.",
+    "hint": "Contains the word \"zip\".",
+    "image": "/images/level4/zipper.webp"
+  },
+  {
+    "id": "lvl4-093",
+    "level": 4,
+    "order": 93,
+    "word": "umbrella",
+    "pronunciation": "/ʌmˈbrɛl.ə/",
+    "banglaPronunciation": "আমব্রেলা",
+    "meaning": "A device used to protect from rain.",
+    "banglaMeaning": "ছাতা",
+    "syllables": [
+      "um",
+      "brel",
+      "la"
+    ],
+    "example": "She opened her umbrella in the rain.",
+    "hint": "Double L near the end.",
+    "image": "/images/level4/umbrella.webp"
+  },
+  {
+    "id": "lvl4-094",
+    "level": 4,
+    "order": 94,
+    "word": "wallet",
+    "pronunciation": "/ˈwɒl.ɪt/",
+    "banglaPronunciation": "ওয়ালেট",
+    "meaning": "A small case for carrying money.",
+    "banglaMeaning": "মানিব্যাগ",
+    "syllables": [
+      "wal",
+      "let"
+    ],
+    "example": "He kept his money in a wallet.",
+    "hint": "Starts with WAL, like \"wall\".",
+    "image": "/images/level4/wallet.webp"
+  },
+  {
+    "id": "lvl4-095",
+    "level": 4,
+    "order": 95,
+    "word": "purse",
+    "pronunciation": "/pɜːrs/",
+    "banglaPronunciation": "পার্স",
+    "meaning": "A small bag for carrying money and items.",
+    "banglaMeaning": "পার্স",
+    "syllables": [
+      "purse"
+    ],
+    "example": "She carried her keys in her purse.",
+    "hint": "Rhymes with \"nurse\".",
+    "image": "/images/level4/purse.webp"
+  },
+  {
+    "id": "lvl4-096",
+    "level": 4,
+    "order": 96,
+    "word": "watch",
+    "pronunciation": "/wɒtʃ/",
+    "banglaPronunciation": "ওয়াচ",
+    "meaning": "A small device worn to tell the time.",
+    "banglaMeaning": "ঘড়ি",
+    "syllables": [
+      "watch"
+    ],
+    "example": "He checked the time on his watch.",
+    "hint": "Rhymes with \"blotch\".",
+    "image": "/images/level4/watch.webp"
+  },
+  {
+    "id": "lvl4-097",
+    "level": 4,
+    "order": 97,
+    "word": "necklace",
+    "pronunciation": "/ˈnɛk.lɪs/",
+    "banglaPronunciation": "নেকলেস",
+    "meaning": "A piece of jewelry worn around the neck.",
+    "banglaMeaning": "গলার হার",
+    "syllables": [
+      "neck",
+      "lace"
+    ],
+    "example": "She wore a gold necklace.",
+    "hint": "Contains the words \"neck\" and \"lace\".",
+    "image": "/images/level4/necklace.webp"
+  },
+  {
+    "id": "lvl4-098",
+    "level": 4,
+    "order": 98,
+    "word": "bracelet",
+    "pronunciation": "/ˈbreɪ.slɪt/",
+    "banglaPronunciation": "ব্রেসলেট",
+    "meaning": "A piece of jewelry worn on the wrist.",
+    "banglaMeaning": "হাতের বালা",
+    "syllables": [
+      "brace",
+      "let"
+    ],
+    "example": "She wore a silver bracelet.",
+    "hint": "Contains the word \"brace\".",
+    "image": "/images/level4/bracelet.webp"
+  },
+  {
+    "id": "lvl4-099",
+    "level": 4,
+    "order": 99,
+    "word": "hairbrush",
+    "pronunciation": "/ˈhɛr.brʌʃ/",
+    "banglaPronunciation": "হেয়ারব্রাশ",
+    "meaning": "A brush used to tidy hair.",
+    "banglaMeaning": "চুলের ব্রাশ",
+    "syllables": [
+      "hair",
+      "brush"
+    ],
+    "example": "She used a hairbrush every morning.",
+    "hint": "Two words joined: hair + brush.",
+    "image": "/images/level4/hairbrush.webp"
+  },
+  {
+    "id": "lvl4-100",
+    "level": 4,
+    "order": 100,
+    "word": "helmet",
+    "pronunciation": "/ˈhɛl.mɪt/",
+    "banglaPronunciation": "হেলমেট",
+    "meaning": "A hard hat worn to protect the head.",
+    "banglaMeaning": "হেলমেট",
+    "syllables": [
+      "hel",
+      "met"
+    ],
+    "example": "He wore a helmet while riding his bike.",
+    "hint": "Starts with HEL, ends with -met.",
+    "image": "/images/level4/helmet.webp"
+  },
+  {
+    "id": "lvl4-101",
+    "level": 4,
+    "order": 101,
+    "word": "clap",
+    "pronunciation": "/klæp/",
+    "banglaPronunciation": "ক্ল্যাপ",
+    "meaning": "To strike your hands together.",
+    "banglaMeaning": "হাততালি দেওয়া",
+    "syllables": [
+      "clap"
+    ],
+    "example": "The crowd began to clap.",
+    "hint": "Rhymes with \"map\".",
+    "image": "/images/level4/clap.webp"
+  },
+  {
+    "id": "lvl4-102",
+    "level": 4,
+    "order": 102,
+    "word": "point",
+    "pronunciation": "/pɔɪnt/",
+    "banglaPronunciation": "পয়েন্ট",
+    "meaning": "To show something with your finger.",
+    "banglaMeaning": "আঙুল দিয়ে দেখানো",
+    "syllables": [
+      "point"
+    ],
+    "example": "She pointed at the map.",
+    "hint": "Rhymes with \"joint\".",
+    "image": "/images/level4/point.webp"
+  },
+  {
+    "id": "lvl4-103",
+    "level": 4,
+    "order": 103,
+    "word": "wink",
+    "pronunciation": "/wɪŋk/",
+    "banglaPronunciation": "উইঙ্ক",
+    "meaning": "To close and open one eye quickly.",
+    "banglaMeaning": "চোখ টেপা",
+    "syllables": [
+      "wink"
+    ],
+    "example": "He gave her a friendly wink.",
+    "hint": "Rhymes with \"pink\".",
+    "image": "/images/level4/wink.webp"
+  },
+  {
+    "id": "lvl4-104",
+    "level": 4,
+    "order": 104,
+    "word": "blink",
+    "pronunciation": "/blɪŋk/",
+    "banglaPronunciation": "ব্লিঙ্ক",
+    "meaning": "To close and open both eyes quickly.",
+    "banglaMeaning": "চোখের পলক ফেলা",
+    "syllables": [
+      "blink"
+    ],
+    "example": "She blinked in the bright light.",
+    "hint": "Rhymes with \"think\".",
+    "image": "/images/level4/blink.webp"
+  },
+  {
+    "id": "lvl4-105",
+    "level": 4,
+    "order": 105,
+    "word": "nod",
+    "pronunciation": "/nɒd/",
+    "banglaPronunciation": "নড",
+    "meaning": "To move your head up and down.",
+    "banglaMeaning": "মাথা নাড়ানো",
+    "syllables": [
+      "nod"
+    ],
+    "example": "He nodded to say yes.",
+    "hint": "Rhymes with \"pod\".",
+    "image": "/images/level4/nod.webp"
+  },
+  {
+    "id": "lvl4-106",
+    "level": 4,
+    "order": 106,
+    "word": "shake",
+    "pronunciation": "/ʃeɪk/",
+    "banglaPronunciation": "শেইক",
+    "meaning": "To move quickly back and forth.",
+    "banglaMeaning": "ঝাঁকানো",
+    "syllables": [
+      "shake"
+    ],
+    "example": "She shook the bottle before opening it.",
+    "hint": "Starts with SH, silent E makes the A long.",
+    "image": "/images/level4/shake.webp"
+  },
+  {
+    "id": "lvl4-107",
+    "level": 4,
+    "order": 107,
+    "word": "spin",
+    "pronunciation": "/spɪn/",
+    "banglaPronunciation": "স্পিন",
+    "meaning": "To turn around quickly.",
+    "banglaMeaning": "ঘোরানো",
+    "syllables": [
+      "spin"
+    ],
+    "example": "The wheel began to spin fast.",
+    "hint": "Rhymes with \"pin\".",
+    "image": "/images/level4/spin.webp"
+  },
+  {
+    "id": "lvl4-108",
+    "level": 4,
+    "order": 108,
+    "word": "roll",
+    "pronunciation": "/roʊl/",
+    "banglaPronunciation": "রোল",
+    "meaning": "To move by turning over and over.",
+    "banglaMeaning": "গড়ানো",
+    "syllables": [
+      "roll"
+    ],
+    "example": "The ball rolled down the hill.",
+    "hint": "Starts with R, double L at the end.",
+    "image": "/images/level4/roll.webp"
+  },
+  {
+    "id": "lvl4-109",
+    "level": 4,
+    "order": 109,
+    "word": "tumble",
+    "pronunciation": "/ˈtʌm.bl̩/",
+    "banglaPronunciation": "টাম্বল",
+    "meaning": "To fall clumsily.",
+    "banglaMeaning": "হুমড়ি খেয়ে পড়া",
+    "syllables": [
+      "tum",
+      "ble"
+    ],
+    "example": "He tripped and tumbled down the stairs.",
+    "hint": "Ends with -umble like \"stumble\".",
+    "image": "/images/level4/tumble.webp"
+  },
+  {
+    "id": "lvl4-110",
+    "level": 4,
+    "order": 110,
+    "word": "crawl",
+    "pronunciation": "/krɔːl/",
+    "banglaPronunciation": "ক্রল",
+    "meaning": "To move slowly on hands and knees.",
+    "banglaMeaning": "হামাগুড়ি দেওয়া",
+    "syllables": [
+      "crawl"
+    ],
+    "example": "The baby began to crawl.",
+    "hint": "Rhymes with \"ball\", not \"owl\".",
+    "image": "/images/level4/crawl.webp"
+  },
+  {
+    "id": "lvl4-111",
+    "level": 4,
+    "order": 111,
+    "word": "sway",
+    "pronunciation": "/sweɪ/",
+    "banglaPronunciation": "সোয়ে",
+    "meaning": "To move slowly from side to side.",
+    "banglaMeaning": "দোলা",
+    "syllables": [
+      "sway"
+    ],
+    "example": "The trees swayed in the wind.",
+    "hint": "Rhymes with \"way\".",
+    "image": "/images/level4/sway.webp"
+  },
+  {
+    "id": "lvl4-112",
+    "level": 4,
+    "order": 112,
+    "word": "bounce",
+    "pronunciation": "/baʊns/",
+    "banglaPronunciation": "বাউন্স",
+    "meaning": "To spring back after hitting something.",
+    "banglaMeaning": "লাফানো",
+    "syllables": [
+      "bounce"
+    ],
+    "example": "The ball bounced off the wall.",
+    "hint": "The C makes an S sound.",
+    "image": "/images/level4/bounce.webp"
+  },
+  {
+    "id": "lvl4-113",
+    "level": 4,
+    "order": 113,
+    "word": "stretch",
+    "pronunciation": "/strɛtʃ/",
+    "banglaPronunciation": "স্ট্রেচ",
+    "meaning": "To make your body longer or wider.",
+    "banglaMeaning": "শরীর টানটান করা",
+    "syllables": [
+      "stretch"
+    ],
+    "example": "She stretched before running.",
+    "hint": "Ends with -etch like \"fetch\".",
+    "image": "/images/level4/stretch.webp"
+  },
+  {
+    "id": "lvl4-114",
+    "level": 4,
+    "order": 114,
+    "word": "bend",
+    "pronunciation": "/bɛnd/",
+    "banglaPronunciation": "বেন্ড",
+    "meaning": "To curve or fold something.",
+    "banglaMeaning": "বাঁকানো",
+    "syllables": [
+      "bend"
+    ],
+    "example": "He bent down to tie his shoes.",
+    "hint": "Rhymes with \"send\".",
+    "image": "/images/level4/bend.webp"
+  },
+  {
+    "id": "lvl4-115",
+    "level": 4,
+    "order": 115,
+    "word": "twist",
+    "pronunciation": "/twɪst/",
+    "banglaPronunciation": "টুইস্ট",
+    "meaning": "To turn something around and around.",
+    "banglaMeaning": "পাকানো",
+    "syllables": [
+      "twist"
+    ],
+    "example": "She twisted the lid to open the jar.",
+    "hint": "Rhymes with \"fist\".",
+    "image": "/images/level4/twist.webp"
+  },
+  {
+    "id": "lvl4-116",
+    "level": 4,
+    "order": 116,
+    "word": "turn",
+    "pronunciation": "/tɜːrn/",
+    "banglaPronunciation": "টার্ন",
+    "meaning": "To move in a different direction.",
+    "banglaMeaning": "ঘুরানো",
+    "syllables": [
+      "turn"
+    ],
+    "example": "Turn left at the corner.",
+    "hint": "Rhymes with \"burn\".",
+    "image": "/images/level4/turn.webp"
+  },
+  {
+    "id": "lvl4-117",
+    "level": 4,
+    "order": 117,
+    "word": "lift",
+    "pronunciation": "/lɪft/",
+    "banglaPronunciation": "লিফট",
+    "meaning": "To pick something up.",
+    "banglaMeaning": "তোলা",
+    "syllables": [
+      "lift"
+    ],
+    "example": "He lifted the heavy box.",
+    "hint": "Rhymes with \"gift\".",
+    "image": "/images/level4/lift.webp"
+  },
+  {
+    "id": "lvl4-118",
+    "level": 4,
+    "order": 118,
+    "word": "drop",
+    "pronunciation": "/drɒp/",
+    "banglaPronunciation": "ড্রপ",
+    "meaning": "To let something fall.",
+    "banglaMeaning": "ফেলে দেওয়া",
+    "syllables": [
+      "drop"
+    ],
+    "example": "She dropped the plate by accident.",
+    "hint": "Rhymes with \"stop\".",
+    "image": "/images/level4/drop.webp"
+  },
+  {
+    "id": "lvl4-119",
+    "level": 4,
+    "order": 119,
+    "word": "pour",
+    "pronunciation": "/pɔːr/",
+    "banglaPronunciation": "পোর",
+    "meaning": "To make liquid flow from a container.",
+    "banglaMeaning": "ঢালা",
+    "syllables": [
+      "pour"
+    ],
+    "example": "He poured water into the glass.",
+    "hint": "Rhymes with \"for\".",
+    "image": "/images/level4/pour.webp"
+  },
+  {
+    "id": "lvl4-120",
+    "level": 4,
+    "order": 120,
+    "word": "mix",
+    "pronunciation": "/mɪks/",
+    "banglaPronunciation": "মিক্স",
+    "meaning": "To combine two or more things together.",
+    "banglaMeaning": "মেশানো",
+    "syllables": [
+      "mix"
+    ],
+    "example": "She mixed the flour and sugar.",
+    "hint": "Rhymes with \"fix\".",
+    "image": "/images/level4/mix.webp"
+  },
+  {
+    "id": "lvl4-121",
+    "level": 4,
+    "order": 121,
+    "word": "stir",
+    "pronunciation": "/stɜːr/",
+    "banglaPronunciation": "স্টার",
+    "meaning": "To move a liquid around with a spoon.",
+    "banglaMeaning": "নাড়া দেওয়া",
+    "syllables": [
+      "stir"
+    ],
+    "example": "He stirred the soup with a spoon.",
+    "hint": "Rhymes with \"fur\".",
+    "image": "/images/level4/stir.webp"
+  },
+  {
+    "id": "lvl4-122",
+    "level": 4,
+    "order": 122,
+    "word": "chop",
+    "pronunciation": "/tʃɒp/",
+    "banglaPronunciation": "চপ",
+    "meaning": "To cut something into pieces with force.",
+    "banglaMeaning": "কেটে টুকরো করা",
+    "syllables": [
+      "chop"
+    ],
+    "example": "She chopped the vegetables.",
+    "hint": "Rhymes with \"stop\", starts with CH.",
+    "image": "/images/level4/chop.webp"
+  },
+  {
+    "id": "lvl4-123",
+    "level": 4,
+    "order": 123,
+    "word": "slice",
+    "pronunciation": "/slaɪs/",
+    "banglaPronunciation": "স্লাইস",
+    "meaning": "To cut something into thin pieces.",
+    "banglaMeaning": "পাতলা করে কাটা",
+    "syllables": [
+      "slice"
+    ],
+    "example": "He sliced the bread for breakfast.",
+    "hint": "Starts with SL, the C makes an S sound.",
+    "image": "/images/level4/slice.webp"
+  },
+  {
+    "id": "lvl4-124",
+    "level": 4,
+    "order": 124,
+    "word": "peel",
+    "pronunciation": "/piːl/",
+    "banglaPronunciation": "পিল",
+    "meaning": "To remove the skin of a fruit or vegetable.",
+    "banglaMeaning": "খোসা ছাড়ানো",
+    "syllables": [
+      "peel"
+    ],
+    "example": "She peeled the banana.",
+    "hint": "Starts with PEE, double E sound, ends in L.",
+    "image": "/images/level4/peel.webp"
+  },
+  {
+    "id": "lvl4-125",
+    "level": 4,
+    "order": 125,
+    "word": "boil",
+    "pronunciation": "/bɔɪl/",
+    "banglaPronunciation": "বয়েল",
+    "meaning": "To heat a liquid until it bubbles.",
+    "banglaMeaning": "ফুটানো",
+    "syllables": [
+      "boil"
+    ],
+    "example": "She boiled the water for tea.",
+    "hint": "Rhymes with \"oil\".",
+    "image": "/images/level4/boil.webp"
+  },
+  {
+    "id": "lvl4-126",
+    "level": 4,
+    "order": 126,
+    "word": "fry",
+    "pronunciation": "/fraɪ/",
+    "banglaPronunciation": "ফ্রাই",
+    "meaning": "To cook food in hot oil.",
+    "banglaMeaning": "ভাজা",
+    "syllables": [
+      "fry"
+    ],
+    "example": "Mom fried the eggs for breakfast.",
+    "hint": "Rhymes with \"try\".",
+    "image": "/images/level4/fry.webp"
+  },
+  {
+    "id": "lvl4-127",
+    "level": 4,
+    "order": 127,
+    "word": "bake",
+    "pronunciation": "/beɪk/",
+    "banglaPronunciation": "বেইক",
+    "meaning": "To cook food using dry heat in an oven.",
+    "banglaMeaning": "বেক করা",
+    "syllables": [
+      "bake"
+    ],
+    "example": "She baked a cake for the party.",
+    "hint": "Starts with B, silent E makes the A long.",
+    "image": "/images/level4/bake.webp"
+  },
+  {
+    "id": "lvl4-128",
+    "level": 4,
+    "order": 128,
+    "word": "grill",
+    "pronunciation": "/ɡrɪl/",
+    "banglaPronunciation": "গ্রিল",
+    "meaning": "To cook food over direct heat.",
+    "banglaMeaning": "গ্রিল করা",
+    "syllables": [
+      "grill"
+    ],
+    "example": "Dad grilled the fish outside.",
+    "hint": "Starts with GR, double L at the end.",
+    "image": "/images/level4/grill.webp"
+  },
+  {
+    "id": "lvl4-129",
+    "level": 4,
+    "order": 129,
+    "word": "taste",
+    "pronunciation": "/teɪst/",
+    "banglaPronunciation": "টেস্ট",
+    "meaning": "To try food to sense its flavor.",
+    "banglaMeaning": "স্বাদ নেওয়া",
+    "syllables": [
+      "taste"
+    ],
+    "example": "She tasted the soup before serving.",
+    "hint": "Starts with T, silent E makes the A long.",
+    "image": "/images/level4/taste.webp"
+  },
+  {
+    "id": "lvl4-130",
+    "level": 4,
+    "order": 130,
+    "word": "smell",
+    "pronunciation": "/smɛl/",
+    "banglaPronunciation": "স্মেল",
+    "meaning": "To sense something using your nose.",
+    "banglaMeaning": "গন্ধ শোঁকা",
+    "syllables": [
+      "smell"
+    ],
+    "example": "She could smell the fresh bread.",
+    "hint": "Starts with SM, double L at the end.",
+    "image": "/images/level4/smell.webp"
+  },
+  {
+    "id": "lvl4-131",
+    "level": 4,
+    "order": 131,
+    "word": "touch",
+    "pronunciation": "/tʌtʃ/",
+    "banglaPronunciation": "টাচ",
+    "meaning": "To put your hand on something.",
+    "banglaMeaning": "স্পর্শ করা",
+    "syllables": [
+      "touch"
+    ],
+    "example": "Please do not touch the paint.",
+    "hint": "Ends with -ouch but sounds like \"tuch\".",
+    "image": "/images/level4/touch.webp"
+  },
+  {
+    "id": "lvl4-132",
+    "level": 4,
+    "order": 132,
+    "word": "feel",
+    "pronunciation": "/fiːl/",
+    "banglaPronunciation": "ফিল",
+    "meaning": "To sense something through touch or emotion.",
+    "banglaMeaning": "অনুভব করা",
+    "syllables": [
+      "feel"
+    ],
+    "example": "She could feel the warmth of the sun.",
+    "hint": "Starts with F, double E sound.",
+    "image": "/images/level4/feel.webp"
+  },
+  {
+    "id": "lvl4-133",
+    "level": 4,
+    "order": 133,
+    "word": "look",
+    "pronunciation": "/lʊk/",
+    "banglaPronunciation": "লুক",
+    "meaning": "To direct your eyes toward something.",
+    "banglaMeaning": "তাকানো",
+    "syllables": [
+      "look"
+    ],
+    "example": "Look at the beautiful sunset.",
+    "hint": "Double O makes a short sound.",
+    "image": "/images/level4/look.webp"
+  },
+  {
+    "id": "lvl4-134",
+    "level": 4,
+    "order": 134,
+    "word": "gaze",
+    "pronunciation": "/ɡeɪz/",
+    "banglaPronunciation": "গেইজ",
+    "meaning": "To look steadily for a long time.",
+    "banglaMeaning": "একদৃষ্টিতে তাকানো",
+    "syllables": [
+      "gaze"
+    ],
+    "example": "She gazed at the stars.",
+    "hint": "Starts with GA, silent E makes the A long, ends in ZE.",
+    "image": "/images/level4/gaze.webp"
+  },
+  {
+    "id": "lvl4-135",
+    "level": 4,
+    "order": 135,
+    "word": "stare",
+    "pronunciation": "/stɛr/",
+    "banglaPronunciation": "স্টেয়ার",
+    "meaning": "To look fixedly without moving your eyes.",
+    "banglaMeaning": "হা করে তাকানো",
+    "syllables": [
+      "stare"
+    ],
+    "example": "He stared at the strange animal.",
+    "hint": "Silent E after \"star\".",
+    "image": "/images/level4/stare.webp"
+  },
+  {
+    "id": "lvl4-136",
+    "level": 4,
+    "order": 136,
+    "word": "glance",
+    "pronunciation": "/ɡlæns/",
+    "banglaPronunciation": "গ্ল্যান্স",
+    "meaning": "To take a quick look at something.",
+    "banglaMeaning": "চোখ বুলানো",
+    "syllables": [
+      "glance"
+    ],
+    "example": "She glanced at the clock.",
+    "hint": "Starts with GL, the C makes an S sound.",
+    "image": "/images/level4/glance.webp"
+  },
+  {
+    "id": "lvl4-137",
+    "level": 4,
+    "order": 137,
+    "word": "peek",
+    "pronunciation": "/piːk/",
+    "banglaPronunciation": "পিক",
+    "meaning": "To look quickly and secretly.",
+    "banglaMeaning": "উঁকি দেওয়া",
+    "syllables": [
+      "peek"
+    ],
+    "example": "He peeked through the curtain.",
+    "hint": "Starts with PEE, double E sound, ends in K.",
+    "image": "/images/level4/peek.webp"
+  },
+  {
+    "id": "lvl4-138",
+    "level": 4,
+    "order": 138,
+    "word": "whisper",
+    "pronunciation": "/ˈwɪs.pər/",
+    "banglaPronunciation": "হুইস্পার",
+    "meaning": "To speak very softly.",
+    "banglaMeaning": "ফিসফিস করে বলা",
+    "syllables": [
+      "whis",
+      "per"
+    ],
+    "example": "She whispered the secret to her friend.",
+    "hint": "Silent W, starts like \"whistle\".",
+    "image": "/images/level4/whisper.webp"
+  },
+  {
+    "id": "lvl4-139",
+    "level": 4,
+    "order": 139,
+    "word": "shout",
+    "pronunciation": "/ʃaʊt/",
+    "banglaPronunciation": "শাউট",
+    "meaning": "To speak or call very loudly.",
+    "banglaMeaning": "চিৎকার করা",
+    "syllables": [
+      "shout"
+    ],
+    "example": "He shouted for help.",
+    "hint": "Rhymes with \"out\".",
+    "image": "/images/level4/shout.webp"
+  },
+  {
+    "id": "lvl4-140",
+    "level": 4,
+    "order": 140,
+    "word": "yell",
+    "pronunciation": "/jɛl/",
+    "banglaPronunciation": "ইয়েল",
+    "meaning": "To shout loudly, often in anger or excitement.",
+    "banglaMeaning": "চেঁচানো",
+    "syllables": [
+      "yell"
+    ],
+    "example": "She yelled with joy at the surprise.",
+    "hint": "Starts with Y, double L at the end.",
+    "image": "/images/level4/yell.webp"
+  },
+  {
+    "id": "lvl4-141",
+    "level": 4,
+    "order": 141,
+    "word": "hum",
+    "pronunciation": "/hʌm/",
+    "banglaPronunciation": "হাম",
+    "meaning": "To sing quietly with your mouth closed.",
+    "banglaMeaning": "গুনগুন করা",
+    "syllables": [
+      "hum"
+    ],
+    "example": "She hummed a happy tune.",
+    "hint": "Rhymes with \"drum\".",
+    "image": "/images/level4/hum.webp"
+  },
+  {
+    "id": "lvl4-142",
+    "level": 4,
+    "order": 142,
+    "word": "whistle",
+    "pronunciation": "/ˈwɪs.l̩/",
+    "banglaPronunciation": "হুইসল",
+    "meaning": "To make a musical sound by blowing air through your lips.",
+    "banglaMeaning": "শিস দেওয়া",
+    "syllables": [
+      "whis",
+      "tle"
+    ],
+    "example": "He whistled a cheerful song.",
+    "hint": "Silent W and silent T.",
+    "image": "/images/level4/whistle.webp"
+  },
+  {
+    "id": "lvl4-143",
+    "level": 4,
+    "order": 143,
+    "word": "cheer",
+    "pronunciation": "/tʃɪr/",
+    "banglaPronunciation": "চিয়ার",
+    "meaning": "To shout with joy or encouragement.",
+    "banglaMeaning": "উল্লাস করা",
+    "syllables": [
+      "cheer"
+    ],
+    "example": "The fans cheered for their team.",
+    "hint": "Starts with CH, double E sound.",
+    "image": "/images/level4/cheer.webp"
+  },
+  {
+    "id": "lvl4-144",
+    "level": 4,
+    "order": 144,
+    "word": "greet",
+    "pronunciation": "/ɡriːt/",
+    "banglaPronunciation": "গ্রিট",
+    "meaning": "To welcome someone with kind words.",
+    "banglaMeaning": "শুভেচ্ছা জানানো",
+    "syllables": [
+      "greet"
+    ],
+    "example": "She greeted her guests warmly.",
+    "hint": "Starts with GR, double E sound.",
+    "image": "/images/level4/greet.webp"
+  },
+  {
+    "id": "lvl4-145",
+    "level": 4,
+    "order": 145,
+    "word": "hug",
+    "pronunciation": "/hʌɡ/",
+    "banglaPronunciation": "হাগ",
+    "meaning": "To hold someone closely in your arms.",
+    "banglaMeaning": "জড়িয়ে ধরা",
+    "syllables": [
+      "hug"
+    ],
+    "example": "She gave her mom a big hug.",
+    "hint": "Rhymes with \"bug\".",
+    "image": "/images/level4/hug.webp"
+  },
+  {
+    "id": "lvl4-146",
+    "level": 4,
+    "order": 146,
+    "word": "kiss",
+    "pronunciation": "/kɪs/",
+    "banglaPronunciation": "কিস",
+    "meaning": "To touch someone gently with your lips.",
+    "banglaMeaning": "চুমু দেওয়া",
+    "syllables": [
+      "kiss"
+    ],
+    "example": "She kissed her baby goodnight.",
+    "hint": "Double S at the end.",
+    "image": "/images/level4/kiss.webp"
+  },
+  {
+    "id": "lvl4-147",
+    "level": 4,
+    "order": 147,
+    "word": "flutter",
+    "pronunciation": "/ˈflʌt.ər/",
+    "banglaPronunciation": "ফ্লাটার",
+    "meaning": "To move quickly and lightly in the air.",
+    "banglaMeaning": "পাখা ঝাপটানো",
+    "syllables": [
+      "flut",
+      "ter"
+    ],
+    "example": "The butterfly fluttered near the flower.",
+    "hint": "Double T, ends with -utter.",
+    "image": "/images/level4/flutter.webp"
+  },
+  {
+    "id": "lvl4-148",
+    "level": 4,
+    "order": 148,
+    "word": "sneeze",
+    "pronunciation": "/sniːz/",
+    "banglaPronunciation": "স্নিজ",
+    "meaning": "To force air out through your nose suddenly.",
+    "banglaMeaning": "হাঁচি দেওয়া",
+    "syllables": [
+      "sneeze"
+    ],
+    "example": "He sneezed because of the dust.",
+    "hint": "Starts with SN, double E sound.",
+    "image": "/images/level4/sneeze.webp"
+  },
+  {
+    "id": "lvl4-149",
+    "level": 4,
+    "order": 149,
+    "word": "cough",
+    "pronunciation": "/kɒf/",
+    "banglaPronunciation": "কফ",
+    "meaning": "To push air out of your throat suddenly and loudly.",
+    "banglaMeaning": "কাশি দেওয়া",
+    "syllables": [
+      "cough"
+    ],
+    "example": "She coughed because of the smoke.",
+    "hint": "The GH sounds like F.",
+    "image": "/images/level4/cough.webp"
+  },
+  {
+    "id": "lvl4-150",
+    "level": 4,
+    "order": 150,
+    "word": "yawn",
+    "pronunciation": "/jɔːn/",
+    "banglaPronunciation": "ইয়ন",
+    "meaning": "To open your mouth wide when tired.",
+    "banglaMeaning": "হাই তোলা",
+    "syllables": [
+      "yawn"
+    ],
+    "example": "He yawned during the long meeting.",
+    "hint": "Rhymes with \"lawn\".",
+    "image": "/images/level4/yawn.webp"
+  }
+]

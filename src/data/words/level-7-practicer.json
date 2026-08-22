@@ -1,0 +1,4458 @@
+[
+  {
+    "id": "lvl7-001",
+    "level": 7,
+    "order": 1,
+    "word": "accommodate",
+    "pronunciation": "/əˈkɒm.ə.deɪt/",
+    "banglaPronunciation": "অ্যাকমোডেট",
+    "meaning": "To provide space or lodging for someone.",
+    "banglaMeaning": "থাকার ব্যবস্থা করা",
+    "syllables": [
+      "ac",
+      "com",
+      "mo",
+      "date"
+    ],
+    "example": "The hotel can accommodate fifty guests.",
+    "hint": "Double C, double M — two pairs, not one.",
+    "image": "/images/level7/accommodate.webp"
+  },
+  {
+    "id": "lvl7-002",
+    "level": 7,
+    "order": 2,
+    "word": "achieve",
+    "pronunciation": "/əˈtʃiːv/",
+    "banglaPronunciation": "অ্যাচিভ",
+    "meaning": "To successfully complete or reach a goal.",
+    "banglaMeaning": "অর্জন করা",
+    "syllables": [
+      "a",
+      "chieve"
+    ],
+    "example": "She worked hard to achieve her dream.",
+    "hint": "I before E here — 'achieve' not 'acheive'.",
+    "image": "/images/level7/achieve.webp"
+  },
+  {
+    "id": "lvl7-003",
+    "level": 7,
+    "order": 3,
+    "word": "acquire",
+    "pronunciation": "/əˈkwaɪər/",
+    "banglaPronunciation": "অ্যাকোয়ায়ার",
+    "meaning": "To get or obtain something.",
+    "banglaMeaning": "অর্জন করা",
+    "syllables": [
+      "ac",
+      "quire"
+    ],
+    "example": "He wants to acquire new skills.",
+    "hint": "Has a silent C before the Q — 'acquire', not 'aquire'.",
+    "image": "/images/level7/acquire.webp"
+  },
+  {
+    "id": "lvl7-004",
+    "level": 7,
+    "order": 4,
+    "word": "address",
+    "pronunciation": "/əˈdrɛs/",
+    "banglaPronunciation": "অ্যাড্রেস",
+    "meaning": "The details of where someone lives.",
+    "banglaMeaning": "ঠিকানা",
+    "syllables": [
+      "ad",
+      "dress"
+    ],
+    "example": "Please write your address here.",
+    "hint": "Double D and double S.",
+    "image": "/images/level7/address.webp"
+  },
+  {
+    "id": "lvl7-005",
+    "level": 7,
+    "order": 5,
+    "word": "advertise",
+    "pronunciation": "/ˈæd.vər.taɪz/",
+    "banglaPronunciation": "অ্যাডভারটাইজ",
+    "meaning": "To tell people about a product publicly.",
+    "banglaMeaning": "বিজ্ঞাপন দেওয়া",
+    "syllables": [
+      "ad",
+      "ver",
+      "tise"
+    ],
+    "example": "The company will advertise its new phone.",
+    "hint": "Ends in -tise, not -tize.",
+    "image": "/images/level7/advertise.webp"
+  },
+  {
+    "id": "lvl7-006",
+    "level": 7,
+    "order": 6,
+    "word": "advice",
+    "pronunciation": "/ədˈvaɪs/",
+    "banglaPronunciation": "অ্যাডভাইস",
+    "meaning": "A suggestion about what someone should do.",
+    "banglaMeaning": "পরামর্শ",
+    "syllables": [
+      "ad",
+      "vice"
+    ],
+    "example": "She gave me good advice.",
+    "hint": "Noun form ends in C — 'advice', not 'advise'.",
+    "image": "/images/level7/advice.webp"
+  },
+  {
+    "id": "lvl7-007",
+    "level": 7,
+    "order": 7,
+    "word": "advise",
+    "pronunciation": "/ədˈvaɪz/",
+    "banglaPronunciation": "অ্যাডভাইজ",
+    "meaning": "To give a suggestion to someone.",
+    "banglaMeaning": "পরামর্শ দেওয়া",
+    "syllables": [
+      "ad",
+      "vise"
+    ],
+    "example": "Verb form ends in S — 'advise', not 'advice'.",
+    "image": "/images/level7/advise.webp"
+  },
+  {
+    "id": "lvl7-008",
+    "level": 7,
+    "order": 8,
+    "word": "aggressive",
+    "pronunciation": "/əˈɡrɛs.ɪv/",
+    "banglaPronunciation": "অ্যাগ্রেসিভ",
+    "meaning": "Ready to attack or fight.",
+    "banglaMeaning": "আক্রমণাত্মক",
+    "syllables": [
+      "ag",
+      "gres",
+      "sive"
+    ],
+    "example": "The dog became aggressive.",
+    "hint": "Double G, then single R, double S.",
+    "image": "/images/level7/aggressive.webp"
+  },
+  {
+    "id": "lvl7-009",
+    "level": 7,
+    "order": 9,
+    "word": "allowance",
+    "pronunciation": "/əˈlaʊ.əns/",
+    "banglaPronunciation": "অ্যালাওয়েন্স",
+    "meaning": "Money given regularly, often to a child.",
+    "banglaMeaning": "হাত খরচ",
+    "syllables": [
+      "al",
+      "low",
+      "ance"
+    ],
+    "example": "She saves her weekly allowance.",
+    "hint": "Double L, ends in -ance not -ence.",
+    "image": "/images/level7/allowance.webp"
+  },
+  {
+    "id": "lvl7-010",
+    "level": 7,
+    "order": 10,
+    "word": "almost",
+    "pronunciation": "/ˈɔːl.moʊst/",
+    "banglaPronunciation": "অলমোস্ট",
+    "meaning": "Very nearly, not quite.",
+    "banglaMeaning": "প্রায়",
+    "syllables": [
+      "al",
+      "most"
+    ],
+    "example": "We are almost home.",
+    "hint": "Only one L — 'almost', not 'allmost'.",
+    "image": "/images/level7/almost.webp"
+  },
+  {
+    "id": "lvl7-011",
+    "level": 7,
+    "order": 11,
+    "word": "already",
+    "pronunciation": "/ɔːlˈrɛd.i/",
+    "banglaPronunciation": "অলরেডি",
+    "meaning": "By this time; before now.",
+    "banglaMeaning": "ইতিমধ্যে",
+    "syllables": [
+      "al",
+      "read",
+      "y"
+    ],
+    "example": "I have already finished my homework.",
+    "hint": "One L in the middle, not two.",
+    "image": "/images/level7/already.webp"
+  },
+  {
+    "id": "lvl7-012",
+    "level": 7,
+    "order": 12,
+    "word": "amateur",
+    "pronunciation": "/ˈæm.ə.tʃər/",
+    "banglaPronunciation": "অ্যামাচার",
+    "meaning": "A person who does something for enjoyment, not pay.",
+    "banglaMeaning": "অপেশাদার",
+    "syllables": [
+      "am",
+      "a",
+      "teur"
+    ],
+    "example": "He is an amateur painter.",
+    "hint": "Ends in -teur, tricky French spelling.",
+    "image": "/images/level7/amateur.webp"
+  },
+  {
+    "id": "lvl7-013",
+    "level": 7,
+    "order": 13,
+    "word": "among",
+    "pronunciation": "/əˈmʌŋ/",
+    "banglaPronunciation": "অ্যামাং",
+    "meaning": "In the middle of a group.",
+    "banglaMeaning": "মধ্যে",
+    "syllables": [
+      "a",
+      "mong"
+    ],
+    "example": "She stood among her friends.",
+    "hint": "Only one M — 'among', not 'ammong'.",
+    "image": "/images/level7/among.webp"
+  },
+  {
+    "id": "lvl7-014",
+    "level": 7,
+    "order": 14,
+    "word": "apparent",
+    "pronunciation": "/əˈpær.ənt/",
+    "banglaPronunciation": "অ্যাপারেন্ট",
+    "meaning": "Clearly seen or understood.",
+    "banglaMeaning": "স্পষ্ট",
+    "syllables": [
+      "ap",
+      "par",
+      "ent"
+    ],
+    "example": "It was apparent he was tired.",
+    "hint": "Double P, ends in -ent not -ant.",
+    "image": "/images/level7/apparent.webp"
+  },
+  {
+    "id": "lvl7-015",
+    "level": 7,
+    "order": 15,
+    "word": "appearance",
+    "pronunciation": "/əˈpɪr.əns/",
+    "banglaPronunciation": "অ্যাপিয়ারেন্স",
+    "meaning": "The way someone or something looks.",
+    "banglaMeaning": "চেহারা",
+    "syllables": [
+      "ap",
+      "pear",
+      "ance"
+    ],
+    "example": "Her sudden appearance surprised everyone.",
+    "hint": "Double P, ends in -ance not -ence.",
+    "image": "/images/level7/appearance.webp"
+  },
+  {
+    "id": "lvl7-016",
+    "level": 7,
+    "order": 16,
+    "word": "argument",
+    "pronunciation": "/ˈɑːr.ɡjə.mənt/",
+    "banglaPronunciation": "আর্গুমেন্ট",
+    "meaning": "A disagreement or reason given for something.",
+    "banglaMeaning": "তর্ক",
+    "syllables": [
+      "ar",
+      "gu",
+      "ment"
+    ],
+    "example": "They had a small argument.",
+    "hint": "No E after the U — 'argument', not 'arguement'.",
+    "image": "/images/level7/argument.webp"
+  },
+  {
+    "id": "lvl7-017",
+    "level": 7,
+    "order": 17,
+    "word": "arrangement",
+    "pronunciation": "/əˈreɪndʒ.mənt/",
+    "banglaPronunciation": "অ্যারেঞ্জমেন্ট",
+    "meaning": "A plan or way of organizing something.",
+    "banglaMeaning": "ব্যবস্থা",
+    "syllables": [
+      "ar",
+      "range",
+      "ment"
+    ],
+    "example": "They made an arrangement to meet.",
+    "hint": "Double R, keep the E before -ment.",
+    "image": "/images/level7/arrangement.webp"
+  },
+  {
+    "id": "lvl7-018",
+    "level": 7,
+    "order": 18,
+    "word": "article",
+    "pronunciation": "/ˈɑːr.tɪ.kəl/",
+    "banglaPronunciation": "আর্টিকল",
+    "meaning": "A piece of writing in a newspaper or magazine.",
+    "banglaMeaning": "প্রবন্ধ",
+    "syllables": [
+      "ar",
+      "ti",
+      "cle"
+    ],
+    "example": "I read an interesting article today.",
+    "hint": "Starts with AR, ends in -cle.",
+    "image": "/images/level7/article.webp"
+  },
+  {
+    "id": "lvl7-019",
+    "level": 7,
+    "order": 19,
+    "word": "athlete",
+    "pronunciation": "/ˈæθ.liːt/",
+    "banglaPronunciation": "অ্যাথলিট",
+    "meaning": "A person who is good at sports.",
+    "banglaMeaning": "ক্রীড়াবিদ",
+    "syllables": [
+      "ath",
+      "lete"
+    ],
+    "example": "The athlete trained every day.",
+    "hint": "Only two syllables — no extra vowel between TH and L.",
+    "image": "/images/level7/athlete.webp"
+  },
+  {
+    "id": "lvl7-020",
+    "level": 7,
+    "order": 20,
+    "word": "attendance",
+    "pronunciation": "/əˈtɛn.dəns/",
+    "banglaPronunciation": "অ্যাটেনডেন্স",
+    "meaning": "Being present at an event.",
+    "banglaMeaning": "উপস্থিতি",
+    "syllables": [
+      "at",
+      "tend",
+      "ance"
+    ],
+    "example": "Her attendance at school is perfect.",
+    "hint": "Double T, ends in -ance not -ence.",
+    "image": "/images/level7/attendance.webp"
+  },
+  {
+    "id": "lvl7-021",
+    "level": 7,
+    "order": 21,
+    "word": "awkward",
+    "pronunciation": "/ˈɔːk.wərd/",
+    "banglaPronunciation": "অকওয়ার্ড",
+    "meaning": "Causing embarrassment or difficulty.",
+    "banglaMeaning": "বিশ্রী",
+    "syllables": [
+      "awk",
+      "ward"
+    ],
+    "example": "There was an awkward silence.",
+    "hint": "W comes before A in the middle — 'awk-ward'.",
+    "image": "/images/level7/awkward.webp"
+  },
+  {
+    "id": "lvl7-022",
+    "level": 7,
+    "order": 22,
+    "word": "balance",
+    "pronunciation": "/ˈbæl.əns/",
+    "banglaPronunciation": "ব্যালেন্স",
+    "meaning": "A state of being steady or even.",
+    "banglaMeaning": "ভারসাম্য",
+    "syllables": [
+      "bal",
+      "ance"
+    ],
+    "example": "She tried to keep her balance.",
+    "hint": "Starts with BAL, ends in -ance.",
+    "image": "/images/level7/balance.webp"
+  },
+  {
+    "id": "lvl7-023",
+    "level": 7,
+    "order": 23,
+    "word": "basically",
+    "pronunciation": "/ˈbeɪ.sɪ.kli/",
+    "banglaPronunciation": "বেসিকালি",
+    "meaning": "In the most important way; fundamentally.",
+    "banglaMeaning": "মূলত",
+    "syllables": [
+      "ba",
+      "sic",
+      "al",
+      "ly"
+    ],
+    "example": "Basically, we agree with the plan.",
+    "hint": "Keep the -al before -ly, don't drop it.",
+    "image": "/images/level7/basically.webp"
+  },
+  {
+    "id": "lvl7-024",
+    "level": 7,
+    "order": 24,
+    "word": "beautiful",
+    "pronunciation": "/ˈbjuː.tɪ.fəl/",
+    "banglaPronunciation": "বিউটিফুল",
+    "meaning": "Very pleasing to look at.",
+    "banglaMeaning": "সুন্দর",
+    "syllables": [
+      "beau",
+      "ti",
+      "ful"
+    ],
+    "example": "The sunset was beautiful.",
+    "hint": "EAU together, tricky French-style spelling.",
+    "image": "/images/level7/beautiful.webp"
+  },
+  {
+    "id": "lvl7-025",
+    "level": 7,
+    "order": 25,
+    "word": "beginning",
+    "pronunciation": "/bɪˈɡɪn.ɪŋ/",
+    "banglaPronunciation": "বিগিনিং",
+    "meaning": "The start of something.",
+    "banglaMeaning": "শুরু",
+    "syllables": [
+      "be",
+      "gin",
+      "ning"
+    ],
+    "example": "This is the beginning of a new story.",
+    "hint": "Double N before -ing.",
+    "image": "/images/level7/beginning.webp"
+  },
+  {
+    "id": "lvl7-026",
+    "level": 7,
+    "order": 26,
+    "word": "believe",
+    "pronunciation": "/bɪˈliːv/",
+    "banglaPronunciation": "বিলিভ",
+    "meaning": "To accept something as true.",
+    "banglaMeaning": "বিশ্বাস করা",
+    "syllables": [
+      "be",
+      "lieve"
+    ],
+    "example": "I believe you are right.",
+    "hint": "I before E except after C — 'believe'.",
+    "image": "/images/level7/believe.webp"
+  },
+  {
+    "id": "lvl7-027",
+    "level": 7,
+    "order": 27,
+    "word": "benefit",
+    "pronunciation": "/ˈbɛn.ɪ.fɪt/",
+    "banglaPronunciation": "বেনিফিট",
+    "meaning": "An advantage or help gained from something.",
+    "banglaMeaning": "সুবিধা",
+    "syllables": [
+      "ben",
+      "e",
+      "fit"
+    ],
+    "example": "Exercise has many health benefits.",
+    "hint": "Only one T at the end.",
+    "image": "/images/level7/benefit.webp"
+  },
+  {
+    "id": "lvl7-028",
+    "level": 7,
+    "order": 28,
+    "word": "biscuit",
+    "pronunciation": "/ˈbɪs.kɪt/",
+    "banglaPronunciation": "বিস্কিট",
+    "meaning": "A small, flat baked snack.",
+    "banglaMeaning": "বিস্কুট",
+    "syllables": [
+      "bis",
+      "cuit"
+    ],
+    "example": "She dipped the biscuit in tea.",
+    "hint": "Has a silent U — 'biscuit', not 'biskit'.",
+    "image": "/images/level7/biscuit.webp"
+  },
+  {
+    "id": "lvl7-029",
+    "level": 7,
+    "order": 29,
+    "word": "bizarre",
+    "pronunciation": "/bɪˈzɑːr/",
+    "banglaPronunciation": "বিজার",
+    "meaning": "Very strange or unusual.",
+    "banglaMeaning": "অদ্ভুত",
+    "syllables": [
+      "bi",
+      "zarre"
+    ],
+    "example": "That was a bizarre dream.",
+    "hint": "Double R at the end, ends in -re.",
+    "image": "/images/level7/bizarre.webp"
+  },
+  {
+    "id": "lvl7-030",
+    "level": 7,
+    "order": 30,
+    "word": "bought",
+    "pronunciation": "/bɔːt/",
+    "banglaPronunciation": "বট",
+    "meaning": "Past tense of buy.",
+    "banglaMeaning": "কিনেছিল",
+    "syllables": [
+      "bought"
+    ],
+    "example": "She bought a new bag.",
+    "hint": "Has a silent GH — 'bought', not 'bawt'.",
+    "image": "/images/level7/bought.webp"
+  },
+  {
+    "id": "lvl7-031",
+    "level": 7,
+    "order": 31,
+    "word": "brief",
+    "pronunciation": "/briːf/",
+    "banglaPronunciation": "ব্রিফ",
+    "meaning": "Lasting only a short time.",
+    "banglaMeaning": "সংক্ষিপ্ত",
+    "syllables": [
+      "brief"
+    ],
+    "example": "He gave a brief speech.",
+    "hint": "I before E — 'brief', not 'breif'.",
+    "image": "/images/level7/brief.webp"
+  },
+  {
+    "id": "lvl7-032",
+    "level": 7,
+    "order": 32,
+    "word": "business",
+    "pronunciation": "/ˈbɪz.nɪs/",
+    "banglaPronunciation": "বিজনেস",
+    "meaning": "A person's trade or company.",
+    "banglaMeaning": "ব্যবসা",
+    "syllables": [
+      "busi",
+      "ness"
+    ],
+    "example": "She runs her own business.",
+    "hint": "Starts with BUSI, not BIZI.",
+    "image": "/images/level7/business.webp"
+  },
+  {
+    "id": "lvl7-033",
+    "level": 7,
+    "order": 33,
+    "word": "category",
+    "pronunciation": "/ˈkæt.ə.ɡɔːr.i/",
+    "banglaPronunciation": "ক্যাটাগরি",
+    "meaning": "A group of things with shared features.",
+    "banglaMeaning": "শ্রেণী",
+    "syllables": [
+      "cat",
+      "e",
+      "go",
+      "ry"
+    ],
+    "example": "Choose the correct category.",
+    "hint": "Four syllables — don't skip the second A.",
+    "image": "/images/level7/category.webp"
+  },
+  {
+    "id": "lvl7-034",
+    "level": 7,
+    "order": 34,
+    "word": "caught",
+    "pronunciation": "/kɔːt/",
+    "banglaPronunciation": "কট",
+    "meaning": "Past tense of catch.",
+    "banglaMeaning": "ধরা হয়েছিল",
+    "syllables": [
+      "caught"
+    ],
+    "example": "He caught the ball.",
+    "hint": "Has a silent GH, same pattern as 'bought'.",
+    "image": "/images/level7/caught.webp"
+  },
+  {
+    "id": "lvl7-035",
+    "level": 7,
+    "order": 35,
+    "word": "ceiling",
+    "pronunciation": "/ˈsiː.lɪŋ/",
+    "banglaPronunciation": "সিলিং",
+    "meaning": "The inner roof of a room.",
+    "banglaMeaning": "ছাদ",
+    "syllables": [
+      "ceil",
+      "ing"
+    ],
+    "example": "A lamp hung from the ceiling.",
+    "hint": "E before I after C here — an exception to the rule.",
+    "image": "/images/level7/ceiling.webp"
+  },
+  {
+    "id": "lvl7-036",
+    "level": 7,
+    "order": 36,
+    "word": "cemetery",
+    "pronunciation": "/ˈsɛm.ə.tɛr.i/",
+    "banglaPronunciation": "সেমেটারি",
+    "meaning": "A place where dead people are buried.",
+    "banglaMeaning": "কবরস্থান",
+    "syllables": [
+      "cem",
+      "e",
+      "ter",
+      "y"
+    ],
+    "example": "They visited the old cemetery.",
+    "hint": "All three vowels are E — cEmEtEry.",
+    "image": "/images/level7/cemetery.webp"
+  },
+  {
+    "id": "lvl7-037",
+    "level": 7,
+    "order": 37,
+    "word": "certain",
+    "pronunciation": "/ˈsɜːr.tən/",
+    "banglaPronunciation": "সার্টেন",
+    "meaning": "Sure about something.",
+    "banglaMeaning": "নিশ্চিত",
+    "syllables": [
+      "cer",
+      "tain"
+    ],
+    "example": "I am certain she will come.",
+    "hint": "Ends in -tain, not -ten.",
+    "image": "/images/level7/certain.webp"
+  },
+  {
+    "id": "lvl7-038",
+    "level": 7,
+    "order": 38,
+    "word": "changeable",
+    "pronunciation": "/ˈtʃeɪn.dʒə.bəl/",
+    "banglaPronunciation": "চেঞ্জেবল",
+    "meaning": "Likely to change often.",
+    "banglaMeaning": "পরিবর্তনশীল",
+    "syllables": [
+      "change",
+      "a",
+      "ble"
+    ],
+    "example": "The weather is changeable today.",
+    "hint": "Keep the E before -able to keep the G soft.",
+    "image": "/images/level7/changeable.webp"
+  },
+  {
+    "id": "lvl7-039",
+    "level": 7,
+    "order": 39,
+    "word": "character",
+    "pronunciation": "/ˈkær.ək.tər/",
+    "banglaPronunciation": "ক্যারেক্টার",
+    "meaning": "A person in a story, or someone's personality.",
+    "banglaMeaning": "চরিত্র",
+    "syllables": [
+      "char",
+      "ac",
+      "ter"
+    ],
+    "example": "He is the main character in the film.",
+    "hint": "CH makes a K sound here.",
+    "image": "/images/level7/character.webp"
+  },
+  {
+    "id": "lvl7-040",
+    "level": 7,
+    "order": 40,
+    "word": "chief",
+    "pronunciation": "/tʃiːf/",
+    "banglaPronunciation": "চিফ",
+    "meaning": "The leader or most important person.",
+    "banglaMeaning": "প্রধান",
+    "syllables": [
+      "chief"
+    ],
+    "example": "She is the chief editor.",
+    "hint": "I before E — 'chief', not 'cheif'.",
+    "image": "/images/level7/chief.webp"
+  },
+  {
+    "id": "lvl7-041",
+    "level": 7,
+    "order": 41,
+    "word": "colleague",
+    "pronunciation": "/ˈkɒl.iːɡ/",
+    "banglaPronunciation": "কলিগ",
+    "meaning": "A person you work with.",
+    "banglaMeaning": "সহকর্মী",
+    "syllables": [
+      "col",
+      "league"
+    ],
+    "example": "He greeted his colleague at work.",
+    "hint": "Ends in -eague, silent letters like 'league'.",
+    "image": "/images/level7/colleague.webp"
+  },
+  {
+    "id": "lvl7-042",
+    "level": 7,
+    "order": 42,
+    "word": "column",
+    "pronunciation": "/ˈkɒl.əm/",
+    "banglaPronunciation": "কলাম",
+    "meaning": "A vertical line of text or a tall pillar.",
+    "banglaMeaning": "স্তম্ভ",
+    "syllables": [
+      "col",
+      "umn"
+    ],
+    "example": "She writes a weekly newspaper column.",
+    "hint": "Silent N at the end — 'column'.",
+    "image": "/images/level7/column.webp"
+  },
+  {
+    "id": "lvl7-043",
+    "level": 7,
+    "order": 43,
+    "word": "coming",
+    "pronunciation": "/ˈkʌm.ɪŋ/",
+    "banglaPronunciation": "কামিং",
+    "meaning": "Approaching or arriving soon.",
+    "banglaMeaning": "আসছে",
+    "syllables": [
+      "com",
+      "ing"
+    ],
+    "example": "Winter is coming soon.",
+    "hint": "Drop the silent E from 'come' before adding -ing.",
+    "image": "/images/level7/coming.webp"
+  },
+  {
+    "id": "lvl7-044",
+    "level": 7,
+    "order": 44,
+    "word": "committee",
+    "pronunciation": "/kəˈmɪt.i/",
+    "banglaPronunciation": "কমিটি",
+    "meaning": "A group of people chosen to make decisions.",
+    "banglaMeaning": "কমিটি",
+    "syllables": [
+      "com",
+      "mit",
+      "tee"
+    ],
+    "example": "The committee will meet tomorrow.",
+    "hint": "Double M, double T, double E.",
+    "image": "/images/level7/committee.webp"
+  },
+  {
+    "id": "lvl7-045",
+    "level": 7,
+    "order": 45,
+    "word": "comparative",
+    "pronunciation": "/kəmˈpær.ə.tɪv/",
+    "banglaPronunciation": "কম্প্যারেটিভ",
+    "meaning": "Involving comparison between things.",
+    "banglaMeaning": "তুলনামূলক",
+    "syllables": [
+      "com",
+      "par",
+      "a",
+      "tive"
+    ],
+    "example": "This is a comparative study.",
+    "hint": "Keep the A before -tive, don't drop it.",
+    "image": "/images/level7/comparative.webp"
+  },
+  {
+    "id": "lvl7-046",
+    "level": 7,
+    "order": 46,
+    "word": "competition",
+    "pronunciation": "/ˌkɒm.pəˈtɪʃ.ən/",
+    "banglaPronunciation": "কম্পিটিশন",
+    "meaning": "A contest between people or teams.",
+    "banglaMeaning": "প্রতিযোগিতা",
+    "syllables": [
+      "com",
+      "pe",
+      "ti",
+      "tion"
+    ],
+    "example": "She won first place in the competition.",
+    "hint": "Ends in -tition, not -tion alone.",
+    "image": "/images/level7/competition.webp"
+  },
+  {
+    "id": "lvl7-047",
+    "level": 7,
+    "order": 47,
+    "word": "completely",
+    "pronunciation": "/kəmˈpliːt.li/",
+    "banglaPronunciation": "কমপ্লিটলি",
+    "meaning": "In every way; totally.",
+    "banglaMeaning": "সম্পূর্ণভাবে",
+    "syllables": [
+      "com",
+      "plete",
+      "ly"
+    ],
+    "example": "He was completely surprised.",
+    "hint": "Keep both E's — 'complete' plus 'ly'.",
+    "image": "/images/level7/completely.webp"
+  },
+  {
+    "id": "lvl7-048",
+    "level": 7,
+    "order": 48,
+    "word": "conscience",
+    "pronunciation": "/ˈkɒn.ʃəns/",
+    "banglaPronunciation": "কনশেন্স",
+    "meaning": "The inner sense of right and wrong.",
+    "banglaMeaning": "বিবেক",
+    "syllables": [
+      "con",
+      "science"
+    ],
+    "example": "Her conscience wouldn't let her lie.",
+    "hint": "Has SCI making a SH sound — 'conscience'.",
+    "image": "/images/level7/conscience.webp"
+  },
+  {
+    "id": "lvl7-049",
+    "level": 7,
+    "order": 49,
+    "word": "conscious",
+    "pronunciation": "/ˈkɒn.ʃəs/",
+    "banglaPronunciation": "কনশাস",
+    "meaning": "Awake and aware.",
+    "banglaMeaning": "সচেতন",
+    "syllables": [
+      "con",
+      "scious"
+    ],
+    "example": "He was fully conscious after the fall.",
+    "hint": "Ends in -scious, not -shus.",
+    "image": "/images/level7/conscious.webp"
+  },
+  {
+    "id": "lvl7-050",
+    "level": 7,
+    "order": 50,
+    "word": "consistent",
+    "pronunciation": "/kənˈsɪs.tənt/",
+    "banglaPronunciation": "কনসিস্টেন্ট",
+    "meaning": "Always acting the same way.",
+    "banglaMeaning": "সামঞ্জস্যপূর্ণ",
+    "syllables": [
+      "con",
+      "sis",
+      "tent"
+    ],
+    "example": "She is consistent in her work.",
+    "hint": "Ends in -ent, not -ant.",
+    "image": "/images/level7/consistent.webp"
+  },
+  {
+    "id": "lvl7-051",
+    "level": 7,
+    "order": 51,
+    "word": "continuous",
+    "pronunciation": "/kənˈtɪn.ju.əs/",
+    "banglaPronunciation": "কন্টিনিউয়াস",
+    "meaning": "Happening without stopping.",
+    "banglaMeaning": "অবিচ্ছিন্ন",
+    "syllables": [
+      "con",
+      "tin",
+      "u",
+      "ous"
+    ],
+    "example": "There was a continuous noise outside.",
+    "hint": "Ends in -uous, four syllables.",
+    "image": "/images/level7/continuous.webp"
+  },
+  {
+    "id": "lvl7-052",
+    "level": 7,
+    "order": 52,
+    "word": "controversy",
+    "pronunciation": "/ˈkɒn.trə.vɜːr.si/",
+    "banglaPronunciation": "কন্ট্রোভার্সি",
+    "meaning": "A long argument or disagreement.",
+    "banglaMeaning": "বিতর্ক",
+    "syllables": [
+      "con",
+      "tro",
+      "ver",
+      "sy"
+    ],
+    "example": "The plan caused a lot of controversy.",
+    "hint": "Keep the single R after 'cont'.",
+    "image": "/images/level7/controversy.webp"
+  },
+  {
+    "id": "lvl7-053",
+    "level": 7,
+    "order": 53,
+    "word": "convenient",
+    "pronunciation": "/kənˈviː.ni.ənt/",
+    "banglaPronunciation": "কনভেনিয়েন্ট",
+    "meaning": "Easy or suitable to use.",
+    "banglaMeaning": "সুবিধাজনক",
+    "syllables": [
+      "con",
+      "ven",
+      "ient"
+    ],
+    "example": "This time is convenient for me.",
+    "hint": "Ends in -ient, not -ence.",
+    "image": "/images/level7/convenient.webp"
+  },
+  {
+    "id": "lvl7-054",
+    "level": 7,
+    "order": 54,
+    "word": "correspond",
+    "pronunciation": "/ˌkɒr.əˈspɒnd/",
+    "banglaPronunciation": "কোরেসপন্ড",
+    "meaning": "To match or write letters to someone.",
+    "banglaMeaning": "চিঠি লেখা / সাদৃশ্যপূর্ণ হওয়া",
+    "syllables": [
+      "cor",
+      "re",
+      "spond"
+    ],
+    "example": "The two shapes correspond exactly.",
+    "hint": "Double R, single S.",
+    "image": "/images/level7/correspond.webp"
+  },
+  {
+    "id": "lvl7-055",
+    "level": 7,
+    "order": 55,
+    "word": "courageous",
+    "pronunciation": "/kəˈreɪ.dʒəs/",
+    "banglaPronunciation": "কারেজাস",
+    "meaning": "Brave; not afraid.",
+    "banglaMeaning": "সাহসী",
+    "syllables": [
+      "cou",
+      "ra",
+      "geous"
+    ],
+    "example": "The courageous firefighter saved the cat.",
+    "hint": "Keeps the OUR from 'courage', plus -ous.",
+    "image": "/images/level7/courageous.webp"
+  },
+  {
+    "id": "lvl7-056",
+    "level": 7,
+    "order": 56,
+    "word": "curiosity",
+    "pronunciation": "/ˌkjʊər.iˈɒs.ə.ti/",
+    "banglaPronunciation": "কিউরিওসিটি",
+    "meaning": "A strong desire to know or learn.",
+    "banglaMeaning": "কৌতূহল",
+    "syllables": [
+      "cu",
+      "ri",
+      "os",
+      "i",
+      "ty"
+    ],
+    "example": "Her curiosity led her to explore.",
+    "hint": "Five syllables, ends in -osity.",
+    "image": "/images/level7/curiosity.webp"
+  },
+  {
+    "id": "lvl7-057",
+    "level": 7,
+    "order": 57,
+    "word": "deceive",
+    "pronunciation": "/dɪˈsiːv/",
+    "banglaPronunciation": "ডিসিভ",
+    "meaning": "To trick or mislead someone.",
+    "banglaMeaning": "প্রতারণা করা",
+    "syllables": [
+      "de",
+      "ceive"
+    ],
+    "example": "He tried to deceive his friend.",
+    "hint": "E before I after C — 'deceive'.",
+    "image": "/images/level7/deceive.webp"
+  },
+  {
+    "id": "lvl7-058",
+    "level": 7,
+    "order": 58,
+    "word": "decide",
+    "pronunciation": "/dɪˈsaɪd/",
+    "banglaPronunciation": "ডিসাইড",
+    "meaning": "To make a choice.",
+    "banglaMeaning": "সিদ্ধান্ত নেওয়া",
+    "syllables": [
+      "de",
+      "cide"
+    ],
+    "example": "You must decide now.",
+    "hint": "Ends in -cide, silent E.",
+    "image": "/images/level7/decide.webp"
+  },
+  {
+    "id": "lvl7-059",
+    "level": 7,
+    "order": 59,
+    "word": "definite",
+    "pronunciation": "/ˈdɛf.ɪ.nɪt/",
+    "banglaPronunciation": "ডেফিনিট",
+    "meaning": "Certain and clear.",
+    "banglaMeaning": "নির্দিষ্ট",
+    "syllables": [
+      "def",
+      "i",
+      "nite"
+    ],
+    "example": "We need a definite answer.",
+    "hint": "Has an I in the middle, not an A — 'definite'.",
+    "image": "/images/level7/definite.webp"
+  },
+  {
+    "id": "lvl7-060",
+    "level": 7,
+    "order": 60,
+    "word": "definitely",
+    "pronunciation": "/ˈdɛf.ɪ.nɪt.li/",
+    "banglaPronunciation": "ডেফিনিটলি",
+    "meaning": "Without doubt; certainly.",
+    "banglaMeaning": "অবশ্যই",
+    "syllables": [
+      "def",
+      "i",
+      "nite",
+      "ly"
+    ],
+    "example": "I will definitely come to the party.",
+    "hint": "Same trap as 'definite' — I, not A, before -tely.",
+    "image": "/images/level7/definitely.webp"
+  },
+  {
+    "id": "lvl7-061",
+    "level": 7,
+    "order": 61,
+    "word": "describe",
+    "pronunciation": "/dɪˈskraɪb/",
+    "banglaPronunciation": "ডিসক্রাইব",
+    "meaning": "To say what something is like.",
+    "banglaMeaning": "বর্ণনা করা",
+    "syllables": [
+      "de",
+      "scribe"
+    ],
+    "example": "Can you describe the animal?",
+    "hint": "Ends in -scribe, silent E.",
+    "image": "/images/level7/describe.webp"
+  },
+  {
+    "id": "lvl7-062",
+    "level": 7,
+    "order": 62,
+    "word": "desperate",
+    "pronunciation": "/ˈdɛs.pər.ət/",
+    "banglaPronunciation": "ডেসপারেট",
+    "meaning": "In great need; without hope.",
+    "banglaMeaning": "মরিয়া",
+    "syllables": [
+      "des",
+      "per",
+      "ate"
+    ],
+    "example": "He was desperate for help.",
+    "hint": "Has an E in the middle — 'desp-er-ate'.",
+    "image": "/images/level7/desperate.webp"
+  },
+  {
+    "id": "lvl7-063",
+    "level": 7,
+    "order": 63,
+    "word": "develop",
+    "pronunciation": "/dɪˈvɛl.əp/",
+    "banglaPronunciation": "ডেভেলপ",
+    "meaning": "To grow or make something grow.",
+    "banglaMeaning": "উন্নয়ন করা",
+    "syllables": [
+      "de",
+      "vel",
+      "op"
+    ],
+    "example": "The city will develop this area.",
+    "hint": "No silent E at the end — 'develop', not 'develope'.",
+    "image": "/images/level7/develop.webp"
+  },
+  {
+    "id": "lvl7-064",
+    "level": 7,
+    "order": 64,
+    "word": "difference",
+    "pronunciation": "/ˈdɪf.ər.əns/",
+    "banglaPronunciation": "ডিফারেন্স",
+    "meaning": "The way two things are not the same.",
+    "banglaMeaning": "পার্থক্য",
+    "syllables": [
+      "dif",
+      "fer",
+      "ence"
+    ],
+    "example": "There is a big difference between them.",
+    "hint": "Double F, ends in -ence.",
+    "image": "/images/level7/difference.webp"
+  },
+  {
+    "id": "lvl7-065",
+    "level": 7,
+    "order": 65,
+    "word": "disappear",
+    "pronunciation": "/ˌdɪs.əˈpɪər/",
+    "banglaPronunciation": "ডিসাপিয়ার",
+    "meaning": "To go out of sight.",
+    "banglaMeaning": "অদৃশ্য হয়ে যাওয়া",
+    "syllables": [
+      "dis",
+      "ap",
+      "pear"
+    ],
+    "example": "The rabbit seemed to disappear.",
+    "hint": "Single S, double P — 'disappear'.",
+    "image": "/images/level7/disappear.webp"
+  },
+  {
+    "id": "lvl7-066",
+    "level": 7,
+    "order": 66,
+    "word": "disappoint",
+    "pronunciation": "/ˌdɪs.əˈpɔɪnt/",
+    "banglaPronunciation": "ডিসাপয়েন্ট",
+    "meaning": "To fail to meet expectations.",
+    "banglaMeaning": "হতাশ করা",
+    "syllables": [
+      "dis",
+      "ap",
+      "point"
+    ],
+    "example": "I don't want to disappoint you.",
+    "hint": "Single S, double P — same pattern as 'disappear'.",
+    "image": "/images/level7/disappoint.webp"
+  },
+  {
+    "id": "lvl7-067",
+    "level": 7,
+    "order": 67,
+    "word": "disastrous",
+    "pronunciation": "/dɪˈzæs.trəs/",
+    "banglaPronunciation": "ডিজাস্ট্রাস",
+    "meaning": "Causing great damage; terrible.",
+    "banglaMeaning": "বিপর্যয়কর",
+    "syllables": [
+      "di",
+      "sas",
+      "trous"
+    ],
+    "example": "The storm was disastrous for the town.",
+    "hint": "No E before -ous — 'disastrous', not 'disasterous'.",
+    "image": "/images/level7/disastrous.webp"
+  },
+  {
+    "id": "lvl7-068",
+    "level": 7,
+    "order": 68,
+    "word": "discipline",
+    "pronunciation": "/ˈdɪs.ə.plɪn/",
+    "banglaPronunciation": "ডিসিপ্লিন",
+    "meaning": "Training to follow rules or behave well.",
+    "banglaMeaning": "শৃঙ্খলা",
+    "syllables": [
+      "dis",
+      "ci",
+      "pline"
+    ],
+    "example": "The team needs more discipline.",
+    "hint": "Silent C after DIS — 'dis-ci-pline'.",
+    "image": "/images/level7/discipline.webp"
+  },
+  {
+    "id": "lvl7-069",
+    "level": 7,
+    "order": 69,
+    "word": "dumbbell",
+    "pronunciation": "/ˈdʌm.bɛl/",
+    "banglaPronunciation": "ডাম্বেল",
+    "meaning": "A weight used for exercise.",
+    "banglaMeaning": "ডাম্বেল",
+    "syllables": [
+      "dumb",
+      "bell"
+    ],
+    "example": "He lifted the dumbbell carefully.",
+    "hint": "Double B in the middle — 'dumb' plus 'bell'.",
+    "image": "/images/level7/dumbbell.webp"
+  },
+  {
+    "id": "lvl7-070",
+    "level": 7,
+    "order": 70,
+    "word": "eighth",
+    "pronunciation": "/eɪtθ/",
+    "banglaPronunciation": "এইথ",
+    "meaning": "Coming after seventh; number 8 in order.",
+    "banglaMeaning": "অষ্টম",
+    "syllables": [
+      "eighth"
+    ],
+    "example": "Today is her eighth birthday.",
+    "hint": "EIGH plus TH — tricky consonant cluster at the end.",
+    "image": "/images/level7/eighth.webp"
+  },
+  {
+    "id": "lvl7-071",
+    "level": 7,
+    "order": 71,
+    "word": "eligible",
+    "pronunciation": "/ˈɛl.ɪ.dʒə.bəl/",
+    "banglaPronunciation": "এলিজিবল",
+    "meaning": "Qualified or allowed to do something.",
+    "banglaMeaning": "যোগ্য",
+    "syllables": [
+      "el",
+      "i",
+      "gi",
+      "ble"
+    ],
+    "example": "She is eligible to vote.",
+    "hint": "Ends in -gible, soft G sound.",
+    "image": "/images/level7/eligible.webp"
+  },
+  {
+    "id": "lvl7-072",
+    "level": 7,
+    "order": 72,
+    "word": "embarrass",
+    "pronunciation": "/ɪmˈbær.əs/",
+    "banglaPronunciation": "এমব্যারাস",
+    "meaning": "To make someone feel ashamed or awkward.",
+    "banglaMeaning": "লজ্জা দেওয়া",
+    "syllables": [
+      "em",
+      "bar",
+      "rass"
+    ],
+    "example": "He didn't want to embarrass his friend.",
+    "hint": "Double R, double S.",
+    "image": "/images/level7/embarrass.webp"
+  },
+  {
+    "id": "lvl7-073",
+    "level": 7,
+    "order": 73,
+    "word": "encourage",
+    "pronunciation": "/ɪnˈkʌr.ɪdʒ/",
+    "banglaPronunciation": "এনকারেজ",
+    "meaning": "To give support or confidence to someone.",
+    "banglaMeaning": "উৎসাহিত করা",
+    "syllables": [
+      "en",
+      "cour",
+      "age"
+    ],
+    "example": "Teachers encourage students to try.",
+    "hint": "Keep the OUR in the middle — 'en-cour-age'.",
+    "image": "/images/level7/encourage.webp"
+  },
+  {
+    "id": "lvl7-074",
+    "level": 7,
+    "order": 74,
+    "word": "enough",
+    "pronunciation": "/ɪˈnʌf/",
+    "banglaPronunciation": "এনাফ",
+    "meaning": "As much as needed.",
+    "banglaMeaning": "যথেষ্ট",
+    "syllables": [
+      "e",
+      "nough"
+    ],
+    "example": "We have enough food for everyone.",
+    "hint": "Ends in -ough, sounds like 'uff'.",
+    "image": "/images/level7/enough.webp"
+  },
+  {
+    "id": "lvl7-075",
+    "level": 7,
+    "order": 75,
+    "word": "entrance",
+    "pronunciation": "/ˈɛn.trəns/",
+    "banglaPronunciation": "এনট্রান্স",
+    "meaning": "The way into a place.",
+    "banglaMeaning": "প্রবেশপথ",
+    "syllables": [
+      "en",
+      "trance"
+    ],
+    "example": "The entrance is around the corner.",
+    "hint": "Starts with EN, ends in -ance.",
+    "image": "/images/level7/entrance.webp"
+  },
+  {
+    "id": "lvl7-076",
+    "level": 7,
+    "order": 76,
+    "word": "environment",
+    "pronunciation": "/ɪnˈvaɪ.rən.mənt/",
+    "banglaPronunciation": "এনভায়রনমেন্ট",
+    "meaning": "The natural world around us.",
+    "banglaMeaning": "পরিবেশ",
+    "syllables": [
+      "en",
+      "vi",
+      "ron",
+      "ment"
+    ],
+    "example": "We must protect the environment.",
+    "hint": "Has a silent N before -ment — 'environ-ment'.",
+    "image": "/images/level7/environment.webp"
+  },
+  {
+    "id": "lvl7-077",
+    "level": 7,
+    "order": 77,
+    "word": "equipment",
+    "pronunciation": "/ɪˈkwɪp.mənt/",
+    "banglaPronunciation": "ইকুইপমেন্ট",
+    "meaning": "The tools needed for an activity.",
+    "banglaMeaning": "সরঞ্জাম",
+    "syllables": [
+      "e",
+      "quip",
+      "ment"
+    ],
+    "example": "The gym has new equipment.",
+    "hint": "Only one P before -ment.",
+    "image": "/images/level7/equipment.webp"
+  },
+  {
+    "id": "lvl7-078",
+    "level": 7,
+    "order": 78,
+    "word": "especially",
+    "pronunciation": "/ɪˈspɛʃ.əl.i/",
+    "banglaPronunciation": "এস্পেশালি",
+    "meaning": "More than usual; particularly.",
+    "banglaMeaning": "বিশেষভাবে",
+    "syllables": [
+      "es",
+      "pe",
+      "cial",
+      "ly"
+    ],
+    "example": "I especially love summer.",
+    "hint": "Keep the -cial before -ly.",
+    "image": "/images/level7/especially.webp"
+  },
+  {
+    "id": "lvl7-079",
+    "level": 7,
+    "order": 79,
+    "word": "exaggerate",
+    "pronunciation": "/ɪɡˈzædʒ.ə.reɪt/",
+    "banglaPronunciation": "এক্সাজারেট",
+    "meaning": "To make something seem bigger than it is.",
+    "banglaMeaning": "অতিরঞ্জিত করা",
+    "syllables": [
+      "ex",
+      "ag",
+      "ger",
+      "ate"
+    ],
+    "example": "Don't exaggerate the story.",
+    "hint": "Double G, single R — 'exagg-erate'.",
+    "image": "/images/level7/exaggerate.webp"
+  },
+  {
+    "id": "lvl7-080",
+    "level": 7,
+    "order": 80,
+    "word": "excellent",
+    "pronunciation": "/ˈɛk.sə.lənt/",
+    "banglaPronunciation": "এক্সেলেন্ট",
+    "meaning": "Extremely good.",
+    "banglaMeaning": "চমৎকার",
+    "syllables": [
+      "ex",
+      "cel",
+      "lent"
+    ],
+    "example": "That was an excellent performance.",
+    "hint": "Double L, ends in -lent.",
+    "image": "/images/level7/excellent.webp"
+  },
+  {
+    "id": "lvl7-081",
+    "level": 7,
+    "order": 81,
+    "word": "except",
+    "pronunciation": "/ɪkˈsɛpt/",
+    "banglaPronunciation": "একসেপ্ট",
+    "meaning": "Not including.",
+    "banglaMeaning": "ব্যতীত",
+    "syllables": [
+      "ex",
+      "cept"
+    ],
+    "example": "Everyone came except John.",
+    "hint": "Starts with EX, not AC — different from 'accept'.",
+    "image": "/images/level7/except.webp"
+  },
+  {
+    "id": "lvl7-082",
+    "level": 7,
+    "order": 82,
+    "word": "exercise",
+    "pronunciation": "/ˈɛk.sər.saɪz/",
+    "banglaPronunciation": "এক্সারসাইজ",
+    "meaning": "Physical activity to stay healthy.",
+    "banglaMeaning": "ব্যায়াম",
+    "syllables": [
+      "ex",
+      "er",
+      "cise"
+    ],
+    "example": "Daily exercise keeps you fit.",
+    "hint": "Ends in -cise, not -size.",
+    "image": "/images/level7/exercise.webp"
+  },
+  {
+    "id": "lvl7-083",
+    "level": 7,
+    "order": 83,
+    "word": "exhaust",
+    "pronunciation": "/ɪɡˈzɔːst/",
+    "banglaPronunciation": "এক্সহস্ট",
+    "meaning": "To use up completely, or tire out.",
+    "banglaMeaning": "নিঃশেষ করা",
+    "syllables": [
+      "ex",
+      "haust"
+    ],
+    "example": "The long run will exhaust you.",
+    "hint": "Has a silent H after EX.",
+    "image": "/images/level7/exhaust.webp"
+  },
+  {
+    "id": "lvl7-084",
+    "level": 7,
+    "order": 84,
+    "word": "existence",
+    "pronunciation": "/ɪɡˈzɪs.təns/",
+    "banglaPronunciation": "এক্সিস্টেন্স",
+    "meaning": "The state of being real or alive.",
+    "banglaMeaning": "অস্তিত্ব",
+    "syllables": [
+      "ex",
+      "is",
+      "tence"
+    ],
+    "example": "They proved the existence of the ruins.",
+    "hint": "Ends in -tence, not -tance.",
+    "image": "/images/level7/existence.webp"
+  },
+  {
+    "id": "lvl7-085",
+    "level": 7,
+    "order": 85,
+    "word": "experience",
+    "pronunciation": "/ɪkˈspɪər.i.əns/",
+    "banglaPronunciation": "এক্সপিরিয়েন্স",
+    "meaning": "Knowledge gained from doing something.",
+    "banglaMeaning": "অভিজ্ঞতা",
+    "syllables": [
+      "ex",
+      "pe",
+      "ri",
+      "ence"
+    ],
+    "example": "Travel gives you great experience.",
+    "hint": "Starts with EX, ends in -ence.",
+    "image": "/images/level7/experience.webp"
+  },
+  {
+    "id": "lvl7-086",
+    "level": 7,
+    "order": 86,
+    "word": "explanation",
+    "pronunciation": "/ˌɛk.spləˈneɪ.ʃən/",
+    "banglaPronunciation": "এক্সপ্ল্যানেশন",
+    "meaning": "A statement that makes something clear.",
+    "banglaMeaning": "ব্যাখ্যা",
+    "syllables": [
+      "ex",
+      "pla",
+      "na",
+      "tion"
+    ],
+    "example": "He gave a clear explanation.",
+    "hint": "Note the A change — 'explain' becomes 'explanation'.",
+    "image": "/images/level7/explanation.webp"
+  },
+  {
+    "id": "lvl7-087",
+    "level": 7,
+    "order": 87,
+    "word": "extremely",
+    "pronunciation": "/ɪkˈstriːm.li/",
+    "banglaPronunciation": "এক্সট্রিমলি",
+    "meaning": "To a very great degree.",
+    "banglaMeaning": "অত্যন্ত",
+    "syllables": [
+      "ex",
+      "treme",
+      "ly"
+    ],
+    "example": "It is extremely hot today.",
+    "hint": "Keep both E's from 'extreme' plus 'ly'.",
+    "image": "/images/level7/extremely.webp"
+  },
+  {
+    "id": "lvl7-088",
+    "level": 7,
+    "order": 88,
+    "word": "familiar",
+    "pronunciation": "/fəˈmɪl.jər/",
+    "banglaPronunciation": "ফ্যামিলিয়ার",
+    "meaning": "Well known; easy to recognize.",
+    "banglaMeaning": "পরিচিত",
+    "syllables": [
+      "fa",
+      "mil",
+      "iar"
+    ],
+    "example": "This song sounds familiar.",
+    "hint": "Ends in -iar, not -ier.",
+    "image": "/images/level7/familiar.webp"
+  },
+  {
+    "id": "lvl7-089",
+    "level": 7,
+    "order": 89,
+    "word": "fascinate",
+    "pronunciation": "/ˈfæs.ɪ.neɪt/",
+    "banglaPronunciation": "ফ্যাসিনেট",
+    "meaning": "To attract and interest greatly.",
+    "banglaMeaning": "মুগ্ধ করা",
+    "syllables": [
+      "fas",
+      "ci",
+      "nate"
+    ],
+    "example": "Space continues to fascinate scientists.",
+    "hint": "Has a silent C after FAS — 'fas-ci-nate'.",
+    "image": "/images/level7/fascinate.webp"
+  },
+  {
+    "id": "lvl7-090",
+    "level": 7,
+    "order": 90,
+    "word": "favorite",
+    "pronunciation": "/ˈfeɪ.vər.ɪt/",
+    "banglaPronunciation": "ফেভারিট",
+    "meaning": "Liked more than any other.",
+    "banglaMeaning": "প্রিয়",
+    "syllables": [
+      "fa",
+      "vor",
+      "ite"
+    ],
+    "example": "Blue is my favorite color.",
+    "hint": "American spelling: no U — 'favorite'.",
+    "image": "/images/level7/favorite.webp"
+  },
+  {
+    "id": "lvl7-091",
+    "level": 7,
+    "order": 91,
+    "word": "february",
+    "pronunciation": "/ˈfɛb.ru.ɛr.i/",
+    "banglaPronunciation": "ফেব্রুয়ারি",
+    "meaning": "The second month of the year.",
+    "banglaMeaning": "ফেব্রুয়ারি",
+    "syllables": [
+      "feb",
+      "ru",
+      "ar",
+      "y"
+    ],
+    "example": "Her birthday is in February.",
+    "hint": "Has a silent R after FEB — 'Feb-ru-ary'.",
+    "image": "/images/level7/february.webp"
+  },
+  {
+    "id": "lvl7-092",
+    "level": 7,
+    "order": 92,
+    "word": "finally",
+    "pronunciation": "/ˈfaɪ.nəl.i/",
+    "banglaPronunciation": "ফাইনালি",
+    "meaning": "At last; after a long time.",
+    "banglaMeaning": "অবশেষে",
+    "syllables": [
+      "fi",
+      "nal",
+      "ly"
+    ],
+    "example": "We finally arrived home.",
+    "hint": "Double L — keep both from 'final' plus 'ly'.",
+    "image": "/images/level7/finally.webp"
+  },
+  {
+    "id": "lvl7-093",
+    "level": 7,
+    "order": 93,
+    "word": "fluorescent",
+    "pronunciation": "/flʊəˈrɛs.ənt/",
+    "banglaPronunciation": "ফ্লুরেসেন্ট",
+    "meaning": "Giving off a bright glowing light.",
+    "banglaMeaning": "প্রতিপ্রভ",
+    "syllables": [
+      "fluo",
+      "res",
+      "cent"
+    ],
+    "example": "The room had fluorescent lights.",
+    "hint": "Starts with FLUOR, ends in -escent.",
+    "image": "/images/level7/fluorescent.webp"
+  },
+  {
+    "id": "lvl7-094",
+    "level": 7,
+    "order": 94,
+    "word": "foreign",
+    "pronunciation": "/ˈfɒr.ɪn/",
+    "banglaPronunciation": "ফরেন",
+    "meaning": "From another country.",
+    "banglaMeaning": "বিদেশী",
+    "syllables": [
+      "for",
+      "eign"
+    ],
+    "example": "She speaks three foreign languages.",
+    "hint": "EIGN is silent-G — an exception to I-before-E.",
+    "image": "/images/level7/foreign.webp"
+  },
+  {
+    "id": "lvl7-095",
+    "level": 7,
+    "order": 95,
+    "word": "forty",
+    "pronunciation": "/ˈfɔːr.ti/",
+    "banglaPronunciation": "ফোর্টি",
+    "meaning": "The number 40.",
+    "banglaMeaning": "চল্লিশ",
+    "syllables": [
+      "for",
+      "ty"
+    ],
+    "example": "He is forty years old.",
+    "hint": "No U, unlike 'four' — 'forty'.",
+    "image": "/images/level7/forty.webp"
+  },
+  {
+    "id": "lvl7-096",
+    "level": 7,
+    "order": 96,
+    "word": "fourth",
+    "pronunciation": "/fɔːrθ/",
+    "banglaPronunciation": "ফোর্থ",
+    "meaning": "Coming after third; number 4 in order.",
+    "banglaMeaning": "চতুর্থ",
+    "syllables": [
+      "fourth"
+    ],
+    "example": "She finished in fourth place.",
+    "hint": "Keep the U from 'four', add -th.",
+    "image": "/images/level7/fourth.webp"
+  },
+  {
+    "id": "lvl7-097",
+    "level": 7,
+    "order": 97,
+    "word": "further",
+    "pronunciation": "/ˈfɜːr.ðər/",
+    "banglaPronunciation": "ফারদার",
+    "meaning": "At a greater distance; additionally.",
+    "banglaMeaning": "আরও দূরে",
+    "syllables": [
+      "fur",
+      "ther"
+    ],
+    "example": "We need to discuss this further.",
+    "hint": "Starts with FUR, not FOR — 'further'.",
+    "image": "/images/level7/further.webp"
+  },
+  {
+    "id": "lvl7-098",
+    "level": 7,
+    "order": 98,
+    "word": "gauge",
+    "pronunciation": "/ɡeɪdʒ/",
+    "banglaPronunciation": "গেজ",
+    "meaning": "An instrument for measuring.",
+    "banglaMeaning": "পরিমাপক",
+    "syllables": [
+      "gauge"
+    ],
+    "example": "Check the fuel gauge.",
+    "hint": "AU makes a long A sound — 'gauge'.",
+    "image": "/images/level7/gauge.webp"
+  },
+  {
+    "id": "lvl7-099",
+    "level": 7,
+    "order": 99,
+    "word": "generally",
+    "pronunciation": "/ˈdʒɛn.ər.əl.i/",
+    "banglaPronunciation": "জেনারালি",
+    "meaning": "In most cases; usually.",
+    "banglaMeaning": "সাধারণত",
+    "syllables": [
+      "gen",
+      "er",
+      "al",
+      "ly"
+    ],
+    "example": "Generally, she arrives on time.",
+    "hint": "Keep the -al before -ly.",
+    "image": "/images/level7/generally.webp"
+  },
+  {
+    "id": "lvl7-100",
+    "level": 7,
+    "order": 100,
+    "word": "genuine",
+    "pronunciation": "/ˈdʒɛn.ju.ɪn/",
+    "banglaPronunciation": "জেনুইন",
+    "meaning": "Real; not fake.",
+    "banglaMeaning": "আসল",
+    "syllables": [
+      "gen",
+      "u",
+      "ine"
+    ],
+    "example": "That is a genuine diamond.",
+    "hint": "Ends in -uine, not -uwine.",
+    "image": "/images/level7/genuine.webp"
+  },
+  {
+    "id": "lvl7-101",
+    "level": 7,
+    "order": 101,
+    "word": "government",
+    "pronunciation": "/ˈɡʌv.ərn.mənt/",
+    "banglaPronunciation": "গভর্নমেন্ট",
+    "meaning": "The group that rules a country.",
+    "banglaMeaning": "সরকার",
+    "syllables": [
+      "gov",
+      "ern",
+      "ment"
+    ],
+    "example": "The government passed a new law.",
+    "hint": "Has a silent N before -ment — 'govern-ment'.",
+    "image": "/images/level7/government.webp"
+  },
+  {
+    "id": "lvl7-102",
+    "level": 7,
+    "order": 102,
+    "word": "grammar",
+    "pronunciation": "/ˈɡræm.ər/",
+    "banglaPronunciation": "গ্রামার",
+    "meaning": "The rules of a language.",
+    "banglaMeaning": "ব্যাকরণ",
+    "syllables": [
+      "gram",
+      "mar"
+    ],
+    "example": "She studies English grammar.",
+    "hint": "Ends in -mar, not -mer.",
+    "image": "/images/level7/grammar.webp"
+  },
+  {
+    "id": "lvl7-103",
+    "level": 7,
+    "order": 103,
+    "word": "grateful",
+    "pronunciation": "/ˈɡreɪt.fəl/",
+    "banglaPronunciation": "গ্রেটফুল",
+    "meaning": "Feeling thankful.",
+    "banglaMeaning": "কৃতজ্ঞ",
+    "syllables": [
+      "grate",
+      "ful"
+    ],
+    "example": "I am grateful for your help.",
+    "hint": "Only one L at the end — 'grateful'.",
+    "image": "/images/level7/grateful.webp"
+  },
+  {
+    "id": "lvl7-104",
+    "level": 7,
+    "order": 104,
+    "word": "guarantee",
+    "pronunciation": "/ˌɡær.ənˈtiː/",
+    "banglaPronunciation": "গ্যারান্টি",
+    "meaning": "A promise that something will happen.",
+    "banglaMeaning": "গ্যারান্টি",
+    "syllables": [
+      "guar",
+      "an",
+      "tee"
+    ],
+    "example": "The product has a one-year guarantee.",
+    "hint": "Starts with GUAR, ends in double E.",
+    "image": "/images/level7/guarantee.webp"
+  },
+  {
+    "id": "lvl7-105",
+    "level": 7,
+    "order": 105,
+    "word": "guard",
+    "pronunciation": "/ɡɑːrd/",
+    "banglaPronunciation": "গার্ড",
+    "meaning": "A person who protects a place.",
+    "banglaMeaning": "রক্ষী",
+    "syllables": [
+      "guard"
+    ],
+    "example": "The guard stood at the gate.",
+    "hint": "Has a silent U after G.",
+    "image": "/images/level7/guard.webp"
+  },
+  {
+    "id": "lvl7-106",
+    "level": 7,
+    "order": 106,
+    "word": "guess",
+    "pronunciation": "/ɡɛs/",
+    "banglaPronunciation": "গেস",
+    "meaning": "To try to answer without being sure.",
+    "banglaMeaning": "অনুমান করা",
+    "syllables": [
+      "guess"
+    ],
+    "example": "Take a guess at the answer.",
+    "hint": "Silent U after G, double S at the end.",
+    "image": "/images/level7/guess.webp"
+  },
+  {
+    "id": "lvl7-107",
+    "level": 7,
+    "order": 107,
+    "word": "guidance",
+    "pronunciation": "/ˈɡaɪ.dəns/",
+    "banglaPronunciation": "গাইডেন্স",
+    "meaning": "Help or advice.",
+    "banglaMeaning": "পথনির্দেশনা",
+    "syllables": [
+      "gui",
+      "dance"
+    ],
+    "example": "She needs some guidance.",
+    "hint": "Silent U after G, ends in -ance.",
+    "image": "/images/level7/guidance.webp"
+  },
+  {
+    "id": "lvl7-108",
+    "level": 7,
+    "order": 108,
+    "word": "handkerchief",
+    "pronunciation": "/ˈhæŋ.kər.tʃɪf/",
+    "banglaPronunciation": "হ্যাংকারচিফ",
+    "meaning": "A small cloth for wiping the nose.",
+    "banglaMeaning": "রুমাল",
+    "syllables": [
+      "hand",
+      "ker",
+      "chief"
+    ],
+    "example": "He wiped his face with a handkerchief.",
+    "hint": "Ends in -chief, like the word 'chief'.",
+    "image": "/images/level7/handkerchief.webp"
+  },
+  {
+    "id": "lvl7-109",
+    "level": 7,
+    "order": 109,
+    "word": "happened",
+    "pronunciation": "/ˈhæp.ənd/",
+    "banglaPronunciation": "হ্যাপেন্ড",
+    "meaning": "Past tense of happen.",
+    "banglaMeaning": "ঘটেছিল",
+    "syllables": [
+      "hap",
+      "pened"
+    ],
+    "example": "Tell me what happened.",
+    "hint": "Double P, then -ened, not -end.",
+    "image": "/images/level7/happened.webp"
+  },
+  {
+    "id": "lvl7-110",
+    "level": 7,
+    "order": 110,
+    "word": "harass",
+    "pronunciation": "/həˈræs/",
+    "banglaPronunciation": "হ্যারাস",
+    "meaning": "To repeatedly disturb or bother someone.",
+    "banglaMeaning": "হয়রানি করা",
+    "syllables": [
+      "ha",
+      "rass"
+    ],
+    "example": "It is wrong to harass anyone.",
+    "hint": "Only one R, double S — 'harass'.",
+    "image": "/images/level7/harass.webp"
+  },
+  {
+    "id": "lvl7-111",
+    "level": 7,
+    "order": 111,
+    "word": "humorous",
+    "pronunciation": "/ˈhjuː.mər.əs/",
+    "banglaPronunciation": "হিউমারাস",
+    "meaning": "Funny; causing laughter.",
+    "banglaMeaning": "হাস্যরসাত্মক",
+    "syllables": [
+      "hu",
+      "mor",
+      "ous"
+    ],
+    "example": "He told a humorous story.",
+    "hint": "No U before -ous — 'humor' plus 'ous'.",
+    "image": "/images/level7/humorous.webp"
+  },
+  {
+    "id": "lvl7-112",
+    "level": 7,
+    "order": 112,
+    "word": "hygiene",
+    "pronunciation": "/ˈhaɪ.dʒiːn/",
+    "banglaPronunciation": "হাইজিন",
+    "meaning": "Practices that keep you clean and healthy.",
+    "banglaMeaning": "স্বাস্থ্যবিধি",
+    "syllables": [
+      "hy",
+      "giene"
+    ],
+    "example": "Good hygiene prevents illness.",
+    "hint": "G before I, then E — 'hy-giene'.",
+    "image": "/images/level7/hygiene.webp"
+  },
+  {
+    "id": "lvl7-113",
+    "level": 7,
+    "order": 113,
+    "word": "hypocrite",
+    "pronunciation": "/ˈhɪp.ə.krɪt/",
+    "banglaPronunciation": "হিপোক্রিট",
+    "meaning": "A person who says one thing but does another.",
+    "banglaMeaning": "ভণ্ড",
+    "syllables": [
+      "hyp",
+      "o",
+      "crite"
+    ],
+    "example": "Don't be a hypocrite about the rules.",
+    "hint": "Starts with HYP, ends in -crite.",
+    "image": "/images/level7/hypocrite.webp"
+  },
+  {
+    "id": "lvl7-114",
+    "level": 7,
+    "order": 114,
+    "word": "ignorance",
+    "pronunciation": "/ˈɪɡ.nər.əns/",
+    "banglaPronunciation": "ইগনোরেন্স",
+    "meaning": "Lack of knowledge.",
+    "banglaMeaning": "অজ্ঞতা",
+    "syllables": [
+      "ig",
+      "nor",
+      "ance"
+    ],
+    "example": "His mistake was due to ignorance.",
+    "hint": "Ends in -ance, not -ence.",
+    "image": "/images/level7/ignorance.webp"
+  },
+  {
+    "id": "lvl7-115",
+    "level": 7,
+    "order": 115,
+    "word": "imaginary",
+    "pronunciation": "/ɪˈmædʒ.ɪ.nər.i/",
+    "banglaPronunciation": "ইম্যাজিনারি",
+    "meaning": "Existing only in the mind; not real.",
+    "banglaMeaning": "কাল্পনিক",
+    "syllables": [
+      "i",
+      "mag",
+      "i",
+      "nar",
+      "y"
+    ],
+    "example": "She has an imaginary friend.",
+    "hint": "Five syllables, ends in -inary.",
+    "image": "/images/level7/imaginary.webp"
+  },
+  {
+    "id": "lvl7-116",
+    "level": 7,
+    "order": 116,
+    "word": "immediately",
+    "pronunciation": "/ɪˈmiː.di.ət.li/",
+    "banglaPronunciation": "ইমিডিয়েটলি",
+    "meaning": "Right away; at once.",
+    "banglaMeaning": "তাৎক্ষণিকভাবে",
+    "syllables": [
+      "im",
+      "me",
+      "di",
+      "ate",
+      "ly"
+    ],
+    "example": "Come here immediately.",
+    "hint": "Double M at the start.",
+    "image": "/images/level7/immediately.webp"
+  },
+  {
+    "id": "lvl7-117",
+    "level": 7,
+    "order": 117,
+    "word": "incidentally",
+    "pronunciation": "/ˌɪn.sɪˈdɛn.təl.i/",
+    "banglaPronunciation": "ইনসিডেন্টালি",
+    "meaning": "By the way; happening by chance.",
+    "banglaMeaning": "ঘটনাক্রমে",
+    "syllables": [
+      "in",
+      "ci",
+      "den",
+      "tal",
+      "ly"
+    ],
+    "example": "Incidentally, I saw her yesterday.",
+    "hint": "Keep -tal before -ly, from 'incidental'.",
+    "image": "/images/level7/incidentally.webp"
+  },
+  {
+    "id": "lvl7-118",
+    "level": 7,
+    "order": 118,
+    "word": "independent",
+    "pronunciation": "/ˌɪn.dɪˈpɛn.dənt/",
+    "banglaPronunciation": "ইন্ডিপেন্ডেন্ট",
+    "meaning": "Free from control by others.",
+    "banglaMeaning": "স্বাধীন",
+    "syllables": [
+      "in",
+      "de",
+      "pen",
+      "dent"
+    ],
+    "example": "She is very independent.",
+    "hint": "Ends in -dent, not -dant.",
+    "image": "/images/level7/independent.webp"
+  },
+  {
+    "id": "lvl7-119",
+    "level": 7,
+    "order": 119,
+    "word": "indispensable",
+    "pronunciation": "/ˌɪn.dɪˈspɛn.sə.bəl/",
+    "banglaPronunciation": "ইনডিসপেন্সেবল",
+    "meaning": "So important that it cannot be done without.",
+    "banglaMeaning": "অপরিহার্য",
+    "syllables": [
+      "in",
+      "dis",
+      "pen",
+      "sa",
+      "ble"
+    ],
+    "example": "Water is indispensable to life.",
+    "hint": "Ends in -sable, not -sible.",
+    "image": "/images/level7/indispensable.webp"
+  },
+  {
+    "id": "lvl7-120",
+    "level": 7,
+    "order": 120,
+    "word": "inevitable",
+    "pronunciation": "/ɪˈnɛv.ɪ.tə.bəl/",
+    "banglaPronunciation": "ইনএভিটেবল",
+    "meaning": "Certain to happen; unavoidable.",
+    "banglaMeaning": "অনিবার্য",
+    "syllables": [
+      "in",
+      "ev",
+      "i",
+      "ta",
+      "ble"
+    ],
+    "example": "Change is inevitable.",
+    "hint": "Ends in -table, not -tible.",
+    "image": "/images/level7/inevitable.webp"
+  },
+  {
+    "id": "lvl7-121",
+    "level": 7,
+    "order": 121,
+    "word": "influential",
+    "pronunciation": "/ˌɪn.fluˈɛn.ʃəl/",
+    "banglaPronunciation": "ইনফ্লুয়েনশাল",
+    "meaning": "Having great power to affect people or things.",
+    "banglaMeaning": "প্রভাবশালী",
+    "syllables": [
+      "in",
+      "flu",
+      "en",
+      "tial"
+    ],
+    "example": "She is an influential leader.",
+    "hint": "Ends in -tial, not -cial.",
+    "image": "/images/level7/influential.webp"
+  },
+  {
+    "id": "lvl7-122",
+    "level": 7,
+    "order": 122,
+    "word": "information",
+    "pronunciation": "/ˌɪn.fərˈmeɪ.ʃən/",
+    "banglaPronunciation": "ইনফরমেশন",
+    "meaning": "Facts or details about something.",
+    "banglaMeaning": "তথ্য",
+    "syllables": [
+      "in",
+      "for",
+      "ma",
+      "tion"
+    ],
+    "example": "The book has useful information.",
+    "hint": "Ends in -mation, not -mtion.",
+    "image": "/images/level7/information.webp"
+  },
+  {
+    "id": "lvl7-123",
+    "level": 7,
+    "order": 123,
+    "word": "ingredient",
+    "pronunciation": "/ɪnˈɡriː.di.ənt/",
+    "banglaPronunciation": "ইনগ্রিডিয়েন্ট",
+    "meaning": "One part of a mixture, especially in cooking.",
+    "banglaMeaning": "উপাদান",
+    "syllables": [
+      "in",
+      "gre",
+      "di",
+      "ent"
+    ],
+    "example": "Flour is the main ingredient.",
+    "hint": "Ends in -edient, four syllables.",
+    "image": "/images/level7/ingredient.webp"
+  },
+  {
+    "id": "lvl7-124",
+    "level": 7,
+    "order": 124,
+    "word": "inoculate",
+    "pronunciation": "/ɪˈnɒk.jə.leɪt/",
+    "banglaPronunciation": "ইনোকুলেট",
+    "meaning": "To give a vaccine to protect against disease.",
+    "banglaMeaning": "টিকা দেওয়া",
+    "syllables": [
+      "i",
+      "noc",
+      "u",
+      "late"
+    ],
+    "example": "The nurse will inoculate the children.",
+    "hint": "Only one N and one C — 'i-noc-u-late'.",
+    "image": "/images/level7/inoculate.webp"
+  },
+  {
+    "id": "lvl7-125",
+    "level": 7,
+    "order": 125,
+    "word": "intelligence",
+    "pronunciation": "/ɪnˈtɛl.ɪ.dʒəns/",
+    "banglaPronunciation": "ইন্টেলিজেন্স",
+    "meaning": "The ability to learn and understand.",
+    "banglaMeaning": "বুদ্ধিমত্তা",
+    "syllables": [
+      "in",
+      "tel",
+      "li",
+      "gence"
+    ],
+    "example": "Her intelligence impressed the teachers.",
+    "hint": "Double L, ends in -gence.",
+    "image": "/images/level7/intelligence.webp"
+  },
+  {
+    "id": "lvl7-126",
+    "level": 7,
+    "order": 126,
+    "word": "interesting",
+    "pronunciation": "/ˈɪn.trə.stɪŋ/",
+    "banglaPronunciation": "ইন্টারেস্টিং",
+    "meaning": "Holding your attention; not boring.",
+    "banglaMeaning": "আকর্ষণীয়",
+    "syllables": [
+      "in",
+      "ter",
+      "est",
+      "ing"
+    ],
+    "example": "That was an interesting movie.",
+    "hint": "Keep 'interest' whole before adding -ing.",
+    "image": "/images/level7/interesting.webp"
+  },
+  {
+    "id": "lvl7-127",
+    "level": 7,
+    "order": 127,
+    "word": "interrupt",
+    "pronunciation": "/ˌɪn.təˈrʌpt/",
+    "banglaPronunciation": "ইন্টারাপ্ট",
+    "meaning": "To stop someone while they are speaking.",
+    "banglaMeaning": "বাধা দেওয়া",
+    "syllables": [
+      "in",
+      "ter",
+      "rupt"
+    ],
+    "example": "Please don't interrupt me.",
+    "hint": "Double R in the middle.",
+    "image": "/images/level7/interrupt.webp"
+  },
+  {
+    "id": "lvl7-128",
+    "level": 7,
+    "order": 128,
+    "word": "irrelevant",
+    "pronunciation": "/ɪˈrɛl.ə.vənt/",
+    "banglaPronunciation": "ইরেলেভ্যান্ট",
+    "meaning": "Not related to the subject.",
+    "banglaMeaning": "অপ্রাসঙ্গিক",
+    "syllables": [
+      "ir",
+      "rel",
+      "e",
+      "vant"
+    ],
+    "example": "That comment is irrelevant here.",
+    "hint": "Double R at the start, ends in -vant.",
+    "image": "/images/level7/irrelevant.webp"
+  },
+  {
+    "id": "lvl7-129",
+    "level": 7,
+    "order": 129,
+    "word": "irresistible",
+    "pronunciation": "/ˌɪr.ɪˈzɪs.tə.bəl/",
+    "banglaPronunciation": "ইরেসিস্টিবল",
+    "meaning": "Too tempting to resist.",
+    "banglaMeaning": "অপ্রতিরোধ্য",
+    "syllables": [
+      "ir",
+      "re",
+      "sis",
+      "ti",
+      "ble"
+    ],
+    "example": "The cake looked irresistible.",
+    "hint": "Double R, ends in -tible not -table.",
+    "image": "/images/level7/irresistible.webp"
+  },
+  {
+    "id": "lvl7-130",
+    "level": 7,
+    "order": 130,
+    "word": "jealous",
+    "pronunciation": "/ˈdʒɛl.əs/",
+    "banglaPronunciation": "জেলাস",
+    "meaning": "Feeling envious of someone else.",
+    "banglaMeaning": "ঈর্ষান্বিত",
+    "syllables": [
+      "jeal",
+      "ous"
+    ],
+    "example": "He felt jealous of his brother.",
+    "hint": "EA together, then -ous, not -us.",
+    "image": "/images/level7/jealous.webp"
+  },
+  {
+    "id": "lvl7-131",
+    "level": 7,
+    "order": 131,
+    "word": "jewelry",
+    "pronunciation": "/ˈdʒuː.əl.ri/",
+    "banglaPronunciation": "জুয়েলরি",
+    "meaning": "Ornaments like rings and necklaces.",
+    "banglaMeaning": "গহনা",
+    "syllables": [
+      "jew",
+      "el",
+      "ry"
+    ],
+    "example": "She wore beautiful jewelry.",
+    "hint": "American spelling: no second E — 'jewelry'.",
+    "image": "/images/level7/jewelry.webp"
+  },
+  {
+    "id": "lvl7-132",
+    "level": 7,
+    "order": 132,
+    "word": "judgment",
+    "pronunciation": "/ˈdʒʌdʒ.mənt/",
+    "banglaPronunciation": "জাজমেন্ট",
+    "meaning": "An opinion or decision made after thinking.",
+    "banglaMeaning": "বিচার",
+    "syllables": [
+      "judg",
+      "ment"
+    ],
+    "example": "Use your best judgment.",
+    "hint": "No E before -ment in the common spelling — 'judgment'.",
+    "image": "/images/level7/judgment.webp"
+  },
+  {
+    "id": "lvl7-133",
+    "level": 7,
+    "order": 133,
+    "word": "kernel",
+    "pronunciation": "/ˈkɜːr.nəl/",
+    "banglaPronunciation": "কার্নেল",
+    "meaning": "A seed or the central part of something.",
+    "banglaMeaning": "শস্যদানা",
+    "syllables": [
+      "ker",
+      "nel"
+    ],
+    "example": "Each kernel of corn is small.",
+    "hint": "Sounds like 'colonel' but spelled differently.",
+    "image": "/images/level7/kernel.webp"
+  },
+  {
+    "id": "lvl7-134",
+    "level": 7,
+    "order": 134,
+    "word": "kindergarten",
+    "pronunciation": "/ˈkɪn.dər.ɡɑːr.tən/",
+    "banglaPronunciation": "কিন্ডারগার্টেন",
+    "meaning": "A class for very young children.",
+    "banglaMeaning": "শিশু বিদ্যালয়",
+    "syllables": [
+      "kin",
+      "der",
+      "gar",
+      "ten"
+    ],
+    "example": "My sister started kindergarten today.",
+    "hint": "Has GAR in the middle, not GUAR.",
+    "image": "/images/level7/kindergarten.webp"
+  },
+  {
+    "id": "lvl7-135",
+    "level": 7,
+    "order": 135,
+    "word": "knowledge",
+    "pronunciation": "/ˈnɒl.ɪdʒ/",
+    "banglaPronunciation": "নলেজ",
+    "meaning": "Facts and information a person knows.",
+    "banglaMeaning": "জ্ঞান",
+    "syllables": [
+      "knowl",
+      "edge"
+    ],
+    "example": "He has great knowledge of history.",
+    "hint": "Silent K, ends in -edge.",
+    "image": "/images/level7/knowledge.webp"
+  },
+  {
+    "id": "lvl7-136",
+    "level": 7,
+    "order": 136,
+    "word": "laboratory",
+    "pronunciation": "/ˈlæb.rə.tɔːr.i/",
+    "banglaPronunciation": "ল্যাবরেটরি",
+    "meaning": "A room used for scientific experiments.",
+    "banglaMeaning": "গবেষণাগার",
+    "syllables": [
+      "lab",
+      "o",
+      "ra",
+      "to",
+      "ry"
+    ],
+    "example": "The scientist worked in the laboratory.",
+    "hint": "Five syllables — don't drop any.",
+    "image": "/images/level7/laboratory.webp"
+  },
+  {
+    "id": "lvl7-137",
+    "level": 7,
+    "order": 137,
+    "word": "language",
+    "pronunciation": "/ˈlæŋ.ɡwɪdʒ/",
+    "banglaPronunciation": "ল্যাঙ্গুয়েজ",
+    "meaning": "A system of words used to communicate.",
+    "banglaMeaning": "ভাষা",
+    "syllables": [
+      "lan",
+      "guage"
+    ],
+    "example": "She speaks two languages.",
+    "hint": "Has GU together — 'lan-guage'.",
+    "image": "/images/level7/language.webp"
+  },
+  {
+    "id": "lvl7-138",
+    "level": 7,
+    "order": 138,
+    "word": "leisure",
+    "pronunciation": "/ˈliː.ʒər/",
+    "banglaPronunciation": "লেজার",
+    "meaning": "Free time for rest or fun.",
+    "banglaMeaning": "অবসর",
+    "syllables": [
+      "lei",
+      "sure"
+    ],
+    "example": "He enjoys reading in his leisure time.",
+    "hint": "EI here, not IE — an exception.",
+    "image": "/images/level7/leisure.webp"
+  },
+  {
+    "id": "lvl7-139",
+    "level": 7,
+    "order": 139,
+    "word": "length",
+    "pronunciation": "/lɛŋθ/",
+    "banglaPronunciation": "লেংথ",
+    "meaning": "How long something is.",
+    "banglaMeaning": "দৈর্ঘ্য",
+    "syllables": [
+      "length"
+    ],
+    "example": "Measure the length of the room.",
+    "hint": "Has NG before TH — 'leng-th'.",
+    "image": "/images/level7/length.webp"
+  },
+  {
+    "id": "lvl7-140",
+    "level": 7,
+    "order": 140,
+    "word": "liaison",
+    "pronunciation": "/liˈeɪ.zɒn/",
+    "banglaPronunciation": "লিয়াজোঁ",
+    "meaning": "A connection or person who helps communication.",
+    "banglaMeaning": "যোগাযোগ",
+    "syllables": [
+      "li",
+      "ai",
+      "son"
+    ],
+    "example": "She works as a liaison between teams.",
+    "hint": "Has AI in the middle — 'li-ai-son'.",
+    "image": "/images/level7/liaison.webp"
+  },
+  {
+    "id": "lvl7-141",
+    "level": 7,
+    "order": 141,
+    "word": "library",
+    "pronunciation": "/ˈlaɪ.brər.i/",
+    "banglaPronunciation": "লাইব্রেরি",
+    "meaning": "A place with books to read or borrow.",
+    "banglaMeaning": "গ্রন্থাগার",
+    "syllables": [
+      "li",
+      "brar",
+      "y"
+    ],
+    "example": "I borrowed a book from the library.",
+    "hint": "Has R after LIB — 'li-brar-y', not 'libary'.",
+    "image": "/images/level7/library.webp"
+  },
+  {
+    "id": "lvl7-142",
+    "level": 7,
+    "order": 142,
+    "word": "license",
+    "pronunciation": "/ˈlaɪ.səns/",
+    "banglaPronunciation": "লাইসেন্স",
+    "meaning": "Official permission to do something.",
+    "banglaMeaning": "লাইসেন্স",
+    "syllables": [
+      "li",
+      "cense"
+    ],
+    "example": "He has a driving license.",
+    "hint": "American spelling ends in -cense.",
+    "image": "/images/level7/license.webp"
+  },
+  {
+    "id": "lvl7-143",
+    "level": 7,
+    "order": 143,
+    "word": "likelihood",
+    "pronunciation": "/ˈlaɪk.li.hʊd/",
+    "banglaPronunciation": "লাইকলিহুড",
+    "meaning": "The chance that something will happen.",
+    "banglaMeaning": "সম্ভাবনা",
+    "syllables": [
+      "like",
+      "li",
+      "hood"
+    ],
+    "example": "There is a likelihood of rain.",
+    "hint": "Ends in -hood, like 'childhood'.",
+    "image": "/images/level7/likelihood.webp"
+  },
+  {
+    "id": "lvl7-144",
+    "level": 7,
+    "order": 144,
+    "word": "literature",
+    "pronunciation": "/ˈlɪt.ər.ə.tʃər/",
+    "banglaPronunciation": "লিটারেচার",
+    "meaning": "Written works such as novels and poems.",
+    "banglaMeaning": "সাহিত্য",
+    "syllables": [
+      "lit",
+      "er",
+      "a",
+      "ture"
+    ],
+    "example": "She studies English literature.",
+    "hint": "Ends in -ature, four syllables.",
+    "image": "/images/level7/literature.webp"
+  },
+  {
+    "id": "lvl7-145",
+    "level": 7,
+    "order": 145,
+    "word": "lonely",
+    "pronunciation": "/ˈloʊn.li/",
+    "banglaPronunciation": "লোনলি",
+    "meaning": "Feeling sad from being alone.",
+    "banglaMeaning": "একাকী",
+    "syllables": [
+      "lone",
+      "ly"
+    ],
+    "example": "He felt lonely in the new city.",
+    "hint": "Keep the silent E before -ly — 'lone-ly'.",
+    "image": "/images/level7/lonely.webp"
+  },
+  {
+    "id": "lvl7-146",
+    "level": 7,
+    "order": 146,
+    "word": "luxury",
+    "pronunciation": "/ˈlʌk.ʃər.i/",
+    "banglaPronunciation": "লাক্সারি",
+    "meaning": "Great comfort, often costly.",
+    "banglaMeaning": "বিলাসিতা",
+    "syllables": [
+      "lux",
+      "u",
+      "ry"
+    ],
+    "example": "They enjoy a life of luxury.",
+    "hint": "Ends in -ury, not -ery.",
+    "image": "/images/level7/luxury.webp"
+  },
+  {
+    "id": "lvl7-147",
+    "level": 7,
+    "order": 147,
+    "word": "maintenance",
+    "pronunciation": "/ˈmeɪn.tən.əns/",
+    "banglaPronunciation": "মেইনটেন্যান্স",
+    "meaning": "The work of keeping something in good condition.",
+    "banglaMeaning": "রক্ষণাবেক্ষণ",
+    "syllables": [
+      "main",
+      "te",
+      "nance"
+    ],
+    "example": "The car needs regular maintenance.",
+    "hint": "Ends in -enance, tricky middle vowel.",
+    "image": "/images/level7/maintenance.webp"
+  },
+  {
+    "id": "lvl7-148",
+    "level": 7,
+    "order": 148,
+    "word": "maneuver",
+    "pronunciation": "/məˈnuː.vər/",
+    "banglaPronunciation": "ম্যানুভার",
+    "meaning": "A skillful movement or plan.",
+    "banglaMeaning": "কৌশল",
+    "syllables": [
+      "ma",
+      "neu",
+      "ver"
+    ],
+    "example": "The pilot made a sharp maneuver.",
+    "hint": "American spelling: -euver, not -oeuvre.",
+    "image": "/images/level7/maneuver.webp"
+  },
+  {
+    "id": "lvl7-149",
+    "level": 7,
+    "order": 149,
+    "word": "marriage",
+    "pronunciation": "/ˈmær.ɪdʒ/",
+    "banglaPronunciation": "ম্যারেজ",
+    "meaning": "The union of two people.",
+    "banglaMeaning": "বিবাহ",
+    "syllables": [
+      "mar",
+      "riage"
+    ],
+    "example": "Their marriage was a happy one.",
+    "hint": "Double R, ends in -riage like 'carriage'.",
+    "image": "/images/level7/marriage.webp"
+  },
+  {
+    "id": "lvl7-150",
+    "level": 7,
+    "order": 150,
+    "word": "mathematics",
+    "pronunciation": "/ˌmæθ.əˈmæt.ɪks/",
+    "banglaPronunciation": "ম্যাথম্যাটিক্স",
+    "meaning": "The study of numbers and shapes.",
+    "banglaMeaning": "গণিত",
+    "syllables": [
+      "math",
+      "e",
+      "mat",
+      "ics"
+    ],
+    "example": "She excels at mathematics.",
+    "hint": "Ends in -matics, four syllables.",
+    "image": "/images/level7/mathematics.webp"
+  },
+  {
+    "id": "lvl7-151",
+    "level": 7,
+    "order": 151,
+    "word": "medicine",
+    "pronunciation": "/ˈmɛd.ɪ.sɪn/",
+    "banglaPronunciation": "মেডিসিন",
+    "meaning": "A substance used to treat illness.",
+    "banglaMeaning": "ওষুধ",
+    "syllables": [
+      "med",
+      "i",
+      "cine"
+    ],
+    "example": "Take your medicine after meals.",
+    "hint": "Ends in -cine, not -sin.",
+    "image": "/images/level7/medicine.webp"
+  },
+  {
+    "id": "lvl7-152",
+    "level": 7,
+    "order": 152,
+    "word": "memento",
+    "pronunciation": "/məˈmɛn.toʊ/",
+    "banglaPronunciation": "মিমেন্টো",
+    "meaning": "An object kept to remember something.",
+    "banglaMeaning": "স্মারক",
+    "syllables": [
+      "me",
+      "men",
+      "to"
+    ],
+    "example": "She kept the ticket as a memento.",
+    "hint": "Starts with ME, not MO — 'me-men-to'.",
+    "image": "/images/level7/memento.webp"
+  },
+  {
+    "id": "lvl7-153",
+    "level": 7,
+    "order": 153,
+    "word": "millennium",
+    "pronunciation": "/mɪˈlɛn.i.əm/",
+    "banglaPronunciation": "মিলেনিয়াম",
+    "meaning": "A period of one thousand years.",
+    "banglaMeaning": "সহস্রাব্দ",
+    "syllables": [
+      "mil",
+      "len",
+      "ni",
+      "um"
+    ],
+    "example": "We celebrated the new millennium.",
+    "hint": "Double L, double N — two pairs.",
+    "image": "/images/level7/millennium.webp"
+  },
+  {
+    "id": "lvl7-154",
+    "level": 7,
+    "order": 154,
+    "word": "miniature",
+    "pronunciation": "/ˈmɪn.i.ə.tʃər/",
+    "banglaPronunciation": "মিনিয়াচার",
+    "meaning": "A very small version of something.",
+    "banglaMeaning": "ক্ষুদ্রাকৃতি",
+    "syllables": [
+      "min",
+      "i",
+      "a",
+      "ture"
+    ],
+    "example": "He collects miniature cars.",
+    "hint": "Keep the I after MIN — 'min-i-a-ture'.",
+    "image": "/images/level7/miniature.webp"
+  },
+  {
+    "id": "lvl7-155",
+    "level": 7,
+    "order": 155,
+    "word": "minute",
+    "pronunciation": "/ˈmɪn.ɪt/",
+    "banglaPronunciation": "মিনিট",
+    "meaning": "A unit of time, 60 seconds.",
+    "banglaMeaning": "মিনিট",
+    "syllables": [
+      "min",
+      "ute"
+    ],
+    "example": "Wait just a minute.",
+    "hint": "Ends in -ute, not -it.",
+    "image": "/images/level7/minute.webp"
+  },
+  {
+    "id": "lvl7-156",
+    "level": 7,
+    "order": 156,
+    "word": "mischievous",
+    "pronunciation": "/ˈmɪs.tʃə.vəs/",
+    "banglaPronunciation": "মিসচিভাস",
+    "meaning": "Playfully naughty.",
+    "banglaMeaning": "দুষ্টু",
+    "syllables": [
+      "mis",
+      "chie",
+      "vous"
+    ],
+    "example": "The mischievous cat knocked over the vase.",
+    "hint": "Ends in -vous, only three syllables — not 'mischievious'.",
+    "image": "/images/level7/mischievous.webp"
+  },
+  {
+    "id": "lvl7-157",
+    "level": 7,
+    "order": 157,
+    "word": "mortgage",
+    "pronunciation": "/ˈmɔːr.ɡɪdʒ/",
+    "banglaPronunciation": "মর্টগেজ",
+    "meaning": "A loan used to buy property.",
+    "banglaMeaning": "বন্ধকী ঋণ",
+    "syllables": [
+      "mort",
+      "gage"
+    ],
+    "example": "They took out a mortgage for their house.",
+    "hint": "Has a silent T after MOR.",
+    "image": "/images/level7/mortgage.webp"
+  },
+  {
+    "id": "lvl7-158",
+    "level": 7,
+    "order": 158,
+    "word": "muscle",
+    "pronunciation": "/ˈmʌs.əl/",
+    "banglaPronunciation": "মাসল",
+    "meaning": "A body tissue that helps movement.",
+    "banglaMeaning": "পেশী",
+    "syllables": [
+      "mus",
+      "cle"
+    ],
+    "example": "He built strong muscle from exercise.",
+    "hint": "Has a silent C — 'mus-cle', not 'musle'.",
+    "image": "/images/level7/muscle.webp"
+  },
+  {
+    "id": "lvl7-159",
+    "level": 7,
+    "order": 159,
+    "word": "mysterious",
+    "pronunciation": "/mɪˈstɪər.i.əs/",
+    "banglaPronunciation": "মিস্টেরিয়াস",
+    "meaning": "Strange and hard to explain.",
+    "banglaMeaning": "রহস্যময়",
+    "syllables": [
+      "mys",
+      "te",
+      "ri",
+      "ous"
+    ],
+    "example": "A mysterious noise came from upstairs.",
+    "hint": "Starts with MYS, not MIS.",
+    "image": "/images/level7/mysterious.webp"
+  },
+  {
+    "id": "lvl7-160",
+    "level": 7,
+    "order": 160,
+    "word": "naive",
+    "pronunciation": "/naɪˈiːv/",
+    "banglaPronunciation": "নাইভ",
+    "meaning": "Lacking experience or judgment; too trusting.",
+    "banglaMeaning": "নির্বোধ / সরল",
+    "syllables": [
+      "na",
+      "ive"
+    ],
+    "example": "It was naive of him to trust a stranger.",
+    "hint": "Two vowels together, each pronounced separately.",
+    "image": "/images/level7/naive.webp"
+  },
+  {
+    "id": "lvl7-161",
+    "level": 7,
+    "order": 161,
+    "word": "necessary",
+    "pronunciation": "/ˈnɛs.ə.sɛr.i/",
+    "banglaPronunciation": "নেসেসারি",
+    "meaning": "Needed; required.",
+    "banglaMeaning": "প্রয়োজনীয়",
+    "syllables": [
+      "nec",
+      "es",
+      "sar",
+      "y"
+    ],
+    "example": "Water is necessary for life.",
+    "hint": "One C, two S's — 'one collar, two socks'.",
+    "image": "/images/level7/necessary.webp"
+  },
+  {
+    "id": "lvl7-162",
+    "level": 7,
+    "order": 162,
+    "word": "neighbor",
+    "pronunciation": "/ˈneɪ.bər/",
+    "banglaPronunciation": "নেইবার",
+    "meaning": "A person who lives nearby.",
+    "banglaMeaning": "প্রতিবেশী",
+    "syllables": [
+      "neigh",
+      "bor"
+    ],
+    "example": "Our neighbor waved hello.",
+    "hint": "EIGH together, silent GH.",
+    "image": "/images/level7/neighbor.webp"
+  },
+  {
+    "id": "lvl7-163",
+    "level": 7,
+    "order": 163,
+    "word": "neither",
+    "pronunciation": "/ˈniː.ðər/",
+    "banglaPronunciation": "নিদার",
+    "meaning": "Not one nor the other.",
+    "banglaMeaning": "কেউই না",
+    "syllables": [
+      "nei",
+      "ther"
+    ],
+    "example": "Neither of us was hungry.",
+    "hint": "EI here, an exception to I-before-E.",
+    "image": "/images/level7/neither.webp"
+  },
+  {
+    "id": "lvl7-164",
+    "level": 7,
+    "order": 164,
+    "word": "niece",
+    "pronunciation": "/niːs/",
+    "banglaPronunciation": "নিস",
+    "meaning": "A daughter of one's sibling.",
+    "banglaMeaning": "ভাইঝি/বোনঝি",
+    "syllables": [
+      "niece"
+    ],
+    "example": "My niece is turning five.",
+    "hint": "I before E — 'niece', not 'neice'.",
+    "image": "/images/level7/niece.webp"
+  },
+  {
+    "id": "lvl7-165",
+    "level": 7,
+    "order": 165,
+    "word": "ninety",
+    "pronunciation": "/ˈnaɪn.ti/",
+    "banglaPronunciation": "নাইনটি",
+    "meaning": "The number 90.",
+    "banglaMeaning": "নব্বই",
+    "syllables": [
+      "nine",
+      "ty"
+    ],
+    "example": "He is ninety years old.",
+    "hint": "Drop the silent E from 'nine' before -ty.",
+    "image": "/images/level7/ninety.webp"
+  },
+  {
+    "id": "lvl7-166",
+    "level": 7,
+    "order": 166,
+    "word": "noticeable",
+    "pronunciation": "/ˈnoʊ.tɪ.sə.bəl/",
+    "banglaPronunciation": "নোটিসেবল",
+    "meaning": "Easy to see or notice.",
+    "banglaMeaning": "লক্ষণীয়",
+    "syllables": [
+      "no",
+      "tice",
+      "a",
+      "ble"
+    ],
+    "example": "There was a noticeable change.",
+    "hint": "Keep the E before -able to keep the C soft.",
+    "image": "/images/level7/noticeable.webp"
+  },
+  {
+    "id": "lvl7-167",
+    "level": 7,
+    "order": 167,
+    "word": "nowadays",
+    "pronunciation": "/ˈnaʊ.ə.deɪz/",
+    "banglaPronunciation": "নাউয়াডেজ",
+    "meaning": "In the present time.",
+    "banglaMeaning": "আজকাল",
+    "syllables": [
+      "now",
+      "a",
+      "days"
+    ],
+    "example": "Nowadays, everyone has a phone.",
+    "hint": "Joins 'now' + 'a' + 'days', no extra letters.",
+    "image": "/images/level7/nowadays.webp"
+  },
+  {
+    "id": "lvl7-168",
+    "level": 7,
+    "order": 168,
+    "word": "nuclear",
+    "pronunciation": "/ˈnuː.kli.ər/",
+    "banglaPronunciation": "নিউক্লিয়ার",
+    "meaning": "Relating to the nucleus of an atom.",
+    "banglaMeaning": "পারমাণবিক",
+    "syllables": [
+      "nu",
+      "cle",
+      "ar"
+    ],
+    "example": "The plant produces nuclear energy.",
+    "hint": "Ends in -clear-style but spelled -clear... actually -clear: 'nu-cle-ar'.",
+    "image": "/images/level7/nuclear.webp"
+  },
+  {
+    "id": "lvl7-169",
+    "level": 7,
+    "order": 169,
+    "word": "numerous",
+    "pronunciation": "/ˈnuː.mər.əs/",
+    "banglaPronunciation": "নিউমারাস",
+    "meaning": "Existing in large numbers; many.",
+    "banglaMeaning": "অসংখ্য",
+    "syllables": [
+      "nu",
+      "mer",
+      "ous"
+    ],
+    "example": "There were numerous mistakes.",
+    "hint": "Ends in -ous, not -us.",
+    "image": "/images/level7/numerous.webp"
+  },
+  {
+    "id": "lvl7-170",
+    "level": 7,
+    "order": 170,
+    "word": "obedience",
+    "pronunciation": "/oʊˈbiː.di.əns/",
+    "banglaPronunciation": "ওবিডিয়েন্স",
+    "meaning": "The act of following rules or orders.",
+    "banglaMeaning": "আনুগত্য",
+    "syllables": [
+      "o",
+      "be",
+      "di",
+      "ence"
+    ],
+    "example": "The dog was trained for obedience.",
+    "hint": "Ends in -ence, four syllables.",
+    "image": "/images/level7/obedience.webp"
+  },
+  {
+    "id": "lvl7-171",
+    "level": 7,
+    "order": 171,
+    "word": "obstacle",
+    "pronunciation": "/ˈɒb.stə.kəl/",
+    "banglaPronunciation": "অবস্টাকল",
+    "meaning": "Something that blocks the way.",
+    "banglaMeaning": "বাধা",
+    "syllables": [
+      "ob",
+      "sta",
+      "cle"
+    ],
+    "example": "They overcame every obstacle.",
+    "hint": "Ends in -cle, not -cal.",
+    "image": "/images/level7/obstacle.webp"
+  },
+  {
+    "id": "lvl7-172",
+    "level": 7,
+    "order": 172,
+    "word": "occasion",
+    "pronunciation": "/əˈkeɪ.ʒən/",
+    "banglaPronunciation": "অকেশন",
+    "meaning": "A particular time or event.",
+    "banglaMeaning": "অনুষ্ঠান",
+    "syllables": [
+      "oc",
+      "ca",
+      "sion"
+    ],
+    "example": "It was a special occasion.",
+    "hint": "Double C, single S — 'oc-ca-sion'.",
+    "image": "/images/level7/occasion.webp"
+  },
+  {
+    "id": "lvl7-173",
+    "level": 7,
+    "order": 173,
+    "word": "occasionally",
+    "pronunciation": "/əˈkeɪ.ʒən.əl.i/",
+    "banglaPronunciation": "অকেশনালি",
+    "meaning": "Sometimes; not often.",
+    "banglaMeaning": "মাঝে মাঝে",
+    "syllables": [
+      "oc",
+      "ca",
+      "sion",
+      "al",
+      "ly"
+    ],
+    "example": "We occasionally eat out.",
+    "hint": "Double C, keep -al before -ly.",
+    "image": "/images/level7/occasionally.webp"
+  },
+  {
+    "id": "lvl7-174",
+    "level": 7,
+    "order": 174,
+    "word": "occurred",
+    "pronunciation": "/əˈkɜːrd/",
+    "banglaPronunciation": "অকার্ড",
+    "meaning": "Past tense of occur; happened.",
+    "banglaMeaning": "ঘটেছিল",
+    "syllables": [
+      "oc",
+      "curred"
+    ],
+    "example": "The accident occurred last night.",
+    "hint": "Double C, double R — 'oc-curred'.",
+    "image": "/images/level7/occurred.webp"
+  },
+  {
+    "id": "lvl7-175",
+    "level": 7,
+    "order": 175,
+    "word": "occurrence",
+    "pronunciation": "/əˈkɜːr.əns/",
+    "banglaPronunciation": "অকারেন্স",
+    "meaning": "Something that happens; an event.",
+    "banglaMeaning": "ঘটনা",
+    "syllables": [
+      "oc",
+      "cur",
+      "rence"
+    ],
+    "example": "It was a rare occurrence.",
+    "hint": "Double C, double R, ends in -rence.",
+    "image": "/images/level7/occurrence.webp"
+  },
+  {
+    "id": "lvl7-176",
+    "level": 7,
+    "order": 176,
+    "word": "official",
+    "pronunciation": "/əˈfɪʃ.əl/",
+    "banglaPronunciation": "অফিশাল",
+    "meaning": "Approved by an authority; formal.",
+    "banglaMeaning": "সরকারি/আনুষ্ঠানিক",
+    "syllables": [
+      "of",
+      "fi",
+      "cial"
+    ],
+    "example": "It is now official.",
+    "hint": "Double F, ends in -cial not -tial.",
+    "image": "/images/level7/official.webp"
+  },
+  {
+    "id": "lvl7-177",
+    "level": 7,
+    "order": 177,
+    "word": "omission",
+    "pronunciation": "/oʊˈmɪʃ.ən/",
+    "banglaPronunciation": "ওমিশন",
+    "meaning": "Something left out or not included.",
+    "banglaMeaning": "বাদ দেওয়া",
+    "syllables": [
+      "o",
+      "mis",
+      "sion"
+    ],
+    "example": "The report had an omission.",
+    "hint": "One M, double S — 'o-mis-sion'.",
+    "image": "/images/level7/omission.webp"
+  },
+  {
+    "id": "lvl7-178",
+    "level": 7,
+    "order": 178,
+    "word": "opinion",
+    "pronunciation": "/əˈpɪn.jən/",
+    "banglaPronunciation": "ওপিনিয়ন",
+    "meaning": "A personal view or belief.",
+    "banglaMeaning": "মতামত",
+    "syllables": [
+      "o",
+      "pin",
+      "ion"
+    ],
+    "example": "Everyone has a different opinion.",
+    "hint": "One P, ends in -ion not -in.",
+    "image": "/images/level7/opinion.webp"
+  },
+  {
+    "id": "lvl7-179",
+    "level": 7,
+    "order": 179,
+    "word": "opportunity",
+    "pronunciation": "/ˌɒp.ərˈtjuː.nə.ti/",
+    "banglaPronunciation": "অপরচুনিটি",
+    "meaning": "A chance to do something.",
+    "banglaMeaning": "সুযোগ",
+    "syllables": [
+      "op",
+      "por",
+      "tu",
+      "ni",
+      "ty"
+    ],
+    "example": "This is a great opportunity.",
+    "hint": "Double P, single R — 'op-por-tu-ni-ty'.",
+    "image": "/images/level7/opportunity.webp"
+  },
+  {
+    "id": "lvl7-180",
+    "level": 7,
+    "order": 180,
+    "word": "opposite",
+    "pronunciation": "/ˈɒp.ə.zɪt/",
+    "banglaPronunciation": "অপোজিট",
+    "meaning": "Completely different; facing the other way.",
+    "banglaMeaning": "বিপরীত",
+    "syllables": [
+      "op",
+      "po",
+      "site"
+    ],
+    "example": "Up is the opposite of down.",
+    "hint": "Double P, ends in -site.",
+    "image": "/images/level7/opposite.webp"
+  },
+  {
+    "id": "lvl7-181",
+    "level": 7,
+    "order": 181,
+    "word": "organization",
+    "pronunciation": "/ˌɔːr.ɡə.naɪˈzeɪ.ʃən/",
+    "banglaPronunciation": "অর্গানাইজেশন",
+    "meaning": "A group of people working together for a purpose.",
+    "banglaMeaning": "সংগঠন",
+    "syllables": [
+      "or",
+      "gan",
+      "i",
+      "za",
+      "tion"
+    ],
+    "example": "She works for a large organization.",
+    "hint": "Ends in -ization, five syllables.",
+    "image": "/images/level7/organization.webp"
+  },
+  {
+    "id": "lvl7-182",
+    "level": 7,
+    "order": 182,
+    "word": "original",
+    "pronunciation": "/əˈrɪdʒ.ɪ.nəl/",
+    "banglaPronunciation": "অরিজিনাল",
+    "meaning": "The first or earliest form of something.",
+    "banglaMeaning": "মৌলিক",
+    "syllables": [
+      "o",
+      "rig",
+      "i",
+      "nal"
+    ],
+    "example": "This is the original painting.",
+    "hint": "One R, ends in -nal not -nel.",
+    "image": "/images/level7/original.webp"
+  },
+  {
+    "id": "lvl7-183",
+    "level": 7,
+    "order": 183,
+    "word": "outrageous",
+    "pronunciation": "/aʊtˈreɪ.dʒəs/",
+    "banglaPronunciation": "আউটরেজাস",
+    "meaning": "Shockingly bad or unusual.",
+    "banglaMeaning": "আক্রোশজনক",
+    "syllables": [
+      "out",
+      "ra",
+      "geous"
+    ],
+    "example": "That price is outrageous.",
+    "hint": "Keep the E before -ous to keep the G soft.",
+    "image": "/images/level7/outrageous.webp"
+  },
+  {
+    "id": "lvl7-184",
+    "level": 7,
+    "order": 184,
+    "word": "overrun",
+    "pronunciation": "/ˌoʊ.vərˈrʌn/",
+    "banglaPronunciation": "ওভাররান",
+    "meaning": "To spread over or exceed a limit.",
+    "banglaMeaning": "ছেয়ে ফেলা",
+    "syllables": [
+      "o",
+      "ver",
+      "run"
+    ],
+    "example": "Weeds began to overrun the garden.",
+    "hint": "Double R where 'over' meets 'run'.",
+    "image": "/images/level7/overrun.webp"
+  },
+  {
+    "id": "lvl7-185",
+    "level": 7,
+    "order": 185,
+    "word": "paid",
+    "pronunciation": "/peɪd/",
+    "banglaPronunciation": "পেইড",
+    "meaning": "Past tense of pay.",
+    "banglaMeaning": "পরিশোধ করা হয়েছিল",
+    "syllables": [
+      "paid"
+    ],
+    "example": "She paid for the tickets.",
+    "hint": "No Y — 'paid', not 'payed'.",
+    "image": "/images/level7/paid.webp"
+  },
+  {
+    "id": "lvl7-186",
+    "level": 7,
+    "order": 186,
+    "word": "pamphlet",
+    "pronunciation": "/ˈpæmp.flɪt/",
+    "banglaPronunciation": "প্যামফ্লেট",
+    "meaning": "A small printed booklet.",
+    "banglaMeaning": "প্যামফ্লেট",
+    "syllables": [
+      "pam",
+      "phlet"
+    ],
+    "example": "He handed out a pamphlet.",
+    "hint": "Has a silent P before H — 'pam-phlet'.",
+    "image": "/images/level7/pamphlet.webp"
+  },
+  {
+    "id": "lvl7-187",
+    "level": 7,
+    "order": 187,
+    "word": "parallel",
+    "pronunciation": "/ˈpær.ə.lɛl/",
+    "banglaPronunciation": "প্যারালাল",
+    "meaning": "Lines that never meet; running side by side.",
+    "banglaMeaning": "সমান্তরাল",
+    "syllables": [
+      "par",
+      "al",
+      "lel"
+    ],
+    "example": "The roads run parallel to each other.",
+    "hint": "One R, one L, then double L at the end.",
+    "image": "/images/level7/parallel.webp"
+  },
+  {
+    "id": "lvl7-188",
+    "level": 7,
+    "order": 188,
+    "word": "parliament",
+    "pronunciation": "/ˈpɑːr.lə.mənt/",
+    "banglaPronunciation": "পার্লামেন্ট",
+    "meaning": "The group that makes a country's laws.",
+    "banglaMeaning": "সংসদ",
+    "syllables": [
+      "par",
+      "lia",
+      "ment"
+    ],
+    "example": "The law was passed by parliament.",
+    "hint": "Has a silent I — 'par-lia-ment'.",
+    "image": "/images/level7/parliament.webp"
+  },
+  {
+    "id": "lvl7-189",
+    "level": 7,
+    "order": 189,
+    "word": "particular",
+    "pronunciation": "/pərˈtɪk.jə.lər/",
+    "banglaPronunciation": "পার্টিকুলার",
+    "meaning": "Specific; relating to one thing.",
+    "banglaMeaning": "নির্দিষ্ট",
+    "syllables": [
+      "par",
+      "tic",
+      "u",
+      "lar"
+    ],
+    "example": "She has a particular way of doing things.",
+    "hint": "Ends in -ular, four syllables.",
+    "image": "/images/level7/particular.webp"
+  },
+  {
+    "id": "lvl7-190",
+    "level": 7,
+    "order": 190,
+    "word": "pastime",
+    "pronunciation": "/ˈpæs.taɪm/",
+    "banglaPronunciation": "প্যাসটাইম",
+    "meaning": "An activity done for enjoyment.",
+    "banglaMeaning": "শখ",
+    "syllables": [
+      "pas",
+      "time"
+    ],
+    "example": "Reading is her favorite pastime.",
+    "hint": "Only one S — 'pas' plus 'time'.",
+    "image": "/images/level7/pastime.webp"
+  },
+  {
+    "id": "lvl7-191",
+    "level": 7,
+    "order": 191,
+    "word": "peculiar",
+    "pronunciation": "/pɪˈkjuː.li.ər/",
+    "banglaPronunciation": "পিকিউলিয়ার",
+    "meaning": "Strange or unusual.",
+    "banglaMeaning": "অদ্ভুত",
+    "syllables": [
+      "pe",
+      "cu",
+      "liar"
+    ],
+    "example": "There was a peculiar smell in the room.",
+    "hint": "Ends in -liar, not -lier.",
+    "image": "/images/level7/peculiar.webp"
+  },
+  {
+    "id": "lvl7-192",
+    "level": 7,
+    "order": 192,
+    "word": "perceive",
+    "pronunciation": "/pərˈsiːv/",
+    "banglaPronunciation": "পারসিভ",
+    "meaning": "To become aware of through the senses.",
+    "banglaMeaning": "উপলব্ধি করা",
+    "syllables": [
+      "per",
+      "ceive"
+    ],
+    "example": "We perceive light through our eyes.",
+    "hint": "E before I after C — 'per-ceive'.",
+    "image": "/images/level7/perceive.webp"
+  },
+  {
+    "id": "lvl7-193",
+    "level": 7,
+    "order": 193,
+    "word": "perform",
+    "pronunciation": "/pərˈfɔːrm/",
+    "banglaPronunciation": "পারফর্ম",
+    "meaning": "To do an action, especially for an audience.",
+    "banglaMeaning": "পরিবেশন করা",
+    "syllables": [
+      "per",
+      "form"
+    ],
+    "example": "The band will perform tonight.",
+    "hint": "Starts with PER, not PRE.",
+    "image": "/images/level7/perform.webp"
+  },
+  {
+    "id": "lvl7-194",
+    "level": 7,
+    "order": 194,
+    "word": "permanent",
+    "pronunciation": "/ˈpɜːr.mə.nənt/",
+    "banglaPronunciation": "পার্মানেন্ট",
+    "meaning": "Lasting forever; not temporary.",
+    "banglaMeaning": "স্থায়ী",
+    "syllables": [
+      "per",
+      "ma",
+      "nent"
+    ],
+    "example": "He got a permanent job.",
+    "hint": "Ends in -nent, not -nant.",
+    "image": "/images/level7/permanent.webp"
+  },
+  {
+    "id": "lvl7-195",
+    "level": 7,
+    "order": 195,
+    "word": "perseverance",
+    "pronunciation": "/ˌpɜːr.sɪˈvɪər.əns/",
+    "banglaPronunciation": "পারসিভিয়ারেন্স",
+    "meaning": "Continued effort despite difficulty.",
+    "banglaMeaning": "অধ্যবসায়",
+    "syllables": [
+      "per",
+      "se",
+      "ver",
+      "ance"
+    ],
+    "example": "Success takes perseverance.",
+    "hint": "Ends in -ance, five syllables.",
+    "image": "/images/level7/perseverance.webp"
+  },
+  {
+    "id": "lvl7-196",
+    "level": 7,
+    "order": 196,
+    "word": "persistent",
+    "pronunciation": "/pərˈsɪs.tənt/",
+    "banglaPronunciation": "পারসিসটেন্ট",
+    "meaning": "Continuing firmly despite problems.",
+    "banglaMeaning": "অবিচল",
+    "syllables": [
+      "per",
+      "sis",
+      "tent"
+    ],
+    "example": "She was persistent in her efforts.",
+    "hint": "Ends in -tent, not -tant.",
+    "image": "/images/level7/persistent.webp"
+  },
+  {
+    "id": "lvl7-197",
+    "level": 7,
+    "order": 197,
+    "word": "personnel",
+    "pronunciation": "/ˌpɜːr.səˈnɛl/",
+    "banglaPronunciation": "পার্সোনেল",
+    "meaning": "The people who work for an organization.",
+    "banglaMeaning": "কর্মীবৃন্দ",
+    "syllables": [
+      "per",
+      "son",
+      "nel"
+    ],
+    "example": "All personnel must wear badges.",
+    "hint": "Double N, double L at the end.",
+    "image": "/images/level7/personnel.webp"
+  },
+  {
+    "id": "lvl7-198",
+    "level": 7,
+    "order": 198,
+    "word": "perspective",
+    "pronunciation": "/pərˈspɛk.tɪv/",
+    "banglaPronunciation": "পারস্পেক্টিভ",
+    "meaning": "A particular way of viewing things.",
+    "banglaMeaning": "দৃষ্টিভঙ্গি",
+    "syllables": [
+      "per",
+      "spec",
+      "tive"
+    ],
+    "example": "Try to see it from her perspective.",
+    "hint": "Ends in -tive, not -tiv.",
+    "image": "/images/level7/perspective.webp"
+  },
+  {
+    "id": "lvl7-199",
+    "level": 7,
+    "order": 199,
+    "word": "persuade",
+    "pronunciation": "/pərˈsweɪd/",
+    "banglaPronunciation": "পারসুয়েড",
+    "meaning": "To convince someone to do something.",
+    "banglaMeaning": "রাজি করানো",
+    "syllables": [
+      "per",
+      "suade"
+    ],
+    "example": "He tried to persuade her to stay.",
+    "hint": "Ends in -suade, not -swade.",
+    "image": "/images/level7/persuade.webp"
+  },
+  {
+    "id": "lvl7-200",
+    "level": 7,
+    "order": 200,
+    "word": "physical",
+    "pronunciation": "/ˈfɪz.ɪ.kəl/",
+    "banglaPronunciation": "ফিজিক্যাল",
+    "meaning": "Relating to the body, not the mind.",
+    "banglaMeaning": "শারীরিক",
+    "syllables": [
+      "phys",
+      "i",
+      "cal"
+    ],
+    "example": "Exercise is good for physical health.",
+    "hint": "Starts with PH making an F sound.",
+    "image": "/images/level7/physical.webp"
+  },
+  {
+    "id": "lvl7-201",
+    "level": 7,
+    "order": 201,
+    "word": "piece",
+    "pronunciation": "/piːs/",
+    "banglaPronunciation": "পিস",
+    "meaning": "A part of something.",
+    "banglaMeaning": "টুকরা",
+    "syllables": [
+      "piece"
+    ],
+    "example": "She ate a piece of cake.",
+    "hint": "I before E — 'piece', not 'peice'.",
+    "image": "/images/level7/piece.webp"
+  },
+  {
+    "id": "lvl7-202",
+    "level": 7,
+    "order": 202,
+    "word": "pigeon",
+    "pronunciation": "/ˈpɪdʒ.ən/",
+    "banglaPronunciation": "পিজিয়ন",
+    "meaning": "A common gray bird.",
+    "banglaMeaning": "কবুতর",
+    "syllables": [
+      "pi",
+      "geon"
+    ],
+    "example": "A pigeon landed on the roof.",
+    "hint": "Has GEO together — 'pi-geon'.",
+    "image": "/images/level7/pigeon.webp"
+  },
+  {
+    "id": "lvl7-203",
+    "level": 7,
+    "order": 203,
+    "word": "playwright",
+    "pronunciation": "/ˈpleɪ.raɪt/",
+    "banglaPronunciation": "প্লেরাইট",
+    "meaning": "A person who writes plays.",
+    "banglaMeaning": "নাট্যকার",
+    "syllables": [
+      "play",
+      "wright"
+    ],
+    "example": "Shakespeare was a famous playwright.",
+    "hint": "Ends in -wright, like 'wright' not 'write'.",
+    "image": "/images/level7/playwright.webp"
+  },
+  {
+    "id": "lvl7-204",
+    "level": 7,
+    "order": 204,
+    "word": "pleasant",
+    "pronunciation": "/ˈplɛz.ənt/",
+    "banglaPronunciation": "প্লেজেন্ট",
+    "meaning": "Enjoyable or friendly.",
+    "banglaMeaning": "মনোরম",
+    "syllables": [
+      "pleas",
+      "ant"
+    ],
+    "example": "We had a pleasant afternoon.",
+    "hint": "Ends in -ant, not -ent.",
+    "image": "/images/level7/pleasant.webp"
+  },
+  {
+    "id": "lvl7-205",
+    "level": 7,
+    "order": 205,
+    "word": "pneumonia",
+    "pronunciation": "/nuːˈmoʊn.jə/",
+    "banglaPronunciation": "নিউমোনিয়া",
+    "meaning": "A serious lung infection.",
+    "banglaMeaning": "নিউমোনিয়া",
+    "syllables": [
+      "pneu",
+      "mo",
+      "nia"
+    ],
+    "example": "He was hospitalized with pneumonia.",
+    "hint": "Starts with a silent P — 'pneu-monia'.",
+    "image": "/images/level7/pneumonia.webp"
+  },
+  {
+    "id": "lvl7-206",
+    "level": 7,
+    "order": 206,
+    "word": "possess",
+    "pronunciation": "/pəˈzɛs/",
+    "banglaPronunciation": "পোজেস",
+    "meaning": "To have or own something.",
+    "banglaMeaning": "অধিকারে রাখা",
+    "syllables": [
+      "pos",
+      "sess"
+    ],
+    "example": "She doesn't possess much money.",
+    "hint": "Double S, double S again — 'pos-sess'.",
+    "image": "/images/level7/possess.webp"
+  },
+  {
+    "id": "lvl7-207",
+    "level": 7,
+    "order": 207,
+    "word": "possession",
+    "pronunciation": "/pəˈzɛʃ.ən/",
+    "banglaPronunciation": "পোজেশন",
+    "meaning": "Something owned; the state of owning.",
+    "banglaMeaning": "অধিকার",
+    "syllables": [
+      "pos",
+      "ses",
+      "sion"
+    ],
+    "example": "That book is my prized possession.",
+    "hint": "Double S, then double S again.",
+    "image": "/images/level7/possession.webp"
+  },
+  {
+    "id": "lvl7-208",
+    "level": 7,
+    "order": 208,
+    "word": "possible",
+    "pronunciation": "/ˈpɒs.ə.bəl/",
+    "banglaPronunciation": "পসিবল",
+    "meaning": "Able to happen or be done.",
+    "banglaMeaning": "সম্ভব",
+    "syllables": [
+      "pos",
+      "si",
+      "ble"
+    ],
+    "example": "Anything is possible with effort.",
+    "hint": "Double S, ends in -sible not -sable.",
+    "image": "/images/level7/possible.webp"
+  },
+  {
+    "id": "lvl7-209",
+    "level": 7,
+    "order": 209,
+    "word": "potato",
+    "pronunciation": "/pəˈteɪ.toʊ/",
+    "banglaPronunciation": "পোটেটো",
+    "meaning": "A common root vegetable.",
+    "banglaMeaning": "আলু",
+    "syllables": [
+      "po",
+      "ta",
+      "to"
+    ],
+    "example": "She peeled the potato.",
+    "hint": "No E in the singular — add -es for plural.",
+    "image": "/images/level7/potato.webp"
+  },
+  {
+    "id": "lvl7-210",
+    "level": 7,
+    "order": 210,
+    "word": "practically",
+    "pronunciation": "/ˈpræk.tɪ.kli/",
+    "banglaPronunciation": "প্র্যাকটিক্যালি",
+    "meaning": "Almost; in a practical way.",
+    "banglaMeaning": "কার্যত",
+    "syllables": [
+      "prac",
+      "ti",
+      "cal",
+      "ly"
+    ],
+    "example": "We are practically finished.",
+    "hint": "Keep -cal before -ly, from 'practical'.",
+    "image": "/images/level7/practically.webp"
+  },
+  {
+    "id": "lvl7-211",
+    "level": 7,
+    "order": 211,
+    "word": "prairie",
+    "pronunciation": "/ˈprɛər.i/",
+    "banglaPronunciation": "প্রেয়ারি",
+    "meaning": "A large area of flat grassland.",
+    "banglaMeaning": "তৃণভূমি",
+    "syllables": [
+      "prai",
+      "rie"
+    ],
+    "example": "Buffalo once roamed the prairie.",
+    "hint": "Ends in -rie, not -ry.",
+    "image": "/images/level7/prairie.webp"
+  },
+  {
+    "id": "lvl7-212",
+    "level": 7,
+    "order": 212,
+    "word": "precede",
+    "pronunciation": "/prɪˈsiːd/",
+    "banglaPronunciation": "প্রিসিড",
+    "meaning": "To come before something in time or order.",
+    "banglaMeaning": "আগে যাওয়া",
+    "syllables": [
+      "pre",
+      "cede"
+    ],
+    "example": "A warning will precede the alarm.",
+    "hint": "Ends in -cede, not -ceed.",
+    "image": "/images/level7/precede.webp"
+  },
+  {
+    "id": "lvl7-213",
+    "level": 7,
+    "order": 213,
+    "word": "preferred",
+    "pronunciation": "/prɪˈfɜːrd/",
+    "banglaPronunciation": "প্রেফার্ড",
+    "meaning": "Past tense of prefer; liked more.",
+    "banglaMeaning": "পছন্দ করা হয়েছিল",
+    "syllables": [
+      "pre",
+      "ferred"
+    ],
+    "example": "She preferred tea over coffee.",
+    "hint": "Double R before -ed — 'pre-ferred'.",
+    "image": "/images/level7/preferred.webp"
+  },
+  {
+    "id": "lvl7-214",
+    "level": 7,
+    "order": 214,
+    "word": "prejudice",
+    "pronunciation": "/ˈprɛdʒ.ə.dɪs/",
+    "banglaPronunciation": "প্রেজুডিস",
+    "meaning": "An unfair opinion formed without reason.",
+    "banglaMeaning": "কুসংস্কার",
+    "syllables": [
+      "prej",
+      "u",
+      "dice"
+    ],
+    "example": "We must fight prejudice.",
+    "hint": "Ends in -dice, not -dise.",
+    "image": "/images/level7/prejudice.webp"
+  },
+  {
+    "id": "lvl7-215",
+    "level": 7,
+    "order": 215,
+    "word": "presence",
+    "pronunciation": "/ˈprɛz.əns/",
+    "banglaPronunciation": "প্রেজেন্স",
+    "meaning": "The state of being in a place.",
+    "banglaMeaning": "উপস্থিতি",
+    "syllables": [
+      "pres",
+      "ence"
+    ],
+    "example": "Her presence made everyone happy.",
+    "hint": "Starts with PRES, ends in -ence.",
+    "image": "/images/level7/presence.webp"
+  },
+  {
+    "id": "lvl7-216",
+    "level": 7,
+    "order": 216,
+    "word": "privilege",
+    "pronunciation": "/ˈprɪv.ə.lɪdʒ/",
+    "banglaPronunciation": "প্রিভিলেজ",
+    "meaning": "A special right or advantage.",
+    "banglaMeaning": "সুবিধা",
+    "syllables": [
+      "priv",
+      "i",
+      "lege"
+    ],
+    "example": "It was a privilege to meet her.",
+    "hint": "Ends in -lege, not -ledge.",
+    "image": "/images/level7/privilege.webp"
+  },
+  {
+    "id": "lvl7-217",
+    "level": 7,
+    "order": 217,
+    "word": "probably",
+    "pronunciation": "/ˈprɒb.ə.bli/",
+    "banglaPronunciation": "প্রোবাবলি",
+    "meaning": "Likely to be true.",
+    "banglaMeaning": "সম্ভবত",
+    "syllables": [
+      "prob",
+      "a",
+      "bly"
+    ],
+    "example": "It will probably rain today.",
+    "hint": "Has AB in the middle — 'prob-a-bly'.",
+    "image": "/images/level7/probably.webp"
+  },
+  {
+    "id": "lvl7-218",
+    "level": 7,
+    "order": 218,
+    "word": "procedure",
+    "pronunciation": "/prəˈsiː.dʒər/",
+    "banglaPronunciation": "প্রসিডিউর",
+    "meaning": "A series of steps to do something.",
+    "banglaMeaning": "পদ্ধতি",
+    "syllables": [
+      "pro",
+      "ce",
+      "dure"
+    ],
+    "example": "Follow the correct procedure.",
+    "hint": "Ends in -edure, not -eedure.",
+    "image": "/images/level7/procedure.webp"
+  },
+  {
+    "id": "lvl7-219",
+    "level": 7,
+    "order": 219,
+    "word": "proceed",
+    "pronunciation": "/prəˈsiːd/",
+    "banglaPronunciation": "প্রসিড",
+    "meaning": "To continue or go forward.",
+    "banglaMeaning": "এগিয়ে যাওয়া",
+    "syllables": [
+      "pro",
+      "ceed"
+    ],
+    "example": "Please proceed to the next room.",
+    "hint": "Ends in -ceed here, unlike 'precede'.",
+    "image": "/images/level7/proceed.webp"
+  },
+  {
+    "id": "lvl7-220",
+    "level": 7,
+    "order": 220,
+    "word": "profession",
+    "pronunciation": "/prəˈfɛʃ.ən/",
+    "banglaPronunciation": "প্রফেশন",
+    "meaning": "A job requiring special training.",
+    "banglaMeaning": "পেশা",
+    "syllables": [
+      "pro",
+      "fes",
+      "sion"
+    ],
+    "example": "Teaching is a noble profession.",
+    "hint": "One F, double S — 'pro-fes-sion'.",
+    "image": "/images/level7/profession.webp"
+  },
+  {
+    "id": "lvl7-221",
+    "level": 7,
+    "order": 221,
+    "word": "pronunciation",
+    "pronunciation": "/prəˌnʌn.siˈeɪ.ʃən/",
+    "banglaPronunciation": "প্রোনানসিয়েশন",
+    "meaning": "The way a word is spoken.",
+    "banglaMeaning": "উচ্চারণ",
+    "syllables": [
+      "pro",
+      "nun",
+      "ci",
+      "a",
+      "tion"
+    ],
+    "example": "Her pronunciation is very clear.",
+    "hint": "No O in the middle — different from 'pronounce'.",
+    "image": "/images/level7/pronunciation.webp"
+  },
+  {
+    "id": "lvl7-222",
+    "level": 7,
+    "order": 222,
+    "word": "propaganda",
+    "pronunciation": "/ˌprɒp.əˈɡæn.də/",
+    "banglaPronunciation": "প্রোপাগান্ডা",
+    "meaning": "Information used to influence opinion.",
+    "banglaMeaning": "প্রচারণা",
+    "syllables": [
+      "prop",
+      "a",
+      "gan",
+      "da"
+    ],
+    "example": "The poster was clearly propaganda.",
+    "hint": "Double P at the start, single G.",
+    "image": "/images/level7/propaganda.webp"
+  },
+  {
+    "id": "lvl7-223",
+    "level": 7,
+    "order": 223,
+    "word": "psychology",
+    "pronunciation": "/saɪˈkɒl.ə.dʒi/",
+    "banglaPronunciation": "সাইকোলজি",
+    "meaning": "The study of the mind and behavior.",
+    "banglaMeaning": "মনোবিজ্ঞান",
+    "syllables": [
+      "psy",
+      "chol",
+      "o",
+      "gy"
+    ],
+    "example": "She is majoring in psychology.",
+    "hint": "Starts with a silent P — 'psy-chology'.",
+    "image": "/images/level7/psychology.webp"
+  },
+  {
+    "id": "lvl7-224",
+    "level": 7,
+    "order": 224,
+    "word": "publicly",
+    "pronunciation": "/ˈpʌb.lɪk.li/",
+    "banglaPronunciation": "পাবলিকলি",
+    "meaning": "In a way that everyone can see.",
+    "banglaMeaning": "প্রকাশ্যে",
+    "syllables": [
+      "pub",
+      "lic",
+      "ly"
+    ],
+    "example": "He apologized publicly.",
+    "hint": "No extra vowel — 'public' plus 'ly'.",
+    "image": "/images/level7/publicly.webp"
+  },
+  {
+    "id": "lvl7-225",
+    "level": 7,
+    "order": 225,
+    "word": "pursue",
+    "pronunciation": "/pərˈsuː/",
+    "banglaPronunciation": "পারসিউ",
+    "meaning": "To follow or try to achieve something.",
+    "banglaMeaning": "অনুসরণ করা",
+    "syllables": [
+      "pur",
+      "sue"
+    ],
+    "example": "She will pursue a career in art.",
+    "hint": "Ends in -sue, not -sew.",
+    "image": "/images/level7/pursue.webp"
+  },
+  {
+    "id": "lvl7-226",
+    "level": 7,
+    "order": 226,
+    "word": "quantity",
+    "pronunciation": "/ˈkwɒn.tə.ti/",
+    "banglaPronunciation": "কোয়ান্টিটি",
+    "meaning": "An amount of something.",
+    "banglaMeaning": "পরিমাণ",
+    "syllables": [
+      "quan",
+      "ti",
+      "ty"
+    ],
+    "example": "We need a large quantity of paper.",
+    "hint": "Starts with QUAN, not QUANT alone.",
+    "image": "/images/level7/quantity.webp"
+  },
+  {
+    "id": "lvl7-227",
+    "level": 7,
+    "order": 227,
+    "word": "quarantine",
+    "pronunciation": "/ˈkwɒr.ən.tiːn/",
+    "banglaPronunciation": "কোয়ারেন্টাইন",
+    "meaning": "Isolation to prevent the spread of disease.",
+    "banglaMeaning": "কোয়ারেন্টাইন",
+    "syllables": [
+      "quar",
+      "an",
+      "tine"
+    ],
+    "example": "The sick puppy was put in quarantine.",
+    "hint": "Ends in -tine, not -teen.",
+    "image": "/images/level7/quarantine.webp"
+  },
+  {
+    "id": "lvl7-228",
+    "level": 7,
+    "order": 228,
+    "word": "questionnaire",
+    "pronunciation": "/ˌkwɛs.tʃəˈnɛər/",
+    "banglaPronunciation": "কোয়েশ্চনেয়ার",
+    "meaning": "A set of written questions for a survey.",
+    "banglaMeaning": "প্রশ্নমালা",
+    "syllables": [
+      "ques",
+      "tion",
+      "naire"
+    ],
+    "example": "Please fill out this questionnaire.",
+    "hint": "Double N before -aire, French-style ending.",
+    "image": "/images/level7/questionnaire.webp"
+  },
+  {
+    "id": "lvl7-229",
+    "level": 7,
+    "order": 229,
+    "word": "queue",
+    "pronunciation": "/kjuː/",
+    "banglaPronunciation": "কিউ",
+    "meaning": "A line of people waiting.",
+    "banglaMeaning": "সারি",
+    "syllables": [
+      "queue"
+    ],
+    "example": "We stood in a long queue.",
+    "hint": "Four silent letters after Q — 'qu' plus 'eue'.",
+    "image": "/images/level7/queue.webp"
+  },
+  {
+    "id": "lvl7-230",
+    "level": 7,
+    "order": 230,
+    "word": "receipt",
+    "pronunciation": "/rɪˈsiːt/",
+    "banglaPronunciation": "রিসিট",
+    "meaning": "A written proof of payment.",
+    "banglaMeaning": "রসিদ",
+    "syllables": [
+      "re",
+      "ceipt"
+    ],
+    "example": "Keep your receipt for the refund.",
+    "hint": "Has a silent P — 're-ceipt'.",
+    "image": "/images/level7/receipt.webp"
+  },
+  {
+    "id": "lvl7-231",
+    "level": 7,
+    "order": 231,
+    "word": "receive",
+    "pronunciation": "/rɪˈsiːv/",
+    "banglaPronunciation": "রিসিভ",
+    "meaning": "To get or be given something.",
+    "banglaMeaning": "গ্রহণ করা",
+    "syllables": [
+      "re",
+      "ceive"
+    ],
+    "example": "I will receive the package tomorrow.",
+    "hint": "E before I after C — 're-ceive'.",
+    "image": "/images/level7/receive.webp"
+  },
+  {
+    "id": "lvl7-232",
+    "level": 7,
+    "order": 232,
+    "word": "recipe",
+    "pronunciation": "/ˈrɛs.ə.pi/",
+    "banglaPronunciation": "রেসিপি",
+    "meaning": "Instructions for cooking a dish.",
+    "banglaMeaning": "রন্ধনপ্রণালী",
+    "syllables": [
+      "rec",
+      "i",
+      "pe"
+    ],
+    "example": "She followed the recipe exactly.",
+    "hint": "Ends in -pe, pronounced like 'pee'.",
+    "image": "/images/level7/recipe.webp"
+  },
+  {
+    "id": "lvl7-233",
+    "level": 7,
+    "order": 233,
+    "word": "recognize",
+    "pronunciation": "/ˈrɛk.əɡ.naɪz/",
+    "banglaPronunciation": "রেকগনাইজ",
+    "meaning": "To identify someone or something known before.",
+    "banglaMeaning": "চিনতে পারা",
+    "syllables": [
+      "rec",
+      "og",
+      "nize"
+    ],
+    "example": "I didn't recognize you at first.",
+    "hint": "Has a silent G — 'rec-og-nize'.",
+    "image": "/images/level7/recognize.webp"
+  },
+  {
+    "id": "lvl7-234",
+    "level": 7,
+    "order": 234,
+    "word": "recommend",
+    "pronunciation": "/ˌrɛk.əˈmɛnd/",
+    "banglaPronunciation": "রেকমেন্ড",
+    "meaning": "To suggest something as good.",
+    "banglaMeaning": "সুপারিশ করা",
+    "syllables": [
+      "rec",
+      "om",
+      "mend"
+    ],
+    "example": "I recommend this book.",
+    "hint": "One C, double M — 'rec-om-mend'.",
+    "image": "/images/level7/recommend.webp"
+  },
+  {
+    "id": "lvl7-235",
+    "level": 7,
+    "order": 235,
+    "word": "reference",
+    "pronunciation": "/ˈrɛf.ər.əns/",
+    "banglaPronunciation": "রেফারেন্স",
+    "meaning": "A mention or source used for information.",
+    "banglaMeaning": "তথ্যসূত্র",
+    "syllables": [
+      "ref",
+      "er",
+      "ence"
+    ],
+    "example": "He gave a good job reference.",
+    "hint": "Ends in -ence, not -ance.",
+    "image": "/images/level7/reference.webp"
+  },
+  {
+    "id": "lvl7-236",
+    "level": 7,
+    "order": 236,
+    "word": "referred",
+    "pronunciation": "/rɪˈfɜːrd/",
+    "banglaPronunciation": "রেফার্ড",
+    "meaning": "Past tense of refer.",
+    "banglaMeaning": "প্রেরণ করা হয়েছিল",
+    "syllables": [
+      "re",
+      "ferred"
+    ],
+    "example": "The doctor referred her to a specialist.",
+    "hint": "Double R before -ed — 're-ferred'.",
+    "image": "/images/level7/referred.webp"
+  },
+  {
+    "id": "lvl7-237",
+    "level": 7,
+    "order": 237,
+    "word": "rehearse",
+    "pronunciation": "/rɪˈhɜːrs/",
+    "banglaPronunciation": "রিহার্স",
+    "meaning": "To practice for a performance.",
+    "banglaMeaning": "মহড়া দেওয়া",
+    "syllables": [
+      "re",
+      "hearse"
+    ],
+    "example": "The actors rehearse every day.",
+    "hint": "Has a silent H after RE.",
+    "image": "/images/level7/rehearse.webp"
+  },
+  {
+    "id": "lvl7-238",
+    "level": 7,
+    "order": 238,
+    "word": "reign",
+    "pronunciation": "/reɪn/",
+    "banglaPronunciation": "রেইন",
+    "meaning": "The period a ruler is in power.",
+    "banglaMeaning": "রাজত্ব",
+    "syllables": [
+      "reign"
+    ],
+    "example": "The king's reign lasted forty years.",
+    "hint": "EIGN is silent-G, sounds like 'rain'.",
+    "image": "/images/level7/reign.webp"
+  },
+  {
+    "id": "lvl7-239",
+    "level": 7,
+    "order": 239,
+    "word": "relevant",
+    "pronunciation": "/ˈrɛl.ə.vənt/",
+    "banglaPronunciation": "রেলেভ্যান্ট",
+    "meaning": "Related to the matter at hand.",
+    "banglaMeaning": "প্রাসঙ্গিক",
+    "syllables": [
+      "rel",
+      "e",
+      "vant"
+    ],
+    "example": "Only relevant answers will be marked.",
+    "hint": "Ends in -vant, not -vent.",
+    "image": "/images/level7/relevant.webp"
+  },
+  {
+    "id": "lvl7-240",
+    "level": 7,
+    "order": 240,
+    "word": "relieve",
+    "pronunciation": "/rɪˈliːv/",
+    "banglaPronunciation": "রিলিভ",
+    "meaning": "To make pain or worry less.",
+    "banglaMeaning": "স্বস্তি দেওয়া",
+    "syllables": [
+      "re",
+      "lieve"
+    ],
+    "example": "The medicine will relieve the pain.",
+    "hint": "I before E — 're-lieve'.",
+    "image": "/images/level7/relieve.webp"
+  },
+  {
+    "id": "lvl7-241",
+    "level": 7,
+    "order": 241,
+    "word": "religious",
+    "pronunciation": "/rɪˈlɪdʒ.əs/",
+    "banglaPronunciation": "রিলিজিয়াস",
+    "meaning": "Relating to religion or belief in a god.",
+    "banglaMeaning": "ধার্মিক",
+    "syllables": [
+      "re",
+      "li",
+      "gious"
+    ],
+    "example": "She comes from a religious family.",
+    "hint": "Ends in -gious, soft G sound.",
+    "image": "/images/level7/religious.webp"
+  },
+  {
+    "id": "lvl7-242",
+    "level": 7,
+    "order": 242,
+    "word": "remember",
+    "pronunciation": "/rɪˈmɛm.bər/",
+    "banglaPronunciation": "রিমেম্বার",
+    "meaning": "To keep something in your mind.",
+    "banglaMeaning": "মনে রাখা",
+    "syllables": [
+      "re",
+      "mem",
+      "ber"
+    ],
+    "example": "Please remember to call me.",
+    "hint": "Double M — 're-mem-ber'.",
+    "image": "/images/level7/remember.webp"
+  },
+  {
+    "id": "lvl7-243",
+    "level": 7,
+    "order": 243,
+    "word": "reminisce",
+    "pronunciation": "/ˌrɛm.ɪˈnɪs/",
+    "banglaPronunciation": "রেমিনিস",
+    "meaning": "To think about pleasant past times.",
+    "banglaMeaning": "স্মৃতিচারণ করা",
+    "syllables": [
+      "rem",
+      "i",
+      "nisce"
+    ],
+    "example": "They love to reminisce about school.",
+    "hint": "Ends in -nisce, silent C sound.",
+    "image": "/images/level7/reminisce.webp"
+  },
+  {
+    "id": "lvl7-244",
+    "level": 7,
+    "order": 244,
+    "word": "repetition",
+    "pronunciation": "/ˌrɛp.ɪˈtɪʃ.ən/",
+    "banglaPronunciation": "রেপিটিশন",
+    "meaning": "The act of doing something again.",
+    "banglaMeaning": "পুনরাবৃত্তি",
+    "syllables": [
+      "rep",
+      "e",
+      "ti",
+      "tion"
+    ],
+    "example": "Repetition helps you learn spelling.",
+    "hint": "Ends in -tition, like 'competition'.",
+    "image": "/images/level7/repetition.webp"
+  },
+  {
+    "id": "lvl7-245",
+    "level": 7,
+    "order": 245,
+    "word": "restaurant",
+    "pronunciation": "/ˈrɛs.tər.ɒnt/",
+    "banglaPronunciation": "রেস্টুরেন্ট",
+    "meaning": "A place where meals are served.",
+    "banglaMeaning": "রেস্তোরাঁ",
+    "syllables": [
+      "res",
+      "tau",
+      "rant"
+    ],
+    "example": "We ate dinner at a nice restaurant.",
+    "hint": "Has AU in the middle — 'res-tau-rant'.",
+    "image": "/images/level7/restaurant.webp"
+  },
+  {
+    "id": "lvl7-246",
+    "level": 7,
+    "order": 246,
+    "word": "rhyme",
+    "pronunciation": "/raɪm/",
+    "banglaPronunciation": "রাইম",
+    "meaning": "Words that end with the same sound.",
+    "banglaMeaning": "ছন্দ",
+    "syllables": [
+      "rhyme"
+    ],
+    "example": "The poem has a nice rhyme.",
+    "hint": "Starts with a silent H after R.",
+    "image": "/images/level7/rhyme.webp"
+  },
+  {
+    "id": "lvl7-247",
+    "level": 7,
+    "order": 247,
+    "word": "rhythm",
+    "pronunciation": "/ˈrɪð.əm/",
+    "banglaPronunciation": "রিদম",
+    "meaning": "A regular repeated pattern of sound.",
+    "banglaMeaning": "তাল",
+    "syllables": [
+      "rhy",
+      "thm"
+    ],
+    "example": "She danced to the rhythm of the music.",
+    "hint": "Starts with a silent H, no vowel before -thm.",
+    "image": "/images/level7/rhythm.webp"
+  },
+  {
+    "id": "lvl7-248",
+    "level": 7,
+    "order": 248,
+    "word": "ridiculous",
+    "pronunciation": "/rɪˈdɪk.jə.ləs/",
+    "banglaPronunciation": "রিডিকুলাস",
+    "meaning": "Deserving to be laughed at; silly.",
+    "banglaMeaning": "হাস্যকর",
+    "syllables": [
+      "ri",
+      "dic",
+      "u",
+      "lous"
+    ],
+    "example": "That excuse is ridiculous.",
+    "hint": "Ends in -ulous, not -ulus.",
+    "image": "/images/level7/ridiculous.webp"
+  },
+  {
+    "id": "lvl7-249",
+    "level": 7,
+    "order": 249,
+    "word": "sandwich",
+    "pronunciation": "/ˈsæn.wɪtʃ/",
+    "banglaPronunciation": "স্যান্ডউইচ",
+    "meaning": "Food made of bread with filling.",
+    "banglaMeaning": "স্যান্ডউইচ",
+    "syllables": [
+      "sand",
+      "wich"
+    ],
+    "example": "She made a cheese sandwich.",
+    "hint": "Has D before W — 'sand-wich'.",
+    "image": "/images/level7/sandwich.webp"
+  },
+  {
+    "id": "lvl7-250",
+    "level": 7,
+    "order": 250,
+    "word": "satellite",
+    "pronunciation": "/ˈsæt.əl.aɪt/",
+    "banglaPronunciation": "স্যাটেলাইট",
+    "meaning": "An object that orbits a planet.",
+    "banglaMeaning": "উপগ্রহ",
+    "syllables": [
+      "sat",
+      "el",
+      "lite"
+    ],
+    "example": "The satellite orbits the Earth.",
+    "hint": "Double L before -ite.",
+    "image": "/images/level7/satellite.webp"
+  }
+]

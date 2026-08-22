@@ -185,23 +185,6 @@
     "id": "lvl8-012",
     "level": 8,
     "order": 12,
-    "word": "except",
-    "pronunciation": "/ɪkˈsɛpt/",
-    "banglaPronunciation": "এক্সেপ্ট",
-    "meaning": "Not including; leaving out.",
-    "banglaMeaning": "ব্যতীত",
-    "syllables": [
-      "e",
-      "xcept"
-    ],
-    "example": "Everyone came except John.",
-    "hint": "Means \"leaving out\" — not \"accept\" (to agree/take).",
-    "image": "/images/level8/except.webp"
-  },
-  {
-    "id": "lvl8-013",
-    "level": 8,
-    "order": 13,
     "word": "than",
     "pronunciation": "/ðæn/",
     "banglaPronunciation": "দ্যান",
@@ -215,9 +198,9 @@
     "image": "/images/level8/than.webp"
   },
   {
-    "id": "lvl8-014",
+    "id": "lvl8-013",
     "level": 8,
-    "order": 14,
+    "order": 13,
     "word": "weather",
     "pronunciation": "/ˈwɛð.ər/",
     "banglaPronunciation": "ওয়েদার",
@@ -232,9 +215,9 @@
     "image": "/images/level8/weather.webp"
   },
   {
-    "id": "lvl8-015",
+    "id": "lvl8-014",
     "level": 8,
-    "order": 15,
+    "order": 14,
     "word": "whether",
     "pronunciation": "/ˈwɛð.ər/",
     "banglaPronunciation": "ওয়েদার",
@@ -249,9 +232,9 @@
     "image": "/images/level8/whether.webp"
   },
   {
-    "id": "lvl8-016",
+    "id": "lvl8-015",
     "level": 8,
-    "order": 16,
+    "order": 15,
     "word": "principal",
     "pronunciation": "/ˈprɪn.sə.pəl/",
     "banglaPronunciation": "প্রিন্সিপাল",
@@ -267,9 +250,9 @@
     "image": "/images/level8/principal.webp"
   },
   {
-    "id": "lvl8-017",
+    "id": "lvl8-016",
     "level": 8,
-    "order": 17,
+    "order": 16,
     "word": "principle",
     "pronunciation": "/ˈprɪn.sə.pəl/",
     "banglaPronunciation": "প্রিন্সিপল",
@@ -285,9 +268,9 @@
     "image": "/images/level8/principle.webp"
   },
   {
-    "id": "lvl8-018",
+    "id": "lvl8-017",
     "level": 8,
-    "order": 18,
+    "order": 17,
     "word": "stationary",
     "pronunciation": "/ˈsteɪ.ʃə.nɛr.i/",
     "banglaPronunciation": "স্টেশনারি",
@@ -303,9 +286,9 @@
     "image": "/images/level8/stationary.webp"
   },
   {
-    "id": "lvl8-019",
+    "id": "lvl8-018",
     "level": 8,
-    "order": 19,
+    "order": 18,
     "word": "stationery",
     "pronunciation": "/ˈsteɪ.ʃə.nɛr.i/",
     "banglaPronunciation": "স্টেশনারি",
@@ -321,9 +304,9 @@
     "image": "/images/level8/stationery.webp"
   },
   {
-    "id": "lvl8-020",
+    "id": "lvl8-019",
     "level": 8,
-    "order": 20,
+    "order": 19,
     "word": "complement",
     "pronunciation": "/ˈkɒm.plɪ.mənt/",
     "banglaPronunciation": "কমপ্লিমেন্ট",
@@ -339,9 +322,9 @@
     "image": "/images/level8/complement.webp"
   },
   {
-    "id": "lvl8-021",
+    "id": "lvl8-020",
     "level": 8,
-    "order": 21,
+    "order": 20,
     "word": "compliment",
     "pronunciation": "/ˈkɒm.plɪ.mənt/",
     "banglaPronunciation": "কমপ্লিমেন্ট",
@@ -357,9 +340,9 @@
     "image": "/images/level8/compliment.webp"
   },
   {
-    "id": "lvl8-022",
+    "id": "lvl8-021",
     "level": 8,
-    "order": 22,
+    "order": 21,
     "word": "dessert",
     "pronunciation": "/dɪˈzɜːrt/",
     "banglaPronunciation": "ডিজার্ট",
@@ -374,9 +357,9 @@
     "image": "/images/level8/dessert.webp"
   },
   {
-    "id": "lvl8-023",
+    "id": "lvl8-022",
     "level": 8,
-    "order": 23,
+    "order": 22,
     "word": "lose",
     "pronunciation": "/luːz/",
     "banglaPronunciation": "লুজ",
@@ -391,9 +374,9 @@
     "image": "/images/level8/lose.webp"
   },
   {
-    "id": "lvl8-024",
+    "id": "lvl8-023",
     "level": 8,
-    "order": 24,
+    "order": 23,
     "word": "loose",
     "pronunciation": "/luːs/",
     "banglaPronunciation": "লুজ",
@@ -408,9 +391,9 @@
     "image": "/images/level8/loose.webp"
   },
   {
-    "id": "lvl8-025",
+    "id": "lvl8-024",
     "level": 8,
-    "order": 25,
+    "order": 24,
     "word": "breath",
     "pronunciation": "/brɛθ/",
     "banglaPronunciation": "ব্রেথ",
@@ -424,9 +407,9 @@
     "image": "/images/level8/breath.webp"
   },
   {
-    "id": "lvl8-026",
+    "id": "lvl8-025",
     "level": 8,
-    "order": 26,
+    "order": 25,
     "word": "breathe",
     "pronunciation": "/briːð/",
     "banglaPronunciation": "ব্রিদ",
@@ -441,45 +424,9 @@
     "image": "/images/level8/breathe.webp"
   },
   {
-    "id": "lvl8-027",
+    "id": "lvl8-026",
     "level": 8,
-    "order": 27,
-    "word": "advice",
-    "pronunciation": "/ədˈvaɪs/",
-    "banglaPronunciation": "অ্যাডভাইস",
-    "meaning": "A suggestion about what to do (a noun).",
-    "banglaMeaning": "পরামর্শ",
-    "syllables": [
-      "a",
-      "dvi",
-      "ce"
-    ],
-    "example": "She gave me good advice.",
-    "hint": "A noun — ends in -ice, like a \"nice\" suggestion.",
-    "image": "/images/level8/advice.webp"
-  },
-  {
-    "id": "lvl8-028",
-    "level": 8,
-    "order": 28,
-    "word": "advise",
-    "pronunciation": "/ədˈvaɪz/",
-    "banglaPronunciation": "অ্যাডভাইজ",
-    "meaning": "To give a suggestion (a verb).",
-    "banglaMeaning": "পরামর্শ দেওয়া",
-    "syllables": [
-      "a",
-      "dvi",
-      "se"
-    ],
-    "example": "I advise you to rest.",
-    "hint": "A verb — ends in -ise, sounds like a buzzing Z.",
-    "image": "/images/level8/advise.webp"
-  },
-  {
-    "id": "lvl8-029",
-    "level": 8,
-    "order": 29,
+    "order": 26,
     "word": "quite",
     "pronunciation": "/kwaɪt/",
     "banglaPronunciation": "কোয়াইট",
@@ -494,9 +441,9 @@
     "image": "/images/level8/quite.webp"
   },
   {
-    "id": "lvl8-030",
+    "id": "lvl8-027",
     "level": 8,
-    "order": 30,
+    "order": 27,
     "word": "quit",
     "pronunciation": "/kwɪt/",
     "banglaPronunciation": "কুইট",
@@ -510,9 +457,9 @@
     "image": "/images/level8/quit.webp"
   },
   {
-    "id": "lvl8-031",
+    "id": "lvl8-028",
     "level": 8,
-    "order": 31,
+    "order": 28,
     "word": "through",
     "pronunciation": "/θruː/",
     "banglaPronunciation": "থ্রু",
@@ -526,9 +473,9 @@
     "image": "/images/level8/through.webp"
   },
   {
-    "id": "lvl8-032",
+    "id": "lvl8-029",
     "level": 8,
-    "order": 32,
+    "order": 29,
     "word": "thorough",
     "pronunciation": "/ˈθʌr.oʊ/",
     "banglaPronunciation": "থারো",
@@ -543,9 +490,9 @@
     "image": "/images/level8/thorough.webp"
   },
   {
-    "id": "lvl8-033",
+    "id": "lvl8-030",
     "level": 8,
-    "order": 33,
+    "order": 30,
     "word": "though",
     "pronunciation": "/ðoʊ/",
     "banglaPronunciation": "দো",
@@ -559,9 +506,9 @@
     "image": "/images/level8/though.webp"
   },
   {
-    "id": "lvl8-034",
+    "id": "lvl8-031",
     "level": 8,
-    "order": 34,
+    "order": 31,
     "word": "threw",
     "pronunciation": "/θruː/",
     "banglaPronunciation": "থ্রু",
@@ -575,9 +522,9 @@
     "image": "/images/level8/threw.webp"
   },
   {
-    "id": "lvl8-035",
+    "id": "lvl8-032",
     "level": 8,
-    "order": 35,
+    "order": 32,
     "word": "where",
     "pronunciation": "/wɛr/",
     "banglaPronunciation": "ওয়্যার",
@@ -592,9 +539,9 @@
     "image": "/images/level8/where.webp"
   },
   {
-    "id": "lvl8-036",
+    "id": "lvl8-033",
     "level": 8,
-    "order": 36,
+    "order": 33,
     "word": "were",
     "pronunciation": "/wɜːr/",
     "banglaPronunciation": "ওয়্যার",
@@ -609,9 +556,9 @@
     "image": "/images/level8/were.webp"
   },
   {
-    "id": "lvl8-037",
+    "id": "lvl8-034",
     "level": 8,
-    "order": 37,
+    "order": 34,
     "word": "here",
     "pronunciation": "/hɪr/",
     "banglaPronunciation": "হিয়ার",
@@ -626,9 +573,9 @@
     "image": "/images/level8/here.webp"
   },
   {
-    "id": "lvl8-038",
+    "id": "lvl8-035",
     "level": 8,
-    "order": 38,
+    "order": 35,
     "word": "hear",
     "pronunciation": "/hɪr/",
     "banglaPronunciation": "হিয়ার",
@@ -642,9 +589,9 @@
     "image": "/images/level8/hear.webp"
   },
   {
-    "id": "lvl8-039",
+    "id": "lvl8-036",
     "level": 8,
-    "order": 39,
+    "order": 36,
     "word": "peace",
     "pronunciation": "/piːs/",
     "banglaPronunciation": "পিস",
@@ -659,26 +606,9 @@
     "image": "/images/level8/peace.webp"
   },
   {
-    "id": "lvl8-040",
+    "id": "lvl8-037",
     "level": 8,
-    "order": 40,
-    "word": "piece",
-    "pronunciation": "/piːs/",
-    "banglaPronunciation": "পিস",
-    "meaning": "A part of something.",
-    "banglaMeaning": "টুকরা",
-    "syllables": [
-      "pie",
-      "ce"
-    ],
-    "example": "She ate a piece of cake.",
-    "hint": "Means \"a part\" — a piece of pie has \"pie\" in the middle.",
-    "image": "/images/level8/piece.webp"
-  },
-  {
-    "id": "lvl8-041",
-    "level": 8,
-    "order": 41,
+    "order": 37,
     "word": "whole",
     "pronunciation": "/hoʊl/",
     "banglaPronunciation": "হোল",
@@ -693,9 +623,9 @@
     "image": "/images/level8/whole.webp"
   },
   {
-    "id": "lvl8-042",
+    "id": "lvl8-038",
     "level": 8,
-    "order": 42,
+    "order": 38,
     "word": "hole",
     "pronunciation": "/hoʊl/",
     "banglaPronunciation": "হোল",
@@ -710,9 +640,9 @@
     "image": "/images/level8/hole.webp"
   },
   {
-    "id": "lvl8-043",
+    "id": "lvl8-039",
     "level": 8,
-    "order": 43,
+    "order": 39,
     "word": "rite",
     "pronunciation": "/raɪt/",
     "banglaPronunciation": "রাইট",
@@ -727,9 +657,9 @@
     "image": "/images/level8/rite.webp"
   },
   {
-    "id": "lvl8-044",
+    "id": "lvl8-040",
     "level": 8,
-    "order": 44,
+    "order": 40,
     "word": "flour",
     "pronunciation": "/ˈflaʊ.ər/",
     "banglaPronunciation": "ফ্লাওয়ার",
@@ -743,9 +673,9 @@
     "image": "/images/level8/flour.webp"
   },
   {
-    "id": "lvl8-045",
+    "id": "lvl8-041",
     "level": 8,
-    "order": 45,
+    "order": 41,
     "word": "made",
     "pronunciation": "/meɪd/",
     "banglaPronunciation": "মেইড",
@@ -760,9 +690,9 @@
     "image": "/images/level8/made.webp"
   },
   {
-    "id": "lvl8-046",
+    "id": "lvl8-042",
     "level": 8,
-    "order": 46,
+    "order": 42,
     "word": "maid",
     "pronunciation": "/meɪd/",
     "banglaPronunciation": "মেইড",
@@ -776,9 +706,9 @@
     "image": "/images/level8/maid.webp"
   },
   {
-    "id": "lvl8-047",
+    "id": "lvl8-043",
     "level": 8,
-    "order": 47,
+    "order": 43,
     "word": "pair",
     "pronunciation": "/pɛr/",
     "banglaPronunciation": "পেয়ার",
@@ -792,9 +722,9 @@
     "image": "/images/level8/pair.webp"
   },
   {
-    "id": "lvl8-048",
+    "id": "lvl8-044",
     "level": 8,
-    "order": 48,
+    "order": 44,
     "word": "pear",
     "pronunciation": "/pɛr/",
     "banglaPronunciation": "পেয়ার",
@@ -808,9 +738,9 @@
     "image": "/images/level8/pear.webp"
   },
   {
-    "id": "lvl8-049",
+    "id": "lvl8-045",
     "level": 8,
-    "order": 49,
+    "order": 45,
     "word": "pare",
     "pronunciation": "/pɛr/",
     "banglaPronunciation": "পেয়ার",
@@ -825,9 +755,9 @@
     "image": "/images/level8/pare.webp"
   },
   {
-    "id": "lvl8-050",
+    "id": "lvl8-046",
     "level": 8,
-    "order": 50,
+    "order": 46,
     "word": "plain",
     "pronunciation": "/pleɪn/",
     "banglaPronunciation": "প্লেইন",
@@ -841,25 +771,9 @@
     "image": "/images/level8/plain.webp"
   },
   {
-    "id": "lvl8-051",
+    "id": "lvl8-047",
     "level": 8,
-    "order": 51,
-    "word": "reign",
-    "pronunciation": "/reɪn/",
-    "banglaPronunciation": "রেইন",
-    "meaning": "The period a king or queen rules.",
-    "banglaMeaning": "রাজত্ব",
-    "syllables": [
-      "reign"
-    ],
-    "example": "The king's reign lasted years.",
-    "hint": "A ruler's period in power — has a silent G.",
-    "image": "/images/level8/reign.webp"
-  },
-  {
-    "id": "lvl8-052",
-    "level": 8,
-    "order": 52,
+    "order": 47,
     "word": "rein",
     "pronunciation": "/reɪn/",
     "banglaPronunciation": "রেইন",
@@ -873,9 +787,9 @@
     "image": "/images/level8/rein.webp"
   },
   {
-    "id": "lvl8-053",
+    "id": "lvl8-048",
     "level": 8,
-    "order": 53,
+    "order": 48,
     "word": "rode",
     "pronunciation": "/roʊd/",
     "banglaPronunciation": "রোড",
@@ -890,9 +804,9 @@
     "image": "/images/level8/rode.webp"
   },
   {
-    "id": "lvl8-054",
+    "id": "lvl8-049",
     "level": 8,
-    "order": 54,
+    "order": 49,
     "word": "rowed",
     "pronunciation": "/roʊd/",
     "banglaPronunciation": "রোড",
@@ -907,9 +821,9 @@
     "image": "/images/level8/rowed.webp"
   },
   {
-    "id": "lvl8-055",
+    "id": "lvl8-050",
     "level": 8,
-    "order": 55,
+    "order": 50,
     "word": "sail",
     "pronunciation": "/seɪl/",
     "banglaPronunciation": "সেইল",
@@ -923,9 +837,9 @@
     "image": "/images/level8/sail.webp"
   },
   {
-    "id": "lvl8-056",
+    "id": "lvl8-051",
     "level": 8,
-    "order": 56,
+    "order": 51,
     "word": "sale",
     "pronunciation": "/seɪl/",
     "banglaPronunciation": "সেইল",
@@ -940,9 +854,9 @@
     "image": "/images/level8/sale.webp"
   },
   {
-    "id": "lvl8-057",
+    "id": "lvl8-052",
     "level": 8,
-    "order": 57,
+    "order": 52,
     "word": "soar",
     "pronunciation": "/sɔːr/",
     "banglaPronunciation": "সোয়ার",
@@ -956,9 +870,9 @@
     "image": "/images/level8/soar.webp"
   },
   {
-    "id": "lvl8-058",
+    "id": "lvl8-053",
     "level": 8,
-    "order": 58,
+    "order": 53,
     "word": "sore",
     "pronunciation": "/sɔːr/",
     "banglaPronunciation": "সোয়ার",
@@ -973,9 +887,9 @@
     "image": "/images/level8/sore.webp"
   },
   {
-    "id": "lvl8-059",
+    "id": "lvl8-054",
     "level": 8,
-    "order": 59,
+    "order": 54,
     "word": "stair",
     "pronunciation": "/stɛr/",
     "banglaPronunciation": "স্টেয়ার",
@@ -989,9 +903,9 @@
     "image": "/images/level8/stair.webp"
   },
   {
-    "id": "lvl8-060",
+    "id": "lvl8-055",
     "level": 8,
-    "order": 60,
+    "order": 55,
     "word": "steal",
     "pronunciation": "/stiːl/",
     "banglaPronunciation": "স্টিল",
@@ -1005,9 +919,9 @@
     "image": "/images/level8/steal.webp"
   },
   {
-    "id": "lvl8-061",
+    "id": "lvl8-056",
     "level": 8,
-    "order": 61,
+    "order": 56,
     "word": "steel",
     "pronunciation": "/stiːl/",
     "banglaPronunciation": "স্টিল",
@@ -1021,9 +935,9 @@
     "image": "/images/level8/steel.webp"
   },
   {
-    "id": "lvl8-062",
+    "id": "lvl8-057",
     "level": 8,
-    "order": 62,
+    "order": 57,
     "word": "tail",
     "pronunciation": "/teɪl/",
     "banglaPronunciation": "টেইল",
@@ -1037,9 +951,9 @@
     "image": "/images/level8/tail.webp"
   },
   {
-    "id": "lvl8-063",
+    "id": "lvl8-058",
     "level": 8,
-    "order": 63,
+    "order": 58,
     "word": "tale",
     "pronunciation": "/teɪl/",
     "banglaPronunciation": "টেইল",
@@ -1054,9 +968,9 @@
     "image": "/images/level8/tale.webp"
   },
   {
-    "id": "lvl8-064",
+    "id": "lvl8-059",
     "level": 8,
-    "order": 64,
+    "order": 59,
     "word": "waist",
     "pronunciation": "/weɪst/",
     "banglaPronunciation": "ওয়েস্ট",
@@ -1070,9 +984,9 @@
     "image": "/images/level8/waist.webp"
   },
   {
-    "id": "lvl8-065",
+    "id": "lvl8-060",
     "level": 8,
-    "order": 65,
+    "order": 60,
     "word": "waste",
     "pronunciation": "/weɪst/",
     "banglaPronunciation": "ওয়েস্ট",
@@ -1087,9 +1001,9 @@
     "image": "/images/level8/waste.webp"
   },
   {
-    "id": "lvl8-066",
+    "id": "lvl8-061",
     "level": 8,
-    "order": 66,
+    "order": 61,
     "word": "wait",
     "pronunciation": "/weɪt/",
     "banglaPronunciation": "ওয়েট",
@@ -1103,9 +1017,9 @@
     "image": "/images/level8/wait.webp"
   },
   {
-    "id": "lvl8-067",
+    "id": "lvl8-062",
     "level": 8,
-    "order": 67,
+    "order": 62,
     "word": "weight",
     "pronunciation": "/weɪt/",
     "banglaPronunciation": "ওয়েট",
@@ -1119,9 +1033,9 @@
     "image": "/images/level8/weight.webp"
   },
   {
-    "id": "lvl8-068",
+    "id": "lvl8-063",
     "level": 8,
-    "order": 68,
+    "order": 63,
     "word": "which",
     "pronunciation": "/wɪtʃ/",
     "banglaPronunciation": "উইচ",
@@ -1135,9 +1049,9 @@
     "image": "/images/level8/which.webp"
   },
   {
-    "id": "lvl8-069",
+    "id": "lvl8-064",
     "level": 8,
-    "order": 69,
+    "order": 64,
     "word": "witch",
     "pronunciation": "/wɪtʃ/",
     "banglaPronunciation": "উইচ",
@@ -1151,9 +1065,9 @@
     "image": "/images/level8/witch.webp"
   },
   {
-    "id": "lvl8-070",
+    "id": "lvl8-065",
     "level": 8,
-    "order": 70,
+    "order": 65,
     "word": "wood",
     "pronunciation": "/wʊd/",
     "banglaPronunciation": "উড",
@@ -1167,9 +1081,9 @@
     "image": "/images/level8/wood.webp"
   },
   {
-    "id": "lvl8-071",
+    "id": "lvl8-066",
     "level": 8,
-    "order": 71,
+    "order": 66,
     "word": "would",
     "pronunciation": "/wʊd/",
     "banglaPronunciation": "উড",
@@ -1183,9 +1097,9 @@
     "image": "/images/level8/would.webp"
   },
   {
-    "id": "lvl8-072",
+    "id": "lvl8-067",
     "level": 8,
-    "order": 72,
+    "order": 67,
     "word": "allowed",
     "pronunciation": "/əˈlaʊd/",
     "banglaPronunciation": "অ্যালাউড",
@@ -1201,9 +1115,9 @@
     "image": "/images/level8/allowed.webp"
   },
   {
-    "id": "lvl8-073",
+    "id": "lvl8-068",
     "level": 8,
-    "order": 73,
+    "order": 68,
     "word": "aloud",
     "pronunciation": "/əˈlaʊd/",
     "banglaPronunciation": "অ্যালাউড",
@@ -1218,9 +1132,9 @@
     "image": "/images/level8/aloud.webp"
   },
   {
-    "id": "lvl8-074",
+    "id": "lvl8-069",
     "level": 8,
-    "order": 74,
+    "order": 69,
     "word": "berry",
     "pronunciation": "/ˈbɛr.i/",
     "banglaPronunciation": "বেরি",
@@ -1234,9 +1148,9 @@
     "image": "/images/level8/berry.webp"
   },
   {
-    "id": "lvl8-075",
+    "id": "lvl8-070",
     "level": 8,
-    "order": 75,
+    "order": 70,
     "word": "bury",
     "pronunciation": "/ˈbɛr.i/",
     "banglaPronunciation": "বেরি",
@@ -1250,9 +1164,9 @@
     "image": "/images/level8/bury.webp"
   },
   {
-    "id": "lvl8-076",
+    "id": "lvl8-071",
     "level": 8,
-    "order": 76,
+    "order": 71,
     "word": "board",
     "pronunciation": "/bɔːrd/",
     "banglaPronunciation": "বোর্ড",
@@ -1266,9 +1180,9 @@
     "image": "/images/level8/board.webp"
   },
   {
-    "id": "lvl8-077",
+    "id": "lvl8-072",
     "level": 8,
-    "order": 77,
+    "order": 72,
     "word": "bored",
     "pronunciation": "/bɔːrd/",
     "banglaPronunciation": "বোর্ড",
@@ -1283,9 +1197,9 @@
     "image": "/images/level8/bored.webp"
   },
   {
-    "id": "lvl8-078",
+    "id": "lvl8-073",
     "level": 8,
-    "order": 78,
+    "order": 73,
     "word": "cell",
     "pronunciation": "/sɛl/",
     "banglaPronunciation": "সেল",
@@ -1299,9 +1213,9 @@
     "image": "/images/level8/cell.webp"
   },
   {
-    "id": "lvl8-079",
+    "id": "lvl8-074",
     "level": 8,
-    "order": 79,
+    "order": 74,
     "word": "cent",
     "pronunciation": "/sɛnt/",
     "banglaPronunciation": "সেন্ট",
@@ -1315,9 +1229,9 @@
     "image": "/images/level8/cent.webp"
   },
   {
-    "id": "lvl8-080",
+    "id": "lvl8-075",
     "level": 8,
-    "order": 80,
+    "order": 75,
     "word": "scent",
     "pronunciation": "/sɛnt/",
     "banglaPronunciation": "সেন্ট",
@@ -1331,9 +1245,9 @@
     "image": "/images/level8/scent.webp"
   },
   {
-    "id": "lvl8-081",
+    "id": "lvl8-076",
     "level": 8,
-    "order": 81,
+    "order": 76,
     "word": "sent",
     "pronunciation": "/sɛnt/",
     "banglaPronunciation": "সেন্ট",
@@ -1347,9 +1261,9 @@
     "image": "/images/level8/sent.webp"
   },
   {
-    "id": "lvl8-082",
+    "id": "lvl8-077",
     "level": 8,
-    "order": 82,
+    "order": 77,
     "word": "chews",
     "pronunciation": "/tʃuːz/",
     "banglaPronunciation": "চিউজ",
@@ -1363,9 +1277,9 @@
     "image": "/images/level8/chews.webp"
   },
   {
-    "id": "lvl8-083",
+    "id": "lvl8-078",
     "level": 8,
-    "order": 83,
+    "order": 78,
     "word": "choose",
     "pronunciation": "/tʃuːz/",
     "banglaPronunciation": "চুজ",
@@ -1380,9 +1294,9 @@
     "image": "/images/level8/choose.webp"
   },
   {
-    "id": "lvl8-084",
+    "id": "lvl8-079",
     "level": 8,
-    "order": 84,
+    "order": 79,
     "word": "coarse",
     "pronunciation": "/kɔːrs/",
     "banglaPronunciation": "কোর্স",
@@ -1397,9 +1311,9 @@
     "image": "/images/level8/coarse.webp"
   },
   {
-    "id": "lvl8-085",
+    "id": "lvl8-080",
     "level": 8,
-    "order": 85,
+    "order": 80,
     "word": "course",
     "pronunciation": "/kɔːrs/",
     "banglaPronunciation": "কোর্স",
@@ -1414,9 +1328,9 @@
     "image": "/images/level8/course.webp"
   },
   {
-    "id": "lvl8-086",
+    "id": "lvl8-081",
     "level": 8,
-    "order": 86,
+    "order": 81,
     "word": "council",
     "pronunciation": "/ˈkaʊn.səl/",
     "banglaPronunciation": "কাউন্সিল",
@@ -1431,9 +1345,9 @@
     "image": "/images/level8/council.webp"
   },
   {
-    "id": "lvl8-087",
+    "id": "lvl8-082",
     "level": 8,
-    "order": 87,
+    "order": 82,
     "word": "counsel",
     "pronunciation": "/ˈkaʊn.səl/",
     "banglaPronunciation": "কাউন্সেল",
@@ -1448,9 +1362,9 @@
     "image": "/images/level8/counsel.webp"
   },
   {
-    "id": "lvl8-088",
+    "id": "lvl8-083",
     "level": 8,
-    "order": 88,
+    "order": 83,
     "word": "creak",
     "pronunciation": "/kriːk/",
     "banglaPronunciation": "ক্রিক",
@@ -1464,9 +1378,9 @@
     "image": "/images/level8/creak.webp"
   },
   {
-    "id": "lvl8-089",
+    "id": "lvl8-084",
     "level": 8,
-    "order": 89,
+    "order": 84,
     "word": "creek",
     "pronunciation": "/kriːk/",
     "banglaPronunciation": "ক্রিক",
@@ -1480,9 +1394,9 @@
     "image": "/images/level8/creek.webp"
   },
   {
-    "id": "lvl8-090",
+    "id": "lvl8-085",
     "level": 8,
-    "order": 90,
+    "order": 85,
     "word": "die",
     "pronunciation": "/daɪ/",
     "banglaPronunciation": "ডাই",
@@ -1496,9 +1410,9 @@
     "image": "/images/level8/die.webp"
   },
   {
-    "id": "lvl8-091",
+    "id": "lvl8-086",
     "level": 8,
-    "order": 91,
+    "order": 86,
     "word": "dye",
     "pronunciation": "/daɪ/",
     "banglaPronunciation": "ডাই",
@@ -1512,9 +1426,9 @@
     "image": "/images/level8/dye.webp"
   },
   {
-    "id": "lvl8-092",
+    "id": "lvl8-087",
     "level": 8,
-    "order": 92,
+    "order": 87,
     "word": "fair",
     "pronunciation": "/fɛr/",
     "banglaPronunciation": "ফেয়ার",
@@ -1528,9 +1442,9 @@
     "image": "/images/level8/fair.webp"
   },
   {
-    "id": "lvl8-093",
+    "id": "lvl8-088",
     "level": 8,
-    "order": 93,
+    "order": 88,
     "word": "fare",
     "pronunciation": "/fɛr/",
     "banglaPronunciation": "ফেয়ার",
@@ -1545,9 +1459,9 @@
     "image": "/images/level8/fare.webp"
   },
   {
-    "id": "lvl8-094",
+    "id": "lvl8-089",
     "level": 8,
-    "order": 94,
+    "order": 89,
     "word": "feat",
     "pronunciation": "/fiːt/",
     "banglaPronunciation": "ফিট",
@@ -1561,9 +1475,9 @@
     "image": "/images/level8/feat.webp"
   },
   {
-    "id": "lvl8-095",
+    "id": "lvl8-090",
     "level": 8,
-    "order": 95,
+    "order": 90,
     "word": "feet",
     "pronunciation": "/fiːt/",
     "banglaPronunciation": "ফিট",
@@ -1577,9 +1491,9 @@
     "image": "/images/level8/feet.webp"
   },
   {
-    "id": "lvl8-096",
+    "id": "lvl8-091",
     "level": 8,
-    "order": 96,
+    "order": 91,
     "word": "find",
     "pronunciation": "/faɪnd/",
     "banglaPronunciation": "ফাইন্ড",
@@ -1593,9 +1507,9 @@
     "image": "/images/level8/find.webp"
   },
   {
-    "id": "lvl8-097",
+    "id": "lvl8-092",
     "level": 8,
-    "order": 97,
+    "order": 92,
     "word": "fined",
     "pronunciation": "/faɪnd/",
     "banglaPronunciation": "ফাইন্ড",
@@ -1610,9 +1524,9 @@
     "image": "/images/level8/fined.webp"
   },
   {
-    "id": "lvl8-098",
+    "id": "lvl8-093",
     "level": 8,
-    "order": 98,
+    "order": 93,
     "word": "fir",
     "pronunciation": "/fɜːr/",
     "banglaPronunciation": "ফার",
@@ -1626,9 +1540,9 @@
     "image": "/images/level8/fir.webp"
   },
   {
-    "id": "lvl8-099",
+    "id": "lvl8-094",
     "level": 8,
-    "order": 99,
+    "order": 94,
     "word": "fur",
     "pronunciation": "/fɜːr/",
     "banglaPronunciation": "ফার",
@@ -1642,9 +1556,9 @@
     "image": "/images/level8/fur.webp"
   },
   {
-    "id": "lvl8-100",
+    "id": "lvl8-095",
     "level": 8,
-    "order": 100,
+    "order": 95,
     "word": "flu",
     "pronunciation": "/fluː/",
     "banglaPronunciation": "ফ্লু",
@@ -1658,9 +1572,9 @@
     "image": "/images/level8/flu.webp"
   },
   {
-    "id": "lvl8-101",
+    "id": "lvl8-096",
     "level": 8,
-    "order": 101,
+    "order": 96,
     "word": "flue",
     "pronunciation": "/fluː/",
     "banglaPronunciation": "ফ্লু",
@@ -1674,9 +1588,9 @@
     "image": "/images/level8/flue.webp"
   },
   {
-    "id": "lvl8-102",
+    "id": "lvl8-097",
     "level": 8,
-    "order": 102,
+    "order": 97,
     "word": "fore",
     "pronunciation": "/fɔːr/",
     "banglaPronunciation": "ফোর",
@@ -1691,9 +1605,9 @@
     "image": "/images/level8/fore.webp"
   },
   {
-    "id": "lvl8-103",
+    "id": "lvl8-098",
     "level": 8,
-    "order": 103,
+    "order": 98,
     "word": "forth",
     "pronunciation": "/fɔːrθ/",
     "banglaPronunciation": "ফোর্থ",
@@ -1707,25 +1621,9 @@
     "image": "/images/level8/forth.webp"
   },
   {
-    "id": "lvl8-104",
+    "id": "lvl8-099",
     "level": 8,
-    "order": 104,
-    "word": "fourth",
-    "pronunciation": "/fɔːrθ/",
-    "banglaPronunciation": "ফোর্থ",
-    "meaning": "The number 4 in order.",
-    "banglaMeaning": "চতুর্থ",
-    "syllables": [
-      "fourth"
-    ],
-    "example": "She finished in fourth place.",
-    "hint": "The ordinal number 4 — contains the word \"four\".",
-    "image": "/images/level8/fourth.webp"
-  },
-  {
-    "id": "lvl8-105",
-    "level": 8,
-    "order": 105,
+    "order": 99,
     "word": "grate",
     "pronunciation": "/ɡreɪt/",
     "banglaPronunciation": "গ্রেট",
@@ -1740,9 +1638,9 @@
     "image": "/images/level8/grate.webp"
   },
   {
-    "id": "lvl8-106",
+    "id": "lvl8-100",
     "level": 8,
-    "order": 106,
+    "order": 100,
     "word": "groan",
     "pronunciation": "/ɡroʊn/",
     "banglaPronunciation": "গ্রোন",
@@ -1756,9 +1654,9 @@
     "image": "/images/level8/groan.webp"
   },
   {
-    "id": "lvl8-107",
+    "id": "lvl8-101",
     "level": 8,
-    "order": 107,
+    "order": 101,
     "word": "grown",
     "pronunciation": "/ɡroʊn/",
     "banglaPronunciation": "গ্রোন",
@@ -1772,9 +1670,9 @@
     "image": "/images/level8/grown.webp"
   },
   {
-    "id": "lvl8-108",
+    "id": "lvl8-102",
     "level": 8,
-    "order": 108,
+    "order": 102,
     "word": "guessed",
     "pronunciation": "/ɡɛst/",
     "banglaPronunciation": "গেস্ট",
@@ -1789,9 +1687,9 @@
     "image": "/images/level8/guessed.webp"
   },
   {
-    "id": "lvl8-109",
+    "id": "lvl8-103",
     "level": 8,
-    "order": 109,
+    "order": 103,
     "word": "guest",
     "pronunciation": "/ɡɛst/",
     "banglaPronunciation": "গেস্ট",
@@ -1805,9 +1703,9 @@
     "image": "/images/level8/guest.webp"
   },
   {
-    "id": "lvl8-110",
+    "id": "lvl8-104",
     "level": 8,
-    "order": 110,
+    "order": 104,
     "word": "hair",
     "pronunciation": "/hɛr/",
     "banglaPronunciation": "হেয়ার",
@@ -1821,9 +1719,9 @@
     "image": "/images/level8/hair.webp"
   },
   {
-    "id": "lvl8-111",
+    "id": "lvl8-105",
     "level": 8,
-    "order": 111,
+    "order": 105,
     "word": "hare",
     "pronunciation": "/hɛr/",
     "banglaPronunciation": "হেয়ার",
@@ -1838,9 +1736,9 @@
     "image": "/images/level8/hare.webp"
   },
   {
-    "id": "lvl8-112",
+    "id": "lvl8-106",
     "level": 8,
-    "order": 112,
+    "order": 106,
     "word": "haul",
     "pronunciation": "/hɔːl/",
     "banglaPronunciation": "হল",
@@ -1854,9 +1752,9 @@
     "image": "/images/level8/haul.webp"
   },
   {
-    "id": "lvl8-113",
+    "id": "lvl8-107",
     "level": 8,
-    "order": 113,
+    "order": 107,
     "word": "heal",
     "pronunciation": "/hiːl/",
     "banglaPronunciation": "হিল",
@@ -1870,9 +1768,9 @@
     "image": "/images/level8/heal.webp"
   },
   {
-    "id": "lvl8-114",
+    "id": "lvl8-108",
     "level": 8,
-    "order": 114,
+    "order": 108,
     "word": "heel",
     "pronunciation": "/hiːl/",
     "banglaPronunciation": "হিল",
@@ -1886,9 +1784,9 @@
     "image": "/images/level8/heel.webp"
   },
   {
-    "id": "lvl8-115",
+    "id": "lvl8-109",
     "level": 8,
-    "order": 115,
+    "order": 109,
     "word": "heard",
     "pronunciation": "/hɜːrd/",
     "banglaPronunciation": "হার্ড",
@@ -1902,9 +1800,9 @@
     "image": "/images/level8/heard.webp"
   },
   {
-    "id": "lvl8-116",
+    "id": "lvl8-110",
     "level": 8,
-    "order": 116,
+    "order": 110,
     "word": "herd",
     "pronunciation": "/hɜːrd/",
     "banglaPronunciation": "হার্ড",
@@ -1918,9 +1816,9 @@
     "image": "/images/level8/herd.webp"
   },
   {
-    "id": "lvl8-117",
+    "id": "lvl8-111",
     "level": 8,
-    "order": 117,
+    "order": 111,
     "word": "higher",
     "pronunciation": "/ˈhaɪ.ər/",
     "banglaPronunciation": "হায়ার",
@@ -1935,9 +1833,9 @@
     "image": "/images/level8/higher.webp"
   },
   {
-    "id": "lvl8-118",
+    "id": "lvl8-112",
     "level": 8,
-    "order": 118,
+    "order": 112,
     "word": "hire",
     "pronunciation": "/haɪər/",
     "banglaPronunciation": "হায়ার",
@@ -1952,9 +1850,9 @@
     "image": "/images/level8/hire.webp"
   },
   {
-    "id": "lvl8-119",
+    "id": "lvl8-113",
     "level": 8,
-    "order": 119,
+    "order": 113,
     "word": "hoarse",
     "pronunciation": "/hɔːrs/",
     "banglaPronunciation": "হোর্স",
@@ -1969,9 +1867,9 @@
     "image": "/images/level8/hoarse.webp"
   },
   {
-    "id": "lvl8-120",
+    "id": "lvl8-114",
     "level": 8,
-    "order": 120,
+    "order": 114,
     "word": "hour",
     "pronunciation": "/aʊər/",
     "banglaPronunciation": "আওয়ার",
@@ -1985,9 +1883,9 @@
     "image": "/images/level8/hour.webp"
   },
   {
-    "id": "lvl8-121",
+    "id": "lvl8-115",
     "level": 8,
-    "order": 121,
+    "order": 115,
     "word": "idle",
     "pronunciation": "/ˈaɪ.dəl/",
     "banglaPronunciation": "আইডল",
@@ -2002,9 +1900,9 @@
     "image": "/images/level8/idle.webp"
   },
   {
-    "id": "lvl8-122",
+    "id": "lvl8-116",
     "level": 8,
-    "order": 122,
+    "order": 116,
     "word": "idol",
     "pronunciation": "/ˈaɪ.dəl/",
     "banglaPronunciation": "আইডল",
@@ -2019,9 +1917,9 @@
     "image": "/images/level8/idol.webp"
   },
   {
-    "id": "lvl8-123",
+    "id": "lvl8-117",
     "level": 8,
-    "order": 123,
+    "order": 117,
     "word": "leak",
     "pronunciation": "/liːk/",
     "banglaPronunciation": "লিক",
@@ -2035,9 +1933,9 @@
     "image": "/images/level8/leak.webp"
   },
   {
-    "id": "lvl8-124",
+    "id": "lvl8-118",
     "level": 8,
-    "order": 124,
+    "order": 118,
     "word": "leek",
     "pronunciation": "/liːk/",
     "banglaPronunciation": "লিক",
@@ -2051,9 +1949,9 @@
     "image": "/images/level8/leek.webp"
   },
   {
-    "id": "lvl8-125",
+    "id": "lvl8-119",
     "level": 8,
-    "order": 125,
+    "order": 119,
     "word": "lessen",
     "pronunciation": "/ˈlɛs.ən/",
     "banglaPronunciation": "লেসেন",
@@ -2068,9 +1966,9 @@
     "image": "/images/level8/lessen.webp"
   },
   {
-    "id": "lvl8-126",
+    "id": "lvl8-120",
     "level": 8,
-    "order": 126,
+    "order": 120,
     "word": "lesson",
     "pronunciation": "/ˈlɛs.ən/",
     "banglaPronunciation": "লেসন",
@@ -2085,9 +1983,9 @@
     "image": "/images/level8/lesson.webp"
   },
   {
-    "id": "lvl8-127",
+    "id": "lvl8-121",
     "level": 8,
-    "order": 127,
+    "order": 121,
     "word": "mane",
     "pronunciation": "/meɪn/",
     "banglaPronunciation": "মেইন",
@@ -2102,9 +2000,9 @@
     "image": "/images/level8/mane.webp"
   },
   {
-    "id": "lvl8-128",
+    "id": "lvl8-122",
     "level": 8,
-    "order": 128,
+    "order": 122,
     "word": "main",
     "pronunciation": "/meɪn/",
     "banglaPronunciation": "মেইন",
@@ -2118,9 +2016,9 @@
     "image": "/images/level8/main.webp"
   },
   {
-    "id": "lvl8-129",
+    "id": "lvl8-123",
     "level": 8,
-    "order": 129,
+    "order": 123,
     "word": "meet",
     "pronunciation": "/miːt/",
     "banglaPronunciation": "মিট",
@@ -2134,9 +2032,9 @@
     "image": "/images/level8/meet.webp"
   },
   {
-    "id": "lvl8-130",
+    "id": "lvl8-124",
     "level": 8,
-    "order": 130,
+    "order": 124,
     "word": "medal",
     "pronunciation": "/ˈmɛd.əl/",
     "banglaPronunciation": "মেডাল",
@@ -2151,9 +2049,9 @@
     "image": "/images/level8/medal.webp"
   },
   {
-    "id": "lvl8-131",
+    "id": "lvl8-125",
     "level": 8,
-    "order": 131,
+    "order": 125,
     "word": "metal",
     "pronunciation": "/ˈmɛt.əl/",
     "banglaPronunciation": "মেটাল",
@@ -2168,9 +2066,9 @@
     "image": "/images/level8/metal.webp"
   },
   {
-    "id": "lvl8-132",
+    "id": "lvl8-126",
     "level": 8,
-    "order": 132,
+    "order": 126,
     "word": "meddle",
     "pronunciation": "/ˈmɛd.əl/",
     "banglaPronunciation": "মেডল",
@@ -2185,9 +2083,9 @@
     "image": "/images/level8/meddle.webp"
   },
   {
-    "id": "lvl8-133",
+    "id": "lvl8-127",
     "level": 8,
-    "order": 133,
+    "order": 127,
     "word": "miner",
     "pronunciation": "/ˈmaɪ.nər/",
     "banglaPronunciation": "মাইনার",
@@ -2202,9 +2100,9 @@
     "image": "/images/level8/miner.webp"
   },
   {
-    "id": "lvl8-134",
+    "id": "lvl8-128",
     "level": 8,
-    "order": 134,
+    "order": 128,
     "word": "minor",
     "pronunciation": "/ˈmaɪ.nər/",
     "banglaPronunciation": "মাইনার",
@@ -2219,9 +2117,9 @@
     "image": "/images/level8/minor.webp"
   },
   {
-    "id": "lvl8-135",
+    "id": "lvl8-129",
     "level": 8,
-    "order": 135,
+    "order": 129,
     "word": "missed",
     "pronunciation": "/mɪst/",
     "banglaPronunciation": "মিস্ট",
@@ -2236,9 +2134,9 @@
     "image": "/images/level8/missed.webp"
   },
   {
-    "id": "lvl8-136",
+    "id": "lvl8-130",
     "level": 8,
-    "order": 136,
+    "order": 130,
     "word": "mist",
     "pronunciation": "/mɪst/",
     "banglaPronunciation": "মিস্ট",
@@ -2252,9 +2150,9 @@
     "image": "/images/level8/mist.webp"
   },
   {
-    "id": "lvl8-137",
+    "id": "lvl8-131",
     "level": 8,
-    "order": 137,
+    "order": 131,
     "word": "moose",
     "pronunciation": "/muːs/",
     "banglaPronunciation": "মুস",
@@ -2269,9 +2167,9 @@
     "image": "/images/level8/moose.webp"
   },
   {
-    "id": "lvl8-138",
+    "id": "lvl8-132",
     "level": 8,
-    "order": 138,
+    "order": 132,
     "word": "mousse",
     "pronunciation": "/muːs/",
     "banglaPronunciation": "মুস",
@@ -2286,9 +2184,9 @@
     "image": "/images/level8/mousse.webp"
   },
   {
-    "id": "lvl8-139",
+    "id": "lvl8-133",
     "level": 8,
-    "order": 139,
+    "order": 133,
     "word": "mourning",
     "pronunciation": "/ˈmɔːr.nɪŋ/",
     "banglaPronunciation": "মোর্নিং",
@@ -2303,26 +2201,9 @@
     "image": "/images/level8/mourning.webp"
   },
   {
-    "id": "lvl8-140",
+    "id": "lvl8-134",
     "level": 8,
-    "order": 140,
-    "word": "muscle",
-    "pronunciation": "/ˈmʌs.əl/",
-    "banglaPronunciation": "মাসল",
-    "meaning": "Body tissue that produces movement.",
-    "banglaMeaning": "পেশী",
-    "syllables": [
-      "mu",
-      "scle"
-    ],
-    "example": "He has strong arm muscles.",
-    "hint": "The body tissue — has a silent C.",
-    "image": "/images/level8/muscle.webp"
-  },
-  {
-    "id": "lvl8-141",
-    "level": 8,
-    "order": 141,
+    "order": 134,
     "word": "mussel",
     "pronunciation": "/ˈmʌs.əl/",
     "banglaPronunciation": "মাসল",
@@ -2337,9 +2218,9 @@
     "image": "/images/level8/mussel.webp"
   },
   {
-    "id": "lvl8-142",
+    "id": "lvl8-135",
     "level": 8,
-    "order": 142,
+    "order": 135,
     "word": "none",
     "pronunciation": "/nʌn/",
     "banglaPronunciation": "নান",
@@ -2354,9 +2235,9 @@
     "image": "/images/level8/none.webp"
   },
   {
-    "id": "lvl8-143",
+    "id": "lvl8-136",
     "level": 8,
-    "order": 143,
+    "order": 136,
     "word": "nun",
     "pronunciation": "/nʌn/",
     "banglaPronunciation": "নান",
@@ -2370,9 +2251,9 @@
     "image": "/images/level8/nun.webp"
   },
   {
-    "id": "lvl8-144",
+    "id": "lvl8-137",
     "level": 8,
-    "order": 144,
+    "order": 137,
     "word": "oar",
     "pronunciation": "/ɔːr/",
     "banglaPronunciation": "ওর",
@@ -2386,9 +2267,9 @@
     "image": "/images/level8/oar.webp"
   },
   {
-    "id": "lvl8-145",
+    "id": "lvl8-138",
     "level": 8,
-    "order": 145,
+    "order": 138,
     "word": "ore",
     "pronunciation": "/ɔːr/",
     "banglaPronunciation": "ওর",
@@ -2403,9 +2284,9 @@
     "image": "/images/level8/ore.webp"
   },
   {
-    "id": "lvl8-146",
+    "id": "lvl8-139",
     "level": 8,
-    "order": 146,
+    "order": 139,
     "word": "overdo",
     "pronunciation": "/ˌoʊ.vərˈduː/",
     "banglaPronunciation": "ওভারডু",
@@ -2421,9 +2302,9 @@
     "image": "/images/level8/overdo.webp"
   },
   {
-    "id": "lvl8-147",
+    "id": "lvl8-140",
     "level": 8,
-    "order": 147,
+    "order": 140,
     "word": "overdue",
     "pronunciation": "/ˌoʊ.vərˈduː/",
     "banglaPronunciation": "ওভারডিউ",
@@ -2439,9 +2320,9 @@
     "image": "/images/level8/overdue.webp"
   },
   {
-    "id": "lvl8-148",
+    "id": "lvl8-141",
     "level": 8,
-    "order": 148,
+    "order": 141,
     "word": "pain",
     "pronunciation": "/peɪn/",
     "banglaPronunciation": "পেইন",
@@ -2455,9 +2336,9 @@
     "image": "/images/level8/pain.webp"
   },
   {
-    "id": "lvl8-149",
+    "id": "lvl8-142",
     "level": 8,
-    "order": 149,
+    "order": 142,
     "word": "pane",
     "pronunciation": "/peɪn/",
     "banglaPronunciation": "পেইন",
@@ -2472,9 +2353,9 @@
     "image": "/images/level8/pane.webp"
   },
   {
-    "id": "lvl8-150",
+    "id": "lvl8-143",
     "level": 8,
-    "order": 150,
+    "order": 143,
     "word": "passed",
     "pronunciation": "/pæst/",
     "banglaPronunciation": "প্যাস্ট",
@@ -2489,9 +2370,9 @@
     "image": "/images/level8/passed.webp"
   },
   {
-    "id": "lvl8-151",
+    "id": "lvl8-144",
     "level": 8,
-    "order": 151,
+    "order": 144,
     "word": "past",
     "pronunciation": "/pæst/",
     "banglaPronunciation": "প্যাস্ট",
@@ -2505,9 +2386,9 @@
     "image": "/images/level8/past.webp"
   },
   {
-    "id": "lvl8-152",
+    "id": "lvl8-145",
     "level": 8,
-    "order": 152,
+    "order": 145,
     "word": "patience",
     "pronunciation": "/ˈpeɪ.ʃəns/",
     "banglaPronunciation": "পেশেন্স",
@@ -2523,9 +2404,9 @@
     "image": "/images/level8/patience.webp"
   },
   {
-    "id": "lvl8-153",
+    "id": "lvl8-146",
     "level": 8,
-    "order": 153,
+    "order": 146,
     "word": "patients",
     "pronunciation": "/ˈpeɪ.ʃənts/",
     "banglaPronunciation": "পেশেন্টস",
@@ -2540,9 +2421,9 @@
     "image": "/images/level8/patients.webp"
   },
   {
-    "id": "lvl8-154",
+    "id": "lvl8-147",
     "level": 8,
-    "order": 154,
+    "order": 147,
     "word": "peak",
     "pronunciation": "/piːk/",
     "banglaPronunciation": "পিক",
@@ -2556,9 +2437,9 @@
     "image": "/images/level8/peak.webp"
   },
   {
-    "id": "lvl8-155",
+    "id": "lvl8-148",
     "level": 8,
-    "order": 155,
+    "order": 148,
     "word": "pique",
     "pronunciation": "/piːk/",
     "banglaPronunciation": "পিক",
@@ -2573,9 +2454,9 @@
     "image": "/images/level8/pique.webp"
   },
   {
-    "id": "lvl8-156",
+    "id": "lvl8-149",
     "level": 8,
-    "order": 156,
+    "order": 149,
     "word": "plum",
     "pronunciation": "/plʌm/",
     "banglaPronunciation": "প্লাম",
@@ -2589,9 +2470,9 @@
     "image": "/images/level8/plum.webp"
   },
   {
-    "id": "lvl8-157",
+    "id": "lvl8-150",
     "level": 8,
-    "order": 157,
+    "order": 150,
     "word": "plumb",
     "pronunciation": "/plʌm/",
     "banglaPronunciation": "প্লাম",
@@ -2605,9 +2486,9 @@
     "image": "/images/level8/plumb.webp"
   },
   {
-    "id": "lvl8-158",
+    "id": "lvl8-151",
     "level": 8,
-    "order": 158,
+    "order": 151,
     "word": "prey",
     "pronunciation": "/preɪ/",
     "banglaPronunciation": "প্রে",
@@ -2621,27 +2502,9 @@
     "image": "/images/level8/prey.webp"
   },
   {
-    "id": "lvl8-159",
+    "id": "lvl8-152",
     "level": 8,
-    "order": 159,
-    "word": "presence",
-    "pronunciation": "/ˈprɛz.əns/",
-    "banglaPronunciation": "প্রেজেন্স",
-    "meaning": "The state of being in a place.",
-    "banglaMeaning": "উপস্থিতি",
-    "syllables": [
-      "pre",
-      "se",
-      "nce"
-    ],
-    "example": "Her presence made everyone happy.",
-    "hint": "Means \"being there\" — related to \"present\", ends in -ence.",
-    "image": "/images/level8/presence.webp"
-  },
-  {
-    "id": "lvl8-160",
-    "level": 8,
-    "order": 160,
+    "order": 152,
     "word": "presents",
     "pronunciation": "/ˈprɛz.ənts/",
     "banglaPronunciation": "প্রেজেন্টস",
@@ -2656,9 +2519,9 @@
     "image": "/images/level8/presents.webp"
   },
   {
-    "id": "lvl8-161",
+    "id": "lvl8-153",
     "level": 8,
-    "order": 161,
+    "order": 153,
     "word": "profit",
     "pronunciation": "/ˈprɒf.ɪt/",
     "banglaPronunciation": "প্রফিট",
@@ -2673,9 +2536,9 @@
     "image": "/images/level8/profit.webp"
   },
   {
-    "id": "lvl8-162",
+    "id": "lvl8-154",
     "level": 8,
-    "order": 162,
+    "order": 154,
     "word": "prophet",
     "pronunciation": "/ˈprɒf.ɪt/",
     "banglaPronunciation": "প্রফেট",
@@ -2690,9 +2553,9 @@
     "image": "/images/level8/prophet.webp"
   },
   {
-    "id": "lvl8-163",
+    "id": "lvl8-155",
     "level": 8,
-    "order": 163,
+    "order": 155,
     "word": "raise",
     "pronunciation": "/reɪz/",
     "banglaPronunciation": "রেইজ",
@@ -2707,9 +2570,9 @@
     "image": "/images/level8/raise.webp"
   },
   {
-    "id": "lvl8-164",
+    "id": "lvl8-156",
     "level": 8,
-    "order": 164,
+    "order": 156,
     "word": "rays",
     "pronunciation": "/reɪz/",
     "banglaPronunciation": "রেইজ",
@@ -2723,9 +2586,9 @@
     "image": "/images/level8/rays.webp"
   },
   {
-    "id": "lvl8-165",
+    "id": "lvl8-157",
     "level": 8,
-    "order": 165,
+    "order": 157,
     "word": "real",
     "pronunciation": "/ˈriː.əl/",
     "banglaPronunciation": "রিয়েল",
@@ -2739,9 +2602,9 @@
     "image": "/images/level8/real.webp"
   },
   {
-    "id": "lvl8-166",
+    "id": "lvl8-158",
     "level": 8,
-    "order": 166,
+    "order": 158,
     "word": "reel",
     "pronunciation": "/riːl/",
     "banglaPronunciation": "রিল",
@@ -2755,9 +2618,9 @@
     "image": "/images/level8/reel.webp"
   },
   {
-    "id": "lvl8-167",
+    "id": "lvl8-159",
     "level": 8,
-    "order": 167,
+    "order": 159,
     "word": "route",
     "pronunciation": "/ruːt/",
     "banglaPronunciation": "রুট",
@@ -2772,9 +2635,9 @@
     "image": "/images/level8/route.webp"
   },
   {
-    "id": "lvl8-168",
+    "id": "lvl8-160",
     "level": 8,
-    "order": 168,
+    "order": 160,
     "word": "rose",
     "pronunciation": "/roʊz/",
     "banglaPronunciation": "রোজ",
@@ -2789,9 +2652,9 @@
     "image": "/images/level8/rose.webp"
   },
   {
-    "id": "lvl8-169",
+    "id": "lvl8-161",
     "level": 8,
-    "order": 169,
+    "order": 161,
     "word": "rows",
     "pronunciation": "/roʊz/",
     "banglaPronunciation": "রোজ",
@@ -2805,9 +2668,9 @@
     "image": "/images/level8/rows.webp"
   },
   {
-    "id": "lvl8-170",
+    "id": "lvl8-162",
     "level": 8,
-    "order": 170,
+    "order": 162,
     "word": "rung",
     "pronunciation": "/rʌŋ/",
     "banglaPronunciation": "রাং",
@@ -2821,9 +2684,9 @@
     "image": "/images/level8/rung.webp"
   },
   {
-    "id": "lvl8-171",
+    "id": "lvl8-163",
     "level": 8,
-    "order": 171,
+    "order": 163,
     "word": "wrung",
     "pronunciation": "/rʌŋ/",
     "banglaPronunciation": "রাং",
@@ -2837,9 +2700,9 @@
     "image": "/images/level8/wrung.webp"
   },
   {
-    "id": "lvl8-172",
+    "id": "lvl8-164",
     "level": 8,
-    "order": 172,
+    "order": 164,
     "word": "seam",
     "pronunciation": "/siːm/",
     "banglaPronunciation": "সিম",
@@ -2853,9 +2716,9 @@
     "image": "/images/level8/seam.webp"
   },
   {
-    "id": "lvl8-173",
+    "id": "lvl8-165",
     "level": 8,
-    "order": 173,
+    "order": 165,
     "word": "seem",
     "pronunciation": "/siːm/",
     "banglaPronunciation": "সিম",
@@ -2869,9 +2732,9 @@
     "image": "/images/level8/seem.webp"
   },
   {
-    "id": "lvl8-174",
+    "id": "lvl8-166",
     "level": 8,
-    "order": 174,
+    "order": 166,
     "word": "seas",
     "pronunciation": "/siːz/",
     "banglaPronunciation": "সিজ",
@@ -2885,9 +2748,9 @@
     "image": "/images/level8/seas.webp"
   },
   {
-    "id": "lvl8-175",
+    "id": "lvl8-167",
     "level": 8,
-    "order": 175,
+    "order": 167,
     "word": "sees",
     "pronunciation": "/siːz/",
     "banglaPronunciation": "সিজ",
@@ -2901,9 +2764,9 @@
     "image": "/images/level8/sees.webp"
   },
   {
-    "id": "lvl8-176",
+    "id": "lvl8-168",
     "level": 8,
-    "order": 176,
+    "order": 168,
     "word": "seize",
     "pronunciation": "/siːz/",
     "banglaPronunciation": "সিজ",
@@ -2918,9 +2781,9 @@
     "image": "/images/level8/seize.webp"
   },
   {
-    "id": "lvl8-177",
+    "id": "lvl8-169",
     "level": 8,
-    "order": 177,
+    "order": 169,
     "word": "sole",
     "pronunciation": "/soʊl/",
     "banglaPronunciation": "সোল",
@@ -2935,9 +2798,9 @@
     "image": "/images/level8/sole.webp"
   },
   {
-    "id": "lvl8-178",
+    "id": "lvl8-170",
     "level": 8,
-    "order": 178,
+    "order": 170,
     "word": "soul",
     "pronunciation": "/soʊl/",
     "banglaPronunciation": "সোল",
@@ -2951,9 +2814,9 @@
     "image": "/images/level8/soul.webp"
   },
   {
-    "id": "lvl8-179",
+    "id": "lvl8-171",
     "level": 8,
-    "order": 179,
+    "order": 171,
     "word": "some",
     "pronunciation": "/sʌm/",
     "banglaPronunciation": "সাম",
@@ -2968,9 +2831,9 @@
     "image": "/images/level8/some.webp"
   },
   {
-    "id": "lvl8-180",
+    "id": "lvl8-172",
     "level": 8,
-    "order": 180,
+    "order": 172,
     "word": "sum",
     "pronunciation": "/sʌm/",
     "banglaPronunciation": "সাম",
@@ -2984,9 +2847,9 @@
     "image": "/images/level8/sum.webp"
   },
   {
-    "id": "lvl8-181",
+    "id": "lvl8-173",
     "level": 8,
-    "order": 181,
+    "order": 173,
     "word": "straight",
     "pronunciation": "/streɪt/",
     "banglaPronunciation": "স্ট্রেইট",
@@ -3000,9 +2863,9 @@
     "image": "/images/level8/straight.webp"
   },
   {
-    "id": "lvl8-182",
+    "id": "lvl8-174",
     "level": 8,
-    "order": 182,
+    "order": 174,
     "word": "strait",
     "pronunciation": "/streɪt/",
     "banglaPronunciation": "স্ট্রেইট",
@@ -3016,9 +2879,9 @@
     "image": "/images/level8/strait.webp"
   },
   {
-    "id": "lvl8-183",
+    "id": "lvl8-175",
     "level": 8,
-    "order": 183,
+    "order": 175,
     "word": "suite",
     "pronunciation": "/swiːt/",
     "banglaPronunciation": "সুইট",
@@ -3033,9 +2896,9 @@
     "image": "/images/level8/suite.webp"
   },
   {
-    "id": "lvl8-184",
+    "id": "lvl8-176",
     "level": 8,
-    "order": 184,
+    "order": 176,
     "word": "sweet",
     "pronunciation": "/swiːt/",
     "banglaPronunciation": "সুইট",
@@ -3049,9 +2912,9 @@
     "image": "/images/level8/sweet.webp"
   },
   {
-    "id": "lvl8-185",
+    "id": "lvl8-177",
     "level": 8,
-    "order": 185,
+    "order": 177,
     "word": "symbol",
     "pronunciation": "/ˈsɪm.bəl/",
     "banglaPronunciation": "সিম্বল",
@@ -3065,9 +2928,9 @@
     "image": "/images/level8/symbol.webp"
   },
   {
-    "id": "lvl8-186",
+    "id": "lvl8-178",
     "level": 8,
-    "order": 186,
+    "order": 178,
     "word": "cymbal",
     "pronunciation": "/ˈsɪm.bəl/",
     "banglaPronunciation": "সিম্বল",
@@ -3081,9 +2944,9 @@
     "image": "/images/level8/cymbal.webp"
   },
   {
-    "id": "lvl8-187",
+    "id": "lvl8-179",
     "level": 8,
-    "order": 187,
+    "order": 179,
     "word": "tacks",
     "pronunciation": "/tæks/",
     "banglaPronunciation": "ট্যাক্স",
@@ -3097,9 +2960,9 @@
     "image": "/images/level8/tacks.webp"
   },
   {
-    "id": "lvl8-188",
+    "id": "lvl8-180",
     "level": 8,
-    "order": 188,
+    "order": 180,
     "word": "tax",
     "pronunciation": "/tæks/",
     "banglaPronunciation": "ট্যাক্স",
@@ -3113,9 +2976,9 @@
     "image": "/images/level8/tax.webp"
   },
   {
-    "id": "lvl8-189",
+    "id": "lvl8-181",
     "level": 8,
-    "order": 189,
+    "order": 181,
     "word": "team",
     "pronunciation": "/tiːm/",
     "banglaPronunciation": "টিম",
@@ -3129,9 +2992,9 @@
     "image": "/images/level8/team.webp"
   },
   {
-    "id": "lvl8-190",
+    "id": "lvl8-182",
     "level": 8,
-    "order": 190,
+    "order": 182,
     "word": "teem",
     "pronunciation": "/tiːm/",
     "banglaPronunciation": "টিম",
@@ -3145,9 +3008,9 @@
     "image": "/images/level8/teem.webp"
   },
   {
-    "id": "lvl8-191",
+    "id": "lvl8-183",
     "level": 8,
-    "order": 191,
+    "order": 183,
     "word": "thrown",
     "pronunciation": "/θroʊn/",
     "banglaPronunciation": "থ্রোন",
@@ -3161,9 +3024,9 @@
     "image": "/images/level8/thrown.webp"
   },
   {
-    "id": "lvl8-192",
+    "id": "lvl8-184",
     "level": 8,
-    "order": 192,
+    "order": 184,
     "word": "tide",
     "pronunciation": "/taɪd/",
     "banglaPronunciation": "টাইড",
@@ -3178,9 +3041,9 @@
     "image": "/images/level8/tide.webp"
   },
   {
-    "id": "lvl8-193",
+    "id": "lvl8-185",
     "level": 8,
-    "order": 193,
+    "order": 185,
     "word": "tied",
     "pronunciation": "/taɪd/",
     "banglaPronunciation": "টাইড",
@@ -3194,9 +3057,9 @@
     "image": "/images/level8/tied.webp"
   },
   {
-    "id": "lvl8-194",
+    "id": "lvl8-186",
     "level": 8,
-    "order": 194,
+    "order": 186,
     "word": "toe",
     "pronunciation": "/toʊ/",
     "banglaPronunciation": "টো",
@@ -3210,9 +3073,9 @@
     "image": "/images/level8/toe.webp"
   },
   {
-    "id": "lvl8-195",
+    "id": "lvl8-187",
     "level": 8,
-    "order": 195,
+    "order": 187,
     "word": "tow",
     "pronunciation": "/toʊ/",
     "banglaPronunciation": "টো",
@@ -3226,9 +3089,9 @@
     "image": "/images/level8/tow.webp"
   },
   {
-    "id": "lvl8-196",
+    "id": "lvl8-188",
     "level": 8,
-    "order": 196,
+    "order": 188,
     "word": "told",
     "pronunciation": "/toʊld/",
     "banglaPronunciation": "টোল্ড",
@@ -3242,9 +3105,9 @@
     "image": "/images/level8/told.webp"
   },
   {
-    "id": "lvl8-197",
+    "id": "lvl8-189",
     "level": 8,
-    "order": 197,
+    "order": 189,
     "word": "tolled",
     "pronunciation": "/toʊld/",
     "banglaPronunciation": "টোল্ড",
@@ -3259,9 +3122,9 @@
     "image": "/images/level8/tolled.webp"
   },
   {
-    "id": "lvl8-198",
+    "id": "lvl8-190",
     "level": 8,
-    "order": 198,
+    "order": 190,
     "word": "vain",
     "pronunciation": "/veɪn/",
     "banglaPronunciation": "ভেইন",
@@ -3275,9 +3138,9 @@
     "image": "/images/level8/vain.webp"
   },
   {
-    "id": "lvl8-199",
+    "id": "lvl8-191",
     "level": 8,
-    "order": 199,
+    "order": 191,
     "word": "vein",
     "pronunciation": "/veɪn/",
     "banglaPronunciation": "ভেইন",
@@ -3291,9 +3154,9 @@
     "image": "/images/level8/vein.webp"
   },
   {
-    "id": "lvl8-200",
+    "id": "lvl8-192",
     "level": 8,
-    "order": 200,
+    "order": 192,
     "word": "vane",
     "pronunciation": "/veɪn/",
     "banglaPronunciation": "ভেইন",
@@ -3308,9 +3171,9 @@
     "image": "/images/level8/vane.webp"
   },
   {
-    "id": "lvl8-201",
+    "id": "lvl8-193",
     "level": 8,
-    "order": 201,
+    "order": 193,
     "word": "vary",
     "pronunciation": "/ˈvɛr.i/",
     "banglaPronunciation": "ভ্যারি",
@@ -3324,9 +3187,9 @@
     "image": "/images/level8/vary.webp"
   },
   {
-    "id": "lvl8-202",
+    "id": "lvl8-194",
     "level": 8,
-    "order": 202,
+    "order": 194,
     "word": "very",
     "pronunciation": "/ˈvɛr.i/",
     "banglaPronunciation": "ভেরি",
@@ -3340,9 +3203,9 @@
     "image": "/images/level8/very.webp"
   },
   {
-    "id": "lvl8-203",
+    "id": "lvl8-195",
     "level": 8,
-    "order": 203,
+    "order": 195,
     "word": "wade",
     "pronunciation": "/weɪd/",
     "banglaPronunciation": "ওয়েড",
@@ -3357,9 +3220,9 @@
     "image": "/images/level8/wade.webp"
   },
   {
-    "id": "lvl8-204",
+    "id": "lvl8-196",
     "level": 8,
-    "order": 204,
+    "order": 196,
     "word": "weighed",
     "pronunciation": "/weɪd/",
     "banglaPronunciation": "ওয়েড",
@@ -3374,9 +3237,9 @@
     "image": "/images/level8/weighed.webp"
   },
   {
-    "id": "lvl8-205",
+    "id": "lvl8-197",
     "level": 8,
-    "order": 205,
+    "order": 197,
     "word": "waive",
     "pronunciation": "/weɪv/",
     "banglaPronunciation": "ওয়েইভ",
@@ -3391,9 +3254,9 @@
     "image": "/images/level8/waive.webp"
   },
   {
-    "id": "lvl8-206",
+    "id": "lvl8-198",
     "level": 8,
-    "order": 206,
+    "order": 198,
     "word": "warn",
     "pronunciation": "/wɔːrn/",
     "banglaPronunciation": "ওয়ার্ন",
@@ -3407,9 +3270,9 @@
     "image": "/images/level8/warn.webp"
   },
   {
-    "id": "lvl8-207",
+    "id": "lvl8-199",
     "level": 8,
-    "order": 207,
+    "order": 199,
     "word": "worn",
     "pronunciation": "/wɔːrn/",
     "banglaPronunciation": "ওয়ার্ন",
@@ -3423,9 +3286,9 @@
     "image": "/images/level8/worn.webp"
   },
   {
-    "id": "lvl8-208",
+    "id": "lvl8-200",
     "level": 8,
-    "order": 208,
+    "order": 200,
     "word": "weigh",
     "pronunciation": "/weɪ/",
     "banglaPronunciation": "ওয়ে",
@@ -3439,9 +3302,9 @@
     "image": "/images/level8/weigh.webp"
   },
   {
-    "id": "lvl8-209",
+    "id": "lvl8-201",
     "level": 8,
-    "order": 209,
+    "order": 201,
     "word": "whine",
     "pronunciation": "/waɪn/",
     "banglaPronunciation": "ওয়াইন",
@@ -3456,9 +3319,9 @@
     "image": "/images/level8/whine.webp"
   },
   {
-    "id": "lvl8-210",
+    "id": "lvl8-202",
     "level": 8,
-    "order": 210,
+    "order": 202,
     "word": "who's",
     "pronunciation": "/huːz/",
     "banglaPronunciation": "হুজ",
@@ -3472,9 +3335,9 @@
     "image": "/images/level8/whos.webp"
   },
   {
-    "id": "lvl8-211",
+    "id": "lvl8-203",
     "level": 8,
-    "order": 211,
+    "order": 203,
     "word": "whose",
     "pronunciation": "/huːz/",
     "banglaPronunciation": "হুজ",
@@ -3489,9 +3352,9 @@
     "image": "/images/level8/whose.webp"
   },
   {
-    "id": "lvl8-212",
+    "id": "lvl8-204",
     "level": 8,
-    "order": 212,
+    "order": 204,
     "word": "canvas",
     "pronunciation": "/ˈkæn.vəs/",
     "banglaPronunciation": "ক্যানভাস",
@@ -3506,9 +3369,9 @@
     "image": "/images/level8/canvas.webp"
   },
   {
-    "id": "lvl8-213",
+    "id": "lvl8-205",
     "level": 8,
-    "order": 213,
+    "order": 205,
     "word": "canvass",
     "pronunciation": "/ˈkæn.vəs/",
     "banglaPronunciation": "ক্যানভাস",
@@ -3523,9 +3386,9 @@
     "image": "/images/level8/canvass.webp"
   },
   {
-    "id": "lvl8-214",
+    "id": "lvl8-206",
     "level": 8,
-    "order": 214,
+    "order": 206,
     "word": "current",
     "pronunciation": "/ˈkʌr.ənt/",
     "banglaPronunciation": "কারেন্ট",
@@ -3540,9 +3403,9 @@
     "image": "/images/level8/current.webp"
   },
   {
-    "id": "lvl8-215",
+    "id": "lvl8-207",
     "level": 8,
-    "order": 215,
+    "order": 207,
     "word": "currant",
     "pronunciation": "/ˈkʌr.ənt/",
     "banglaPronunciation": "কারেন্ট",
@@ -3557,9 +3420,9 @@
     "image": "/images/level8/currant.webp"
   },
   {
-    "id": "lvl8-216",
+    "id": "lvl8-208",
     "level": 8,
-    "order": 216,
+    "order": 208,
     "word": "cite",
     "pronunciation": "/saɪt/",
     "banglaPronunciation": "সাইট",
@@ -3574,9 +3437,9 @@
     "image": "/images/level8/cite.webp"
   },
   {
-    "id": "lvl8-217",
+    "id": "lvl8-209",
     "level": 8,
-    "order": 217,
+    "order": 209,
     "word": "site",
     "pronunciation": "/saɪt/",
     "banglaPronunciation": "সাইট",
@@ -3591,9 +3454,9 @@
     "image": "/images/level8/site.webp"
   },
   {
-    "id": "lvl8-218",
+    "id": "lvl8-210",
     "level": 8,
-    "order": 218,
+    "order": 210,
     "word": "gorilla",
     "pronunciation": "/ɡəˈrɪl.ə/",
     "banglaPronunciation": "গরিলা",
@@ -3609,9 +3472,9 @@
     "image": "/images/level8/gorilla.webp"
   },
   {
-    "id": "lvl8-219",
+    "id": "lvl8-211",
     "level": 8,
-    "order": 219,
+    "order": 211,
     "word": "guerrilla",
     "pronunciation": "/ɡəˈrɪl.ə/",
     "banglaPronunciation": "গেরিলা",
@@ -3627,9 +3490,9 @@
     "image": "/images/level8/guerrilla.webp"
   },
   {
-    "id": "lvl8-220",
+    "id": "lvl8-212",
     "level": 8,
-    "order": 220,
+    "order": 212,
     "word": "vial",
     "pronunciation": "/ˈvaɪ.əl/",
     "banglaPronunciation": "ভায়াল",
@@ -3643,9 +3506,9 @@
     "image": "/images/level8/vial.webp"
   },
   {
-    "id": "lvl8-221",
+    "id": "lvl8-213",
     "level": 8,
-    "order": 221,
+    "order": 213,
     "word": "vile",
     "pronunciation": "/vaɪl/",
     "banglaPronunciation": "ভাইল",
@@ -3660,9 +3523,9 @@
     "image": "/images/level8/vile.webp"
   },
   {
-    "id": "lvl8-222",
+    "id": "lvl8-214",
     "level": 8,
-    "order": 222,
+    "order": 214,
     "word": "descent",
     "pronunciation": "/dɪˈsɛnt/",
     "banglaPronunciation": "ডিসেন্ট",
@@ -3677,9 +3540,9 @@
     "image": "/images/level8/descent.webp"
   },
   {
-    "id": "lvl8-223",
+    "id": "lvl8-215",
     "level": 8,
-    "order": 223,
+    "order": 215,
     "word": "dissent",
     "pronunciation": "/dɪˈsɛnt/",
     "banglaPronunciation": "ডিসেন্ট",
@@ -3694,9 +3557,9 @@
     "image": "/images/level8/dissent.webp"
   },
   {
-    "id": "lvl8-224",
+    "id": "lvl8-216",
     "level": 8,
-    "order": 224,
+    "order": 216,
     "word": "gait",
     "pronunciation": "/ɡeɪt/",
     "banglaPronunciation": "গেইট",
@@ -3710,9 +3573,9 @@
     "image": "/images/level8/gait.webp"
   },
   {
-    "id": "lvl8-225",
+    "id": "lvl8-217",
     "level": 8,
-    "order": 225,
+    "order": 217,
     "word": "flair",
     "pronunciation": "/flɛr/",
     "banglaPronunciation": "ফ্লেয়ার",
@@ -3726,9 +3589,9 @@
     "image": "/images/level8/flair.webp"
   },
   {
-    "id": "lvl8-226",
+    "id": "lvl8-218",
     "level": 8,
-    "order": 226,
+    "order": 218,
     "word": "flare",
     "pronunciation": "/flɛr/",
     "banglaPronunciation": "ফ্লেয়ার",
@@ -3743,9 +3606,9 @@
     "image": "/images/level8/flare.webp"
   },
   {
-    "id": "lvl8-227",
+    "id": "lvl8-219",
     "level": 8,
-    "order": 227,
+    "order": 219,
     "word": "aisle",
     "pronunciation": "/aɪl/",
     "banglaPronunciation": "আইল",
@@ -3760,9 +3623,9 @@
     "image": "/images/level8/aisle.webp"
   },
   {
-    "id": "lvl8-228",
+    "id": "lvl8-220",
     "level": 8,
-    "order": 228,
+    "order": 220,
     "word": "isle",
     "pronunciation": "/aɪl/",
     "banglaPronunciation": "আইল",
@@ -3777,9 +3640,9 @@
     "image": "/images/level8/isle.webp"
   },
   {
-    "id": "lvl8-229",
+    "id": "lvl8-221",
     "level": 8,
-    "order": 229,
+    "order": 221,
     "word": "yolk",
     "pronunciation": "/joʊk/",
     "banglaPronunciation": "ইয়োক",
@@ -3793,9 +3656,9 @@
     "image": "/images/level8/yolk.webp"
   },
   {
-    "id": "lvl8-230",
+    "id": "lvl8-222",
     "level": 8,
-    "order": 230,
+    "order": 222,
     "word": "yoke",
     "pronunciation": "/joʊk/",
     "banglaPronunciation": "ইয়োক",
@@ -3810,9 +3673,9 @@
     "image": "/images/level8/yoke.webp"
   },
   {
-    "id": "lvl8-231",
+    "id": "lvl8-223",
     "level": 8,
-    "order": 231,
+    "order": 223,
     "word": "human",
     "pronunciation": "/ˈhjuː.mən/",
     "banglaPronunciation": "হিউম্যান",
@@ -3827,9 +3690,9 @@
     "image": "/images/level8/human.webp"
   },
   {
-    "id": "lvl8-232",
+    "id": "lvl8-224",
     "level": 8,
-    "order": 232,
+    "order": 224,
     "word": "humane",
     "pronunciation": "/hjuːˈmeɪn/",
     "banglaPronunciation": "হিউমেইন",
@@ -3845,9 +3708,9 @@
     "image": "/images/level8/humane.webp"
   },
   {
-    "id": "lvl8-233",
+    "id": "lvl8-225",
     "level": 8,
-    "order": 233,
+    "order": 225,
     "word": "dual",
     "pronunciation": "/ˈduː.əl/",
     "banglaPronunciation": "ডুয়াল",
@@ -3861,9 +3724,9 @@
     "image": "/images/level8/dual.webp"
   },
   {
-    "id": "lvl8-234",
+    "id": "lvl8-226",
     "level": 8,
-    "order": 234,
+    "order": 226,
     "word": "duel",
     "pronunciation": "/ˈduː.əl/",
     "banglaPronunciation": "ডুয়েল",
@@ -3877,9 +3740,9 @@
     "image": "/images/level8/duel.webp"
   },
   {
-    "id": "lvl8-235",
+    "id": "lvl8-227",
     "level": 8,
-    "order": 235,
+    "order": 227,
     "word": "phase",
     "pronunciation": "/feɪz/",
     "banglaPronunciation": "ফেইজ",
@@ -3894,9 +3757,9 @@
     "image": "/images/level8/phase.webp"
   },
   {
-    "id": "lvl8-236",
+    "id": "lvl8-228",
     "level": 8,
-    "order": 236,
+    "order": 228,
     "word": "faze",
     "pronunciation": "/feɪz/",
     "banglaPronunciation": "ফেইজ",
@@ -3911,9 +3774,9 @@
     "image": "/images/level8/faze.webp"
   },
   {
-    "id": "lvl8-237",
+    "id": "lvl8-229",
     "level": 8,
-    "order": 237,
+    "order": 229,
     "word": "discreet",
     "pronunciation": "/dɪˈskriːt/",
     "banglaPronunciation": "ডিসক্রিট",
@@ -3928,9 +3791,9 @@
     "image": "/images/level8/discreet.webp"
   },
   {
-    "id": "lvl8-238",
+    "id": "lvl8-230",
     "level": 8,
-    "order": 238,
+    "order": 230,
     "word": "discrete",
     "pronunciation": "/dɪˈskriːt/",
     "banglaPronunciation": "ডিসক্রিট",
@@ -3946,9 +3809,9 @@
     "image": "/images/level8/discrete.webp"
   },
   {
-    "id": "lvl8-239",
+    "id": "lvl8-231",
     "level": 8,
-    "order": 239,
+    "order": 231,
     "word": "eminent",
     "pronunciation": "/ˈɛm.ɪ.nənt/",
     "banglaPronunciation": "এমিনেন্ট",
@@ -3964,9 +3827,9 @@
     "image": "/images/level8/eminent.webp"
   },
   {
-    "id": "lvl8-240",
+    "id": "lvl8-232",
     "level": 8,
-    "order": 240,
+    "order": 232,
     "word": "imminent",
     "pronunciation": "/ˈɪm.ɪ.nənt/",
     "banglaPronunciation": "ইমিনেন্ট",
@@ -3982,9 +3845,9 @@
     "image": "/images/level8/imminent.webp"
   },
   {
-    "id": "lvl8-241",
+    "id": "lvl8-233",
     "level": 8,
-    "order": 241,
+    "order": 233,
     "word": "elicit",
     "pronunciation": "/ɪˈlɪs.ɪt/",
     "banglaPronunciation": "এলিসিট",
@@ -4000,9 +3863,9 @@
     "image": "/images/level8/elicit.webp"
   },
   {
-    "id": "lvl8-242",
+    "id": "lvl8-234",
     "level": 8,
-    "order": 242,
+    "order": 234,
     "word": "illicit",
     "pronunciation": "/ɪˈlɪs.ɪt/",
     "banglaPronunciation": "ইলিসিট",
@@ -4018,9 +3881,9 @@
     "image": "/images/level8/illicit.webp"
   },
   {
-    "id": "lvl8-243",
+    "id": "lvl8-235",
     "level": 8,
-    "order": 243,
+    "order": 235,
     "word": "farther",
     "pronunciation": "/ˈfɑːr.ðər/",
     "banglaPronunciation": "ফার্দার",
@@ -4035,26 +3898,9 @@
     "image": "/images/level8/farther.webp"
   },
   {
-    "id": "lvl8-244",
+    "id": "lvl8-236",
     "level": 8,
-    "order": 244,
-    "word": "further",
-    "pronunciation": "/ˈfɜːr.ðər/",
-    "banglaPronunciation": "ফার্দার",
-    "meaning": "To a greater extent (often figurative).",
-    "banglaMeaning": "আরও (অ-শারীরিক অর্থে)",
-    "syllables": [
-      "fu",
-      "rther"
-    ],
-    "example": "Let's discuss this further.",
-    "hint": "Figurative extent — used for ideas, not physical distance.",
-    "image": "/images/level8/further.webp"
-  },
-  {
-    "id": "lvl8-245",
-    "level": 8,
-    "order": 245,
+    "order": 236,
     "word": "flaunt",
     "pronunciation": "/flɔːnt/",
     "banglaPronunciation": "ফ্লন্ট",
@@ -4068,9 +3914,9 @@
     "image": "/images/level8/flaunt.webp"
   },
   {
-    "id": "lvl8-246",
+    "id": "lvl8-237",
     "level": 8,
-    "order": 246,
+    "order": 237,
     "word": "flout",
     "pronunciation": "/flaʊt/",
     "banglaPronunciation": "ফ্লাউট",
@@ -4084,9 +3930,9 @@
     "image": "/images/level8/flout.webp"
   },
   {
-    "id": "lvl8-247",
+    "id": "lvl8-238",
     "level": 8,
-    "order": 247,
+    "order": 238,
     "word": "waver",
     "pronunciation": "/ˈweɪ.vər/",
     "banglaPronunciation": "ওয়েভার",
@@ -4101,9 +3947,9 @@
     "image": "/images/level8/waver.webp"
   },
   {
-    "id": "lvl8-248",
+    "id": "lvl8-239",
     "level": 8,
-    "order": 248,
+    "order": 239,
     "word": "waiver",
     "pronunciation": "/ˈweɪ.vər/",
     "banglaPronunciation": "ওয়েভার",
@@ -4118,9 +3964,9 @@
     "image": "/images/level8/waiver.webp"
   },
   {
-    "id": "lvl8-249",
+    "id": "lvl8-240",
     "level": 8,
-    "order": 249,
+    "order": 240,
     "word": "latter",
     "pronunciation": "/ˈlæt.ər/",
     "banglaPronunciation": "ল্যাটার",
@@ -4135,9 +3981,9 @@
     "image": "/images/level8/latter.webp"
   },
   {
-    "id": "lvl8-250",
+    "id": "lvl8-241",
     "level": 8,
-    "order": 250,
+    "order": 241,
     "word": "loath",
     "pronunciation": "/loʊθ/",
     "banglaPronunciation": "লোথ",
@@ -4151,9 +3997,9 @@
     "image": "/images/level8/loath.webp"
   },
   {
-    "id": "lvl8-251",
+    "id": "lvl8-242",
     "level": 8,
-    "order": 251,
+    "order": 242,
     "word": "loathe",
     "pronunciation": "/loʊð/",
     "banglaPronunciation": "লোদ",
@@ -4168,9 +4014,9 @@
     "image": "/images/level8/loathe.webp"
   },
   {
-    "id": "lvl8-252",
+    "id": "lvl8-243",
     "level": 8,
-    "order": 252,
+    "order": 243,
     "word": "born",
     "pronunciation": "/bɔːrn/",
     "banglaPronunciation": "বর্ন",
@@ -4184,9 +4030,9 @@
     "image": "/images/level8/born.webp"
   },
   {
-    "id": "lvl8-253",
+    "id": "lvl8-244",
     "level": 8,
-    "order": 253,
+    "order": 244,
     "word": "borne",
     "pronunciation": "/bɔːrn/",
     "banglaPronunciation": "বর্ন",
@@ -4201,9 +4047,9 @@
     "image": "/images/level8/borne.webp"
   },
   {
-    "id": "lvl8-254",
+    "id": "lvl8-245",
     "level": 8,
-    "order": 254,
+    "order": 245,
     "word": "capital",
     "pronunciation": "/ˈkæp.ɪ.təl/",
     "banglaPronunciation": "ক্যাপিটাল",
@@ -4219,9 +4065,9 @@
     "image": "/images/level8/capital.webp"
   },
   {
-    "id": "lvl8-255",
+    "id": "lvl8-246",
     "level": 8,
-    "order": 255,
+    "order": 246,
     "word": "capitol",
     "pronunciation": "/ˈkæp.ɪ.təl/",
     "banglaPronunciation": "ক্যাপিটল",
@@ -4237,9 +4083,9 @@
     "image": "/images/level8/capitol.webp"
   },
   {
-    "id": "lvl8-256",
+    "id": "lvl8-247",
     "level": 8,
-    "order": 256,
+    "order": 247,
     "word": "device",
     "pronunciation": "/dɪˈvaɪs/",
     "banglaPronunciation": "ডিভাইস",
@@ -4255,9 +4101,9 @@
     "image": "/images/level8/device.webp"
   },
   {
-    "id": "lvl8-257",
+    "id": "lvl8-248",
     "level": 8,
-    "order": 257,
+    "order": 248,
     "word": "devise",
     "pronunciation": "/dɪˈvaɪz/",
     "banglaPronunciation": "ডিভাইজ",
@@ -4273,9 +4119,9 @@
     "image": "/images/level8/devise.webp"
   },
   {
-    "id": "lvl8-258",
+    "id": "lvl8-249",
     "level": 8,
-    "order": 258,
+    "order": 249,
     "word": "envelope",
     "pronunciation": "/ˈɛn.və.loʊp/",
     "banglaPronunciation": "এনভেলাপ",
@@ -4292,9 +4138,9 @@
     "image": "/images/level8/envelope.webp"
   },
   {
-    "id": "lvl8-259",
+    "id": "lvl8-250",
     "level": 8,
-    "order": 259,
+    "order": 250,
     "word": "envelop",
     "pronunciation": "/ɪnˈvɛl.əp/",
     "banglaPronunciation": "এনভেলপ",
@@ -4310,9 +4156,9 @@
     "image": "/images/level8/envelop.webp"
   },
   {
-    "id": "lvl8-260",
+    "id": "lvl8-251",
     "level": 8,
-    "order": 260,
+    "order": 251,
     "word": "ensure",
     "pronunciation": "/ɪnˈʃʊr/",
     "banglaPronunciation": "এনশিওর",
@@ -4328,9 +4174,9 @@
     "image": "/images/level8/ensure.webp"
   },
   {
-    "id": "lvl8-261",
+    "id": "lvl8-252",
     "level": 8,
-    "order": 261,
+    "order": 252,
     "word": "insure",
     "pronunciation": "/ɪnˈʃʊr/",
     "banglaPronunciation": "ইনশিওর",
@@ -4346,9 +4192,9 @@
     "image": "/images/level8/insure.webp"
   },
   {
-    "id": "lvl8-262",
+    "id": "lvl8-253",
     "level": 8,
-    "order": 262,
+    "order": 253,
     "word": "formally",
     "pronunciation": "/ˈfɔːr.mə.li/",
     "banglaPronunciation": "ফরমালি",
@@ -4363,9 +4209,9 @@
     "image": "/images/level8/formally.webp"
   },
   {
-    "id": "lvl8-263",
+    "id": "lvl8-254",
     "level": 8,
-    "order": 263,
+    "order": 254,
     "word": "formerly",
     "pronunciation": "/ˈfɔːr.mər.li/",
     "banglaPronunciation": "ফরমারলি",
@@ -4380,9 +4226,9 @@
     "image": "/images/level8/formerly.webp"
   },
   {
-    "id": "lvl8-264",
+    "id": "lvl8-255",
     "level": 8,
-    "order": 264,
+    "order": 255,
     "word": "moral",
     "pronunciation": "/ˈmɔːr.əl/",
     "banglaPronunciation": "মোরাল",
@@ -4397,9 +4243,9 @@
     "image": "/images/level8/moral.webp"
   },
   {
-    "id": "lvl8-265",
+    "id": "lvl8-256",
     "level": 8,
-    "order": 265,
+    "order": 256,
     "word": "morale",
     "pronunciation": "/məˈræl/",
     "banglaPronunciation": "মোরাল",
@@ -4415,9 +4261,9 @@
     "image": "/images/level8/morale.webp"
   },
   {
-    "id": "lvl8-266",
+    "id": "lvl8-257",
     "level": 8,
-    "order": 266,
+    "order": 257,
     "word": "personal",
     "pronunciation": "/ˈpɜːr.sən.əl/",
     "banglaPronunciation": "পার্সোনাল",
@@ -4433,62 +4279,9 @@
     "image": "/images/level8/personal.webp"
   },
   {
-    "id": "lvl8-267",
+    "id": "lvl8-258",
     "level": 8,
-    "order": 267,
-    "word": "personnel",
-    "pronunciation": "/ˌpɜːr.səˈnɛl/",
-    "banglaPronunciation": "পার্সোনেল",
-    "meaning": "The people employed in an organization.",
-    "banglaMeaning": "কর্মীবৃন্দ",
-    "syllables": [
-      "pe",
-      "rso",
-      "nnel"
-    ],
-    "example": "The company hired new personnel.",
-    "hint": "Means \"staff/employees\" — double N, ends in -nel.",
-    "image": "/images/level8/personnel.webp"
-  },
-  {
-    "id": "lvl8-268",
-    "level": 8,
-    "order": 268,
-    "word": "precede",
-    "pronunciation": "/prɪˈsiːd/",
-    "banglaPronunciation": "প্রিসিড",
-    "meaning": "To come before in time or order.",
-    "banglaMeaning": "পূর্বে ঘটা",
-    "syllables": [
-      "pre",
-      "ce",
-      "de"
-    ],
-    "example": "A warning light will precede the alarm.",
-    "hint": "Means \"to come before\" — ends in -cede.",
-    "image": "/images/level8/precede.webp"
-  },
-  {
-    "id": "lvl8-269",
-    "level": 8,
-    "order": 269,
-    "word": "proceed",
-    "pronunciation": "/proʊˈsiːd/",
-    "banglaPronunciation": "প্রোসিড",
-    "meaning": "To continue or go forward.",
-    "banglaMeaning": "এগিয়ে যাওয়া",
-    "syllables": [
-      "pro",
-      "ceed"
-    ],
-    "example": "Please proceed to the next step.",
-    "hint": "Means \"to continue forward\" — double E, ends in -ceed.",
-    "image": "/images/level8/proceed.webp"
-  },
-  {
-    "id": "lvl8-270",
-    "level": 8,
-    "order": 270,
+    "order": 258,
     "word": "respectfully",
     "pronunciation": "/rɪˈspɛkt.fəl.i/",
     "banglaPronunciation": "রেসপেক্টফুলি",
@@ -4504,9 +4297,9 @@
     "image": "/images/level8/respectfully.webp"
   },
   {
-    "id": "lvl8-271",
+    "id": "lvl8-259",
     "level": 8,
-    "order": 271,
+    "order": 259,
     "word": "respectively",
     "pronunciation": "/rɪˈspɛk.tɪv.li/",
     "banglaPronunciation": "রেসপেক্টিভলি",
@@ -4523,9 +4316,9 @@
     "image": "/images/level8/respectively.webp"
   },
   {
-    "id": "lvl8-272",
+    "id": "lvl8-260",
     "level": 8,
-    "order": 272,
+    "order": 260,
     "word": "accede",
     "pronunciation": "/əkˈsiːd/",
     "banglaPronunciation": "অ্যাকসিড",
@@ -4541,9 +4334,9 @@
     "image": "/images/level8/accede.webp"
   },
   {
-    "id": "lvl8-273",
+    "id": "lvl8-261",
     "level": 8,
-    "order": 273,
+    "order": 261,
     "word": "exceed",
     "pronunciation": "/ɪkˈsiːd/",
     "banglaPronunciation": "এক্সিড",
@@ -4558,9 +4351,9 @@
     "image": "/images/level8/exceed.webp"
   },
   {
-    "id": "lvl8-274",
+    "id": "lvl8-262",
     "level": 8,
-    "order": 274,
+    "order": 262,
     "word": "adapt",
     "pronunciation": "/əˈdæpt/",
     "banglaPronunciation": "অ্যাডাপ্ট",
@@ -4575,9 +4368,9 @@
     "image": "/images/level8/adapt.webp"
   },
   {
-    "id": "lvl8-275",
+    "id": "lvl8-263",
     "level": 8,
-    "order": 275,
+    "order": 263,
     "word": "adopt",
     "pronunciation": "/əˈdɒpt/",
     "banglaPronunciation": "অ্যাডপ্ট",
@@ -4592,9 +4385,9 @@
     "image": "/images/level8/adopt.webp"
   },
   {
-    "id": "lvl8-276",
+    "id": "lvl8-264",
     "level": 8,
-    "order": 276,
+    "order": 264,
     "word": "allude",
     "pronunciation": "/əˈluːd/",
     "banglaPronunciation": "অ্যালুড",
@@ -4610,9 +4403,9 @@
     "image": "/images/level8/allude.webp"
   },
   {
-    "id": "lvl8-277",
+    "id": "lvl8-265",
     "level": 8,
-    "order": 277,
+    "order": 265,
     "word": "elude",
     "pronunciation": "/ɪˈluːd/",
     "banglaPronunciation": "ইলুড",
@@ -4628,9 +4421,9 @@
     "image": "/images/level8/elude.webp"
   },
   {
-    "id": "lvl8-278",
+    "id": "lvl8-266",
     "level": 8,
-    "order": 278,
+    "order": 266,
     "word": "altar",
     "pronunciation": "/ˈɔːl.tər/",
     "banglaPronunciation": "অল্টার",
@@ -4645,9 +4438,9 @@
     "image": "/images/level8/altar.webp"
   },
   {
-    "id": "lvl8-279",
+    "id": "lvl8-267",
     "level": 8,
-    "order": 279,
+    "order": 267,
     "word": "alter",
     "pronunciation": "/ˈɔːl.tər/",
     "banglaPronunciation": "অল্টার",
@@ -4662,9 +4455,9 @@
     "image": "/images/level8/alter.webp"
   },
   {
-    "id": "lvl8-280",
+    "id": "lvl8-268",
     "level": 8,
-    "order": 280,
+    "order": 268,
     "word": "ascent",
     "pronunciation": "/əˈsɛnt/",
     "banglaPronunciation": "অ্যাসেন্ট",
@@ -4679,9 +4472,9 @@
     "image": "/images/level8/ascent.webp"
   },
   {
-    "id": "lvl8-281",
+    "id": "lvl8-269",
     "level": 8,
-    "order": 281,
+    "order": 269,
     "word": "assent",
     "pronunciation": "/əˈsɛnt/",
     "banglaPronunciation": "অ্যাসেন্ট",
@@ -4696,9 +4489,9 @@
     "image": "/images/level8/assent.webp"
   },
   {
-    "id": "lvl8-282",
+    "id": "lvl8-270",
     "level": 8,
-    "order": 282,
+    "order": 270,
     "word": "bald",
     "pronunciation": "/bɔːld/",
     "banglaPronunciation": "বল্ড",
@@ -4712,9 +4505,9 @@
     "image": "/images/level8/bald.webp"
   },
   {
-    "id": "lvl8-283",
+    "id": "lvl8-271",
     "level": 8,
-    "order": 283,
+    "order": 271,
     "word": "bawled",
     "pronunciation": "/bɔːld/",
     "banglaPronunciation": "বল্ড",
@@ -4729,9 +4522,9 @@
     "image": "/images/level8/bawled.webp"
   },
   {
-    "id": "lvl8-284",
+    "id": "lvl8-272",
     "level": 8,
-    "order": 284,
+    "order": 272,
     "word": "bloc",
     "pronunciation": "/blɒk/",
     "banglaPronunciation": "ব্লক",
@@ -4745,9 +4538,9 @@
     "image": "/images/level8/bloc.webp"
   },
   {
-    "id": "lvl8-285",
+    "id": "lvl8-273",
     "level": 8,
-    "order": 285,
+    "order": 273,
     "word": "boarder",
     "pronunciation": "/ˈbɔːr.dər/",
     "banglaPronunciation": "বোর্ডার",
@@ -4762,9 +4555,9 @@
     "image": "/images/level8/boarder.webp"
   },
   {
-    "id": "lvl8-286",
+    "id": "lvl8-274",
     "level": 8,
-    "order": 286,
+    "order": 274,
     "word": "border",
     "pronunciation": "/ˈbɔːr.dər/",
     "banglaPronunciation": "বর্ডার",
@@ -4779,9 +4572,9 @@
     "image": "/images/level8/border.webp"
   },
   {
-    "id": "lvl8-287",
+    "id": "lvl8-275",
     "level": 8,
-    "order": 287,
+    "order": 275,
     "word": "broach",
     "pronunciation": "/broʊtʃ/",
     "banglaPronunciation": "ব্রোচ",
@@ -4795,9 +4588,9 @@
     "image": "/images/level8/broach.webp"
   },
   {
-    "id": "lvl8-288",
+    "id": "lvl8-276",
     "level": 8,
-    "order": 288,
+    "order": 276,
     "word": "brooch",
     "pronunciation": "/broʊtʃ/",
     "banglaPronunciation": "ব্রোচ",
@@ -4811,9 +4604,9 @@
     "image": "/images/level8/brooch.webp"
   },
   {
-    "id": "lvl8-289",
+    "id": "lvl8-277",
     "level": 8,
-    "order": 289,
+    "order": 277,
     "word": "callous",
     "pronunciation": "/ˈkæl.əs/",
     "banglaPronunciation": "ক্যালাস",
@@ -4828,9 +4621,9 @@
     "image": "/images/level8/callous.webp"
   },
   {
-    "id": "lvl8-290",
+    "id": "lvl8-278",
     "level": 8,
-    "order": 290,
+    "order": 278,
     "word": "callus",
     "pronunciation": "/ˈkæl.əs/",
     "banglaPronunciation": "ক্যালাস",
@@ -4845,9 +4638,9 @@
     "image": "/images/level8/callus.webp"
   },
   {
-    "id": "lvl8-291",
+    "id": "lvl8-279",
     "level": 8,
-    "order": 291,
+    "order": 279,
     "word": "canon",
     "pronunciation": "/ˈkæn.ən/",
     "banglaPronunciation": "ক্যানন",
@@ -4862,9 +4655,9 @@
     "image": "/images/level8/canon.webp"
   },
   {
-    "id": "lvl8-292",
+    "id": "lvl8-280",
     "level": 8,
-    "order": 292,
+    "order": 280,
     "word": "cannon",
     "pronunciation": "/ˈkæn.ən/",
     "banglaPronunciation": "ক্যানন",
@@ -4879,9 +4672,9 @@
     "image": "/images/level8/cannon.webp"
   },
   {
-    "id": "lvl8-293",
+    "id": "lvl8-281",
     "level": 8,
-    "order": 293,
+    "order": 281,
     "word": "chord",
     "pronunciation": "/kɔːrd/",
     "banglaPronunciation": "কর্ড",
@@ -4895,9 +4688,9 @@
     "image": "/images/level8/chord.webp"
   },
   {
-    "id": "lvl8-294",
+    "id": "lvl8-282",
     "level": 8,
-    "order": 294,
+    "order": 282,
     "word": "cord",
     "pronunciation": "/kɔːrd/",
     "banglaPronunciation": "কর্ড",
@@ -4911,9 +4704,9 @@
     "image": "/images/level8/cord.webp"
   },
   {
-    "id": "lvl8-295",
+    "id": "lvl8-283",
     "level": 8,
-    "order": 295,
+    "order": 283,
     "word": "coma",
     "pronunciation": "/ˈkoʊ.mə/",
     "banglaPronunciation": "কোমা",
@@ -4928,9 +4721,9 @@
     "image": "/images/level8/coma.webp"
   },
   {
-    "id": "lvl8-296",
+    "id": "lvl8-284",
     "level": 8,
-    "order": 296,
+    "order": 284,
     "word": "comma",
     "pronunciation": "/ˈkɒm.ə/",
     "banglaPronunciation": "কমা",
@@ -4945,9 +4738,9 @@
     "image": "/images/level8/comma.webp"
   },
   {
-    "id": "lvl8-297",
+    "id": "lvl8-285",
     "level": 8,
-    "order": 297,
+    "order": 285,
     "word": "confidant",
     "pronunciation": "/ˈkɒn.fɪ.dænt/",
     "banglaPronunciation": "কনফিডান্ট",
@@ -4963,9 +4756,9 @@
     "image": "/images/level8/confidant.webp"
   },
   {
-    "id": "lvl8-298",
+    "id": "lvl8-286",
     "level": 8,
-    "order": 298,
+    "order": 286,
     "word": "confident",
     "pronunciation": "/ˈkɒn.fɪ.dənt/",
     "banglaPronunciation": "কনফিডেন্ট",
@@ -4981,9 +4774,9 @@
     "image": "/images/level8/confident.webp"
   },
   {
-    "id": "lvl8-299",
+    "id": "lvl8-287",
     "level": 8,
-    "order": 299,
+    "order": 287,
     "word": "continual",
     "pronunciation": "/kənˈtɪn.ju.əl/",
     "banglaPronunciation": "কন্টিনিউয়াল",
@@ -4999,21 +4792,226 @@
     "image": "/images/level8/continual.webp"
   },
   {
+    "id": "lvl8-288",
+    "level": 8,
+    "order": 288,
+    "word": "ordinance",
+    "pronunciation": "/ˈɔːr.dɪ.nəns/",
+    "banglaPronunciation": "অর্ডিন্যান্স",
+    "meaning": "A law or regulation made by a local authority.",
+    "banglaMeaning": "আইন/অধ্যাদেশ",
+    "syllables": [
+      "o",
+      "rdi",
+      "na",
+      "nce"
+    ],
+    "example": "The city passed a new ordinance.",
+    "hint": "A local law — ends in -ance.",
+    "image": "/images/level8/ordinance.webp"
+  },
+  {
+    "id": "lvl8-289",
+    "level": 8,
+    "order": 289,
+    "word": "ordnance",
+    "pronunciation": "/ˈɔːrd.nəns/",
+    "banglaPronunciation": "অর্ডন্যান্স",
+    "meaning": "Military weapons and ammunition.",
+    "banglaMeaning": "গোলাবারুদ",
+    "syllables": [
+      "o",
+      "rdna",
+      "nce"
+    ],
+    "example": "The ordnance was stored safely.",
+    "hint": "Military weapons — no I, shorter than \"ordinance\".",
+    "image": "/images/level8/ordnance.webp"
+  },
+  {
+    "id": "lvl8-290",
+    "level": 8,
+    "order": 290,
+    "word": "allusion",
+    "pronunciation": "/əˈluː.ʒən/",
+    "banglaPronunciation": "অ্যালুশন",
+    "meaning": "An indirect reference to something.",
+    "banglaMeaning": "পরোক্ষ উল্লেখ",
+    "syllables": [
+      "a",
+      "llu",
+      "sion"
+    ],
+    "example": "The poem contains an allusion to history.",
+    "hint": "An indirect reference — related to \"allude\".",
+    "image": "/images/level8/allusion.webp"
+  },
+  {
+    "id": "lvl8-291",
+    "level": 8,
+    "order": 291,
+    "word": "illusion",
+    "pronunciation": "/ɪˈluː.ʒən/",
+    "banglaPronunciation": "ইলুশন",
+    "meaning": "A false idea or deceptive appearance.",
+    "banglaMeaning": "বিভ্রম",
+    "syllables": [
+      "i",
+      "llu",
+      "sion"
+    ],
+    "example": "The magician created an illusion.",
+    "hint": "A false appearance — starts with double L, like \"illegal reality\".",
+    "image": "/images/level8/illusion.webp"
+  },
+  {
+    "id": "lvl8-292",
+    "level": 8,
+    "order": 292,
+    "word": "angel",
+    "pronunciation": "/ˈeɪn.dʒəl/",
+    "banglaPronunciation": "এঞ্জেল",
+    "meaning": "A spiritual being, often shown with wings.",
+    "banglaMeaning": "দেবদূত",
+    "syllables": [
+      "a",
+      "ngel"
+    ],
+    "example": "She looked like an angel.",
+    "hint": "The winged spiritual being — soft G sound.",
+    "image": "/images/level8/angel.webp"
+  },
+  {
+    "id": "lvl8-293",
+    "level": 8,
+    "order": 293,
+    "word": "angle",
+    "pronunciation": "/ˈæŋ.ɡəl/",
+    "banglaPronunciation": "অ্যাংগল",
+    "meaning": "The space between two lines that meet.",
+    "banglaMeaning": "কোণ",
+    "syllables": [
+      "a",
+      "ngle"
+    ],
+    "example": "Measure the angle of the triangle.",
+    "hint": "The geometry shape — hard G sound.",
+    "image": "/images/level8/angle.webp"
+  },
+  {
+    "id": "lvl8-294",
+    "level": 8,
+    "order": 294,
+    "word": "berth",
+    "pronunciation": "/bɜːrθ/",
+    "banglaPronunciation": "বার্থ",
+    "meaning": "A sleeping space on a ship or train.",
+    "banglaMeaning": "শয্যা (জাহাজ/ট্রেনে)",
+    "syllables": [
+      "berth"
+    ],
+    "example": "He booked a berth on the night train.",
+    "hint": "A sleeping bunk — no vowel before R, unlike \"birth\".",
+    "image": "/images/level8/berth.webp"
+  },
+  {
+    "id": "lvl8-295",
+    "level": 8,
+    "order": 295,
+    "word": "breach",
+    "pronunciation": "/briːtʃ/",
+    "banglaPronunciation": "ব্রিচ",
+    "meaning": "A break or violation of a rule or agreement.",
+    "banglaMeaning": "লঙ্ঘন",
+    "syllables": [
+      "breach"
+    ],
+    "example": "It was a breach of contract.",
+    "hint": "Means \"a violation\" — ends in -each, not -eech.",
+    "image": "/images/level8/breach.webp"
+  },
+  {
+    "id": "lvl8-296",
+    "level": 8,
+    "order": 296,
+    "word": "breech",
+    "pronunciation": "/briːtʃ/",
+    "banglaPronunciation": "ব্রিচ",
+    "meaning": "The back part of a gun barrel.",
+    "banglaMeaning": "বন্দুকের পেছনের অংশ",
+    "syllables": [
+      "breech"
+    ],
+    "example": "The rifle's breech was cleaned.",
+    "hint": "The back of a gun — double E, not \"breach\".",
+    "image": "/images/level8/breech.webp"
+  },
+  {
+    "id": "lvl8-297",
+    "level": 8,
+    "order": 297,
+    "word": "carat",
+    "pronunciation": "/ˈkær.ət/",
+    "banglaPronunciation": "ক্যারাট",
+    "meaning": "A unit of weight for gemstones.",
+    "banglaMeaning": "ক্যারাট (রত্নের ওজন)",
+    "syllables": [
+      "ca",
+      "rat"
+    ],
+    "example": "The diamond was two carats.",
+    "hint": "A gem's weight unit — ends in -at.",
+    "image": "/images/level8/carat.webp"
+  },
+  {
+    "id": "lvl8-298",
+    "level": 8,
+    "order": 298,
+    "word": "caret",
+    "pronunciation": "/ˈkær.ət/",
+    "banglaPronunciation": "ক্যারেট",
+    "meaning": "A proofreading mark showing where to insert text.",
+    "banglaMeaning": "সন্নিবেশ চিহ্ন",
+    "syllables": [
+      "ca",
+      "ret"
+    ],
+    "example": "She used a caret to add a word.",
+    "hint": "A proofreading insert mark — ends in -et.",
+    "image": "/images/level8/caret.webp"
+  },
+  {
+    "id": "lvl8-299",
+    "level": 8,
+    "order": 299,
+    "word": "carrot",
+    "pronunciation": "/ˈkær.ət/",
+    "banglaPronunciation": "ক্যারট",
+    "meaning": "An orange root vegetable.",
+    "banglaMeaning": "গাজর",
+    "syllables": [
+      "ca",
+      "rrot"
+    ],
+    "example": "Rabbits love to eat carrot.",
+    "hint": "The orange vegetable — double R.",
+    "image": "/images/level8/carrot.webp"
+  },
+  {
     "id": "lvl8-300",
     "level": 8,
     "order": 300,
-    "word": "continuous",
-    "pronunciation": "/kənˈtɪn.ju.əs/",
-    "banglaPronunciation": "কন্টিনিউয়াস",
-    "meaning": "Happening without any break or pause.",
-    "banglaMeaning": "অবিরাম",
+    "word": "cellar",
+    "pronunciation": "/ˈsɛl.ər/",
+    "banglaPronunciation": "সেলার",
+    "meaning": "An underground room, often for storage.",
+    "banglaMeaning": "ভূগর্ভস্থ কক্ষ",
     "syllables": [
-      "co",
-      "nti",
-      "nuous"
+      "ce",
+      "llar"
     ],
-    "example": "The machine ran continuously.",
-    "hint": "Nonstop, no pauses — ends in -uous.",
-    "image": "/images/level8/continuous.webp"
+    "example": "They kept wine in the cellar.",
+    "hint": "An underground room — ends in -ar.",
+    "image": "/images/level8/cellar.webp"
   }
 ]

@@ -33,8 +33,8 @@ export default function Home() {
         </div>
         <div className="glass-panel feature-card">
           <div className="feature-icon">🏆</div>
-          <h3>16 Difficulty Levels</h3>
-          <p className="text-muted">Progress from Foundation (Level 0) to Ultimate Legend (Level 15).</p>
+          <h3>50 Difficulty Levels</h3>
+          <p className="text-muted">Progress from Foundation (Level 0) to Ultimate Legend (Level 49).</p>
         </div>
         <div className="glass-panel feature-card">
           <div className="feature-icon">🎧</div>

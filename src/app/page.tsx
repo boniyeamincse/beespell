@@ -1,69 +1,47 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+import Link from "next/link";
+import "./page.css"; // We'll create this to keep page-specific styles organized
 
 export default function Home() {
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>
-            To get started, edit the{" "}
-            <code className={styles.code}>page.tsx</code> file.
-          </h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="home-wrapper">
+      {/* Hero Section */}
+      <section className="hero-section">
+        <h1 className="hero-title">
+          Master Spelling from <br />
+          <span className="text-gradient-primary">Zero to Legend</span>
+        </h1>
+        <p className="hero-subtitle">
+          An interactive, step-by-step Spelling Bee learning platform designed to take you from foundational words to Scripps National level mastery.
+        </p>
+        
+        <div className="hero-actions">
+          <Link href="/levels" className="btn btn-primary hero-btn">
+            Start Learning Now
+          </Link>
+          <Link href="/progress" className="btn btn-glass hero-btn">
+            View My Progress
+          </Link>
         </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={14}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+      </section>
+
+      {/* Feature Cards / How it works */}
+      <section className="features-section">
+        <div className="glass-panel feature-card">
+          <div className="feature-icon">🚀</div>
+          <h3>Linear Journey</h3>
+          <p className="text-muted">Start from the ABCs and progress step-by-step to complex words.</p>
         </div>
-      </main>
+        <div className="glass-panel feature-card">
+          <div className="feature-icon">🏆</div>
+          <h3>16 Difficulty Levels</h3>
+          <p className="text-muted">Progress from Foundation (Level 0) to Ultimate Legend (Level 15).</p>
+        </div>
+        <div className="glass-panel feature-card">
+          <div className="feature-icon">🎧</div>
+          <h3>Audio & Practice</h3>
+          <p className="text-muted">Listen, unscramble, fill blanks, and type to master each word.</p>
+        </div>
+      </section>
     </div>
   );
 }

@@ -1,0 +1,82 @@
+.levels-wrapper {
+  animation: fadeIn 0.8s ease-out;
+}
+
+.levels-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.level-card {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 24px;
+  text-decoration: none;
+  color: var(--text);
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+
+.level-card.unlocked:hover {
+  transform: translateY(-5px);
+  border-color: var(--primary);
+  box-shadow: 0 10px 25px rgba(111, 66, 193, 0.2);
+}
+
+.level-card.locked {
+  opacity: 0.6;
+  cursor: not-allowed;
+  filter: grayscale(100%);
+}
+
+.level-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 0;
+  background: var(--primary);
+  transition: height 0.3s ease;
+}
+
+.level-card.unlocked:hover::before {
+  height: 100%;
+}
+
+.level-number {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--primary);
+  background: rgba(111, 66, 193, 0.1);
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 12px;
+}
+
+.level-card.locked .level-number {
+  color: var(--text-muted);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.level-info h2 {
+  font-size: 1.4rem;
+  margin-bottom: 5px;
+}
+
+.lock-icon {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.unlock-status {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--success);
+}

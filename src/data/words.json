@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lvl0-001",
+    "level": 0,
+    "order": 1,
+    "word": "a",
+    "pronunciation": "/eɪ/",
+    "banglaPronunciation": "এ",
+    "meaning": "The first letter of the English alphabet",
+    "banglaMeaning": "ইংরেজি বর্ণমালার প্রথম অক্ষর",
+    "syllables": ["a"],
+    "example": "A is for Apple.",
+    "hint": "The very first letter.",
+    "image": ""
+  },
+  {
+    "id": "lvl0-002",
+    "level": 0,
+    "order": 2,
+    "word": "b",
+    "pronunciation": "/biː/",
+    "banglaPronunciation": "বি",
+    "meaning": "The second letter of the English alphabet",
+    "banglaMeaning": "ইংরেজি বর্ণমালার দ্বিতীয় অক্ষর",
+    "syllables": ["b"],
+    "example": "B is for Ball.",
+    "hint": "The second letter.",
+    "image": ""
+  },
+  {
+    "id": "lvl0-003",
+    "level": 0,
+    "order": 3,
+    "word": "c",
+    "pronunciation": "/siː/",
+    "banglaPronunciation": "সি",
+    "meaning": "The third letter of the English alphabet",
+    "banglaMeaning": "ইংরেজি বর্ণমালার তৃতীয় অক্ষর",
+    "syllables": ["c"],
+    "example": "C is for Cat.",
+    "hint": "The third letter.",
+    "image": ""
+  },
+  {
+    "id": "lvl0-004",
+    "level": 0,
+    "order": 4,
+    "word": "d",
+    "pronunciation": "/diː/",
+    "banglaPronunciation": "ডি",
+    "meaning": "The fourth letter of the English alphabet",
+    "banglaMeaning": "ইংরেজি বর্ণমালার চতুর্থ অক্ষর",
+    "syllables": ["d"],
+    "example": "D is for Dog.",
+    "hint": "The fourth letter.",
+    "image": ""
+  }
+]

@@ -5,49 +5,24 @@
 **Technology:** React/Next.js + TypeScript + JSON + localStorage
 **Login:** No
 **Database/API:** No (Static Data + LocalStorage)
-**Goal:** A simple category-wise, level-wise Spelling Bee learning website where students learn words step-by-step from Beginner to Advanced.
+**Goal:** A simple linear Spelling Bee learning website where students learn words step-by-step from Beginner to Advanced, starting strictly from Level 0 (alphabets/sounds).
 
 ## Main Learning Flow
 
 ```mermaid
 flowchart TD
-    A["Select Category"] --> B["Select Level"]
-    B --> C["Learn Words"]
-    C --> D["Listen & Practice"]
-    D --> E["Take Level Test"]
-    E --> F{"Passed?"}
-    F -- Yes --> G["Unlock Next Level"]
-    F -- No --> H["Practice Wrong Words"]
-    H --> D
+    A["Select Current Level"] --> B["Learn Words (One by One)"]
+    B --> C["Listen & Practice"]
+    C --> D["Take Level Test"]
+    D --> E{"Passed?"}
+    E -- Yes --> F["Unlock Next Level"]
+    E -- No --> G["Practice Wrong Words"]
+    G --> C
 ```
 
-## Category List
-- Animals
-- Birds
-- Fruits
-- Vegetables
-- Colors
-- Body Parts
-- Family
-- School
-- Home
-- Food and Drinks
-- Nature
-- Transport
-- Places
-- Occupations
-- Technology
-- Science
-- Health
-- Environment
-- Geography
-- General Knowledge
-- Common English Words
-- Frequently Misspelled Words
-- Competition Words
 
 ## Level Structure (50 Levels, 10 Tiers)
-| Level | Name                    | Words per category | Learning target                          | Unlock Requirement           | Badge / Rank Icon | Pass Score | XP Reward |
+| Level | Name                    | Total Words        | Learning target                          | Unlock Requirement           | Badge / Rank Icon | Pass Score | XP Reward |
 | ----: | ------------------------ | ------------------: | ----------------------------------------- | ------------------------------ | ------------------- | ---------: | --------: |
 |     0 | Foundation               |                  50 | Alphabet, sounds ও পরিচিত শব্দ            | Always unlocked                | 🥚 Egg               |        70% |        50 |
 |     1 | Starter                  |                  75 | সহজ 2–4 letter words                      | Pass Level 0                   | 🐣 Hatchling         |        70% |        75 |
@@ -65,7 +40,7 @@ flowchart TD
 |    13 | Scholar                  |                 600 | Subject-based vocabulary (school/science) | Pass Level 12                  | 🎓 Scholar           |        75% |       375 |
 |    14 | Wordsmith                |                 700 | Descriptive ও adjective-heavy words       | Pass Level 13                  | ✍️ Wordsmith         |        75% |       400 |
 |    15 | Upper Intermediate       |                 800 | Complex spelling rules                    | Pass Level 14                  | 📚 Upper Int.        |        77% |       425 |
-|    16 | Specialist               |                 900 | Category-specific technical words         | Pass Level 15                  | 🔬 Specialist        |        77% |       450 |
+|    16 | Specialist               |                 900 | Subject-specific technical words          | Pass Level 15                  | 🔬 Specialist        |        77% |       450 |
 |    17 | Analyst                  |                1000 | Multi-syllable analytical words           | Pass Level 16                  | 🧩 Analyst           |        77% |       475 |
 |    18 | Strategist               |                1100 | Words with irregular spelling             | Pass Level 17                  | ♟️ Strategist         |        77% |       500 |
 |    19 | Tactician                |                1200 | Root-word & etymology basics              | Pass Level 18                  | 🗡️ Tactician          |        77% |       525 |
@@ -73,7 +48,7 @@ flowchart TD
 |    21 | Expert                   |                1400 | Competition-level baseline words          | Pass Level 20                  | ⭐ Expert            |        80% |       575 |
 |    22 | Virtuoso                 |                1500 | Advanced academic vocabulary              | Pass Level 21                  | 🎻 Virtuoso          |        80% |       600 |
 |    23 | Maestro                  |                1700 | Latin/Greek-origin words                  | Pass Level 22                  | 🎼 Maestro           |        80% |       625 |
-|    24 | Prodigy                  |                1900 | Cross-category challenge words            | Pass Level 23                  | ✨ Prodigy           |        80% |       650 |
+|    24 | Prodigy                  |                1900 | Cross-topic challenge words               | Pass Level 23                  | ✨ Prodigy           |        80% |       650 |
 |    25 | Champion                 |                2100 | Rare ও international words                | Pass Level 24                  | 🏆 Champion          |        82% |       675 |
 |    26 | Challenger               |                2300 | Foreign-loanword spellings                | Pass Level 25                  | 🥊 Challenger        |        82% |       700 |
 |    27 | Contender                |                2500 | High-frequency competition words          | Pass Level 26                  | 🎖 Contender          |        82% |       725 |
@@ -115,39 +90,27 @@ flowchart TD
 |   10 | 45–49  | Legend Tier         |
 
 ### Level Progression Rules
-- Each category tracks its own level progress independently (e.g., Animals can be Level 20 while Fruits is Level 3).
-- Unlocking a level in one category does **not** unlock it in others — levels are per-category.
+- There is a single, global level track — no categories. Every learner follows the same Level 0 → Level 49 path in order.
+- A level must be passed to unlock the next one; levels cannot be skipped.
 - Pass score threshold rises with difficulty (70% early levels → 95% at Ultimate Legend) to keep advanced ranks meaningful.
-- XP accumulates globally across all categories and drives the user's overall Rank shown on `/progress`.
-- Badge/Rank icon for a level is awarded once, on first pass, and displayed on the category card and profile.
+- XP accumulates across all completed levels and drives the user's overall Rank shown on `/progress`.
+- Badge/Rank icon for a level is awarded once, on first pass, and displayed on the `/levels` Journey Map and `/progress` profile.
 - Levels 40–49 ("National Tier" + "Legend Tier") additionally require a **Review Streak**: no more than 2 wrong words in the prior level's test, encouraging mastery before advancing into Spelling-Bee-competition-grade content.
 
 ## User Journey (Step-by-Step)
 
-### 1. Category Selection
-Example: **Animals**
-Category card displays:
-- Category name
-- Category icon/image
+### 1. Levels Journey Map
+The `/levels` page lists all 50 levels in order (Level 0 Foundation → Level 49 Ultimate Legend), grouped by tier — see [Level Structure (50 Levels, 10 Tiers)](#level-structure-50-levels-10-tiers) for the full name/badge list. Each level node displays:
+- Level number & name
+- Badge/Rank icon
 - Total words
 - Completed words
-- Current level
 - Progress percentage
+- 🔒 Lock icon and required unlock condition, if locked
 
-### 2. Level Selection
-When Animals category is opened:
-- Foundation
-- Starter
-- Beginner
-- Elementary
-- Intermediate
-- Advanced
-- Expert
-- Champion
+*Initially, only Foundation (Level 0) is unlocked. Passing a level unlocks the next one. Levels 40–49 also require a Review Streak (see Level Progression Rules).*
 
-*Initially, only Foundation is unlocked. Passing a level unlocks the next one.*
-
-### 3. Learning Each Word
+### 2. Learning Each Word
 One word displayed per card:
 ```text
 Word: Elephant
@@ -193,11 +156,10 @@ If Passed:
 
 ## Learning Progress (LocalStorage)
 Data is saved in the browser's `localStorage` (No login required):
-- Completed categories
 - Completed levels
 - Learned words
 - Wrong words
-- Best score
+- Total XP & Rank
 - Current learning position
 - Unlocked levels
 *> Note: Clearing browser data will reset progress.*
@@ -206,51 +168,33 @@ Data is saved in the browser's `localStorage` (No login required):
 ```json
 [
   {
-    "id": "animals-foundation-001",
-    "category": "animals",
+    "id": "lvl0-001",
     "level": 0,
     "order": 1,
-    "word": "cat",
-    "pronunciation": "/kæt/",
-    "banglaPronunciation": "ক্যাট",
-    "meaning": "A small domesticated animal",
-    "banglaMeaning": "বিড়াল",
-    "syllables": ["cat"],
-    "example": "The cat is sleeping.",
-    "hint": "It starts with C and ends with T.",
-    "image": "/images/animals/cat.webp"
-  },
-  {
-    "id": "animals-foundation-002",
-    "category": "animals",
-    "level": 0,
-    "order": 2,
-    "word": "dog",
-    "pronunciation": "/dɒɡ/",
-    "banglaPronunciation": "ডগ",
-    "meaning": "A common domesticated animal",
-    "banglaMeaning": "কুকুর",
-    "syllables": ["dog"],
-    "example": "The dog is running.",
-    "hint": "It starts with D and ends with G.",
-    "image": "/images/animals/dog.webp"
+    "word": "a",
+    "pronunciation": "/eɪ/",
+    "banglaPronunciation": "এ",
+    "meaning": "The first letter of the alphabet",
+    "banglaMeaning": "ইংরেজি বর্ণমালার প্রথম অক্ষর",
+    "syllables": ["a"],
+    "example": "A is for Apple.",
+    "hint": "The very first letter.",
+    "image": "/images/level0/a.webp"
   }
 ]
 ```
 
 ## Recommended Pages
 - `/` - Home
-- `/categories` - All categories
-- `/category/animals` - Animals category levels
-- `/category/animals/level/0` - Foundation word list
-- `/learn/animals/0` - Step-by-step learning
-- `/practice/animals/0` - Practice activities
-- `/test/animals/0` - Level test
+- `/levels` - The Journey Map (all levels)
+- `/learn/0` - Step-by-step learning for Level 0
+- `/practice/0` - Practice activities
+- `/test/0` - Level test
 - `/progress` - Local learning progress
 
 ## Simple Menu
 - Home
-- Categories
+- Levels Journey
 - Continue Learning
 - Difficult Words
 - Progress
@@ -259,18 +203,38 @@ Data is saved in the browser's `localStorage` (No login required):
 ## Home Page Sections
 - Hero: “Learn Spelling from Zero to Champion”
 - Continue Learning button
-- Browse Categories
+- View Levels Journey
 - How It Works
-- Learning Levels
 - Daily Word
 - Overall Progress
-- Start Learning button
 
 ## Completion Rules
 - Must click `I Learned This` on every word.
 - Must complete all words in a level to unlock the test.
-- Minimum 80% needed to pass the test.
+- Pass score is dynamic (70% - 92%).
 - If failed, a revision session starts with wrong words only.
 - Can re-take the test after revision.
 - Passing unlocks the next level.
-- Completing a category allows starting another category (all categories are accessible from the start).
+
+## Implementation Task List
+- [x] Create project documentation (`docs/project_plan.md`).
+- [x] Initialize Next.js project with App Router and TypeScript.
+- [x] Configure global CSS (Premium Glassmorphism, colors, fonts).
+- [x] Build root layout and Navbar.
+- [x] Create styled Landing Page (Hero section, Feature cards).
+- [ ] Define TypeScript interfaces for JSON data models (Level, Word).
+- [ ] Create mock JSON data file for `words` (Level 0 starting from Alphabets).
+- [ ] Build the `/levels` Journey Map page.
+- [ ] Implement `localStorage` state management hook for tracking user progress, XP, and unlocks.
+- [ ] Build the Learning Session Interface (`/learn/[level]`):
+  - [ ] Stage 1: Learn (Word display, meaning, pronunciation audio).
+  - [ ] Stage 2: Listen (Identify word from audio).
+  - [ ] Stage 3: Build (Scrambled letters).
+  - [ ] Stage 4: Complete (Fill in missing letters).
+  - [ ] Stage 5: Spell (Type full word from audio).
+  - [ ] Stage 6: Review (Practice wrong words).
+- [ ] Build the Level Test Interface (`/test/[level]`) with scoring system.
+- [ ] Build the Level Complete Result Screen (Score, XP, Badge earned, Unlock next level).
+- [ ] Build the `/progress` Dashboard (User Rank, total XP, unlocked badges, mastered words).
+- [ ] Integrate text-to-speech (TTS) for word pronunciation using Web Speech API.
+- [ ] Final polish: animations, responsive design tweaks, and performance checks.

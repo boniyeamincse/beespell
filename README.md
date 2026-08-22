@@ -107,6 +107,17 @@ Contributions are completely welcome! Since this project is highly data-driven, 
 
 If you'd like to improve the UI or add new learning stages, feel free to submit a PR for those as well!
 
+## 👨‍💻 About Developer
+
+**Developed by:** Boni Yeamin  
+**Profession:** Cybersecurity Engineer at AkijGroup  
+
+**Connect with me:**
+- [Facebook](https://www.facebook.com/Boniyeaminlaju)
+- [YouTube](https://www.youtube.com/@boniyeaminbangla)
+- [LinkedIn](https://www.linkedin.com/in/boniyeamincse1)
+- [GitHub](https://github.com/boniyeamincse)
+
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).

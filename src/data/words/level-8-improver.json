@@ -1,0 +1,5019 @@
+[
+  {
+    "id": "lvl8-001",
+    "level": 8,
+    "order": 1,
+    "word": "there",
+    "pronunciation": "/ðɛr/",
+    "banglaPronunciation": "দেয়ার",
+    "meaning": "In or at that place.",
+    "banglaMeaning": "সেখানে",
+    "syllables": [
+      "the",
+      "re"
+    ],
+    "example": "Put the box over there.",
+    "hint": "Points to a place — not \"their\" (belonging to them) or \"they're\" (they are).",
+    "image": "/images/level8/there.webp"
+  },
+  {
+    "id": "lvl8-002",
+    "level": 8,
+    "order": 2,
+    "word": "their",
+    "pronunciation": "/ðɛr/",
+    "banglaPronunciation": "দেয়ার",
+    "meaning": "Belonging to them.",
+    "banglaMeaning": "তাদের",
+    "syllables": [
+      "their"
+    ],
+    "example": "That is their house.",
+    "hint": "Shows ownership — not \"there\" (a place) or \"they're\" (they are).",
+    "image": "/images/level8/their.webp"
+  },
+  {
+    "id": "lvl8-003",
+    "level": 8,
+    "order": 3,
+    "word": "they're",
+    "pronunciation": "/ðɛr/",
+    "banglaPronunciation": "দেয়ার",
+    "meaning": "Contraction of 'they are'.",
+    "banglaMeaning": "তারা আছে (সংক্ষেপ)",
+    "syllables": [
+      "the",
+      "y're"
+    ],
+    "example": "They're coming to the party.",
+    "hint": "Short for \"they are\" — not \"there\" (a place) or \"their\" (ownership).",
+    "image": "/images/level8/theyre.webp"
+  },
+  {
+    "id": "lvl8-004",
+    "level": 8,
+    "order": 4,
+    "word": "too",
+    "pronunciation": "/tuː/",
+    "banglaPronunciation": "টু",
+    "meaning": "Also, or more than enough.",
+    "banglaMeaning": "ও/অতিরিক্ত",
+    "syllables": [
+      "too"
+    ],
+    "example": "I want to come too.",
+    "hint": "Means \"also\" — has an extra O, not \"to\" (toward).",
+    "image": "/images/level8/too.webp"
+  },
+  {
+    "id": "lvl8-005",
+    "level": 8,
+    "order": 5,
+    "word": "its",
+    "pronunciation": "/ɪts/",
+    "banglaPronunciation": "ইটস",
+    "meaning": "Belonging to it.",
+    "banglaMeaning": "এটার",
+    "syllables": [
+      "its"
+    ],
+    "example": "The dog wagged its tail.",
+    "hint": "Shows ownership — no apostrophe, not \"it's\" (it is).",
+    "image": "/images/level8/its.webp"
+  },
+  {
+    "id": "lvl8-006",
+    "level": 8,
+    "order": 6,
+    "word": "it's",
+    "pronunciation": "/ɪts/",
+    "banglaPronunciation": "ইটস",
+    "meaning": "Contraction of 'it is' or 'it has'.",
+    "banglaMeaning": "এটা আছে (সংক্ষেপ)",
+    "syllables": [
+      "it's"
+    ],
+    "example": "It's raining outside.",
+    "hint": "Short for \"it is\" — has an apostrophe, not \"its\" (ownership).",
+    "image": "/images/level8/its.webp"
+  },
+  {
+    "id": "lvl8-007",
+    "level": 8,
+    "order": 7,
+    "word": "your",
+    "pronunciation": "/jʊr/",
+    "banglaPronunciation": "ইয়োর",
+    "meaning": "Belonging to you.",
+    "banglaMeaning": "তোমার",
+    "syllables": [
+      "your"
+    ],
+    "example": "Is this your bag?",
+    "hint": "Shows ownership — not \"you're\" (you are).",
+    "image": "/images/level8/your.webp"
+  },
+  {
+    "id": "lvl8-008",
+    "level": 8,
+    "order": 8,
+    "word": "you're",
+    "pronunciation": "/jʊr/",
+    "banglaPronunciation": "ইয়োর",
+    "meaning": "Contraction of 'you are'.",
+    "banglaMeaning": "তুমি আছ (সংক্ষেপ)",
+    "syllables": [
+      "you",
+      "'re"
+    ],
+    "example": "You're my best friend.",
+    "hint": "Short for \"you are\" — not \"your\" (ownership).",
+    "image": "/images/level8/youre.webp"
+  },
+  {
+    "id": "lvl8-009",
+    "level": 8,
+    "order": 9,
+    "word": "affect",
+    "pronunciation": "/əˈfɛkt/",
+    "banglaPronunciation": "অ্যাফেক্ট",
+    "meaning": "To influence something (usually a verb).",
+    "banglaMeaning": "প্রভাবিত করা",
+    "syllables": [
+      "a",
+      "ffect"
+    ],
+    "example": "The rain will affect the game.",
+    "hint": "A verb meaning to influence — not \"effect\" (the result, a noun).",
+    "image": "/images/level8/affect.webp"
+  },
+  {
+    "id": "lvl8-010",
+    "level": 8,
+    "order": 10,
+    "word": "effect",
+    "pronunciation": "/ɪˈfɛkt/",
+    "banglaPronunciation": "ইফেক্ট",
+    "meaning": "A result or outcome (usually a noun).",
+    "banglaMeaning": "প্রভাব/ফলাফল",
+    "syllables": [
+      "e",
+      "ffect"
+    ],
+    "example": "The medicine had a good effect.",
+    "hint": "A noun meaning a result — not \"affect\" (to influence, a verb).",
+    "image": "/images/level8/effect.webp"
+  },
+  {
+    "id": "lvl8-011",
+    "level": 8,
+    "order": 11,
+    "word": "accept",
+    "pronunciation": "/əkˈsɛpt/",
+    "banglaPronunciation": "অ্যাকসেপ্ট",
+    "meaning": "To agree to receive or take something.",
+    "banglaMeaning": "গ্রহণ করা",
+    "syllables": [
+      "a",
+      "ccept"
+    ],
+    "example": "I accept your invitation.",
+    "hint": "Means to agree/take — not \"except\" (leaving something out).",
+    "image": "/images/level8/accept.webp"
+  },
+  {
+    "id": "lvl8-012",
+    "level": 8,
+    "order": 12,
+    "word": "except",
+    "pronunciation": "/ɪkˈsɛpt/",
+    "banglaPronunciation": "এক্সেপ্ট",
+    "meaning": "Not including; leaving out.",
+    "banglaMeaning": "ব্যতীত",
+    "syllables": [
+      "e",
+      "xcept"
+    ],
+    "example": "Everyone came except John.",
+    "hint": "Means \"leaving out\" — not \"accept\" (to agree/take).",
+    "image": "/images/level8/except.webp"
+  },
+  {
+    "id": "lvl8-013",
+    "level": 8,
+    "order": 13,
+    "word": "than",
+    "pronunciation": "/ðæn/",
+    "banglaPronunciation": "দ্যান",
+    "meaning": "Used to compare two things.",
+    "banglaMeaning": "তুলনায়",
+    "syllables": [
+      "than"
+    ],
+    "example": "She is taller than me.",
+    "hint": "Used for comparison — not \"then\" (referring to time).",
+    "image": "/images/level8/than.webp"
+  },
+  {
+    "id": "lvl8-014",
+    "level": 8,
+    "order": 14,
+    "word": "weather",
+    "pronunciation": "/ˈwɛð.ər/",
+    "banglaPronunciation": "ওয়েদার",
+    "meaning": "The condition of the sky and air.",
+    "banglaMeaning": "আবহাওয়া",
+    "syllables": [
+      "wea",
+      "ther"
+    ],
+    "example": "The weather is sunny today.",
+    "hint": "Talks about rain/sun/wind — not \"whether\" (if).",
+    "image": "/images/level8/weather.webp"
+  },
+  {
+    "id": "lvl8-015",
+    "level": 8,
+    "order": 15,
+    "word": "whether",
+    "pronunciation": "/ˈwɛð.ər/",
+    "banglaPronunciation": "ওয়েদার",
+    "meaning": "Used to ask about a choice between options.",
+    "banglaMeaning": "কিনা",
+    "syllables": [
+      "whe",
+      "ther"
+    ],
+    "example": "I don't know whether to go.",
+    "hint": "Means \"if\" when choosing — not \"weather\" (sun/rain).",
+    "image": "/images/level8/whether.webp"
+  },
+  {
+    "id": "lvl8-016",
+    "level": 8,
+    "order": 16,
+    "word": "principal",
+    "pronunciation": "/ˈprɪn.sə.pəl/",
+    "banglaPronunciation": "প্রিন্সিপাল",
+    "meaning": "The head of a school.",
+    "banglaMeaning": "প্রধান শিক্ষক",
+    "syllables": [
+      "pri",
+      "nci",
+      "pal"
+    ],
+    "example": "The principal gave a speech.",
+    "hint": "The school's leader — remember, the principal is your \"pal\".",
+    "image": "/images/level8/principal.webp"
+  },
+  {
+    "id": "lvl8-017",
+    "level": 8,
+    "order": 17,
+    "word": "principle",
+    "pronunciation": "/ˈprɪn.sə.pəl/",
+    "banglaPronunciation": "প্রিন্সিপল",
+    "meaning": "A basic rule or belief.",
+    "banglaMeaning": "নীতি",
+    "syllables": [
+      "pri",
+      "nci",
+      "ple"
+    ],
+    "example": "Honesty is an important principle.",
+    "hint": "A rule you believe in — ends in -le, not -pal like \"principal\".",
+    "image": "/images/level8/principle.webp"
+  },
+  {
+    "id": "lvl8-018",
+    "level": 8,
+    "order": 18,
+    "word": "stationary",
+    "pronunciation": "/ˈsteɪ.ʃə.nɛr.i/",
+    "banglaPronunciation": "স্টেশনারি",
+    "meaning": "Not moving; staying in one place.",
+    "banglaMeaning": "স্থির",
+    "syllables": [
+      "sta",
+      "tio",
+      "nary"
+    ],
+    "example": "The car remained stationary.",
+    "hint": "Means \"not moving\" — has an A, like \"stAy\" in place.",
+    "image": "/images/level8/stationary.webp"
+  },
+  {
+    "id": "lvl8-019",
+    "level": 8,
+    "order": 19,
+    "word": "stationery",
+    "pronunciation": "/ˈsteɪ.ʃə.nɛr.i/",
+    "banglaPronunciation": "স্টেশনারি",
+    "meaning": "Paper and writing materials.",
+    "banglaMeaning": "লেখার সরঞ্জাম",
+    "syllables": [
+      "sta",
+      "tio",
+      "nery"
+    ],
+    "example": "She bought new stationery.",
+    "hint": "Means paper/pens — has an E, like \"lEtter\".",
+    "image": "/images/level8/stationery.webp"
+  },
+  {
+    "id": "lvl8-020",
+    "level": 8,
+    "order": 20,
+    "word": "complement",
+    "pronunciation": "/ˈkɒm.plɪ.mənt/",
+    "banglaPronunciation": "কমপ্লিমেন্ট",
+    "meaning": "Something that completes or goes well with another.",
+    "banglaMeaning": "পরিপূরক",
+    "syllables": [
+      "co",
+      "mple",
+      "ment"
+    ],
+    "example": "The scarf is a nice complement to the coat.",
+    "hint": "Means \"completes\" — has an E, like \"complEte\".",
+    "image": "/images/level8/complement.webp"
+  },
+  {
+    "id": "lvl8-021",
+    "level": 8,
+    "order": 21,
+    "word": "compliment",
+    "pronunciation": "/ˈkɒm.plɪ.mənt/",
+    "banglaPronunciation": "কমপ্লিমেন্ট",
+    "meaning": "A polite expression of praise.",
+    "banglaMeaning": "প্রশংসা",
+    "syllables": [
+      "co",
+      "mpli",
+      "ment"
+    ],
+    "example": "She gave me a nice compliment.",
+    "hint": "Means \"praise\" — has an I, like \"I like it\".",
+    "image": "/images/level8/compliment.webp"
+  },
+  {
+    "id": "lvl8-022",
+    "level": 8,
+    "order": 22,
+    "word": "dessert",
+    "pronunciation": "/dɪˈzɜːrt/",
+    "banglaPronunciation": "ডিজার্ট",
+    "meaning": "A sweet dish eaten after a meal.",
+    "banglaMeaning": "মিষ্টান্ন",
+    "syllables": [
+      "de",
+      "ssert"
+    ],
+    "example": "We had ice cream for dessert.",
+    "hint": "The sweet treat — has double S, so sweet you want it twice.",
+    "image": "/images/level8/dessert.webp"
+  },
+  {
+    "id": "lvl8-023",
+    "level": 8,
+    "order": 23,
+    "word": "lose",
+    "pronunciation": "/luːz/",
+    "banglaPronunciation": "লুজ",
+    "meaning": "To no longer have something; to fail to win.",
+    "banglaMeaning": "হারানো",
+    "syllables": [
+      "lo",
+      "se"
+    ],
+    "example": "Don't lose your keys.",
+    "hint": "To misplace or fail to win — one O, sounds like \"looz\".",
+    "image": "/images/level8/lose.webp"
+  },
+  {
+    "id": "lvl8-024",
+    "level": 8,
+    "order": 24,
+    "word": "loose",
+    "pronunciation": "/luːs/",
+    "banglaPronunciation": "লুজ",
+    "meaning": "Not tight; free from restraint.",
+    "banglaMeaning": "ঢিলা",
+    "syllables": [
+      "loo",
+      "se"
+    ],
+    "example": "This shirt is too loose.",
+    "hint": "Means \"not tight\" — double O, like a goose on the loose.",
+    "image": "/images/level8/loose.webp"
+  },
+  {
+    "id": "lvl8-025",
+    "level": 8,
+    "order": 25,
+    "word": "breath",
+    "pronunciation": "/brɛθ/",
+    "banglaPronunciation": "ব্রেথ",
+    "meaning": "The air taken into or let out of the lungs (a noun).",
+    "banglaMeaning": "শ্বাস",
+    "syllables": [
+      "breath"
+    ],
+    "example": "Take a deep breath.",
+    "hint": "A noun — the air itself, short vowel sound.",
+    "image": "/images/level8/breath.webp"
+  },
+  {
+    "id": "lvl8-026",
+    "level": 8,
+    "order": 26,
+    "word": "breathe",
+    "pronunciation": "/briːð/",
+    "banglaPronunciation": "ব্রিদ",
+    "meaning": "To take air into and let it out of the lungs (a verb).",
+    "banglaMeaning": "শ্বাস নেওয়া",
+    "syllables": [
+      "brea",
+      "the"
+    ],
+    "example": "Remember to breathe slowly.",
+    "hint": "A verb — the action, with a silent E and long vowel sound.",
+    "image": "/images/level8/breathe.webp"
+  },
+  {
+    "id": "lvl8-027",
+    "level": 8,
+    "order": 27,
+    "word": "advice",
+    "pronunciation": "/ədˈvaɪs/",
+    "banglaPronunciation": "অ্যাডভাইস",
+    "meaning": "A suggestion about what to do (a noun).",
+    "banglaMeaning": "পরামর্শ",
+    "syllables": [
+      "a",
+      "dvi",
+      "ce"
+    ],
+    "example": "She gave me good advice.",
+    "hint": "A noun — ends in -ice, like a \"nice\" suggestion.",
+    "image": "/images/level8/advice.webp"
+  },
+  {
+    "id": "lvl8-028",
+    "level": 8,
+    "order": 28,
+    "word": "advise",
+    "pronunciation": "/ədˈvaɪz/",
+    "banglaPronunciation": "অ্যাডভাইজ",
+    "meaning": "To give a suggestion (a verb).",
+    "banglaMeaning": "পরামর্শ দেওয়া",
+    "syllables": [
+      "a",
+      "dvi",
+      "se"
+    ],
+    "example": "I advise you to rest.",
+    "hint": "A verb — ends in -ise, sounds like a buzzing Z.",
+    "image": "/images/level8/advise.webp"
+  },
+  {
+    "id": "lvl8-029",
+    "level": 8,
+    "order": 29,
+    "word": "quite",
+    "pronunciation": "/kwaɪt/",
+    "banglaPronunciation": "কোয়াইট",
+    "meaning": "To a certain extent; completely.",
+    "banglaMeaning": "বেশ/সম্পূর্ণ",
+    "syllables": [
+      "qui",
+      "te"
+    ],
+    "example": "I am quite tired today.",
+    "hint": "Means \"very\" or \"completely\" — one syllable, ends in E.",
+    "image": "/images/level8/quite.webp"
+  },
+  {
+    "id": "lvl8-030",
+    "level": 8,
+    "order": 30,
+    "word": "quit",
+    "pronunciation": "/kwɪt/",
+    "banglaPronunciation": "কুইট",
+    "meaning": "To stop doing something.",
+    "banglaMeaning": "ছেড়ে দেওয়া",
+    "syllables": [
+      "quit"
+    ],
+    "example": "He decided to quit the game.",
+    "hint": "Means \"to stop\" — short word, no extra letters.",
+    "image": "/images/level8/quit.webp"
+  },
+  {
+    "id": "lvl8-031",
+    "level": 8,
+    "order": 31,
+    "word": "through",
+    "pronunciation": "/θruː/",
+    "banglaPronunciation": "থ্রু",
+    "meaning": "Moving from one side to the other.",
+    "banglaMeaning": "মধ্য দিয়ে",
+    "syllables": [
+      "through"
+    ],
+    "example": "We walked through the park.",
+    "hint": "Means \"from one side to the other\" — tricky silent letters, ends in -ough.",
+    "image": "/images/level8/through.webp"
+  },
+  {
+    "id": "lvl8-032",
+    "level": 8,
+    "order": 32,
+    "word": "thorough",
+    "pronunciation": "/ˈθʌr.oʊ/",
+    "banglaPronunciation": "থারো",
+    "meaning": "Complete and careful in every detail.",
+    "banglaMeaning": "পুঙ্খানুপুঙ্খ",
+    "syllables": [
+      "tho",
+      "rough"
+    ],
+    "example": "She did a thorough job cleaning.",
+    "hint": "Means \"very careful/complete\" — has an extra O compared to \"through\".",
+    "image": "/images/level8/thorough.webp"
+  },
+  {
+    "id": "lvl8-033",
+    "level": 8,
+    "order": 33,
+    "word": "though",
+    "pronunciation": "/ðoʊ/",
+    "banglaPronunciation": "দো",
+    "meaning": "Despite the fact that.",
+    "banglaMeaning": "যদিও",
+    "syllables": [
+      "though"
+    ],
+    "example": "Though it rained, we went out.",
+    "hint": "Means \"although\" — rhymes with \"go\", not \"through\".",
+    "image": "/images/level8/though.webp"
+  },
+  {
+    "id": "lvl8-034",
+    "level": 8,
+    "order": 34,
+    "word": "threw",
+    "pronunciation": "/θruː/",
+    "banglaPronunciation": "থ্রু",
+    "meaning": "Past tense of throw.",
+    "banglaMeaning": "ছুঁড়েছিল",
+    "syllables": [
+      "threw"
+    ],
+    "example": "He threw the ball far.",
+    "hint": "Past tense of \"throw\" — sounds like \"through\" but means an action.",
+    "image": "/images/level8/threw.webp"
+  },
+  {
+    "id": "lvl8-035",
+    "level": 8,
+    "order": 35,
+    "word": "where",
+    "pronunciation": "/wɛr/",
+    "banglaPronunciation": "ওয়্যার",
+    "meaning": "In or to what place.",
+    "banglaMeaning": "কোথায়",
+    "syllables": [
+      "whe",
+      "re"
+    ],
+    "example": "Where are you going?",
+    "hint": "Asks about a place — rhymes with \"wear\" and \"were\".",
+    "image": "/images/level8/where.webp"
+  },
+  {
+    "id": "lvl8-036",
+    "level": 8,
+    "order": 36,
+    "word": "were",
+    "pronunciation": "/wɜːr/",
+    "banglaPronunciation": "ওয়্যার",
+    "meaning": "Past tense of are.",
+    "banglaMeaning": "ছিল (were)",
+    "syllables": [
+      "we",
+      "re"
+    ],
+    "example": "They were happy yesterday.",
+    "hint": "Past tense of \"are\" — spelled with two E's, not like \"wear\".",
+    "image": "/images/level8/were.webp"
+  },
+  {
+    "id": "lvl8-037",
+    "level": 8,
+    "order": 37,
+    "word": "here",
+    "pronunciation": "/hɪr/",
+    "banglaPronunciation": "হিয়ার",
+    "meaning": "In this place.",
+    "banglaMeaning": "এখানে",
+    "syllables": [
+      "he",
+      "re"
+    ],
+    "example": "Come here, please.",
+    "hint": "Means \"this place\" — contains the word \"ear\", you hear here.",
+    "image": "/images/level8/here.webp"
+  },
+  {
+    "id": "lvl8-038",
+    "level": 8,
+    "order": 38,
+    "word": "hear",
+    "pronunciation": "/hɪr/",
+    "banglaPronunciation": "হিয়ার",
+    "meaning": "To notice sound with your ears.",
+    "banglaMeaning": "শোনা",
+    "syllables": [
+      "hear"
+    ],
+    "example": "Can you hear the music?",
+    "hint": "Means to notice sound — contains \"ear\", the body part you hear with.",
+    "image": "/images/level8/hear.webp"
+  },
+  {
+    "id": "lvl8-039",
+    "level": 8,
+    "order": 39,
+    "word": "peace",
+    "pronunciation": "/piːs/",
+    "banglaPronunciation": "পিস",
+    "meaning": "Freedom from war or disturbance; calm.",
+    "banglaMeaning": "শান্তি",
+    "syllables": [
+      "pea",
+      "ce"
+    ],
+    "example": "The two countries made peace.",
+    "hint": "Means \"calm, no war\" — ends in -ace like \"grace\".",
+    "image": "/images/level8/peace.webp"
+  },
+  {
+    "id": "lvl8-040",
+    "level": 8,
+    "order": 40,
+    "word": "piece",
+    "pronunciation": "/piːs/",
+    "banglaPronunciation": "পিস",
+    "meaning": "A part of something.",
+    "banglaMeaning": "টুকরা",
+    "syllables": [
+      "pie",
+      "ce"
+    ],
+    "example": "She ate a piece of cake.",
+    "hint": "Means \"a part\" — a piece of pie has \"pie\" in the middle.",
+    "image": "/images/level8/piece.webp"
+  },
+  {
+    "id": "lvl8-041",
+    "level": 8,
+    "order": 41,
+    "word": "whole",
+    "pronunciation": "/hoʊl/",
+    "banglaPronunciation": "হোল",
+    "meaning": "Complete; entire.",
+    "banglaMeaning": "সম্পূর্ণ",
+    "syllables": [
+      "who",
+      "le"
+    ],
+    "example": "He ate the whole pizza.",
+    "hint": "Means \"entire\" — starts with a silent W.",
+    "image": "/images/level8/whole.webp"
+  },
+  {
+    "id": "lvl8-042",
+    "level": 8,
+    "order": 42,
+    "word": "hole",
+    "pronunciation": "/hoʊl/",
+    "banglaPronunciation": "হোল",
+    "meaning": "An empty space or opening.",
+    "banglaMeaning": "গর্ত",
+    "syllables": [
+      "ho",
+      "le"
+    ],
+    "example": "The dog dug a hole.",
+    "hint": "Means \"an opening\" — no silent letter, just h-o-l-e.",
+    "image": "/images/level8/hole.webp"
+  },
+  {
+    "id": "lvl8-043",
+    "level": 8,
+    "order": 43,
+    "word": "rite",
+    "pronunciation": "/raɪt/",
+    "banglaPronunciation": "রাইট",
+    "meaning": "A traditional or religious ceremony.",
+    "banglaMeaning": "আচার",
+    "syllables": [
+      "ri",
+      "te"
+    ],
+    "example": "It was an ancient rite.",
+    "hint": "Means \"a ceremony\" — short and simple, r-i-t-e.",
+    "image": "/images/level8/rite.webp"
+  },
+  {
+    "id": "lvl8-044",
+    "level": 8,
+    "order": 44,
+    "word": "flour",
+    "pronunciation": "/ˈflaʊ.ər/",
+    "banglaPronunciation": "ফ্লাওয়ার",
+    "meaning": "A powder made from ground grain, used for baking.",
+    "banglaMeaning": "আটা",
+    "syllables": [
+      "flour"
+    ],
+    "example": "We use flour to bake bread.",
+    "hint": "The baking powder — contains \"our\", as in \"our bread\".",
+    "image": "/images/level8/flour.webp"
+  },
+  {
+    "id": "lvl8-045",
+    "level": 8,
+    "order": 45,
+    "word": "made",
+    "pronunciation": "/meɪd/",
+    "banglaPronunciation": "মেইড",
+    "meaning": "Past tense of make.",
+    "banglaMeaning": "তৈরি করেছিল",
+    "syllables": [
+      "ma",
+      "de"
+    ],
+    "example": "She made a cake.",
+    "hint": "Past tense of \"make\" — silent E makes the A long.",
+    "image": "/images/level8/made.webp"
+  },
+  {
+    "id": "lvl8-046",
+    "level": 8,
+    "order": 46,
+    "word": "maid",
+    "pronunciation": "/meɪd/",
+    "banglaPronunciation": "মেইড",
+    "meaning": "A female household servant.",
+    "banglaMeaning": "গৃহপরিচারিকা",
+    "syllables": [
+      "maid"
+    ],
+    "example": "The maid cleaned the house.",
+    "hint": "A household helper — has an \"ai\" spelling.",
+    "image": "/images/level8/maid.webp"
+  },
+  {
+    "id": "lvl8-047",
+    "level": 8,
+    "order": 47,
+    "word": "pair",
+    "pronunciation": "/pɛr/",
+    "banglaPronunciation": "পেয়ার",
+    "meaning": "A set of two matching things.",
+    "banglaMeaning": "জোড়া",
+    "syllables": [
+      "pair"
+    ],
+    "example": "I bought a pair of shoes.",
+    "hint": "Means \"a set of two\" — contains \"air\", like a pair floats together.",
+    "image": "/images/level8/pair.webp"
+  },
+  {
+    "id": "lvl8-048",
+    "level": 8,
+    "order": 48,
+    "word": "pear",
+    "pronunciation": "/pɛr/",
+    "banglaPronunciation": "পেয়ার",
+    "meaning": "A sweet, juicy fruit.",
+    "banglaMeaning": "নাশপাতি",
+    "syllables": [
+      "pear"
+    ],
+    "example": "She ate a ripe pear.",
+    "hint": "The fruit — starts with \"pea\", like the vegetable.",
+    "image": "/images/level8/pear.webp"
+  },
+  {
+    "id": "lvl8-049",
+    "level": 8,
+    "order": 49,
+    "word": "pare",
+    "pronunciation": "/pɛr/",
+    "banglaPronunciation": "পেয়ার",
+    "meaning": "To peel or trim off the outer layer.",
+    "banglaMeaning": "খোসা ছাড়ানো",
+    "syllables": [
+      "pa",
+      "re"
+    ],
+    "example": "Pare the apple before eating.",
+    "hint": "Means \"to peel\" — short word ending in silent E.",
+    "image": "/images/level8/pare.webp"
+  },
+  {
+    "id": "lvl8-050",
+    "level": 8,
+    "order": 50,
+    "word": "plain",
+    "pronunciation": "/pleɪn/",
+    "banglaPronunciation": "প্লেইন",
+    "meaning": "Simple; not decorated.",
+    "banglaMeaning": "সাধারণ",
+    "syllables": [
+      "plain"
+    ],
+    "example": "She wore a plain dress.",
+    "hint": "Means \"simple\" — ends in -ain like \"rain\".",
+    "image": "/images/level8/plain.webp"
+  },
+  {
+    "id": "lvl8-051",
+    "level": 8,
+    "order": 51,
+    "word": "reign",
+    "pronunciation": "/reɪn/",
+    "banglaPronunciation": "রেইন",
+    "meaning": "The period a king or queen rules.",
+    "banglaMeaning": "রাজত্ব",
+    "syllables": [
+      "reign"
+    ],
+    "example": "The king's reign lasted years.",
+    "hint": "A ruler's period in power — has a silent G.",
+    "image": "/images/level8/reign.webp"
+  },
+  {
+    "id": "lvl8-052",
+    "level": 8,
+    "order": 52,
+    "word": "rein",
+    "pronunciation": "/reɪn/",
+    "banglaPronunciation": "রেইন",
+    "meaning": "A strap used to control a horse.",
+    "banglaMeaning": "লাগাম",
+    "syllables": [
+      "rein"
+    ],
+    "example": "She pulled the horse's rein.",
+    "hint": "The strap for a horse — ends in -ein, not -ain.",
+    "image": "/images/level8/rein.webp"
+  },
+  {
+    "id": "lvl8-053",
+    "level": 8,
+    "order": 53,
+    "word": "rode",
+    "pronunciation": "/roʊd/",
+    "banglaPronunciation": "রোড",
+    "meaning": "Past tense of ride.",
+    "banglaMeaning": "চড়েছিল",
+    "syllables": [
+      "ro",
+      "de"
+    ],
+    "example": "She rode her bike to school.",
+    "hint": "Past tense of \"ride\" — silent E after D makes the O long.",
+    "image": "/images/level8/rode.webp"
+  },
+  {
+    "id": "lvl8-054",
+    "level": 8,
+    "order": 54,
+    "word": "rowed",
+    "pronunciation": "/roʊd/",
+    "banglaPronunciation": "রোড",
+    "meaning": "Past tense of row (to paddle a boat).",
+    "banglaMeaning": "বৈঠা বেয়েছিল",
+    "syllables": [
+      "ro",
+      "wed"
+    ],
+    "example": "He rowed the boat across the lake.",
+    "hint": "Past tense of \"row\" — the boat-paddling action, plus -ed.",
+    "image": "/images/level8/rowed.webp"
+  },
+  {
+    "id": "lvl8-055",
+    "level": 8,
+    "order": 55,
+    "word": "sail",
+    "pronunciation": "/seɪl/",
+    "banglaPronunciation": "সেইল",
+    "meaning": "A piece of cloth that catches wind to move a boat.",
+    "banglaMeaning": "পাল",
+    "syllables": [
+      "sail"
+    ],
+    "example": "The boat had a white sail.",
+    "hint": "The cloth on a boat — ends in -ail like \"tail\".",
+    "image": "/images/level8/sail.webp"
+  },
+  {
+    "id": "lvl8-056",
+    "level": 8,
+    "order": 56,
+    "word": "sale",
+    "pronunciation": "/seɪl/",
+    "banglaPronunciation": "সেইল",
+    "meaning": "An event where goods are sold, often cheaply.",
+    "banglaMeaning": "বিক্রয়",
+    "syllables": [
+      "sa",
+      "le"
+    ],
+    "example": "The store had a big sale.",
+    "hint": "Means \"selling event\" — ends in silent E.",
+    "image": "/images/level8/sale.webp"
+  },
+  {
+    "id": "lvl8-057",
+    "level": 8,
+    "order": 57,
+    "word": "soar",
+    "pronunciation": "/sɔːr/",
+    "banglaPronunciation": "সোয়ার",
+    "meaning": "To fly high in the air.",
+    "banglaMeaning": "উড়ে যাওয়া",
+    "syllables": [
+      "soar"
+    ],
+    "example": "The eagle began to soar.",
+    "hint": "Means \"to fly high\" — contains \"oar\", like paddling through the sky.",
+    "image": "/images/level8/soar.webp"
+  },
+  {
+    "id": "lvl8-058",
+    "level": 8,
+    "order": 58,
+    "word": "sore",
+    "pronunciation": "/sɔːr/",
+    "banglaPronunciation": "সোয়ার",
+    "meaning": "Painful; aching.",
+    "banglaMeaning": "ব্যথাযুক্ত",
+    "syllables": [
+      "so",
+      "re"
+    ],
+    "example": "My leg feels sore.",
+    "hint": "Means \"painful\" — short word ending in silent E.",
+    "image": "/images/level8/sore.webp"
+  },
+  {
+    "id": "lvl8-059",
+    "level": 8,
+    "order": 59,
+    "word": "stair",
+    "pronunciation": "/stɛr/",
+    "banglaPronunciation": "স্টেয়ার",
+    "meaning": "A single step in a staircase.",
+    "banglaMeaning": "সিঁড়ির ধাপ",
+    "syllables": [
+      "stair"
+    ],
+    "example": "She sat on the top stair.",
+    "hint": "A step you climb — ends in -air.",
+    "image": "/images/level8/stair.webp"
+  },
+  {
+    "id": "lvl8-060",
+    "level": 8,
+    "order": 60,
+    "word": "steal",
+    "pronunciation": "/stiːl/",
+    "banglaPronunciation": "স্টিল",
+    "meaning": "To take something without permission.",
+    "banglaMeaning": "চুরি করা",
+    "syllables": [
+      "steal"
+    ],
+    "example": "Do not steal from others.",
+    "hint": "Means \"to take illegally\" — has \"ea\", like a sneaky thief.",
+    "image": "/images/level8/steal.webp"
+  },
+  {
+    "id": "lvl8-061",
+    "level": 8,
+    "order": 61,
+    "word": "steel",
+    "pronunciation": "/stiːl/",
+    "banglaPronunciation": "স্টিল",
+    "meaning": "A strong metal made from iron.",
+    "banglaMeaning": "ইস্পাত",
+    "syllables": [
+      "steel"
+    ],
+    "example": "The bridge is made of steel.",
+    "hint": "The strong metal — has double E.",
+    "image": "/images/level8/steel.webp"
+  },
+  {
+    "id": "lvl8-062",
+    "level": 8,
+    "order": 62,
+    "word": "tail",
+    "pronunciation": "/teɪl/",
+    "banglaPronunciation": "টেইল",
+    "meaning": "The back part of an animal's body.",
+    "banglaMeaning": "লেজ",
+    "syllables": [
+      "tail"
+    ],
+    "example": "The dog wagged its tail.",
+    "hint": "An animal's back part — ends in -ail.",
+    "image": "/images/level8/tail.webp"
+  },
+  {
+    "id": "lvl8-063",
+    "level": 8,
+    "order": 63,
+    "word": "tale",
+    "pronunciation": "/teɪl/",
+    "banglaPronunciation": "টেইল",
+    "meaning": "A story, often fictional.",
+    "banglaMeaning": "গল্প",
+    "syllables": [
+      "ta",
+      "le"
+    ],
+    "example": "She told a bedtime tale.",
+    "hint": "Means \"a story\" — ends in silent E.",
+    "image": "/images/level8/tale.webp"
+  },
+  {
+    "id": "lvl8-064",
+    "level": 8,
+    "order": 64,
+    "word": "waist",
+    "pronunciation": "/weɪst/",
+    "banglaPronunciation": "ওয়েস্ট",
+    "meaning": "The narrow part of the body above the hips.",
+    "banglaMeaning": "কোমর",
+    "syllables": [
+      "waist"
+    ],
+    "example": "She tied a belt around her waist.",
+    "hint": "The body part — contains \"ai\", like the middle of your body.",
+    "image": "/images/level8/waist.webp"
+  },
+  {
+    "id": "lvl8-065",
+    "level": 8,
+    "order": 65,
+    "word": "waste",
+    "pronunciation": "/weɪst/",
+    "banglaPronunciation": "ওয়েস্ট",
+    "meaning": "To use something carelessly; unwanted material.",
+    "banglaMeaning": "অপচয়",
+    "syllables": [
+      "wa",
+      "ste"
+    ],
+    "example": "Don't waste your food.",
+    "hint": "Means \"to use carelessly\" — ends in silent E.",
+    "image": "/images/level8/waste.webp"
+  },
+  {
+    "id": "lvl8-066",
+    "level": 8,
+    "order": 66,
+    "word": "wait",
+    "pronunciation": "/weɪt/",
+    "banglaPronunciation": "ওয়েট",
+    "meaning": "To stay in one place until something happens.",
+    "banglaMeaning": "অপেক্ষা করা",
+    "syllables": [
+      "wait"
+    ],
+    "example": "Please wait for me.",
+    "hint": "Means \"to stay and expect\" — ends in -ait.",
+    "image": "/images/level8/wait.webp"
+  },
+  {
+    "id": "lvl8-067",
+    "level": 8,
+    "order": 67,
+    "word": "weight",
+    "pronunciation": "/weɪt/",
+    "banglaPronunciation": "ওয়েট",
+    "meaning": "How heavy something is.",
+    "banglaMeaning": "ওজন",
+    "syllables": [
+      "weight"
+    ],
+    "example": "Check the weight of the box.",
+    "hint": "Means \"heaviness\" — has a silent GH.",
+    "image": "/images/level8/weight.webp"
+  },
+  {
+    "id": "lvl8-068",
+    "level": 8,
+    "order": 68,
+    "word": "which",
+    "pronunciation": "/wɪtʃ/",
+    "banglaPronunciation": "উইচ",
+    "meaning": "Used to ask about a choice.",
+    "banglaMeaning": "কোনটি",
+    "syllables": [
+      "which"
+    ],
+    "example": "Which color do you like?",
+    "hint": "Asks about a choice — starts with WH like other question words.",
+    "image": "/images/level8/which.webp"
+  },
+  {
+    "id": "lvl8-069",
+    "level": 8,
+    "order": 69,
+    "word": "witch",
+    "pronunciation": "/wɪtʃ/",
+    "banglaPronunciation": "উইচ",
+    "meaning": "A woman believed to have magic powers.",
+    "banglaMeaning": "ডাইনি",
+    "syllables": [
+      "witch"
+    ],
+    "example": "The witch wore a black hat.",
+    "hint": "The magical woman — starts with a plain W.",
+    "image": "/images/level8/witch.webp"
+  },
+  {
+    "id": "lvl8-070",
+    "level": 8,
+    "order": 70,
+    "word": "wood",
+    "pronunciation": "/wʊd/",
+    "banglaPronunciation": "উড",
+    "meaning": "The material trees are made of.",
+    "banglaMeaning": "কাঠ",
+    "syllables": [
+      "wood"
+    ],
+    "example": "The chair is made of wood.",
+    "hint": "The material from trees — double O, short sound.",
+    "image": "/images/level8/wood.webp"
+  },
+  {
+    "id": "lvl8-071",
+    "level": 8,
+    "order": 71,
+    "word": "would",
+    "pronunciation": "/wʊd/",
+    "banglaPronunciation": "উড",
+    "meaning": "Past tense/conditional form of will.",
+    "banglaMeaning": "হত (would)",
+    "syllables": [
+      "would"
+    ],
+    "example": "I would like some tea.",
+    "hint": "A helping verb for polite requests — has a silent L.",
+    "image": "/images/level8/would.webp"
+  },
+  {
+    "id": "lvl8-072",
+    "level": 8,
+    "order": 72,
+    "word": "allowed",
+    "pronunciation": "/əˈlaʊd/",
+    "banglaPronunciation": "অ্যালাউড",
+    "meaning": "Given permission.",
+    "banglaMeaning": "অনুমতিপ্রাপ্ত",
+    "syllables": [
+      "a",
+      "llo",
+      "wed"
+    ],
+    "example": "Photos are not allowed here.",
+    "hint": "Means \"permitted\" — related to the word \"allow\".",
+    "image": "/images/level8/allowed.webp"
+  },
+  {
+    "id": "lvl8-073",
+    "level": 8,
+    "order": 73,
+    "word": "aloud",
+    "pronunciation": "/əˈlaʊd/",
+    "banglaPronunciation": "অ্যালাউড",
+    "meaning": "Spoken so it can be heard; not silently.",
+    "banglaMeaning": "জোরে (শব্দ করে)",
+    "syllables": [
+      "a",
+      "loud"
+    ],
+    "example": "Please read the story aloud.",
+    "hint": "Means \"out loud\" — related to the word \"loud\".",
+    "image": "/images/level8/aloud.webp"
+  },
+  {
+    "id": "lvl8-074",
+    "level": 8,
+    "order": 74,
+    "word": "berry",
+    "pronunciation": "/ˈbɛr.i/",
+    "banglaPronunciation": "বেরি",
+    "meaning": "A small, round, juicy fruit.",
+    "banglaMeaning": "বেরি (ফল)",
+    "syllables": [
+      "berry"
+    ],
+    "example": "She picked a red berry.",
+    "hint": "The small fruit — ends in -erry, like \"cherry\".",
+    "image": "/images/level8/berry.webp"
+  },
+  {
+    "id": "lvl8-075",
+    "level": 8,
+    "order": 75,
+    "word": "bury",
+    "pronunciation": "/ˈbɛr.i/",
+    "banglaPronunciation": "বেরি",
+    "meaning": "To put something under the ground.",
+    "banglaMeaning": "মাটিতে পুঁতে ফেলা",
+    "syllables": [
+      "bury"
+    ],
+    "example": "The dog will bury the bone.",
+    "hint": "Means \"to put underground\" — spelled with a U, sounds like \"berry\".",
+    "image": "/images/level8/bury.webp"
+  },
+  {
+    "id": "lvl8-076",
+    "level": 8,
+    "order": 76,
+    "word": "board",
+    "pronunciation": "/bɔːrd/",
+    "banglaPronunciation": "বোর্ড",
+    "meaning": "A flat piece of wood; a group that manages something.",
+    "banglaMeaning": "বোর্ড/পরিচালনা পর্ষদ",
+    "syllables": [
+      "board"
+    ],
+    "example": "Write your name on the board.",
+    "hint": "A flat wooden panel — contains \"boar\".",
+    "image": "/images/level8/board.webp"
+  },
+  {
+    "id": "lvl8-077",
+    "level": 8,
+    "order": 77,
+    "word": "bored",
+    "pronunciation": "/bɔːrd/",
+    "banglaPronunciation": "বোর্ড",
+    "meaning": "Feeling tired and uninterested.",
+    "banglaMeaning": "বিরক্ত/একঘেয়ে",
+    "syllables": [
+      "bo",
+      "red"
+    ],
+    "example": "I was bored during the long trip.",
+    "hint": "Means \"uninterested\" — comes from the verb \"bore\", plus -ed.",
+    "image": "/images/level8/bored.webp"
+  },
+  {
+    "id": "lvl8-078",
+    "level": 8,
+    "order": 78,
+    "word": "cell",
+    "pronunciation": "/sɛl/",
+    "banglaPronunciation": "সেল",
+    "meaning": "A small room, or the basic unit of life.",
+    "banglaMeaning": "কোষ/কক্ষ",
+    "syllables": [
+      "cell"
+    ],
+    "example": "A body is made of many cells.",
+    "hint": "A tiny unit or room — double L.",
+    "image": "/images/level8/cell.webp"
+  },
+  {
+    "id": "lvl8-079",
+    "level": 8,
+    "order": 79,
+    "word": "cent",
+    "pronunciation": "/sɛnt/",
+    "banglaPronunciation": "সেন্ট",
+    "meaning": "A small unit of money.",
+    "banglaMeaning": "সেন্ট (মুদ্রা)",
+    "syllables": [
+      "cent"
+    ],
+    "example": "The candy costs one cent.",
+    "hint": "A coin unit — related to \"century\" (100).",
+    "image": "/images/level8/cent.webp"
+  },
+  {
+    "id": "lvl8-080",
+    "level": 8,
+    "order": 80,
+    "word": "scent",
+    "pronunciation": "/sɛnt/",
+    "banglaPronunciation": "সেন্ট",
+    "meaning": "A smell, especially a pleasant one.",
+    "banglaMeaning": "গন্ধ",
+    "syllables": [
+      "scent"
+    ],
+    "example": "The flower has a sweet scent.",
+    "hint": "Means \"a smell\" — has a silent C at the start.",
+    "image": "/images/level8/scent.webp"
+  },
+  {
+    "id": "lvl8-081",
+    "level": 8,
+    "order": 81,
+    "word": "sent",
+    "pronunciation": "/sɛnt/",
+    "banglaPronunciation": "সেন্ট",
+    "meaning": "Past tense of send.",
+    "banglaMeaning": "পাঠিয়েছিল",
+    "syllables": [
+      "sent"
+    ],
+    "example": "She sent a letter to her friend.",
+    "hint": "Past tense of \"send\" — simple spelling, no silent letters.",
+    "image": "/images/level8/sent.webp"
+  },
+  {
+    "id": "lvl8-082",
+    "level": 8,
+    "order": 82,
+    "word": "chews",
+    "pronunciation": "/tʃuːz/",
+    "banglaPronunciation": "চিউজ",
+    "meaning": "Bites and grinds food with the teeth (verb, present tense).",
+    "banglaMeaning": "চিবায়",
+    "syllables": [
+      "chews"
+    ],
+    "example": "The dog chews its bone.",
+    "hint": "Means \"bites repeatedly\" — from the verb \"chew\".",
+    "image": "/images/level8/chews.webp"
+  },
+  {
+    "id": "lvl8-083",
+    "level": 8,
+    "order": 83,
+    "word": "choose",
+    "pronunciation": "/tʃuːz/",
+    "banglaPronunciation": "চুজ",
+    "meaning": "To select from options.",
+    "banglaMeaning": "বেছে নেওয়া",
+    "syllables": [
+      "choo",
+      "se"
+    ],
+    "example": "Choose your favorite color.",
+    "hint": "Means \"to select\" — double O, ends in -oose.",
+    "image": "/images/level8/choose.webp"
+  },
+  {
+    "id": "lvl8-084",
+    "level": 8,
+    "order": 84,
+    "word": "coarse",
+    "pronunciation": "/kɔːrs/",
+    "banglaPronunciation": "কোর্স",
+    "meaning": "Rough in texture; not fine.",
+    "banglaMeaning": "রুক্ষ",
+    "syllables": [
+      "coa",
+      "rse"
+    ],
+    "example": "The sand felt coarse.",
+    "hint": "Means \"rough\" — contains the word \"ear\" (c-o-a-r-s-e).",
+    "image": "/images/level8/coarse.webp"
+  },
+  {
+    "id": "lvl8-085",
+    "level": 8,
+    "order": 85,
+    "word": "course",
+    "pronunciation": "/kɔːrs/",
+    "banglaPronunciation": "কোর্স",
+    "meaning": "A path taken, or a class of study.",
+    "banglaMeaning": "পথ/পাঠ্যক্রম",
+    "syllables": [
+      "cou",
+      "rse"
+    ],
+    "example": "She is taking a math course.",
+    "hint": "Means \"a path or class\" — no A after the C.",
+    "image": "/images/level8/course.webp"
+  },
+  {
+    "id": "lvl8-086",
+    "level": 8,
+    "order": 86,
+    "word": "council",
+    "pronunciation": "/ˈkaʊn.səl/",
+    "banglaPronunciation": "কাউন্সিল",
+    "meaning": "A group of people who make decisions together.",
+    "banglaMeaning": "পরিষদ",
+    "syllables": [
+      "cou",
+      "ncil"
+    ],
+    "example": "The city council met today.",
+    "hint": "A decision-making group — ends in -cil, like \"pencil\".",
+    "image": "/images/level8/council.webp"
+  },
+  {
+    "id": "lvl8-087",
+    "level": 8,
+    "order": 87,
+    "word": "counsel",
+    "pronunciation": "/ˈkaʊn.səl/",
+    "banglaPronunciation": "কাউন্সেল",
+    "meaning": "Advice, or to give advice.",
+    "banglaMeaning": "পরামর্শ",
+    "syllables": [
+      "cou",
+      "nsel"
+    ],
+    "example": "She gave wise counsel.",
+    "hint": "Means \"advice\" — ends in -sel, like \"sell advice\".",
+    "image": "/images/level8/counsel.webp"
+  },
+  {
+    "id": "lvl8-088",
+    "level": 8,
+    "order": 88,
+    "word": "creak",
+    "pronunciation": "/kriːk/",
+    "banglaPronunciation": "ক্রিক",
+    "meaning": "A harsh, squeaky sound.",
+    "banglaMeaning": "কড়মড় শব্দ",
+    "syllables": [
+      "creak"
+    ],
+    "example": "The old door began to creak.",
+    "hint": "A squeaky sound — has \"ea\", like the sound machines make.",
+    "image": "/images/level8/creak.webp"
+  },
+  {
+    "id": "lvl8-089",
+    "level": 8,
+    "order": 89,
+    "word": "creek",
+    "pronunciation": "/kriːk/",
+    "banglaPronunciation": "ক্রিক",
+    "meaning": "A small, narrow stream.",
+    "banglaMeaning": "ছোট নদী/খাল",
+    "syllables": [
+      "creek"
+    ],
+    "example": "We waded across the creek.",
+    "hint": "A small stream — double E, like flowing water.",
+    "image": "/images/level8/creek.webp"
+  },
+  {
+    "id": "lvl8-090",
+    "level": 8,
+    "order": 90,
+    "word": "die",
+    "pronunciation": "/daɪ/",
+    "banglaPronunciation": "ডাই",
+    "meaning": "To stop living.",
+    "banglaMeaning": "মারা যাওয়া",
+    "syllables": [
+      "die"
+    ],
+    "example": "Plants die without water.",
+    "hint": "Means \"to stop living\" — three letters, ends in -ie.",
+    "image": "/images/level8/die.webp"
+  },
+  {
+    "id": "lvl8-091",
+    "level": 8,
+    "order": 91,
+    "word": "dye",
+    "pronunciation": "/daɪ/",
+    "banglaPronunciation": "ডাই",
+    "meaning": "A substance used to change the color of something.",
+    "banglaMeaning": "রং করার পদার্থ",
+    "syllables": [
+      "dye"
+    ],
+    "example": "She used dye to color the fabric.",
+    "hint": "Means \"to color something\" — ends in -ye, not -ie.",
+    "image": "/images/level8/dye.webp"
+  },
+  {
+    "id": "lvl8-092",
+    "level": 8,
+    "order": 92,
+    "word": "fair",
+    "pronunciation": "/fɛr/",
+    "banglaPronunciation": "ফেয়ার",
+    "meaning": "Just and reasonable; also, a public event with rides and games.",
+    "banglaMeaning": "ন্যায্য/মেলা",
+    "syllables": [
+      "fair"
+    ],
+    "example": "The rules were fair to everyone.",
+    "hint": "Means \"just\" or a carnival — ends in -air.",
+    "image": "/images/level8/fair.webp"
+  },
+  {
+    "id": "lvl8-093",
+    "level": 8,
+    "order": 93,
+    "word": "fare",
+    "pronunciation": "/fɛr/",
+    "banglaPronunciation": "ফেয়ার",
+    "meaning": "The money paid to travel.",
+    "banglaMeaning": "ভাড়া",
+    "syllables": [
+      "fa",
+      "re"
+    ],
+    "example": "The bus fare is two dollars.",
+    "hint": "Means \"travel cost\" — ends in silent E.",
+    "image": "/images/level8/fare.webp"
+  },
+  {
+    "id": "lvl8-094",
+    "level": 8,
+    "order": 94,
+    "word": "feat",
+    "pronunciation": "/fiːt/",
+    "banglaPronunciation": "ফিট",
+    "meaning": "An impressive act or achievement.",
+    "banglaMeaning": "কীর্তি/কৃতিত্ব",
+    "syllables": [
+      "feat"
+    ],
+    "example": "Climbing the mountain was a great feat.",
+    "hint": "Means \"an achievement\" — has \"ea\".",
+    "image": "/images/level8/feat.webp"
+  },
+  {
+    "id": "lvl8-095",
+    "level": 8,
+    "order": 95,
+    "word": "feet",
+    "pronunciation": "/fiːt/",
+    "banglaPronunciation": "ফিট",
+    "meaning": "Plural of foot; the body part.",
+    "banglaMeaning": "পা (বহুবচন)",
+    "syllables": [
+      "feet"
+    ],
+    "example": "Wash your feet before bed.",
+    "hint": "The body part, plural of \"foot\" — double E.",
+    "image": "/images/level8/feet.webp"
+  },
+  {
+    "id": "lvl8-096",
+    "level": 8,
+    "order": 96,
+    "word": "find",
+    "pronunciation": "/faɪnd/",
+    "banglaPronunciation": "ফাইন্ড",
+    "meaning": "To discover or locate something.",
+    "banglaMeaning": "খুঁজে পাওয়া",
+    "syllables": [
+      "find"
+    ],
+    "example": "Help me find my keys.",
+    "hint": "Means \"to discover\" — present tense, ends in -ind.",
+    "image": "/images/level8/find.webp"
+  },
+  {
+    "id": "lvl8-097",
+    "level": 8,
+    "order": 97,
+    "word": "fined",
+    "pronunciation": "/faɪnd/",
+    "banglaPronunciation": "ফাইন্ড",
+    "meaning": "Past tense of fine (to charge a penalty).",
+    "banglaMeaning": "জরিমানা করা হয়েছিল",
+    "syllables": [
+      "fi",
+      "ned"
+    ],
+    "example": "He was fined for speeding.",
+    "hint": "Means \"charged a penalty\" — from the noun \"fine\", plus -ed.",
+    "image": "/images/level8/fined.webp"
+  },
+  {
+    "id": "lvl8-098",
+    "level": 8,
+    "order": 98,
+    "word": "fir",
+    "pronunciation": "/fɜːr/",
+    "banglaPronunciation": "ফার",
+    "meaning": "A type of evergreen tree.",
+    "banglaMeaning": "ফার (গাছ)",
+    "syllables": [
+      "fir"
+    ],
+    "example": "We decorated a fir tree.",
+    "hint": "An evergreen tree — spelled f-i-r, like \"first\".",
+    "image": "/images/level8/fir.webp"
+  },
+  {
+    "id": "lvl8-099",
+    "level": 8,
+    "order": 99,
+    "word": "fur",
+    "pronunciation": "/fɜːr/",
+    "banglaPronunciation": "ফার",
+    "meaning": "The soft hair covering an animal's body.",
+    "banglaMeaning": "পশম",
+    "syllables": [
+      "fur"
+    ],
+    "example": "The cat has soft fur.",
+    "hint": "An animal's soft coat — spelled f-u-r.",
+    "image": "/images/level8/fur.webp"
+  },
+  {
+    "id": "lvl8-100",
+    "level": 8,
+    "order": 100,
+    "word": "flu",
+    "pronunciation": "/fluː/",
+    "banglaPronunciation": "ফ্লু",
+    "meaning": "A common contagious illness.",
+    "banglaMeaning": "ফ্লু (রোগ)",
+    "syllables": [
+      "flu"
+    ],
+    "example": "He stayed home with the flu.",
+    "hint": "The illness — short for \"influenza\".",
+    "image": "/images/level8/flu.webp"
+  },
+  {
+    "id": "lvl8-101",
+    "level": 8,
+    "order": 101,
+    "word": "flue",
+    "pronunciation": "/fluː/",
+    "banglaPronunciation": "ফ্লু",
+    "meaning": "A pipe that lets smoke escape from a fire.",
+    "banglaMeaning": "ধোঁয়া নির্গমন নালী",
+    "syllables": [
+      "flue"
+    ],
+    "example": "Smoke rose through the flue.",
+    "hint": "A smoke pipe — ends in -ue, unlike the illness \"flu\".",
+    "image": "/images/level8/flue.webp"
+  },
+  {
+    "id": "lvl8-102",
+    "level": 8,
+    "order": 102,
+    "word": "fore",
+    "pronunciation": "/fɔːr/",
+    "banglaPronunciation": "ফোর",
+    "meaning": "Situated at the front.",
+    "banglaMeaning": "সামনে",
+    "syllables": [
+      "fo",
+      "re"
+    ],
+    "example": "He stood at the fore of the ship.",
+    "hint": "Means \"at the front\" — like the front (\"fore\") part of a word.",
+    "image": "/images/level8/fore.webp"
+  },
+  {
+    "id": "lvl8-103",
+    "level": 8,
+    "order": 103,
+    "word": "forth",
+    "pronunciation": "/fɔːrθ/",
+    "banglaPronunciation": "ফোর্থ",
+    "meaning": "Forward; onward.",
+    "banglaMeaning": "সম্মুখে",
+    "syllables": [
+      "forth"
+    ],
+    "example": "They set forth on their journey.",
+    "hint": "Means \"forward\" — related to \"forward\", not a number.",
+    "image": "/images/level8/forth.webp"
+  },
+  {
+    "id": "lvl8-104",
+    "level": 8,
+    "order": 104,
+    "word": "fourth",
+    "pronunciation": "/fɔːrθ/",
+    "banglaPronunciation": "ফোর্থ",
+    "meaning": "The number 4 in order.",
+    "banglaMeaning": "চতুর্থ",
+    "syllables": [
+      "fourth"
+    ],
+    "example": "She finished in fourth place.",
+    "hint": "The ordinal number 4 — contains the word \"four\".",
+    "image": "/images/level8/fourth.webp"
+  },
+  {
+    "id": "lvl8-105",
+    "level": 8,
+    "order": 105,
+    "word": "grate",
+    "pronunciation": "/ɡreɪt/",
+    "banglaPronunciation": "গ্রেট",
+    "meaning": "To shred into small pieces; a metal frame.",
+    "banglaMeaning": "ঝুরি করা/লোহার জাফরি",
+    "syllables": [
+      "gra",
+      "te"
+    ],
+    "example": "Grate the cheese for the pizza.",
+    "hint": "Means \"to shred\" — ends in silent E.",
+    "image": "/images/level8/grate.webp"
+  },
+  {
+    "id": "lvl8-106",
+    "level": 8,
+    "order": 106,
+    "word": "groan",
+    "pronunciation": "/ɡroʊn/",
+    "banglaPronunciation": "গ্রোন",
+    "meaning": "A deep sound of pain or displeasure.",
+    "banglaMeaning": "গোঙানি",
+    "syllables": [
+      "groan"
+    ],
+    "example": "He let out a groan of pain.",
+    "hint": "A pain sound — has \"oa\".",
+    "image": "/images/level8/groan.webp"
+  },
+  {
+    "id": "lvl8-107",
+    "level": 8,
+    "order": 107,
+    "word": "grown",
+    "pronunciation": "/ɡroʊn/",
+    "banglaPronunciation": "গ্রোন",
+    "meaning": "Past participle of grow.",
+    "banglaMeaning": "বড় হয়েছে",
+    "syllables": [
+      "grown"
+    ],
+    "example": "The plant has grown tall.",
+    "hint": "Past participle of \"grow\" — related to \"grow\", plus -n.",
+    "image": "/images/level8/grown.webp"
+  },
+  {
+    "id": "lvl8-108",
+    "level": 8,
+    "order": 108,
+    "word": "guessed",
+    "pronunciation": "/ɡɛst/",
+    "banglaPronunciation": "গেস্ট",
+    "meaning": "Past tense of guess.",
+    "banglaMeaning": "অনুমান করেছিল",
+    "syllables": [
+      "gue",
+      "ssed"
+    ],
+    "example": "I guessed the right answer.",
+    "hint": "Past tense of \"guess\" — from \"guess\", plus -ed.",
+    "image": "/images/level8/guessed.webp"
+  },
+  {
+    "id": "lvl8-109",
+    "level": 8,
+    "order": 109,
+    "word": "guest",
+    "pronunciation": "/ɡɛst/",
+    "banglaPronunciation": "গেস্ট",
+    "meaning": "A visitor.",
+    "banglaMeaning": "অতিথি",
+    "syllables": [
+      "guest"
+    ],
+    "example": "We welcomed our guest warmly.",
+    "hint": "A visitor — simple spelling, no double S.",
+    "image": "/images/level8/guest.webp"
+  },
+  {
+    "id": "lvl8-110",
+    "level": 8,
+    "order": 110,
+    "word": "hair",
+    "pronunciation": "/hɛr/",
+    "banglaPronunciation": "হেয়ার",
+    "meaning": "The strands growing from the head or skin.",
+    "banglaMeaning": "চুল",
+    "syllables": [
+      "hair"
+    ],
+    "example": "She has long brown hair.",
+    "hint": "The strands on your head — ends in -air.",
+    "image": "/images/level8/hair.webp"
+  },
+  {
+    "id": "lvl8-111",
+    "level": 8,
+    "order": 111,
+    "word": "hare",
+    "pronunciation": "/hɛr/",
+    "banglaPronunciation": "হেয়ার",
+    "meaning": "An animal like a large rabbit.",
+    "banglaMeaning": "খরগোশজাতীয় প্রাণী",
+    "syllables": [
+      "ha",
+      "re"
+    ],
+    "example": "The hare ran across the field.",
+    "hint": "A rabbit-like animal — ends in silent E.",
+    "image": "/images/level8/hare.webp"
+  },
+  {
+    "id": "lvl8-112",
+    "level": 8,
+    "order": 112,
+    "word": "haul",
+    "pronunciation": "/hɔːl/",
+    "banglaPronunciation": "হল",
+    "meaning": "To pull or carry something with effort.",
+    "banglaMeaning": "টেনে নেওয়া",
+    "syllables": [
+      "haul"
+    ],
+    "example": "They had to haul the heavy boxes.",
+    "hint": "Means \"to pull with effort\" — has \"au\", not double L.",
+    "image": "/images/level8/haul.webp"
+  },
+  {
+    "id": "lvl8-113",
+    "level": 8,
+    "order": 113,
+    "word": "heal",
+    "pronunciation": "/hiːl/",
+    "banglaPronunciation": "হিল",
+    "meaning": "To make or become healthy again.",
+    "banglaMeaning": "সুস্থ হওয়া",
+    "syllables": [
+      "heal"
+    ],
+    "example": "The wound will heal soon.",
+    "hint": "Means \"to get better\" — has \"ea\", related to \"health\".",
+    "image": "/images/level8/heal.webp"
+  },
+  {
+    "id": "lvl8-114",
+    "level": 8,
+    "order": 114,
+    "word": "heel",
+    "pronunciation": "/hiːl/",
+    "banglaPronunciation": "হিল",
+    "meaning": "The back part of the foot.",
+    "banglaMeaning": "গোড়ালি",
+    "syllables": [
+      "heel"
+    ],
+    "example": "She hurt her heel while running.",
+    "hint": "The back of the foot — double E, like \"feet\".",
+    "image": "/images/level8/heel.webp"
+  },
+  {
+    "id": "lvl8-115",
+    "level": 8,
+    "order": 115,
+    "word": "heard",
+    "pronunciation": "/hɜːrd/",
+    "banglaPronunciation": "হার্ড",
+    "meaning": "Past tense of hear.",
+    "banglaMeaning": "শুনেছিল",
+    "syllables": [
+      "heard"
+    ],
+    "example": "I heard a strange noise.",
+    "hint": "Past tense of \"hear\" — contains \"hear\" plus D.",
+    "image": "/images/level8/heard.webp"
+  },
+  {
+    "id": "lvl8-116",
+    "level": 8,
+    "order": 116,
+    "word": "herd",
+    "pronunciation": "/hɜːrd/",
+    "banglaPronunciation": "হার্ড",
+    "meaning": "A group of animals.",
+    "banglaMeaning": "পশুপাল",
+    "syllables": [
+      "herd"
+    ],
+    "example": "A herd of cows crossed the road.",
+    "hint": "A group of animals — no \"a\", just h-e-r-d.",
+    "image": "/images/level8/herd.webp"
+  },
+  {
+    "id": "lvl8-117",
+    "level": 8,
+    "order": 117,
+    "word": "higher",
+    "pronunciation": "/ˈhaɪ.ər/",
+    "banglaPronunciation": "হায়ার",
+    "meaning": "More elevated; comparative of high.",
+    "banglaMeaning": "উচ্চতর",
+    "syllables": [
+      "hi",
+      "gher"
+    ],
+    "example": "The kite flew higher than the tree.",
+    "hint": "Comparative of \"high\" — related to the word \"high\".",
+    "image": "/images/level8/higher.webp"
+  },
+  {
+    "id": "lvl8-118",
+    "level": 8,
+    "order": 118,
+    "word": "hire",
+    "pronunciation": "/haɪər/",
+    "banglaPronunciation": "হায়ার",
+    "meaning": "To employ someone or rent something.",
+    "banglaMeaning": "ভাড়া করা/নিয়োগ করা",
+    "syllables": [
+      "hi",
+      "re"
+    ],
+    "example": "The company will hire new staff.",
+    "hint": "Means \"to employ\" — shorter word, ends in silent E.",
+    "image": "/images/level8/hire.webp"
+  },
+  {
+    "id": "lvl8-119",
+    "level": 8,
+    "order": 119,
+    "word": "hoarse",
+    "pronunciation": "/hɔːrs/",
+    "banglaPronunciation": "হোর্স",
+    "meaning": "Rough or croaky sounding voice.",
+    "banglaMeaning": "কর্কশ কণ্ঠস্বর",
+    "syllables": [
+      "hoa",
+      "rse"
+    ],
+    "example": "His voice was hoarse from shouting.",
+    "hint": "A croaky voice — contains \"hoar\", think of a rough throat.",
+    "image": "/images/level8/hoarse.webp"
+  },
+  {
+    "id": "lvl8-120",
+    "level": 8,
+    "order": 120,
+    "word": "hour",
+    "pronunciation": "/aʊər/",
+    "banglaPronunciation": "আওয়ার",
+    "meaning": "A period of sixty minutes.",
+    "banglaMeaning": "ঘন্টা",
+    "syllables": [
+      "hour"
+    ],
+    "example": "We waited for an hour.",
+    "hint": "Sixty minutes — starts with a silent H.",
+    "image": "/images/level8/hour.webp"
+  },
+  {
+    "id": "lvl8-121",
+    "level": 8,
+    "order": 121,
+    "word": "idle",
+    "pronunciation": "/ˈaɪ.dəl/",
+    "banglaPronunciation": "আইডল",
+    "meaning": "Not active; doing nothing.",
+    "banglaMeaning": "অলস/নিষ্ক্রিয়",
+    "syllables": [
+      "i",
+      "dle"
+    ],
+    "example": "The machine sat idle all day.",
+    "hint": "Means \"not active\" — ends in -dle, related to \"idling\".",
+    "image": "/images/level8/idle.webp"
+  },
+  {
+    "id": "lvl8-122",
+    "level": 8,
+    "order": 122,
+    "word": "idol",
+    "pronunciation": "/ˈaɪ.dəl/",
+    "banglaPronunciation": "আইডল",
+    "meaning": "A person greatly admired, or an object of worship.",
+    "banglaMeaning": "আদর্শ/মূর্তি",
+    "syllables": [
+      "i",
+      "dol"
+    ],
+    "example": "The singer is a pop idol.",
+    "hint": "Means \"someone admired\" — ends in -ol, like \"adore\".",
+    "image": "/images/level8/idol.webp"
+  },
+  {
+    "id": "lvl8-123",
+    "level": 8,
+    "order": 123,
+    "word": "leak",
+    "pronunciation": "/liːk/",
+    "banglaPronunciation": "লিক",
+    "meaning": "A hole that lets liquid or gas escape.",
+    "banglaMeaning": "ছিদ্র (তরল পদার্থ বের হওয়ার)",
+    "syllables": [
+      "leak"
+    ],
+    "example": "There is a leak in the pipe.",
+    "hint": "A hole letting liquid escape — has \"ea\".",
+    "image": "/images/level8/leak.webp"
+  },
+  {
+    "id": "lvl8-124",
+    "level": 8,
+    "order": 124,
+    "word": "leek",
+    "pronunciation": "/liːk/",
+    "banglaPronunciation": "লিক",
+    "meaning": "A long green vegetable related to onions.",
+    "banglaMeaning": "লিক (সবজি)",
+    "syllables": [
+      "leek"
+    ],
+    "example": "She added leek to the soup.",
+    "hint": "The vegetable — double E, like other veggies \"peas\" and \"beans\".",
+    "image": "/images/level8/leek.webp"
+  },
+  {
+    "id": "lvl8-125",
+    "level": 8,
+    "order": 125,
+    "word": "lessen",
+    "pronunciation": "/ˈlɛs.ən/",
+    "banglaPronunciation": "লেসেন",
+    "meaning": "To make or become smaller or less.",
+    "banglaMeaning": "কমানো",
+    "syllables": [
+      "le",
+      "ssen"
+    ],
+    "example": "This medicine will lessen the pain.",
+    "hint": "Means \"to reduce\" — related to the word \"less\".",
+    "image": "/images/level8/lessen.webp"
+  },
+  {
+    "id": "lvl8-126",
+    "level": 8,
+    "order": 126,
+    "word": "lesson",
+    "pronunciation": "/ˈlɛs.ən/",
+    "banglaPronunciation": "লেসন",
+    "meaning": "A period of learning; a teaching example.",
+    "banglaMeaning": "পাঠ",
+    "syllables": [
+      "le",
+      "sson"
+    ],
+    "example": "We had a math lesson today.",
+    "hint": "A learning class — related to the word \"lesson plan\".",
+    "image": "/images/level8/lesson.webp"
+  },
+  {
+    "id": "lvl8-127",
+    "level": 8,
+    "order": 127,
+    "word": "mane",
+    "pronunciation": "/meɪn/",
+    "banglaPronunciation": "মেইন",
+    "meaning": "The long hair on a horse's or lion's neck.",
+    "banglaMeaning": "কেশর",
+    "syllables": [
+      "ma",
+      "ne"
+    ],
+    "example": "The lion shook its mane.",
+    "hint": "An animal's neck hair — ends in silent E.",
+    "image": "/images/level8/mane.webp"
+  },
+  {
+    "id": "lvl8-128",
+    "level": 8,
+    "order": 128,
+    "word": "main",
+    "pronunciation": "/meɪn/",
+    "banglaPronunciation": "মেইন",
+    "meaning": "Most important; chief.",
+    "banglaMeaning": "প্রধান",
+    "syllables": [
+      "main"
+    ],
+    "example": "This is the main road.",
+    "hint": "Means \"most important\" — ends in -ain, like the main event.",
+    "image": "/images/level8/main.webp"
+  },
+  {
+    "id": "lvl8-129",
+    "level": 8,
+    "order": 129,
+    "word": "meet",
+    "pronunciation": "/miːt/",
+    "banglaPronunciation": "মিট",
+    "meaning": "To come together with someone.",
+    "banglaMeaning": "সাক্ষাৎ করা",
+    "syllables": [
+      "meet"
+    ],
+    "example": "Let's meet at the park.",
+    "hint": "Means \"to come together\" — double E, like people meeting eye to eye.",
+    "image": "/images/level8/meet.webp"
+  },
+  {
+    "id": "lvl8-130",
+    "level": 8,
+    "order": 130,
+    "word": "medal",
+    "pronunciation": "/ˈmɛd.əl/",
+    "banglaPronunciation": "মেডাল",
+    "meaning": "A metal disc given as an award.",
+    "banglaMeaning": "পদক",
+    "syllables": [
+      "me",
+      "dal"
+    ],
+    "example": "She won a gold medal.",
+    "hint": "An award disc — ends in -al, like a medal you \"admire\".",
+    "image": "/images/level8/medal.webp"
+  },
+  {
+    "id": "lvl8-131",
+    "level": 8,
+    "order": 131,
+    "word": "metal",
+    "pronunciation": "/ˈmɛt.əl/",
+    "banglaPronunciation": "মেটাল",
+    "meaning": "A hard, shiny material like iron or gold.",
+    "banglaMeaning": "ধাতু",
+    "syllables": [
+      "me",
+      "tal"
+    ],
+    "example": "The gate is made of metal.",
+    "hint": "The hard material — ends in -al, spelled m-e-t-a-l.",
+    "image": "/images/level8/metal.webp"
+  },
+  {
+    "id": "lvl8-132",
+    "level": 8,
+    "order": 132,
+    "word": "meddle",
+    "pronunciation": "/ˈmɛd.əl/",
+    "banglaPronunciation": "মেডল",
+    "meaning": "To interfere in others' affairs.",
+    "banglaMeaning": "হস্তক্ষেপ করা",
+    "syllables": [
+      "me",
+      "ddle"
+    ],
+    "example": "Don't meddle in their business.",
+    "hint": "Means \"to interfere\" — double D, like \"middle of others' business\".",
+    "image": "/images/level8/meddle.webp"
+  },
+  {
+    "id": "lvl8-133",
+    "level": 8,
+    "order": 133,
+    "word": "miner",
+    "pronunciation": "/ˈmaɪ.nər/",
+    "banglaPronunciation": "মাইনার",
+    "meaning": "A person who works digging in a mine.",
+    "banglaMeaning": "খনি শ্রমিক",
+    "syllables": [
+      "mi",
+      "ner"
+    ],
+    "example": "The miner dug deep underground.",
+    "hint": "A person who digs in mines — related to \"mine\".",
+    "image": "/images/level8/miner.webp"
+  },
+  {
+    "id": "lvl8-134",
+    "level": 8,
+    "order": 134,
+    "word": "minor",
+    "pronunciation": "/ˈmaɪ.nər/",
+    "banglaPronunciation": "মাইনার",
+    "meaning": "Less important; a person under legal age.",
+    "banglaMeaning": "গৌণ/নাবালক",
+    "syllables": [
+      "mi",
+      "nor"
+    ],
+    "example": "It was only a minor problem.",
+    "hint": "Means \"less important\" or \"underage\" — spelled with -or, not -er.",
+    "image": "/images/level8/minor.webp"
+  },
+  {
+    "id": "lvl8-135",
+    "level": 8,
+    "order": 135,
+    "word": "missed",
+    "pronunciation": "/mɪst/",
+    "banglaPronunciation": "মিস্ট",
+    "meaning": "Failed to hit, catch, or attend.",
+    "banglaMeaning": "মিস করেছিল",
+    "syllables": [
+      "mi",
+      "ssed"
+    ],
+    "example": "He missed the bus this morning.",
+    "hint": "Past tense of \"miss\" — double S, from the verb \"miss\".",
+    "image": "/images/level8/missed.webp"
+  },
+  {
+    "id": "lvl8-136",
+    "level": 8,
+    "order": 136,
+    "word": "mist",
+    "pronunciation": "/mɪst/",
+    "banglaPronunciation": "মিস্ট",
+    "meaning": "A thin fog or light rain.",
+    "banglaMeaning": "কুয়াশা",
+    "syllables": [
+      "mist"
+    ],
+    "example": "Mist covered the hills at dawn.",
+    "hint": "A thin fog — single S, m-i-s-t.",
+    "image": "/images/level8/mist.webp"
+  },
+  {
+    "id": "lvl8-137",
+    "level": 8,
+    "order": 137,
+    "word": "moose",
+    "pronunciation": "/muːs/",
+    "banglaPronunciation": "মুস",
+    "meaning": "A large deer-like animal with antlers.",
+    "banglaMeaning": "মুজ (হরিণজাতীয় প্রাণী)",
+    "syllables": [
+      "moo",
+      "se"
+    ],
+    "example": "We saw a moose in the forest.",
+    "hint": "The large antlered animal — double O, one animal or many.",
+    "image": "/images/level8/moose.webp"
+  },
+  {
+    "id": "lvl8-138",
+    "level": 8,
+    "order": 138,
+    "word": "mousse",
+    "pronunciation": "/muːs/",
+    "banglaPronunciation": "মুস",
+    "meaning": "A light, fluffy dessert or styling foam.",
+    "banglaMeaning": "মুস (মিষ্টান্ন/চুলের ফোম)",
+    "syllables": [
+      "mou",
+      "sse"
+    ],
+    "example": "She ate chocolate mousse.",
+    "hint": "The fluffy dessert — double S, French spelling.",
+    "image": "/images/level8/mousse.webp"
+  },
+  {
+    "id": "lvl8-139",
+    "level": 8,
+    "order": 139,
+    "word": "mourning",
+    "pronunciation": "/ˈmɔːr.nɪŋ/",
+    "banglaPronunciation": "মোর্নিং",
+    "meaning": "Feeling or expressing deep sorrow, especially after a death.",
+    "banglaMeaning": "শোক",
+    "syllables": [
+      "mou",
+      "rning"
+    ],
+    "example": "The family was mourning their loss.",
+    "hint": "Means \"grieving\" — related to \"mourn\", contains \"mourn\".",
+    "image": "/images/level8/mourning.webp"
+  },
+  {
+    "id": "lvl8-140",
+    "level": 8,
+    "order": 140,
+    "word": "muscle",
+    "pronunciation": "/ˈmʌs.əl/",
+    "banglaPronunciation": "মাসল",
+    "meaning": "Body tissue that produces movement.",
+    "banglaMeaning": "পেশী",
+    "syllables": [
+      "mu",
+      "scle"
+    ],
+    "example": "He has strong arm muscles.",
+    "hint": "The body tissue — has a silent C.",
+    "image": "/images/level8/muscle.webp"
+  },
+  {
+    "id": "lvl8-141",
+    "level": 8,
+    "order": 141,
+    "word": "mussel",
+    "pronunciation": "/ˈmʌs.əl/",
+    "banglaPronunciation": "মাসল",
+    "meaning": "A type of shellfish.",
+    "banglaMeaning": "ঝিনুকজাতীয় প্রাণী",
+    "syllables": [
+      "mu",
+      "ssel"
+    ],
+    "example": "We ate mussels at the seafood restaurant.",
+    "hint": "The shellfish — double S, no silent C.",
+    "image": "/images/level8/mussel.webp"
+  },
+  {
+    "id": "lvl8-142",
+    "level": 8,
+    "order": 142,
+    "word": "none",
+    "pronunciation": "/nʌn/",
+    "banglaPronunciation": "নান",
+    "meaning": "Not any; not one.",
+    "banglaMeaning": "একটিও না",
+    "syllables": [
+      "no",
+      "ne"
+    ],
+    "example": "None of the students were late.",
+    "hint": "Means \"not any\" — related to \"no\", ends in silent E.",
+    "image": "/images/level8/none.webp"
+  },
+  {
+    "id": "lvl8-143",
+    "level": 8,
+    "order": 143,
+    "word": "nun",
+    "pronunciation": "/nʌn/",
+    "banglaPronunciation": "নান",
+    "meaning": "A woman who is a member of a religious order.",
+    "banglaMeaning": "সন্ন্যাসিনী",
+    "syllables": [
+      "nun"
+    ],
+    "example": "The nun prayed every morning.",
+    "hint": "A religious woman — short spelling, n-u-n.",
+    "image": "/images/level8/nun.webp"
+  },
+  {
+    "id": "lvl8-144",
+    "level": 8,
+    "order": 144,
+    "word": "oar",
+    "pronunciation": "/ɔːr/",
+    "banglaPronunciation": "ওর",
+    "meaning": "A pole used to row a boat.",
+    "banglaMeaning": "বৈঠা",
+    "syllables": [
+      "oar"
+    ],
+    "example": "He used an oar to row the boat.",
+    "hint": "The rowing pole — three letters, o-a-r.",
+    "image": "/images/level8/oar.webp"
+  },
+  {
+    "id": "lvl8-145",
+    "level": 8,
+    "order": 145,
+    "word": "ore",
+    "pronunciation": "/ɔːr/",
+    "banglaPronunciation": "ওর",
+    "meaning": "Rock containing valuable metal.",
+    "banglaMeaning": "আকরিক",
+    "syllables": [
+      "o",
+      "re"
+    ],
+    "example": "Miners dug for iron ore.",
+    "hint": "Metal-bearing rock — ends in silent E.",
+    "image": "/images/level8/ore.webp"
+  },
+  {
+    "id": "lvl8-146",
+    "level": 8,
+    "order": 146,
+    "word": "overdo",
+    "pronunciation": "/ˌoʊ.vərˈduː/",
+    "banglaPronunciation": "ওভারডু",
+    "meaning": "To do something to an excessive degree.",
+    "banglaMeaning": "অতিরিক্ত করা",
+    "syllables": [
+      "o",
+      "ve",
+      "rdo"
+    ],
+    "example": "Don't overdo the exercise.",
+    "hint": "Means \"to do too much\" — related to \"do\", no extra letters.",
+    "image": "/images/level8/overdo.webp"
+  },
+  {
+    "id": "lvl8-147",
+    "level": 8,
+    "order": 147,
+    "word": "overdue",
+    "pronunciation": "/ˌoʊ.vərˈduː/",
+    "banglaPronunciation": "ওভারডিউ",
+    "meaning": "Past the time when something should happen or be paid.",
+    "banglaMeaning": "নির্ধারিত সময় পার হয়ে গেছে",
+    "syllables": [
+      "o",
+      "ve",
+      "rdue"
+    ],
+    "example": "The library book is overdue.",
+    "hint": "Means \"past due\" — related to \"due\", ends in -due.",
+    "image": "/images/level8/overdue.webp"
+  },
+  {
+    "id": "lvl8-148",
+    "level": 8,
+    "order": 148,
+    "word": "pain",
+    "pronunciation": "/peɪn/",
+    "banglaPronunciation": "পেইন",
+    "meaning": "Physical suffering or discomfort.",
+    "banglaMeaning": "ব্যথা",
+    "syllables": [
+      "pain"
+    ],
+    "example": "She felt pain in her leg.",
+    "hint": "Physical discomfort — ends in -ain, like \"rain of hurt\".",
+    "image": "/images/level8/pain.webp"
+  },
+  {
+    "id": "lvl8-149",
+    "level": 8,
+    "order": 149,
+    "word": "pane",
+    "pronunciation": "/peɪn/",
+    "banglaPronunciation": "পেইন",
+    "meaning": "A single sheet of glass in a window.",
+    "banglaMeaning": "জানালার কাচ",
+    "syllables": [
+      "pa",
+      "ne"
+    ],
+    "example": "The pane of glass cracked.",
+    "hint": "A sheet of window glass — ends in silent E.",
+    "image": "/images/level8/pane.webp"
+  },
+  {
+    "id": "lvl8-150",
+    "level": 8,
+    "order": 150,
+    "word": "passed",
+    "pronunciation": "/pæst/",
+    "banglaPronunciation": "প্যাস্ট",
+    "meaning": "Moved by, or succeeded in a test (past tense of pass).",
+    "banglaMeaning": "পাস করেছিল",
+    "syllables": [
+      "pa",
+      "ssed"
+    ],
+    "example": "She passed the exam.",
+    "hint": "Past tense of the verb \"pass\" — double S, an action.",
+    "image": "/images/level8/passed.webp"
+  },
+  {
+    "id": "lvl8-151",
+    "level": 8,
+    "order": 151,
+    "word": "past",
+    "pronunciation": "/pæst/",
+    "banglaPronunciation": "প্যাস্ট",
+    "meaning": "Time before now.",
+    "banglaMeaning": "অতীত",
+    "syllables": [
+      "past"
+    ],
+    "example": "We talked about the past.",
+    "hint": "Means \"time before now\" — a noun/adjective, single S.",
+    "image": "/images/level8/past.webp"
+  },
+  {
+    "id": "lvl8-152",
+    "level": 8,
+    "order": 152,
+    "word": "patience",
+    "pronunciation": "/ˈpeɪ.ʃəns/",
+    "banglaPronunciation": "পেশেন্স",
+    "meaning": "The ability to wait calmly.",
+    "banglaMeaning": "ধৈর্য",
+    "syllables": [
+      "pa",
+      "tie",
+      "nce"
+    ],
+    "example": "She waited with great patience.",
+    "hint": "The ability to wait calmly — ends in -ence, an quality.",
+    "image": "/images/level8/patience.webp"
+  },
+  {
+    "id": "lvl8-153",
+    "level": 8,
+    "order": 153,
+    "word": "patients",
+    "pronunciation": "/ˈpeɪ.ʃənts/",
+    "banglaPronunciation": "পেশেন্টস",
+    "meaning": "People receiving medical care (plural of patient).",
+    "banglaMeaning": "রোগীরা",
+    "syllables": [
+      "pa",
+      "tients"
+    ],
+    "example": "The doctor saw many patients.",
+    "hint": "People under medical care — plural, ends in -ents like \"clients\".",
+    "image": "/images/level8/patients.webp"
+  },
+  {
+    "id": "lvl8-154",
+    "level": 8,
+    "order": 154,
+    "word": "peak",
+    "pronunciation": "/piːk/",
+    "banglaPronunciation": "পিক",
+    "meaning": "The pointed top of a mountain; the highest point.",
+    "banglaMeaning": "শিখর",
+    "syllables": [
+      "peak"
+    ],
+    "example": "They reached the mountain's peak.",
+    "hint": "A mountain top — has \"ea\".",
+    "image": "/images/level8/peak.webp"
+  },
+  {
+    "id": "lvl8-155",
+    "level": 8,
+    "order": 155,
+    "word": "pique",
+    "pronunciation": "/piːk/",
+    "banglaPronunciation": "পিক",
+    "meaning": "To arouse interest or curiosity.",
+    "banglaMeaning": "কৌতূহল জাগানো",
+    "syllables": [
+      "pi",
+      "que"
+    ],
+    "example": "The mystery piqued her curiosity.",
+    "hint": "Means \"to arouse interest\" — French spelling, p-i-q-u-e.",
+    "image": "/images/level8/pique.webp"
+  },
+  {
+    "id": "lvl8-156",
+    "level": 8,
+    "order": 156,
+    "word": "plum",
+    "pronunciation": "/plʌm/",
+    "banglaPronunciation": "প্লাম",
+    "meaning": "A small, round, juicy purple fruit.",
+    "banglaMeaning": "বরই জাতীয় ফল",
+    "syllables": [
+      "plum"
+    ],
+    "example": "She ate a ripe plum.",
+    "hint": "The purple fruit — short spelling, p-l-u-m.",
+    "image": "/images/level8/plum.webp"
+  },
+  {
+    "id": "lvl8-157",
+    "level": 8,
+    "order": 157,
+    "word": "plumb",
+    "pronunciation": "/plʌm/",
+    "banglaPronunciation": "প্লাম",
+    "meaning": "Exactly vertical; to work with pipes.",
+    "banglaMeaning": "পাইপের কাজ করা/সোজা",
+    "syllables": [
+      "plumb"
+    ],
+    "example": "The wall was plumb and straight.",
+    "hint": "Related to pipes/vertical lines — has a silent B.",
+    "image": "/images/level8/plumb.webp"
+  },
+  {
+    "id": "lvl8-158",
+    "level": 8,
+    "order": 158,
+    "word": "prey",
+    "pronunciation": "/preɪ/",
+    "banglaPronunciation": "প্রে",
+    "meaning": "An animal hunted by another for food.",
+    "banglaMeaning": "শিকার",
+    "syllables": [
+      "prey"
+    ],
+    "example": "The lion caught its prey.",
+    "hint": "An animal hunted for food — ends in -ey, unlike \"pray\".",
+    "image": "/images/level8/prey.webp"
+  },
+  {
+    "id": "lvl8-159",
+    "level": 8,
+    "order": 159,
+    "word": "presence",
+    "pronunciation": "/ˈprɛz.əns/",
+    "banglaPronunciation": "প্রেজেন্স",
+    "meaning": "The state of being in a place.",
+    "banglaMeaning": "উপস্থিতি",
+    "syllables": [
+      "pre",
+      "se",
+      "nce"
+    ],
+    "example": "Her presence made everyone happy.",
+    "hint": "Means \"being there\" — related to \"present\", ends in -ence.",
+    "image": "/images/level8/presence.webp"
+  },
+  {
+    "id": "lvl8-160",
+    "level": 8,
+    "order": 160,
+    "word": "presents",
+    "pronunciation": "/ˈprɛz.ənts/",
+    "banglaPronunciation": "প্রেজেন্টস",
+    "meaning": "Gifts (plural of present).",
+    "banglaMeaning": "উপহারগুলো",
+    "syllables": [
+      "pre",
+      "sents"
+    ],
+    "example": "She opened all her presents.",
+    "hint": "Gifts, plural — ends in -ents, related to \"a gift\".",
+    "image": "/images/level8/presents.webp"
+  },
+  {
+    "id": "lvl8-161",
+    "level": 8,
+    "order": 161,
+    "word": "profit",
+    "pronunciation": "/ˈprɒf.ɪt/",
+    "banglaPronunciation": "প্রফিট",
+    "meaning": "Money gained in business.",
+    "banglaMeaning": "লাভ",
+    "syllables": [
+      "pro",
+      "fit"
+    ],
+    "example": "The shop made a good profit.",
+    "hint": "Business earnings — related to \"profitable\".",
+    "image": "/images/level8/profit.webp"
+  },
+  {
+    "id": "lvl8-162",
+    "level": 8,
+    "order": 162,
+    "word": "prophet",
+    "pronunciation": "/ˈprɒf.ɪt/",
+    "banglaPronunciation": "প্রফেট",
+    "meaning": "A person who speaks messages from God.",
+    "banglaMeaning": "নবী",
+    "syllables": [
+      "pro",
+      "phet"
+    ],
+    "example": "The prophet delivered a message.",
+    "hint": "A religious messenger — has a silent PH sound but spelled with PH.",
+    "image": "/images/level8/prophet.webp"
+  },
+  {
+    "id": "lvl8-163",
+    "level": 8,
+    "order": 163,
+    "word": "raise",
+    "pronunciation": "/reɪz/",
+    "banglaPronunciation": "রেইজ",
+    "meaning": "To lift something up.",
+    "banglaMeaning": "উঁচু করা",
+    "syllables": [
+      "rai",
+      "se"
+    ],
+    "example": "Raise your hand to answer.",
+    "hint": "Means \"to lift up\" — ends in -aise.",
+    "image": "/images/level8/raise.webp"
+  },
+  {
+    "id": "lvl8-164",
+    "level": 8,
+    "order": 164,
+    "word": "rays",
+    "pronunciation": "/reɪz/",
+    "banglaPronunciation": "রেইজ",
+    "meaning": "Beams of light (plural of ray).",
+    "banglaMeaning": "রশ্মি",
+    "syllables": [
+      "rays"
+    ],
+    "example": "The sun's rays warmed the earth.",
+    "hint": "Beams of light — plural of \"ray\", ends in -ays.",
+    "image": "/images/level8/rays.webp"
+  },
+  {
+    "id": "lvl8-165",
+    "level": 8,
+    "order": 165,
+    "word": "real",
+    "pronunciation": "/ˈriː.əl/",
+    "banglaPronunciation": "রিয়েল",
+    "meaning": "Actually existing; genuine.",
+    "banglaMeaning": "আসল/প্রকৃত",
+    "syllables": [
+      "real"
+    ],
+    "example": "This is a real diamond.",
+    "hint": "Means \"genuine\" — related to \"reality\".",
+    "image": "/images/level8/real.webp"
+  },
+  {
+    "id": "lvl8-166",
+    "level": 8,
+    "order": 166,
+    "word": "reel",
+    "pronunciation": "/riːl/",
+    "banglaPronunciation": "রিল",
+    "meaning": "A spool for winding thread, film, or fishing line.",
+    "banglaMeaning": "রিল (সুতা জড়ানোর যন্ত্র)",
+    "syllables": [
+      "reel"
+    ],
+    "example": "He wound the fishing reel.",
+    "hint": "A spool for winding things — double E.",
+    "image": "/images/level8/reel.webp"
+  },
+  {
+    "id": "lvl8-167",
+    "level": 8,
+    "order": 167,
+    "word": "route",
+    "pronunciation": "/ruːt/",
+    "banglaPronunciation": "রুট",
+    "meaning": "A path taken to get somewhere.",
+    "banglaMeaning": "পথ",
+    "syllables": [
+      "rou",
+      "te"
+    ],
+    "example": "We took a scenic route home.",
+    "hint": "A path or way — has a silent E, French origin.",
+    "image": "/images/level8/route.webp"
+  },
+  {
+    "id": "lvl8-168",
+    "level": 8,
+    "order": 168,
+    "word": "rose",
+    "pronunciation": "/roʊz/",
+    "banglaPronunciation": "রোজ",
+    "meaning": "A flower with thorns; past tense of rise.",
+    "banglaMeaning": "গোলাপ/উঠেছিল",
+    "syllables": [
+      "ro",
+      "se"
+    ],
+    "example": "She gave him a red rose.",
+    "hint": "A thorny flower, or past tense of \"rise\" — ends in silent E.",
+    "image": "/images/level8/rose.webp"
+  },
+  {
+    "id": "lvl8-169",
+    "level": 8,
+    "order": 169,
+    "word": "rows",
+    "pronunciation": "/roʊz/",
+    "banglaPronunciation": "রোজ",
+    "meaning": "Lines of things arranged side by side (plural of row).",
+    "banglaMeaning": "সারি",
+    "syllables": [
+      "rows"
+    ],
+    "example": "The seats were arranged in rows.",
+    "hint": "Lines of things, plural of \"row\" — ends in -ows.",
+    "image": "/images/level8/rows.webp"
+  },
+  {
+    "id": "lvl8-170",
+    "level": 8,
+    "order": 170,
+    "word": "rung",
+    "pronunciation": "/rʌŋ/",
+    "banglaPronunciation": "রাং",
+    "meaning": "A bar forming a step of a ladder; past participle of ring.",
+    "banglaMeaning": "মইয়ের ধাপ/বেজেছিল",
+    "syllables": [
+      "rung"
+    ],
+    "example": "He climbed each rung of the ladder.",
+    "hint": "A ladder step, or past participle of \"ring\" — ends in -ung.",
+    "image": "/images/level8/rung.webp"
+  },
+  {
+    "id": "lvl8-171",
+    "level": 8,
+    "order": 171,
+    "word": "wrung",
+    "pronunciation": "/rʌŋ/",
+    "banglaPronunciation": "রাং",
+    "meaning": "Past tense of wring (to twist and squeeze).",
+    "banglaMeaning": "নিংড়েছিল",
+    "syllables": [
+      "wrung"
+    ],
+    "example": "She wrung out the wet towel.",
+    "hint": "Past tense of \"wring\" (to twist) — starts with a silent W.",
+    "image": "/images/level8/wrung.webp"
+  },
+  {
+    "id": "lvl8-172",
+    "level": 8,
+    "order": 172,
+    "word": "seam",
+    "pronunciation": "/siːm/",
+    "banglaPronunciation": "সিম",
+    "meaning": "A line where two pieces of fabric are sewn together.",
+    "banglaMeaning": "সেলাইয়ের রেখা",
+    "syllables": [
+      "seam"
+    ],
+    "example": "The seam of the shirt ripped.",
+    "hint": "A sewn line — has \"ea\".",
+    "image": "/images/level8/seam.webp"
+  },
+  {
+    "id": "lvl8-173",
+    "level": 8,
+    "order": 173,
+    "word": "seem",
+    "pronunciation": "/siːm/",
+    "banglaPronunciation": "সিম",
+    "meaning": "To appear to be.",
+    "banglaMeaning": "মনে হওয়া",
+    "syllables": [
+      "seem"
+    ],
+    "example": "You seem tired today.",
+    "hint": "Means \"to appear\" — double E.",
+    "image": "/images/level8/seem.webp"
+  },
+  {
+    "id": "lvl8-174",
+    "level": 8,
+    "order": 174,
+    "word": "seas",
+    "pronunciation": "/siːz/",
+    "banglaPronunciation": "সিজ",
+    "meaning": "Large bodies of salt water (plural of sea).",
+    "banglaMeaning": "সমুদ্রগুলো",
+    "syllables": [
+      "seas"
+    ],
+    "example": "Ships sailed across the seas.",
+    "hint": "Bodies of water, plural of \"sea\" — has \"ea\".",
+    "image": "/images/level8/seas.webp"
+  },
+  {
+    "id": "lvl8-175",
+    "level": 8,
+    "order": 175,
+    "word": "sees",
+    "pronunciation": "/siːz/",
+    "banglaPronunciation": "সিজ",
+    "meaning": "Notices with the eyes (present tense of see).",
+    "banglaMeaning": "দেখে",
+    "syllables": [
+      "sees"
+    ],
+    "example": "She sees the mountains from her window.",
+    "hint": "The verb \"see\" with an S — double E.",
+    "image": "/images/level8/sees.webp"
+  },
+  {
+    "id": "lvl8-176",
+    "level": 8,
+    "order": 176,
+    "word": "seize",
+    "pronunciation": "/siːz/",
+    "banglaPronunciation": "সিজ",
+    "meaning": "To grab or take hold of suddenly.",
+    "banglaMeaning": "ছিনিয়ে নেওয়া",
+    "syllables": [
+      "sei",
+      "ze"
+    ],
+    "example": "The police seized the stolen goods.",
+    "hint": "Means \"to grab suddenly\" — tricky spelling, i before e here.",
+    "image": "/images/level8/seize.webp"
+  },
+  {
+    "id": "lvl8-177",
+    "level": 8,
+    "order": 177,
+    "word": "sole",
+    "pronunciation": "/soʊl/",
+    "banglaPronunciation": "সোল",
+    "meaning": "The bottom of a foot or shoe; only one.",
+    "banglaMeaning": "পায়ের তলা/একমাত্র",
+    "syllables": [
+      "so",
+      "le"
+    ],
+    "example": "He wore a hole in his shoe's sole.",
+    "hint": "The bottom of a shoe, or \"only one\" — ends in silent E.",
+    "image": "/images/level8/sole.webp"
+  },
+  {
+    "id": "lvl8-178",
+    "level": 8,
+    "order": 178,
+    "word": "soul",
+    "pronunciation": "/soʊl/",
+    "banglaPronunciation": "সোল",
+    "meaning": "The spiritual part of a person.",
+    "banglaMeaning": "আত্মা",
+    "syllables": [
+      "soul"
+    ],
+    "example": "They believe in the soul's journey.",
+    "hint": "The spiritual self — has \"ou\", like \"you're soulful\".",
+    "image": "/images/level8/soul.webp"
+  },
+  {
+    "id": "lvl8-179",
+    "level": 8,
+    "order": 179,
+    "word": "some",
+    "pronunciation": "/sʌm/",
+    "banglaPronunciation": "সাম",
+    "meaning": "An unspecified amount or number.",
+    "banglaMeaning": "কিছু",
+    "syllables": [
+      "so",
+      "me"
+    ],
+    "example": "Can I have some water?",
+    "hint": "Means \"an amount of\" — ends in silent E.",
+    "image": "/images/level8/some.webp"
+  },
+  {
+    "id": "lvl8-180",
+    "level": 8,
+    "order": 180,
+    "word": "sum",
+    "pronunciation": "/sʌm/",
+    "banglaPronunciation": "সাম",
+    "meaning": "A total amount, especially in math.",
+    "banglaMeaning": "যোগফল",
+    "syllables": [
+      "sum"
+    ],
+    "example": "Find the sum of these numbers.",
+    "hint": "A math total — short spelling, s-u-m.",
+    "image": "/images/level8/sum.webp"
+  },
+  {
+    "id": "lvl8-181",
+    "level": 8,
+    "order": 181,
+    "word": "straight",
+    "pronunciation": "/streɪt/",
+    "banglaPronunciation": "স্ট্রেইট",
+    "meaning": "Without a curve or bend.",
+    "banglaMeaning": "সোজা",
+    "syllables": [
+      "straight"
+    ],
+    "example": "Draw a straight line.",
+    "hint": "Means \"not curved\" — has a silent GH.",
+    "image": "/images/level8/straight.webp"
+  },
+  {
+    "id": "lvl8-182",
+    "level": 8,
+    "order": 182,
+    "word": "strait",
+    "pronunciation": "/streɪt/",
+    "banglaPronunciation": "স্ট্রেইট",
+    "meaning": "A narrow passage of water connecting two seas.",
+    "banglaMeaning": "প্রণালী",
+    "syllables": [
+      "strait"
+    ],
+    "example": "Ships passed through the strait.",
+    "hint": "A narrow water passage — no silent GH, ends in -ait.",
+    "image": "/images/level8/strait.webp"
+  },
+  {
+    "id": "lvl8-183",
+    "level": 8,
+    "order": 183,
+    "word": "suite",
+    "pronunciation": "/swiːt/",
+    "banglaPronunciation": "সুইট",
+    "meaning": "A set of connected rooms, especially in a hotel.",
+    "banglaMeaning": "স্যুট (কক্ষসমূহ)",
+    "syllables": [
+      "sui",
+      "te"
+    ],
+    "example": "They stayed in a hotel suite.",
+    "hint": "A set of connected rooms — silent E, pronounced \"sweet\".",
+    "image": "/images/level8/suite.webp"
+  },
+  {
+    "id": "lvl8-184",
+    "level": 8,
+    "order": 184,
+    "word": "sweet",
+    "pronunciation": "/swiːt/",
+    "banglaPronunciation": "সুইট",
+    "meaning": "Tasting like sugar; pleasant.",
+    "banglaMeaning": "মিষ্টি",
+    "syllables": [
+      "sweet"
+    ],
+    "example": "The cake tasted very sweet.",
+    "hint": "Means \"sugary\" — double E, w spelling.",
+    "image": "/images/level8/sweet.webp"
+  },
+  {
+    "id": "lvl8-185",
+    "level": 8,
+    "order": 185,
+    "word": "symbol",
+    "pronunciation": "/ˈsɪm.bəl/",
+    "banglaPronunciation": "সিম্বল",
+    "meaning": "A sign or mark that represents something.",
+    "banglaMeaning": "প্রতীক",
+    "syllables": [
+      "symbol"
+    ],
+    "example": "The dove is a symbol of peace.",
+    "hint": "A representative sign — ends in -bol.",
+    "image": "/images/level8/symbol.webp"
+  },
+  {
+    "id": "lvl8-186",
+    "level": 8,
+    "order": 186,
+    "word": "cymbal",
+    "pronunciation": "/ˈsɪm.bəl/",
+    "banglaPronunciation": "সিম্বল",
+    "meaning": "A round brass musical instrument.",
+    "banglaMeaning": "করতাল (বাদ্যযন্ত্র)",
+    "syllables": [
+      "cymbal"
+    ],
+    "example": "The drummer hit the cymbal.",
+    "hint": "The brass musical instrument — starts with C, not S.",
+    "image": "/images/level8/cymbal.webp"
+  },
+  {
+    "id": "lvl8-187",
+    "level": 8,
+    "order": 187,
+    "word": "tacks",
+    "pronunciation": "/tæks/",
+    "banglaPronunciation": "ট্যাক্স",
+    "meaning": "Small, sharp nails (plural of tack).",
+    "banglaMeaning": "ছোট পেরেক",
+    "syllables": [
+      "tacks"
+    ],
+    "example": "He hammered the tacks into the board.",
+    "hint": "Small sharp nails, plural of \"tack\" — ends in -acks.",
+    "image": "/images/level8/tacks.webp"
+  },
+  {
+    "id": "lvl8-188",
+    "level": 8,
+    "order": 188,
+    "word": "tax",
+    "pronunciation": "/tæks/",
+    "banglaPronunciation": "ট্যাক্স",
+    "meaning": "Money paid to the government.",
+    "banglaMeaning": "কর",
+    "syllables": [
+      "tax"
+    ],
+    "example": "We pay tax on our income.",
+    "hint": "Government money — short spelling, t-a-x.",
+    "image": "/images/level8/tax.webp"
+  },
+  {
+    "id": "lvl8-189",
+    "level": 8,
+    "order": 189,
+    "word": "team",
+    "pronunciation": "/tiːm/",
+    "banglaPronunciation": "টিম",
+    "meaning": "A group of people working together.",
+    "banglaMeaning": "দল",
+    "syllables": [
+      "team"
+    ],
+    "example": "Our team won the match.",
+    "hint": "A working group — has \"ea\".",
+    "image": "/images/level8/team.webp"
+  },
+  {
+    "id": "lvl8-190",
+    "level": 8,
+    "order": 190,
+    "word": "teem",
+    "pronunciation": "/tiːm/",
+    "banglaPronunciation": "টিম",
+    "meaning": "To be full of; to swarm.",
+    "banglaMeaning": "পূর্ণ থাকা/ঝাঁকে ঝাঁকে থাকা",
+    "syllables": [
+      "teem"
+    ],
+    "example": "The pond teems with fish.",
+    "hint": "Means \"to be full of\" — double E.",
+    "image": "/images/level8/teem.webp"
+  },
+  {
+    "id": "lvl8-191",
+    "level": 8,
+    "order": 191,
+    "word": "thrown",
+    "pronunciation": "/θroʊn/",
+    "banglaPronunciation": "থ্রোন",
+    "meaning": "Past participle of throw.",
+    "banglaMeaning": "ছুঁড়ে দেওয়া হয়েছে",
+    "syllables": [
+      "thrown"
+    ],
+    "example": "The ball was thrown far.",
+    "hint": "Past participle of \"throw\" — related to \"throw\", plus -n.",
+    "image": "/images/level8/thrown.webp"
+  },
+  {
+    "id": "lvl8-192",
+    "level": 8,
+    "order": 192,
+    "word": "tide",
+    "pronunciation": "/taɪd/",
+    "banglaPronunciation": "টাইড",
+    "meaning": "The rise and fall of the sea.",
+    "banglaMeaning": "জোয়ার-ভাটা",
+    "syllables": [
+      "ti",
+      "de"
+    ],
+    "example": "The tide came in quickly.",
+    "hint": "The sea's rise and fall — ends in silent E.",
+    "image": "/images/level8/tide.webp"
+  },
+  {
+    "id": "lvl8-193",
+    "level": 8,
+    "order": 193,
+    "word": "tied",
+    "pronunciation": "/taɪd/",
+    "banglaPronunciation": "টাইড",
+    "meaning": "Past tense of tie; also, an equal score.",
+    "banglaMeaning": "বেঁধেছিল/সমতা",
+    "syllables": [
+      "tied"
+    ],
+    "example": "She tied her shoelaces.",
+    "hint": "Past tense of \"tie\" — related to \"tie\", plus -d.",
+    "image": "/images/level8/tied.webp"
+  },
+  {
+    "id": "lvl8-194",
+    "level": 8,
+    "order": 194,
+    "word": "toe",
+    "pronunciation": "/toʊ/",
+    "banglaPronunciation": "টো",
+    "meaning": "One of the digits on a foot.",
+    "banglaMeaning": "পায়ের আঙুল",
+    "syllables": [
+      "toe"
+    ],
+    "example": "She stubbed her toe.",
+    "hint": "A foot digit — three letters, t-o-e.",
+    "image": "/images/level8/toe.webp"
+  },
+  {
+    "id": "lvl8-195",
+    "level": 8,
+    "order": 195,
+    "word": "tow",
+    "pronunciation": "/toʊ/",
+    "banglaPronunciation": "টো",
+    "meaning": "To pull a vehicle using a rope or chain.",
+    "banglaMeaning": "টেনে নেওয়া",
+    "syllables": [
+      "tow"
+    ],
+    "example": "The truck will tow the broken car.",
+    "hint": "Means \"to pull a vehicle\" — ends in -ow, like \"row\".",
+    "image": "/images/level8/tow.webp"
+  },
+  {
+    "id": "lvl8-196",
+    "level": 8,
+    "order": 196,
+    "word": "told",
+    "pronunciation": "/toʊld/",
+    "banglaPronunciation": "টোল্ড",
+    "meaning": "Past tense of tell.",
+    "banglaMeaning": "বলেছিল",
+    "syllables": [
+      "told"
+    ],
+    "example": "She told me a secret.",
+    "hint": "Past tense of \"tell\" — related to \"tell\".",
+    "image": "/images/level8/told.webp"
+  },
+  {
+    "id": "lvl8-197",
+    "level": 8,
+    "order": 197,
+    "word": "tolled",
+    "pronunciation": "/toʊld/",
+    "banglaPronunciation": "টোল্ড",
+    "meaning": "Rang slowly and repeatedly (past tense of toll).",
+    "banglaMeaning": "ঘণ্টা বেজেছিল",
+    "syllables": [
+      "to",
+      "lled"
+    ],
+    "example": "The bell tolled at noon.",
+    "hint": "Past tense of \"toll\" (to ring a bell) — double L.",
+    "image": "/images/level8/tolled.webp"
+  },
+  {
+    "id": "lvl8-198",
+    "level": 8,
+    "order": 198,
+    "word": "vain",
+    "pronunciation": "/veɪn/",
+    "banglaPronunciation": "ভেইন",
+    "meaning": "Excessively proud of one's appearance; useless.",
+    "banglaMeaning": "অহংকারী/নিষ্ফল",
+    "syllables": [
+      "vain"
+    ],
+    "example": "He is too vain about his looks.",
+    "hint": "Means \"overly proud\" — ends in -ain.",
+    "image": "/images/level8/vain.webp"
+  },
+  {
+    "id": "lvl8-199",
+    "level": 8,
+    "order": 199,
+    "word": "vein",
+    "pronunciation": "/veɪn/",
+    "banglaPronunciation": "ভেইন",
+    "meaning": "A blood vessel carrying blood to the heart.",
+    "banglaMeaning": "শিরা",
+    "syllables": [
+      "vein"
+    ],
+    "example": "Blood flows through each vein.",
+    "hint": "The blood vessel — ends in -ein, e before i.",
+    "image": "/images/level8/vein.webp"
+  },
+  {
+    "id": "lvl8-200",
+    "level": 8,
+    "order": 200,
+    "word": "vane",
+    "pronunciation": "/veɪn/",
+    "banglaPronunciation": "ভেইন",
+    "meaning": "A device that shows wind direction.",
+    "banglaMeaning": "বাতাসের দিক নির্দেশক",
+    "syllables": [
+      "va",
+      "ne"
+    ],
+    "example": "The weather vane spun in the wind.",
+    "hint": "The wind-direction device — ends in silent E.",
+    "image": "/images/level8/vane.webp"
+  },
+  {
+    "id": "lvl8-201",
+    "level": 8,
+    "order": 201,
+    "word": "vary",
+    "pronunciation": "/ˈvɛr.i/",
+    "banglaPronunciation": "ভ্যারি",
+    "meaning": "To differ or change.",
+    "banglaMeaning": "পরিবর্তিত হওয়া",
+    "syllables": [
+      "vary"
+    ],
+    "example": "Prices vary by store.",
+    "hint": "Means \"to change/differ\" — related to \"variety\".",
+    "image": "/images/level8/vary.webp"
+  },
+  {
+    "id": "lvl8-202",
+    "level": 8,
+    "order": 202,
+    "word": "very",
+    "pronunciation": "/ˈvɛr.i/",
+    "banglaPronunciation": "ভেরি",
+    "meaning": "To a high degree.",
+    "banglaMeaning": "অত্যন্ত",
+    "syllables": [
+      "very"
+    ],
+    "example": "She is very happy today.",
+    "hint": "Means \"extremely\" — a common intensifier word.",
+    "image": "/images/level8/very.webp"
+  },
+  {
+    "id": "lvl8-203",
+    "level": 8,
+    "order": 203,
+    "word": "wade",
+    "pronunciation": "/weɪd/",
+    "banglaPronunciation": "ওয়েড",
+    "meaning": "To walk through water or mud.",
+    "banglaMeaning": "পানির মধ্য দিয়ে হাঁটা",
+    "syllables": [
+      "wa",
+      "de"
+    ],
+    "example": "The kids waded in the shallow river.",
+    "hint": "Means \"to walk through water\" — ends in silent E.",
+    "image": "/images/level8/wade.webp"
+  },
+  {
+    "id": "lvl8-204",
+    "level": 8,
+    "order": 204,
+    "word": "weighed",
+    "pronunciation": "/weɪd/",
+    "banglaPronunciation": "ওয়েড",
+    "meaning": "Past tense of weigh.",
+    "banglaMeaning": "ওজন করেছিল",
+    "syllables": [
+      "wei",
+      "ghed"
+    ],
+    "example": "She weighed the fruit at the store.",
+    "hint": "Past tense of \"weigh\" — has a silent GH like \"weight\".",
+    "image": "/images/level8/weighed.webp"
+  },
+  {
+    "id": "lvl8-205",
+    "level": 8,
+    "order": 205,
+    "word": "waive",
+    "pronunciation": "/weɪv/",
+    "banglaPronunciation": "ওয়েইভ",
+    "meaning": "To give up a right or claim voluntarily.",
+    "banglaMeaning": "পরিত্যাগ করা",
+    "syllables": [
+      "wai",
+      "ve"
+    ],
+    "example": "The school waived the late fee.",
+    "hint": "Means \"to give up a right\" — spelled w-a-i-v-e.",
+    "image": "/images/level8/waive.webp"
+  },
+  {
+    "id": "lvl8-206",
+    "level": 8,
+    "order": 206,
+    "word": "warn",
+    "pronunciation": "/wɔːrn/",
+    "banglaPronunciation": "ওয়ার্ন",
+    "meaning": "To tell someone about a possible danger.",
+    "banglaMeaning": "সতর্ক করা",
+    "syllables": [
+      "warn"
+    ],
+    "example": "I warn you, the road is icy.",
+    "hint": "Means \"to alert of danger\" — related to \"warning\".",
+    "image": "/images/level8/warn.webp"
+  },
+  {
+    "id": "lvl8-207",
+    "level": 8,
+    "order": 207,
+    "word": "worn",
+    "pronunciation": "/wɔːrn/",
+    "banglaPronunciation": "ওয়ার্ন",
+    "meaning": "Past participle of wear; damaged from use.",
+    "banglaMeaning": "পরিধান করা হয়েছে/জীর্ণ",
+    "syllables": [
+      "worn"
+    ],
+    "example": "His shoes were worn out.",
+    "hint": "Past participle of \"wear\" — related to \"wear\".",
+    "image": "/images/level8/worn.webp"
+  },
+  {
+    "id": "lvl8-208",
+    "level": 8,
+    "order": 208,
+    "word": "weigh",
+    "pronunciation": "/weɪ/",
+    "banglaPronunciation": "ওয়ে",
+    "meaning": "To measure how heavy something is.",
+    "banglaMeaning": "ওজন মাপা",
+    "syllables": [
+      "weigh"
+    ],
+    "example": "Please weigh the apples.",
+    "hint": "Means \"to measure heaviness\" — has a silent GH.",
+    "image": "/images/level8/weigh.webp"
+  },
+  {
+    "id": "lvl8-209",
+    "level": 8,
+    "order": 209,
+    "word": "whine",
+    "pronunciation": "/waɪn/",
+    "banglaPronunciation": "ওয়াইন",
+    "meaning": "To complain in a high-pitched voice.",
+    "banglaMeaning": "কান্নাকাটি করা",
+    "syllables": [
+      "whi",
+      "ne"
+    ],
+    "example": "The puppy began to whine.",
+    "hint": "Means \"to complain\" — starts with WH, related to a whining sound.",
+    "image": "/images/level8/whine.webp"
+  },
+  {
+    "id": "lvl8-210",
+    "level": 8,
+    "order": 210,
+    "word": "who's",
+    "pronunciation": "/huːz/",
+    "banglaPronunciation": "হুজ",
+    "meaning": "Contraction of 'who is' or 'who has'.",
+    "banglaMeaning": "কে আছে (সংক্ষেপ)",
+    "syllables": [
+      "who's"
+    ],
+    "example": "Who's coming to the party?",
+    "hint": "Short for \"who is\" — has an apostrophe.",
+    "image": "/images/level8/whos.webp"
+  },
+  {
+    "id": "lvl8-211",
+    "level": 8,
+    "order": 211,
+    "word": "whose",
+    "pronunciation": "/huːz/",
+    "banglaPronunciation": "হুজ",
+    "meaning": "Belonging to whom.",
+    "banglaMeaning": "কার",
+    "syllables": [
+      "who",
+      "se"
+    ],
+    "example": "Whose bag is this?",
+    "hint": "Shows ownership — no apostrophe, unlike \"who's\".",
+    "image": "/images/level8/whose.webp"
+  },
+  {
+    "id": "lvl8-212",
+    "level": 8,
+    "order": 212,
+    "word": "canvas",
+    "pronunciation": "/ˈkæn.vəs/",
+    "banglaPronunciation": "ক্যানভাস",
+    "meaning": "A heavy cloth used for painting or tents.",
+    "banglaMeaning": "ক্যানভাস (কাপড়)",
+    "syllables": [
+      "ca",
+      "nvas"
+    ],
+    "example": "The artist painted on canvas.",
+    "hint": "The heavy painting cloth — single S at the end.",
+    "image": "/images/level8/canvas.webp"
+  },
+  {
+    "id": "lvl8-213",
+    "level": 8,
+    "order": 213,
+    "word": "canvass",
+    "pronunciation": "/ˈkæn.vəs/",
+    "banglaPronunciation": "ক্যানভাস",
+    "meaning": "To ask people for votes or opinions.",
+    "banglaMeaning": "ভোট চাওয়া/মতামত সংগ্রহ করা",
+    "syllables": [
+      "ca",
+      "nvass"
+    ],
+    "example": "Volunteers canvassed the neighborhood.",
+    "hint": "Means \"to ask for votes\" — double S at the end.",
+    "image": "/images/level8/canvass.webp"
+  },
+  {
+    "id": "lvl8-214",
+    "level": 8,
+    "order": 214,
+    "word": "current",
+    "pronunciation": "/ˈkʌr.ənt/",
+    "banglaPronunciation": "কারেন্ট",
+    "meaning": "Happening now; a flow of water or electricity.",
+    "banglaMeaning": "বর্তমান/স্রোত",
+    "syllables": [
+      "cu",
+      "rrent"
+    ],
+    "example": "The current situation is difficult.",
+    "hint": "Means \"happening now\" or \"a flow\" — ends in -ent.",
+    "image": "/images/level8/current.webp"
+  },
+  {
+    "id": "lvl8-215",
+    "level": 8,
+    "order": 215,
+    "word": "currant",
+    "pronunciation": "/ˈkʌr.ənt/",
+    "banglaPronunciation": "কারেন্ট",
+    "meaning": "A small dried fruit, like a tiny raisin.",
+    "banglaMeaning": "কিশমিশজাতীয় ফল",
+    "syllables": [
+      "cu",
+      "rrant"
+    ],
+    "example": "She added currants to the cake.",
+    "hint": "The small dried fruit — ends in -ant, like \"a plant\".",
+    "image": "/images/level8/currant.webp"
+  },
+  {
+    "id": "lvl8-216",
+    "level": 8,
+    "order": 216,
+    "word": "cite",
+    "pronunciation": "/saɪt/",
+    "banglaPronunciation": "সাইট",
+    "meaning": "To quote or refer to as evidence.",
+    "banglaMeaning": "উদ্ধৃত করা",
+    "syllables": [
+      "ci",
+      "te"
+    ],
+    "example": "She cited the book in her essay.",
+    "hint": "Means \"to quote as a source\" — ends in silent E.",
+    "image": "/images/level8/cite.webp"
+  },
+  {
+    "id": "lvl8-217",
+    "level": 8,
+    "order": 217,
+    "word": "site",
+    "pronunciation": "/saɪt/",
+    "banglaPronunciation": "সাইট",
+    "meaning": "A location or place, often for building.",
+    "banglaMeaning": "স্থান/সাইট",
+    "syllables": [
+      "si",
+      "te"
+    ],
+    "example": "They built a house on the site.",
+    "hint": "A location or place — ends in silent E, different meaning from \"cite\".",
+    "image": "/images/level8/site.webp"
+  },
+  {
+    "id": "lvl8-218",
+    "level": 8,
+    "order": 218,
+    "word": "gorilla",
+    "pronunciation": "/ɡəˈrɪl.ə/",
+    "banglaPronunciation": "গরিলা",
+    "meaning": "A large, powerful ape.",
+    "banglaMeaning": "গরিলা",
+    "syllables": [
+      "go",
+      "ri",
+      "lla"
+    ],
+    "example": "The gorilla ate leaves in the zoo.",
+    "hint": "The large ape — double L.",
+    "image": "/images/level8/gorilla.webp"
+  },
+  {
+    "id": "lvl8-219",
+    "level": 8,
+    "order": 219,
+    "word": "guerrilla",
+    "pronunciation": "/ɡəˈrɪl.ə/",
+    "banglaPronunciation": "গেরিলা",
+    "meaning": "A fighter using irregular combat tactics.",
+    "banglaMeaning": "গেরিলা যোদ্ধা",
+    "syllables": [
+      "gue",
+      "rri",
+      "lla"
+    ],
+    "example": "The guerrilla fighters hid in the jungle.",
+    "hint": "An irregular-warfare fighter — double R and double L.",
+    "image": "/images/level8/guerrilla.webp"
+  },
+  {
+    "id": "lvl8-220",
+    "level": 8,
+    "order": 220,
+    "word": "vial",
+    "pronunciation": "/ˈvaɪ.əl/",
+    "banglaPronunciation": "ভায়াল",
+    "meaning": "A small glass container for liquids.",
+    "banglaMeaning": "ছোট শিশি",
+    "syllables": [
+      "vial"
+    ],
+    "example": "The nurse filled a vial with medicine.",
+    "hint": "A small glass bottle — ends in -ial.",
+    "image": "/images/level8/vial.webp"
+  },
+  {
+    "id": "lvl8-221",
+    "level": 8,
+    "order": 221,
+    "word": "vile",
+    "pronunciation": "/vaɪl/",
+    "banglaPronunciation": "ভাইল",
+    "meaning": "Extremely unpleasant or morally bad.",
+    "banglaMeaning": "জঘন্য",
+    "syllables": [
+      "vi",
+      "le"
+    ],
+    "example": "The food had a vile smell.",
+    "hint": "Means \"very unpleasant\" — ends in silent E.",
+    "image": "/images/level8/vile.webp"
+  },
+  {
+    "id": "lvl8-222",
+    "level": 8,
+    "order": 222,
+    "word": "descent",
+    "pronunciation": "/dɪˈsɛnt/",
+    "banglaPronunciation": "ডিসেন্ট",
+    "meaning": "The act of moving downward.",
+    "banglaMeaning": "অবতরণ",
+    "syllables": [
+      "de",
+      "scent"
+    ],
+    "example": "The plane began its descent.",
+    "hint": "Means \"moving downward\" — related to \"descend\".",
+    "image": "/images/level8/descent.webp"
+  },
+  {
+    "id": "lvl8-223",
+    "level": 8,
+    "order": 223,
+    "word": "dissent",
+    "pronunciation": "/dɪˈsɛnt/",
+    "banglaPronunciation": "ডিসেন্ট",
+    "meaning": "Disagreement with an official opinion.",
+    "banglaMeaning": "মতভেদ",
+    "syllables": [
+      "di",
+      "ssent"
+    ],
+    "example": "There was dissent among the group.",
+    "hint": "Means \"disagreement\" — double S, related to \"disagree\".",
+    "image": "/images/level8/dissent.webp"
+  },
+  {
+    "id": "lvl8-224",
+    "level": 8,
+    "order": 224,
+    "word": "gait",
+    "pronunciation": "/ɡeɪt/",
+    "banglaPronunciation": "গেইট",
+    "meaning": "A person's manner of walking.",
+    "banglaMeaning": "চলাফেরার ভঙ্গি",
+    "syllables": [
+      "gait"
+    ],
+    "example": "He walked with a limping gait.",
+    "hint": "A walking style — ends in -ait, like \"wait\".",
+    "image": "/images/level8/gait.webp"
+  },
+  {
+    "id": "lvl8-225",
+    "level": 8,
+    "order": 225,
+    "word": "flair",
+    "pronunciation": "/flɛr/",
+    "banglaPronunciation": "ফ্লেয়ার",
+    "meaning": "A natural talent or stylish quality.",
+    "banglaMeaning": "স্বাভাবিক দক্ষতা/রুচি",
+    "syllables": [
+      "flair"
+    ],
+    "example": "She has a flair for design.",
+    "hint": "A natural stylish talent — ends in -air.",
+    "image": "/images/level8/flair.webp"
+  },
+  {
+    "id": "lvl8-226",
+    "level": 8,
+    "order": 226,
+    "word": "flare",
+    "pronunciation": "/flɛr/",
+    "banglaPronunciation": "ফ্লেয়ার",
+    "meaning": "A sudden bright flame or burst of light.",
+    "banglaMeaning": "জ্বলন্ত আলো",
+    "syllables": [
+      "fla",
+      "re"
+    ],
+    "example": "The flare lit up the dark sky.",
+    "hint": "A bright burst of light — ends in silent E.",
+    "image": "/images/level8/flare.webp"
+  },
+  {
+    "id": "lvl8-227",
+    "level": 8,
+    "order": 227,
+    "word": "aisle",
+    "pronunciation": "/aɪl/",
+    "banglaPronunciation": "আইল",
+    "meaning": "A passage between rows of seats or shelves.",
+    "banglaMeaning": "সারির মাঝের পথ",
+    "syllables": [
+      "ai",
+      "sle"
+    ],
+    "example": "She walked down the store aisle.",
+    "hint": "A passage between rows — has a silent S.",
+    "image": "/images/level8/aisle.webp"
+  },
+  {
+    "id": "lvl8-228",
+    "level": 8,
+    "order": 228,
+    "word": "isle",
+    "pronunciation": "/aɪl/",
+    "banglaPronunciation": "আইল",
+    "meaning": "A small island.",
+    "banglaMeaning": "দ্বীপ",
+    "syllables": [
+      "i",
+      "sle"
+    ],
+    "example": "They sailed to a small isle.",
+    "hint": "A small island — short spelling, i-s-l-e.",
+    "image": "/images/level8/isle.webp"
+  },
+  {
+    "id": "lvl8-229",
+    "level": 8,
+    "order": 229,
+    "word": "yolk",
+    "pronunciation": "/joʊk/",
+    "banglaPronunciation": "ইয়োক",
+    "meaning": "The yellow part of an egg.",
+    "banglaMeaning": "ডিমের কুসুম",
+    "syllables": [
+      "yolk"
+    ],
+    "example": "The yolk of the egg was bright orange.",
+    "hint": "The yellow egg part — has a silent L.",
+    "image": "/images/level8/yolk.webp"
+  },
+  {
+    "id": "lvl8-230",
+    "level": 8,
+    "order": 230,
+    "word": "yoke",
+    "pronunciation": "/joʊk/",
+    "banglaPronunciation": "ইয়োক",
+    "meaning": "A wooden bar joining two animals to pull a load.",
+    "banglaMeaning": "জোয়াল",
+    "syllables": [
+      "yo",
+      "ke"
+    ],
+    "example": "The oxen wore a wooden yoke.",
+    "hint": "A wooden animal harness — no silent L, just y-o-k-e.",
+    "image": "/images/level8/yoke.webp"
+  },
+  {
+    "id": "lvl8-231",
+    "level": 8,
+    "order": 231,
+    "word": "human",
+    "pronunciation": "/ˈhjuː.mən/",
+    "banglaPronunciation": "হিউম্যান",
+    "meaning": "A member of the species Homo sapiens; relating to people.",
+    "banglaMeaning": "মানুষ",
+    "syllables": [
+      "hu",
+      "man"
+    ],
+    "example": "Every human needs food and water.",
+    "hint": "A person — related to \"humanity\".",
+    "image": "/images/level8/human.webp"
+  },
+  {
+    "id": "lvl8-232",
+    "level": 8,
+    "order": 232,
+    "word": "humane",
+    "pronunciation": "/hjuːˈmeɪn/",
+    "banglaPronunciation": "হিউমেইন",
+    "meaning": "Showing kindness and compassion.",
+    "banglaMeaning": "মানবিক/দয়ালু",
+    "syllables": [
+      "hu",
+      "ma",
+      "ne"
+    ],
+    "example": "They treated the animals in a humane way.",
+    "hint": "Means \"kind and compassionate\" — ends in silent E, stress on second syllable.",
+    "image": "/images/level8/humane.webp"
+  },
+  {
+    "id": "lvl8-233",
+    "level": 8,
+    "order": 233,
+    "word": "dual",
+    "pronunciation": "/ˈduː.əl/",
+    "banglaPronunciation": "ডুয়াল",
+    "meaning": "Consisting of two parts; double.",
+    "banglaMeaning": "দ্বৈত",
+    "syllables": [
+      "dual"
+    ],
+    "example": "The car has dual controls.",
+    "hint": "Means \"having two parts\" — related to the number \"two\".",
+    "image": "/images/level8/dual.webp"
+  },
+  {
+    "id": "lvl8-234",
+    "level": 8,
+    "order": 234,
+    "word": "duel",
+    "pronunciation": "/ˈduː.əl/",
+    "banglaPronunciation": "ডুয়েল",
+    "meaning": "A fight between two people, often with weapons.",
+    "banglaMeaning": "দ্বন্দ্বযুদ্ধ",
+    "syllables": [
+      "duel"
+    ],
+    "example": "The knights fought a duel.",
+    "hint": "A fight between two people — related to the word \"duo\".",
+    "image": "/images/level8/duel.webp"
+  },
+  {
+    "id": "lvl8-235",
+    "level": 8,
+    "order": 235,
+    "word": "phase",
+    "pronunciation": "/feɪz/",
+    "banglaPronunciation": "ফেইজ",
+    "meaning": "A stage in a process of change.",
+    "banglaMeaning": "পর্যায়",
+    "syllables": [
+      "pha",
+      "se"
+    ],
+    "example": "The project entered its final phase.",
+    "hint": "A stage in a process — starts with PH, sounds like F.",
+    "image": "/images/level8/phase.webp"
+  },
+  {
+    "id": "lvl8-236",
+    "level": 8,
+    "order": 236,
+    "word": "faze",
+    "pronunciation": "/feɪz/",
+    "banglaPronunciation": "ফেইজ",
+    "meaning": "To disturb or disconcert someone.",
+    "banglaMeaning": "বিচলিত করা",
+    "syllables": [
+      "fa",
+      "ze"
+    ],
+    "example": "Nothing seemed to faze her.",
+    "hint": "Means \"to disturb\" — starts with a plain F.",
+    "image": "/images/level8/faze.webp"
+  },
+  {
+    "id": "lvl8-237",
+    "level": 8,
+    "order": 237,
+    "word": "discreet",
+    "pronunciation": "/dɪˈskriːt/",
+    "banglaPronunciation": "ডিসক্রিট",
+    "meaning": "Careful and modest in behavior; not drawing attention.",
+    "banglaMeaning": "বিচক্ষণ",
+    "syllables": [
+      "di",
+      "screet"
+    ],
+    "example": "She was discreet about the surprise party.",
+    "hint": "Means \"careful/private\" — double E together.",
+    "image": "/images/level8/discreet.webp"
+  },
+  {
+    "id": "lvl8-238",
+    "level": 8,
+    "order": 238,
+    "word": "discrete",
+    "pronunciation": "/dɪˈskriːt/",
+    "banglaPronunciation": "ডিসক্রিট",
+    "meaning": "Separate and distinct.",
+    "banglaMeaning": "পৃথক",
+    "syllables": [
+      "di",
+      "scre",
+      "te"
+    ],
+    "example": "Each step is a discrete part of the process.",
+    "hint": "Means \"separate\" — E's are split apart, like the meaning.",
+    "image": "/images/level8/discrete.webp"
+  },
+  {
+    "id": "lvl8-239",
+    "level": 8,
+    "order": 239,
+    "word": "eminent",
+    "pronunciation": "/ˈɛm.ɪ.nənt/",
+    "banglaPronunciation": "এমিনেন্ট",
+    "meaning": "Famous and respected within a certain area.",
+    "banglaMeaning": "বিশিষ্ট",
+    "syllables": [
+      "e",
+      "mi",
+      "nent"
+    ],
+    "example": "She is an eminent scientist.",
+    "hint": "Means \"famous/respected\" — related to \"prominent\".",
+    "image": "/images/level8/eminent.webp"
+  },
+  {
+    "id": "lvl8-240",
+    "level": 8,
+    "order": 240,
+    "word": "imminent",
+    "pronunciation": "/ˈɪm.ɪ.nənt/",
+    "banglaPronunciation": "ইমিনেন্ট",
+    "meaning": "About to happen very soon.",
+    "banglaMeaning": "আসন্ন",
+    "syllables": [
+      "i",
+      "mmi",
+      "nent"
+    ],
+    "example": "A storm is imminent.",
+    "hint": "Means \"about to happen\" — double M, think \"immediately\".",
+    "image": "/images/level8/imminent.webp"
+  },
+  {
+    "id": "lvl8-241",
+    "level": 8,
+    "order": 241,
+    "word": "elicit",
+    "pronunciation": "/ɪˈlɪs.ɪt/",
+    "banglaPronunciation": "এলিসিট",
+    "meaning": "To draw out a response or reaction.",
+    "banglaMeaning": "বের করে আনা",
+    "syllables": [
+      "e",
+      "li",
+      "cit"
+    ],
+    "example": "The question elicited a laugh.",
+    "hint": "Means \"to draw out\" — starts with E, related to \"extract\".",
+    "image": "/images/level8/elicit.webp"
+  },
+  {
+    "id": "lvl8-242",
+    "level": 8,
+    "order": 242,
+    "word": "illicit",
+    "pronunciation": "/ɪˈlɪs.ɪt/",
+    "banglaPronunciation": "ইলিসিট",
+    "meaning": "Not allowed by law; forbidden.",
+    "banglaMeaning": "অবৈধ",
+    "syllables": [
+      "i",
+      "lli",
+      "cit"
+    ],
+    "example": "The illicit goods were seized.",
+    "hint": "Means \"illegal\" — starts with double L, like \"illegal\".",
+    "image": "/images/level8/illicit.webp"
+  },
+  {
+    "id": "lvl8-243",
+    "level": 8,
+    "order": 243,
+    "word": "farther",
+    "pronunciation": "/ˈfɑːr.ðər/",
+    "banglaPronunciation": "ফার্দার",
+    "meaning": "At a greater physical distance.",
+    "banglaMeaning": "দূরত্বে (শারীরিক)",
+    "syllables": [
+      "fa",
+      "rther"
+    ],
+    "example": "We walked farther than before.",
+    "hint": "Physical distance — related to \"far\", has an R.",
+    "image": "/images/level8/farther.webp"
+  },
+  {
+    "id": "lvl8-244",
+    "level": 8,
+    "order": 244,
+    "word": "further",
+    "pronunciation": "/ˈfɜːr.ðər/",
+    "banglaPronunciation": "ফার্দার",
+    "meaning": "To a greater extent (often figurative).",
+    "banglaMeaning": "আরও (অ-শারীরিক অর্থে)",
+    "syllables": [
+      "fu",
+      "rther"
+    ],
+    "example": "Let's discuss this further.",
+    "hint": "Figurative extent — used for ideas, not physical distance.",
+    "image": "/images/level8/further.webp"
+  },
+  {
+    "id": "lvl8-245",
+    "level": 8,
+    "order": 245,
+    "word": "flaunt",
+    "pronunciation": "/flɔːnt/",
+    "banglaPronunciation": "ফ্লন্ট",
+    "meaning": "To show off something proudly.",
+    "banglaMeaning": "গর্বের সাথে প্রদর্শন করা",
+    "syllables": [
+      "flaunt"
+    ],
+    "example": "She loves to flaunt her jewelry.",
+    "hint": "Means \"to show off\" — has \"au\".",
+    "image": "/images/level8/flaunt.webp"
+  },
+  {
+    "id": "lvl8-246",
+    "level": 8,
+    "order": 246,
+    "word": "flout",
+    "pronunciation": "/flaʊt/",
+    "banglaPronunciation": "ফ্লাউট",
+    "meaning": "To openly disregard a rule.",
+    "banglaMeaning": "অমান্য করা",
+    "syllables": [
+      "flout"
+    ],
+    "example": "He continued to flout the rules.",
+    "hint": "Means \"to break rules openly\" — has \"ou\", different sound from \"flaunt\".",
+    "image": "/images/level8/flout.webp"
+  },
+  {
+    "id": "lvl8-247",
+    "level": 8,
+    "order": 247,
+    "word": "waver",
+    "pronunciation": "/ˈweɪ.vər/",
+    "banglaPronunciation": "ওয়েভার",
+    "meaning": "To be uncertain or hesitate.",
+    "banglaMeaning": "দ্বিধা করা",
+    "syllables": [
+      "wa",
+      "ver"
+    ],
+    "example": "She began to waver on her decision.",
+    "hint": "Means \"to hesitate\" — related to a wavy, unsteady motion.",
+    "image": "/images/level8/waver.webp"
+  },
+  {
+    "id": "lvl8-248",
+    "level": 8,
+    "order": 248,
+    "word": "waiver",
+    "pronunciation": "/ˈweɪ.vər/",
+    "banglaPronunciation": "ওয়েভার",
+    "meaning": "A document giving up a right or claim.",
+    "banglaMeaning": "অধিকার ত্যাগের দলিল",
+    "syllables": [
+      "wai",
+      "ver"
+    ],
+    "example": "He signed a waiver before the race.",
+    "hint": "A legal give-up document — related to \"waive\", has an I.",
+    "image": "/images/level8/waiver.webp"
+  },
+  {
+    "id": "lvl8-249",
+    "level": 8,
+    "order": 249,
+    "word": "latter",
+    "pronunciation": "/ˈlæt.ər/",
+    "banglaPronunciation": "ল্যাটার",
+    "meaning": "The second of two things mentioned.",
+    "banglaMeaning": "পরেরটি (দুটির মধ্যে)",
+    "syllables": [
+      "la",
+      "tter"
+    ],
+    "example": "Of the two books, I prefer the latter.",
+    "hint": "Means \"the second one\" — not \"later\" (a future time).",
+    "image": "/images/level8/latter.webp"
+  },
+  {
+    "id": "lvl8-250",
+    "level": 8,
+    "order": 250,
+    "word": "loath",
+    "pronunciation": "/loʊθ/",
+    "banglaPronunciation": "লোথ",
+    "meaning": "Reluctant; unwilling.",
+    "banglaMeaning": "অনিচ্ছুক",
+    "syllables": [
+      "loath"
+    ],
+    "example": "She was loath to leave early.",
+    "hint": "Means \"unwilling\" — an adjective, no silent E.",
+    "image": "/images/level8/loath.webp"
+  },
+  {
+    "id": "lvl8-251",
+    "level": 8,
+    "order": 251,
+    "word": "loathe",
+    "pronunciation": "/loʊð/",
+    "banglaPronunciation": "লোদ",
+    "meaning": "To hate intensely (a verb).",
+    "banglaMeaning": "ঘৃণা করা",
+    "syllables": [
+      "loa",
+      "the"
+    ],
+    "example": "I loathe waiting in long lines.",
+    "hint": "Means \"to hate\" — a verb, ends in silent E.",
+    "image": "/images/level8/loathe.webp"
+  },
+  {
+    "id": "lvl8-252",
+    "level": 8,
+    "order": 252,
+    "word": "born",
+    "pronunciation": "/bɔːrn/",
+    "banglaPronunciation": "বর্ন",
+    "meaning": "Brought into life.",
+    "banglaMeaning": "জন্মগ্রহণ করা",
+    "syllables": [
+      "born"
+    ],
+    "example": "The baby was born in May.",
+    "hint": "Means \"brought into life\" — used for birth.",
+    "image": "/images/level8/born.webp"
+  },
+  {
+    "id": "lvl8-253",
+    "level": 8,
+    "order": 253,
+    "word": "borne",
+    "pronunciation": "/bɔːrn/",
+    "banglaPronunciation": "বর্ন",
+    "meaning": "Carried or endured (past participle of bear).",
+    "banglaMeaning": "বহন করা হয়েছে",
+    "syllables": [
+      "bo",
+      "rne"
+    ],
+    "example": "The costs were borne by the company.",
+    "hint": "Means \"carried/endured\" — past participle of \"bear\", ends in silent E.",
+    "image": "/images/level8/borne.webp"
+  },
+  {
+    "id": "lvl8-254",
+    "level": 8,
+    "order": 254,
+    "word": "capital",
+    "pronunciation": "/ˈkæp.ɪ.təl/",
+    "banglaPronunciation": "ক্যাপিটাল",
+    "meaning": "A city where a government is located; also, wealth.",
+    "banglaMeaning": "রাজধানী/পুঁজি",
+    "syllables": [
+      "ca",
+      "pi",
+      "tal"
+    ],
+    "example": "Paris is the capital of France.",
+    "hint": "The government city or money — ends in -al.",
+    "image": "/images/level8/capital.webp"
+  },
+  {
+    "id": "lvl8-255",
+    "level": 8,
+    "order": 255,
+    "word": "capitol",
+    "pronunciation": "/ˈkæp.ɪ.təl/",
+    "banglaPronunciation": "ক্যাপিটল",
+    "meaning": "A building where a legislature meets.",
+    "banglaMeaning": "আইনসভা ভবন",
+    "syllables": [
+      "ca",
+      "pi",
+      "tol"
+    ],
+    "example": "Lawmakers gathered at the capitol.",
+    "hint": "The government building — ends in -ol, think \"dome\".",
+    "image": "/images/level8/capitol.webp"
+  },
+  {
+    "id": "lvl8-256",
+    "level": 8,
+    "order": 256,
+    "word": "device",
+    "pronunciation": "/dɪˈvaɪs/",
+    "banglaPronunciation": "ডিভাইস",
+    "meaning": "A tool or piece of equipment (a noun).",
+    "banglaMeaning": "যন্ত্র",
+    "syllables": [
+      "de",
+      "vi",
+      "ce"
+    ],
+    "example": "She used a device to measure temperature.",
+    "hint": "A noun meaning a tool — ends in -ice.",
+    "image": "/images/level8/device.webp"
+  },
+  {
+    "id": "lvl8-257",
+    "level": 8,
+    "order": 257,
+    "word": "devise",
+    "pronunciation": "/dɪˈvaɪz/",
+    "banglaPronunciation": "ডিভাইজ",
+    "meaning": "To plan or invent something (a verb).",
+    "banglaMeaning": "পরিকল্পনা করা",
+    "syllables": [
+      "de",
+      "vi",
+      "se"
+    ],
+    "example": "They devised a new plan.",
+    "hint": "A verb meaning to plan — ends in -ise.",
+    "image": "/images/level8/devise.webp"
+  },
+  {
+    "id": "lvl8-258",
+    "level": 8,
+    "order": 258,
+    "word": "envelope",
+    "pronunciation": "/ˈɛn.və.loʊp/",
+    "banglaPronunciation": "এনভেলাপ",
+    "meaning": "A paper cover for a letter (a noun).",
+    "banglaMeaning": "খাম",
+    "syllables": [
+      "e",
+      "nve",
+      "lo",
+      "pe"
+    ],
+    "example": "She sealed the envelope.",
+    "hint": "The paper cover for letters — a noun.",
+    "image": "/images/level8/envelope.webp"
+  },
+  {
+    "id": "lvl8-259",
+    "level": 8,
+    "order": 259,
+    "word": "envelop",
+    "pronunciation": "/ɪnˈvɛl.əp/",
+    "banglaPronunciation": "এনভেলপ",
+    "meaning": "To wrap or surround completely (a verb).",
+    "banglaMeaning": "ঘিরে ফেলা",
+    "syllables": [
+      "e",
+      "nve",
+      "lop"
+    ],
+    "example": "Fog began to envelop the city.",
+    "hint": "A verb meaning to wrap around — no final E.",
+    "image": "/images/level8/envelop.webp"
+  },
+  {
+    "id": "lvl8-260",
+    "level": 8,
+    "order": 260,
+    "word": "ensure",
+    "pronunciation": "/ɪnˈʃʊr/",
+    "banglaPronunciation": "এনশিওর",
+    "meaning": "To make certain something happens.",
+    "banglaMeaning": "নিশ্চিত করা",
+    "syllables": [
+      "e",
+      "nsu",
+      "re"
+    ],
+    "example": "Please ensure the door is locked.",
+    "hint": "Means \"to make certain\" — general use.",
+    "image": "/images/level8/ensure.webp"
+  },
+  {
+    "id": "lvl8-261",
+    "level": 8,
+    "order": 261,
+    "word": "insure",
+    "pronunciation": "/ɪnˈʃʊr/",
+    "banglaPronunciation": "ইনশিওর",
+    "meaning": "To protect with an insurance policy.",
+    "banglaMeaning": "বিমা করা",
+    "syllables": [
+      "i",
+      "nsu",
+      "re"
+    ],
+    "example": "We insured our car against theft.",
+    "hint": "Means \"to buy insurance for\" — related to \"insurance\".",
+    "image": "/images/level8/insure.webp"
+  },
+  {
+    "id": "lvl8-262",
+    "level": 8,
+    "order": 262,
+    "word": "formally",
+    "pronunciation": "/ˈfɔːr.mə.li/",
+    "banglaPronunciation": "ফরমালি",
+    "meaning": "In a formal manner.",
+    "banglaMeaning": "আনুষ্ঠানিকভাবে",
+    "syllables": [
+      "fo",
+      "rmally"
+    ],
+    "example": "He formally introduced the guest.",
+    "hint": "Means \"in a formal way\" — related to \"formal\".",
+    "image": "/images/level8/formally.webp"
+  },
+  {
+    "id": "lvl8-263",
+    "level": 8,
+    "order": 263,
+    "word": "formerly",
+    "pronunciation": "/ˈfɔːr.mər.li/",
+    "banglaPronunciation": "ফরমারলি",
+    "meaning": "At an earlier time; previously.",
+    "banglaMeaning": "পূর্বে",
+    "syllables": [
+      "fo",
+      "rmerly"
+    ],
+    "example": "She was formerly a teacher.",
+    "hint": "Means \"previously\" — related to \"former\".",
+    "image": "/images/level8/formerly.webp"
+  },
+  {
+    "id": "lvl8-264",
+    "level": 8,
+    "order": 264,
+    "word": "moral",
+    "pronunciation": "/ˈmɔːr.əl/",
+    "banglaPronunciation": "মোরাল",
+    "meaning": "Concerned with right and wrong behavior.",
+    "banglaMeaning": "নৈতিক",
+    "syllables": [
+      "mo",
+      "ral"
+    ],
+    "example": "It was the moral thing to do.",
+    "hint": "Means \"related to right/wrong\" — an adjective/noun.",
+    "image": "/images/level8/moral.webp"
+  },
+  {
+    "id": "lvl8-265",
+    "level": 8,
+    "order": 265,
+    "word": "morale",
+    "pronunciation": "/məˈræl/",
+    "banglaPronunciation": "মোরাল",
+    "meaning": "The confidence and spirit of a group.",
+    "banglaMeaning": "মনোবল",
+    "syllables": [
+      "mo",
+      "ra",
+      "le"
+    ],
+    "example": "The team's morale was high.",
+    "hint": "Means \"group spirit\" — ends in silent E, stress on second syllable.",
+    "image": "/images/level8/morale.webp"
+  },
+  {
+    "id": "lvl8-266",
+    "level": 8,
+    "order": 266,
+    "word": "personal",
+    "pronunciation": "/ˈpɜːr.sən.əl/",
+    "banglaPronunciation": "পার্সোনাল",
+    "meaning": "Belonging to a particular person; private.",
+    "banglaMeaning": "ব্যক্তিগত",
+    "syllables": [
+      "pe",
+      "rso",
+      "nal"
+    ],
+    "example": "This is a personal matter.",
+    "hint": "Means \"private/individual\" — ends in -al.",
+    "image": "/images/level8/personal.webp"
+  },
+  {
+    "id": "lvl8-267",
+    "level": 8,
+    "order": 267,
+    "word": "personnel",
+    "pronunciation": "/ˌpɜːr.səˈnɛl/",
+    "banglaPronunciation": "পার্সোনেল",
+    "meaning": "The people employed in an organization.",
+    "banglaMeaning": "কর্মীবৃন্দ",
+    "syllables": [
+      "pe",
+      "rso",
+      "nnel"
+    ],
+    "example": "The company hired new personnel.",
+    "hint": "Means \"staff/employees\" — double N, ends in -nel.",
+    "image": "/images/level8/personnel.webp"
+  },
+  {
+    "id": "lvl8-268",
+    "level": 8,
+    "order": 268,
+    "word": "precede",
+    "pronunciation": "/prɪˈsiːd/",
+    "banglaPronunciation": "প্রিসিড",
+    "meaning": "To come before in time or order.",
+    "banglaMeaning": "পূর্বে ঘটা",
+    "syllables": [
+      "pre",
+      "ce",
+      "de"
+    ],
+    "example": "A warning light will precede the alarm.",
+    "hint": "Means \"to come before\" — ends in -cede.",
+    "image": "/images/level8/precede.webp"
+  },
+  {
+    "id": "lvl8-269",
+    "level": 8,
+    "order": 269,
+    "word": "proceed",
+    "pronunciation": "/proʊˈsiːd/",
+    "banglaPronunciation": "প্রোসিড",
+    "meaning": "To continue or go forward.",
+    "banglaMeaning": "এগিয়ে যাওয়া",
+    "syllables": [
+      "pro",
+      "ceed"
+    ],
+    "example": "Please proceed to the next step.",
+    "hint": "Means \"to continue forward\" — double E, ends in -ceed.",
+    "image": "/images/level8/proceed.webp"
+  },
+  {
+    "id": "lvl8-270",
+    "level": 8,
+    "order": 270,
+    "word": "respectfully",
+    "pronunciation": "/rɪˈspɛkt.fəl.i/",
+    "banglaPronunciation": "রেসপেক্টফুলি",
+    "meaning": "In a manner showing respect.",
+    "banglaMeaning": "শ্রদ্ধার সাথে",
+    "syllables": [
+      "re",
+      "spe",
+      "ctfully"
+    ],
+    "example": "He respectfully disagreed.",
+    "hint": "Means \"with respect\" — related to \"respect\".",
+    "image": "/images/level8/respectfully.webp"
+  },
+  {
+    "id": "lvl8-271",
+    "level": 8,
+    "order": 271,
+    "word": "respectively",
+    "pronunciation": "/rɪˈspɛk.tɪv.li/",
+    "banglaPronunciation": "রেসপেক্টিভলি",
+    "meaning": "In the order given; each in turn.",
+    "banglaMeaning": "যথাক্রমে",
+    "syllables": [
+      "re",
+      "spe",
+      "cti",
+      "vely"
+    ],
+    "example": "Tom and Ann are 10 and 12, respectively.",
+    "hint": "Means \"in that order\" — related to \"respective\", not \"respect\".",
+    "image": "/images/level8/respectively.webp"
+  },
+  {
+    "id": "lvl8-272",
+    "level": 8,
+    "order": 272,
+    "word": "accede",
+    "pronunciation": "/əkˈsiːd/",
+    "banglaPronunciation": "অ্যাকসিড",
+    "meaning": "To agree to a demand or request.",
+    "banglaMeaning": "সম্মত হওয়া",
+    "syllables": [
+      "a",
+      "cce",
+      "de"
+    ],
+    "example": "The king had to accede to their demands.",
+    "hint": "Means \"to agree to\" — ends in -cede.",
+    "image": "/images/level8/accede.webp"
+  },
+  {
+    "id": "lvl8-273",
+    "level": 8,
+    "order": 273,
+    "word": "exceed",
+    "pronunciation": "/ɪkˈsiːd/",
+    "banglaPronunciation": "এক্সিড",
+    "meaning": "To go beyond a limit.",
+    "banglaMeaning": "অতিক্রম করা",
+    "syllables": [
+      "e",
+      "xceed"
+    ],
+    "example": "Do not exceed the speed limit.",
+    "hint": "Means \"to go beyond\" — double E, ends in -ceed.",
+    "image": "/images/level8/exceed.webp"
+  },
+  {
+    "id": "lvl8-274",
+    "level": 8,
+    "order": 274,
+    "word": "adapt",
+    "pronunciation": "/əˈdæpt/",
+    "banglaPronunciation": "অ্যাডাপ্ট",
+    "meaning": "To adjust to new conditions.",
+    "banglaMeaning": "খাপ খাওয়ানো",
+    "syllables": [
+      "a",
+      "dapt"
+    ],
+    "example": "Animals adapt to their environment.",
+    "hint": "Means \"to adjust\" — related to \"adaptation\".",
+    "image": "/images/level8/adapt.webp"
+  },
+  {
+    "id": "lvl8-275",
+    "level": 8,
+    "order": 275,
+    "word": "adopt",
+    "pronunciation": "/əˈdɒpt/",
+    "banglaPronunciation": "অ্যাডপ্ট",
+    "meaning": "To take on or take in as one's own.",
+    "banglaMeaning": "দত্তক নেওয়া/গ্রহণ করা",
+    "syllables": [
+      "a",
+      "dopt"
+    ],
+    "example": "They decided to adopt a puppy.",
+    "hint": "Means \"to take as your own\" — related to \"adoption\".",
+    "image": "/images/level8/adopt.webp"
+  },
+  {
+    "id": "lvl8-276",
+    "level": 8,
+    "order": 276,
+    "word": "allude",
+    "pronunciation": "/əˈluːd/",
+    "banglaPronunciation": "অ্যালুড",
+    "meaning": "To suggest or refer to indirectly.",
+    "banglaMeaning": "পরোক্ষভাবে উল্লেখ করা",
+    "syllables": [
+      "a",
+      "llu",
+      "de"
+    ],
+    "example": "She alluded to a secret plan.",
+    "hint": "Means \"to hint indirectly\" — related to \"allusion\".",
+    "image": "/images/level8/allude.webp"
+  },
+  {
+    "id": "lvl8-277",
+    "level": 8,
+    "order": 277,
+    "word": "elude",
+    "pronunciation": "/ɪˈluːd/",
+    "banglaPronunciation": "ইলুড",
+    "meaning": "To escape from or avoid cleverly.",
+    "banglaMeaning": "এড়িয়ে যাওয়া",
+    "syllables": [
+      "e",
+      "lu",
+      "de"
+    ],
+    "example": "The thief managed to elude police.",
+    "hint": "Means \"to escape cleverly\" — related to \"elusive\".",
+    "image": "/images/level8/elude.webp"
+  },
+  {
+    "id": "lvl8-278",
+    "level": 8,
+    "order": 278,
+    "word": "altar",
+    "pronunciation": "/ˈɔːl.tər/",
+    "banglaPronunciation": "অল্টার",
+    "meaning": "A raised table used in religious ceremonies.",
+    "banglaMeaning": "বেদী",
+    "syllables": [
+      "a",
+      "ltar"
+    ],
+    "example": "The couple stood at the altar.",
+    "hint": "The religious table — ends in -ar.",
+    "image": "/images/level8/altar.webp"
+  },
+  {
+    "id": "lvl8-279",
+    "level": 8,
+    "order": 279,
+    "word": "alter",
+    "pronunciation": "/ˈɔːl.tər/",
+    "banglaPronunciation": "অল্টার",
+    "meaning": "To change something.",
+    "banglaMeaning": "পরিবর্তন করা",
+    "syllables": [
+      "a",
+      "lter"
+    ],
+    "example": "They had to alter their plans.",
+    "hint": "Means \"to change\" — ends in -er.",
+    "image": "/images/level8/alter.webp"
+  },
+  {
+    "id": "lvl8-280",
+    "level": 8,
+    "order": 280,
+    "word": "ascent",
+    "pronunciation": "/əˈsɛnt/",
+    "banglaPronunciation": "অ্যাসেন্ট",
+    "meaning": "The act of climbing or rising up.",
+    "banglaMeaning": "আরোহণ",
+    "syllables": [
+      "a",
+      "scent"
+    ],
+    "example": "The climbers began their ascent.",
+    "hint": "Means \"climbing up\" — related to \"ascend\".",
+    "image": "/images/level8/ascent.webp"
+  },
+  {
+    "id": "lvl8-281",
+    "level": 8,
+    "order": 281,
+    "word": "assent",
+    "pronunciation": "/əˈsɛnt/",
+    "banglaPronunciation": "অ্যাসেন্ট",
+    "meaning": "Agreement or approval.",
+    "banglaMeaning": "সম্মতি",
+    "syllables": [
+      "a",
+      "ssent"
+    ],
+    "example": "The king gave his assent.",
+    "hint": "Means \"agreement\" — double S, related to \"agree\".",
+    "image": "/images/level8/assent.webp"
+  },
+  {
+    "id": "lvl8-282",
+    "level": 8,
+    "order": 282,
+    "word": "bald",
+    "pronunciation": "/bɔːld/",
+    "banglaPronunciation": "বল্ড",
+    "meaning": "Having no hair on the head.",
+    "banglaMeaning": "টাক",
+    "syllables": [
+      "bald"
+    ],
+    "example": "The old man was bald.",
+    "hint": "Means \"no hair\" — a simple adjective.",
+    "image": "/images/level8/bald.webp"
+  },
+  {
+    "id": "lvl8-283",
+    "level": 8,
+    "order": 283,
+    "word": "bawled",
+    "pronunciation": "/bɔːld/",
+    "banglaPronunciation": "বল্ড",
+    "meaning": "Cried loudly (past tense of bawl).",
+    "banglaMeaning": "জোরে কেঁদেছিল",
+    "syllables": [
+      "ba",
+      "wled"
+    ],
+    "example": "The baby bawled all night.",
+    "hint": "Past tense of \"bawl\" (to cry loudly) — has a W.",
+    "image": "/images/level8/bawled.webp"
+  },
+  {
+    "id": "lvl8-284",
+    "level": 8,
+    "order": 284,
+    "word": "bloc",
+    "pronunciation": "/blɒk/",
+    "banglaPronunciation": "ব্লক",
+    "meaning": "A group of countries or people with a common purpose.",
+    "banglaMeaning": "জোট",
+    "syllables": [
+      "bloc"
+    ],
+    "example": "The trade bloc signed an agreement.",
+    "hint": "A political alliance group — no K at the end.",
+    "image": "/images/level8/bloc.webp"
+  },
+  {
+    "id": "lvl8-285",
+    "level": 8,
+    "order": 285,
+    "word": "boarder",
+    "pronunciation": "/ˈbɔːr.dər/",
+    "banglaPronunciation": "বোর্ডার",
+    "meaning": "A person who pays to live and eat at another's house.",
+    "banglaMeaning": "ভাড়াটে বাসিন্দা",
+    "syllables": [
+      "boa",
+      "rder"
+    ],
+    "example": "The boarder paid rent monthly.",
+    "hint": "A paying house-guest — related to \"board and lodging\".",
+    "image": "/images/level8/boarder.webp"
+  },
+  {
+    "id": "lvl8-286",
+    "level": 8,
+    "order": 286,
+    "word": "border",
+    "pronunciation": "/ˈbɔːr.dər/",
+    "banglaPronunciation": "বর্ডার",
+    "meaning": "A line separating two countries or areas.",
+    "banglaMeaning": "সীমান্ত",
+    "syllables": [
+      "bo",
+      "rder"
+    ],
+    "example": "They crossed the border at night.",
+    "hint": "The line between countries — no A after B.",
+    "image": "/images/level8/border.webp"
+  },
+  {
+    "id": "lvl8-287",
+    "level": 8,
+    "order": 287,
+    "word": "broach",
+    "pronunciation": "/broʊtʃ/",
+    "banglaPronunciation": "ব্রোচ",
+    "meaning": "To bring up a topic for discussion.",
+    "banglaMeaning": "প্রসঙ্গ উত্থাপন করা",
+    "syllables": [
+      "broach"
+    ],
+    "example": "He decided to broach the subject.",
+    "hint": "Means \"to bring up a topic\" — a verb, ends in -oach.",
+    "image": "/images/level8/broach.webp"
+  },
+  {
+    "id": "lvl8-288",
+    "level": 8,
+    "order": 288,
+    "word": "brooch",
+    "pronunciation": "/broʊtʃ/",
+    "banglaPronunciation": "ব্রোচ",
+    "meaning": "A decorative pin worn on clothing.",
+    "banglaMeaning": "ব্রোচ (গয়না)",
+    "syllables": [
+      "brooch"
+    ],
+    "example": "She wore a silver brooch.",
+    "hint": "The decorative pin — double O, a noun.",
+    "image": "/images/level8/brooch.webp"
+  },
+  {
+    "id": "lvl8-289",
+    "level": 8,
+    "order": 289,
+    "word": "callous",
+    "pronunciation": "/ˈkæl.əs/",
+    "banglaPronunciation": "ক্যালাস",
+    "meaning": "Showing no sympathy for others.",
+    "banglaMeaning": "নির্মম",
+    "syllables": [
+      "ca",
+      "llous"
+    ],
+    "example": "His callous remark hurt her feelings.",
+    "hint": "Means \"unsympathetic\" — double L, ends in -ous.",
+    "image": "/images/level8/callous.webp"
+  },
+  {
+    "id": "lvl8-290",
+    "level": 8,
+    "order": 290,
+    "word": "callus",
+    "pronunciation": "/ˈkæl.əs/",
+    "banglaPronunciation": "ক্যালাস",
+    "meaning": "A thickened area of skin.",
+    "banglaMeaning": "পুরু হয়ে যাওয়া চামড়া",
+    "syllables": [
+      "ca",
+      "llus"
+    ],
+    "example": "He developed a callus on his hand.",
+    "hint": "Thick skin patch — double L, ends in -us.",
+    "image": "/images/level8/callus.webp"
+  },
+  {
+    "id": "lvl8-291",
+    "level": 8,
+    "order": 291,
+    "word": "canon",
+    "pronunciation": "/ˈkæn.ən/",
+    "banglaPronunciation": "ক্যানন",
+    "meaning": "A rule or accepted set of principles.",
+    "banglaMeaning": "নীতিমালা",
+    "syllables": [
+      "ca",
+      "non"
+    ],
+    "example": "The book is part of the literary canon.",
+    "hint": "A set of accepted rules — single N in the middle.",
+    "image": "/images/level8/canon.webp"
+  },
+  {
+    "id": "lvl8-292",
+    "level": 8,
+    "order": 292,
+    "word": "cannon",
+    "pronunciation": "/ˈkæn.ən/",
+    "banglaPronunciation": "ক্যানন",
+    "meaning": "A large gun mounted on wheels or a base.",
+    "banglaMeaning": "কামান",
+    "syllables": [
+      "ca",
+      "nnon"
+    ],
+    "example": "The cannon fired across the field.",
+    "hint": "The large gun — double N in the middle.",
+    "image": "/images/level8/cannon.webp"
+  },
+  {
+    "id": "lvl8-293",
+    "level": 8,
+    "order": 293,
+    "word": "chord",
+    "pronunciation": "/kɔːrd/",
+    "banglaPronunciation": "কর্ড",
+    "meaning": "A group of musical notes played together.",
+    "banglaMeaning": "সুরের সমষ্টি",
+    "syllables": [
+      "chord"
+    ],
+    "example": "She played a chord on the piano.",
+    "hint": "A group of musical notes — has a silent H.",
+    "image": "/images/level8/chord.webp"
+  },
+  {
+    "id": "lvl8-294",
+    "level": 8,
+    "order": 294,
+    "word": "cord",
+    "pronunciation": "/kɔːrd/",
+    "banglaPronunciation": "কর্ড",
+    "meaning": "A thin length of rope or wire.",
+    "banglaMeaning": "দড়ি/তার",
+    "syllables": [
+      "cord"
+    ],
+    "example": "Plug in the power cord.",
+    "hint": "The rope or wire — no silent H.",
+    "image": "/images/level8/cord.webp"
+  },
+  {
+    "id": "lvl8-295",
+    "level": 8,
+    "order": 295,
+    "word": "coma",
+    "pronunciation": "/ˈkoʊ.mə/",
+    "banglaPronunciation": "কোমা",
+    "meaning": "A deep state of unconsciousness.",
+    "banglaMeaning": "অচেতন অবস্থা",
+    "syllables": [
+      "co",
+      "ma"
+    ],
+    "example": "He was in a coma for a week.",
+    "hint": "The unconscious state — no punctuation.",
+    "image": "/images/level8/coma.webp"
+  },
+  {
+    "id": "lvl8-296",
+    "level": 8,
+    "order": 296,
+    "word": "comma",
+    "pronunciation": "/ˈkɒm.ə/",
+    "banglaPronunciation": "কমা",
+    "meaning": "A punctuation mark showing a pause.",
+    "banglaMeaning": "কমা (বিরাম চিহ্ন)",
+    "syllables": [
+      "co",
+      "mma"
+    ],
+    "example": "Use a comma to separate the list.",
+    "hint": "The punctuation mark — double M.",
+    "image": "/images/level8/comma.webp"
+  },
+  {
+    "id": "lvl8-297",
+    "level": 8,
+    "order": 297,
+    "word": "confidant",
+    "pronunciation": "/ˈkɒn.fɪ.dænt/",
+    "banglaPronunciation": "কনফিডান্ট",
+    "meaning": "A person one trusts with secrets.",
+    "banglaMeaning": "বিশ্বস্ত ব্যক্তি",
+    "syllables": [
+      "co",
+      "nfi",
+      "dant"
+    ],
+    "example": "She is my closest confidant.",
+    "hint": "A trusted friend — ends in -ant, a noun for a person.",
+    "image": "/images/level8/confidant.webp"
+  },
+  {
+    "id": "lvl8-298",
+    "level": 8,
+    "order": 298,
+    "word": "confident",
+    "pronunciation": "/ˈkɒn.fɪ.dənt/",
+    "banglaPronunciation": "কনফিডেন্ট",
+    "meaning": "Feeling sure of oneself.",
+    "banglaMeaning": "আত্মবিশ্বাসী",
+    "syllables": [
+      "co",
+      "nfi",
+      "dent"
+    ],
+    "example": "He felt confident about the exam.",
+    "hint": "Means \"sure of yourself\" — ends in -ent, an adjective.",
+    "image": "/images/level8/confident.webp"
+  },
+  {
+    "id": "lvl8-299",
+    "level": 8,
+    "order": 299,
+    "word": "continual",
+    "pronunciation": "/kənˈtɪn.ju.əl/",
+    "banglaPronunciation": "কন্টিনিউয়াল",
+    "meaning": "Happening frequently, with breaks in between.",
+    "banglaMeaning": "বারবার ঘটমান",
+    "syllables": [
+      "co",
+      "nti",
+      "nual"
+    ],
+    "example": "There were continual interruptions.",
+    "hint": "Frequent but with pauses — related to \"continue\".",
+    "image": "/images/level8/continual.webp"
+  },
+  {
+    "id": "lvl8-300",
+    "level": 8,
+    "order": 300,
+    "word": "continuous",
+    "pronunciation": "/kənˈtɪn.ju.əs/",
+    "banglaPronunciation": "কন্টিনিউয়াস",
+    "meaning": "Happening without any break or pause.",
+    "banglaMeaning": "অবিরাম",
+    "syllables": [
+      "co",
+      "nti",
+      "nuous"
+    ],
+    "example": "The machine ran continuously.",
+    "hint": "Nonstop, no pauses — ends in -uous.",
+    "image": "/images/level8/continuous.webp"
+  }
+]

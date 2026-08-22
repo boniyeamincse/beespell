@@ -1,0 +1,5952 @@
+[
+  {
+    "id": "lvl9-001",
+    "level": 9,
+    "order": 1,
+    "word": "sunrise",
+    "pronunciation": "/ˈsʌnraɪz/",
+    "banglaPronunciation": "সানরাইজ",
+    "meaning": "The time when the sun comes up.",
+    "banglaMeaning": "সূর্যোদয়",
+    "syllables": [
+      "sun",
+      "rise"
+    ],
+    "example": "We watched the sunrise over the hills.",
+    "hint": "Made of \"sun\" + \"rise\".",
+    "image": "/images/level9/sunrise.webp"
+  },
+  {
+    "id": "lvl9-002",
+    "level": 9,
+    "order": 2,
+    "word": "sunset",
+    "pronunciation": "/ˈsʌnsɛt/",
+    "banglaPronunciation": "সানসেট",
+    "meaning": "The time when the sun goes down.",
+    "banglaMeaning": "সূর্যাস্ত",
+    "syllables": [
+      "sun",
+      "set"
+    ],
+    "example": "The sky turned orange at sunset.",
+    "hint": "Made of \"sun\" + \"set\".",
+    "image": "/images/level9/sunset.webp"
+  },
+  {
+    "id": "lvl9-003",
+    "level": 9,
+    "order": 3,
+    "word": "sunburn",
+    "pronunciation": "/ˈsʌnbɜːrn/",
+    "banglaPronunciation": "সানবার্ন",
+    "meaning": "Red, sore skin from too much sun.",
+    "banglaMeaning": "রোদে পোড়া",
+    "syllables": [
+      "sun",
+      "burn"
+    ],
+    "example": "He got a sunburn at the beach.",
+    "hint": "Made of \"sun\" + \"burn\".",
+    "image": "/images/level9/sunburn.webp"
+  },
+  {
+    "id": "lvl9-004",
+    "level": 9,
+    "order": 4,
+    "word": "snowball",
+    "pronunciation": "/ˈsnoʊbɔːl/",
+    "banglaPronunciation": "স্নোবল",
+    "meaning": "A ball made of packed snow.",
+    "banglaMeaning": "তুষার বল",
+    "syllables": [
+      "snow",
+      "ball"
+    ],
+    "example": "She threw a snowball at her brother.",
+    "hint": "Made of \"snow\" + \"ball\".",
+    "image": "/images/level9/snowball.webp"
+  },
+  {
+    "id": "lvl9-005",
+    "level": 9,
+    "order": 5,
+    "word": "snowflake",
+    "pronunciation": "/ˈsnoʊfleɪk/",
+    "banglaPronunciation": "স্নোফ্লেক",
+    "meaning": "A single piece of falling snow.",
+    "banglaMeaning": "তুষারকণা",
+    "syllables": [
+      "snow",
+      "flake"
+    ],
+    "example": "Each snowflake has its own shape.",
+    "hint": "Made of \"snow\" + \"flake\".",
+    "image": "/images/level9/snowflake.webp"
+  },
+  {
+    "id": "lvl9-006",
+    "level": 9,
+    "order": 6,
+    "word": "snowstorm",
+    "pronunciation": "/ˈsnoʊstɔːrm/",
+    "banglaPronunciation": "স্নোস্টর্ম",
+    "meaning": "A storm with heavy falling snow.",
+    "banglaMeaning": "তুষারঝড়",
+    "syllables": [
+      "snow",
+      "storm"
+    ],
+    "example": "School closed because of the snowstorm.",
+    "hint": "Made of \"snow\" + \"storm\".",
+    "image": "/images/level9/snowstorm.webp"
+  },
+  {
+    "id": "lvl9-007",
+    "level": 9,
+    "order": 7,
+    "word": "rainfall",
+    "pronunciation": "/ˈreɪnfɔːl/",
+    "banglaPronunciation": "রেইনফল",
+    "meaning": "The amount of rain that falls.",
+    "banglaMeaning": "বৃষ্টিপাত",
+    "syllables": [
+      "rain",
+      "fall"
+    ],
+    "example": "The region gets heavy rainfall in summer.",
+    "hint": "Made of \"rain\" + \"fall\".",
+    "image": "/images/level9/rainfall.webp"
+  },
+  {
+    "id": "lvl9-008",
+    "level": 9,
+    "order": 8,
+    "word": "thunderstorm",
+    "pronunciation": "/ˈθʌndərstɔːrm/",
+    "banglaPronunciation": "থান্ডারস্টর্ম",
+    "meaning": "A storm with thunder and lightning.",
+    "banglaMeaning": "বজ্রঝড়",
+    "syllables": [
+      "thunder",
+      "storm"
+    ],
+    "example": "The thunderstorm knocked out the power.",
+    "hint": "Made of \"thunder\" + \"storm\".",
+    "image": "/images/level9/thunderstorm.webp"
+  },
+  {
+    "id": "lvl9-009",
+    "level": 9,
+    "order": 9,
+    "word": "windmill",
+    "pronunciation": "/ˈwɪndmɪl/",
+    "banglaPronunciation": "উইন্ডমিল",
+    "meaning": "A machine turned by the wind.",
+    "banglaMeaning": "বায়ুকল",
+    "syllables": [
+      "wind",
+      "mill"
+    ],
+    "example": "The windmill spun slowly in the breeze.",
+    "hint": "Made of \"wind\" + \"mill\".",
+    "image": "/images/level9/windmill.webp"
+  },
+  {
+    "id": "lvl9-010",
+    "level": 9,
+    "order": 10,
+    "word": "waterfall",
+    "pronunciation": "/ˈwɔːtərfɔːl/",
+    "banglaPronunciation": "ওয়াটারফল",
+    "meaning": "Water falling from a high place.",
+    "banglaMeaning": "জলপ্রপাত",
+    "syllables": [
+      "water",
+      "fall"
+    ],
+    "example": "We hiked to see the waterfall.",
+    "hint": "Made of \"water\" + \"fall\".",
+    "image": "/images/level9/waterfall.webp"
+  },
+  {
+    "id": "lvl9-011",
+    "level": 9,
+    "order": 11,
+    "word": "watermelon",
+    "pronunciation": "/ˈwɔːtərmɛlən/",
+    "banglaPronunciation": "ওয়াটারমেলন",
+    "meaning": "A large, sweet, juicy fruit.",
+    "banglaMeaning": "তরমুজ",
+    "syllables": [
+      "water",
+      "melon"
+    ],
+    "example": "We ate cold watermelon in summer.",
+    "hint": "Made of \"water\" + \"melon\".",
+    "image": "/images/level9/watermelon.webp"
+  },
+  {
+    "id": "lvl9-012",
+    "level": 9,
+    "order": 12,
+    "word": "seashell",
+    "pronunciation": "/ˈsiːʃɛl/",
+    "banglaPronunciation": "সিশেল",
+    "meaning": "A hard shell found on the beach.",
+    "banglaMeaning": "ঝিনুকের খোল",
+    "syllables": [
+      "sea",
+      "shell"
+    ],
+    "example": "She collected seashells on the beach.",
+    "hint": "Made of \"sea\" + \"shell\".",
+    "image": "/images/level9/seashell.webp"
+  },
+  {
+    "id": "lvl9-013",
+    "level": 9,
+    "order": 13,
+    "word": "seahorse",
+    "pronunciation": "/ˈsiːhɔːrs/",
+    "banglaPronunciation": "সিহর্স",
+    "meaning": "A small fish shaped like a horse.",
+    "banglaMeaning": "সমুদ্র ঘোড়া",
+    "syllables": [
+      "sea",
+      "horse"
+    ],
+    "example": "We saw a seahorse at the aquarium.",
+    "hint": "Made of \"sea\" + \"horse\".",
+    "image": "/images/level9/seahorse.webp"
+  },
+  {
+    "id": "lvl9-014",
+    "level": 9,
+    "order": 14,
+    "word": "seaweed",
+    "pronunciation": "/ˈsiːwiːd/",
+    "banglaPronunciation": "সিউইড",
+    "meaning": "A plant that grows in the sea.",
+    "banglaMeaning": "সমুদ্র শৈবাল",
+    "syllables": [
+      "sea",
+      "weed"
+    ],
+    "example": "Seaweed washed up on the shore.",
+    "hint": "Made of \"sea\" + \"weed\".",
+    "image": "/images/level9/seaweed.webp"
+  },
+  {
+    "id": "lvl9-015",
+    "level": 9,
+    "order": 15,
+    "word": "starfish",
+    "pronunciation": "/ˈstɑːrfɪʃ/",
+    "banglaPronunciation": "স্টারফিশ",
+    "meaning": "A sea animal shaped like a star.",
+    "banglaMeaning": "তারা মাছ",
+    "syllables": [
+      "star",
+      "fish"
+    ],
+    "example": "We found a starfish in the tide pool.",
+    "hint": "Made of \"star\" + \"fish\".",
+    "image": "/images/level9/starfish.webp"
+  },
+  {
+    "id": "lvl9-016",
+    "level": 9,
+    "order": 16,
+    "word": "daylight",
+    "pronunciation": "/ˈdeɪlaɪt/",
+    "banglaPronunciation": "ডেলাইট",
+    "meaning": "The light of day.",
+    "banglaMeaning": "দিনের আলো",
+    "syllables": [
+      "day",
+      "light"
+    ],
+    "example": "We finished the trip before daylight ended.",
+    "hint": "Made of \"day\" + \"light\".",
+    "image": "/images/level9/daylight.webp"
+  },
+  {
+    "id": "lvl9-017",
+    "level": 9,
+    "order": 17,
+    "word": "daybreak",
+    "pronunciation": "/ˈdeɪbreɪk/",
+    "banglaPronunciation": "ডেব্রেক",
+    "meaning": "The time when day begins.",
+    "banglaMeaning": "ভোর",
+    "syllables": [
+      "day",
+      "break"
+    ],
+    "example": "The farmers woke at daybreak.",
+    "hint": "Made of \"day\" + \"break\".",
+    "image": "/images/level9/daybreak.webp"
+  },
+  {
+    "id": "lvl9-018",
+    "level": 9,
+    "order": 18,
+    "word": "sandcastle",
+    "pronunciation": "/ˈsændkæsl/",
+    "banglaPronunciation": "স্যান্ডক্যাসল",
+    "meaning": "A castle built out of sand.",
+    "banglaMeaning": "বালির দুর্গ",
+    "syllables": [
+      "sand",
+      "castle"
+    ],
+    "example": "We built a sandcastle on the beach.",
+    "hint": "Made of \"sand\" + \"castle\".",
+    "image": "/images/level9/sandcastle.webp"
+  },
+  {
+    "id": "lvl9-019",
+    "level": 9,
+    "order": 19,
+    "word": "sandbox",
+    "pronunciation": "/ˈsændbɒks/",
+    "banglaPronunciation": "স্যান্ডবক্স",
+    "meaning": "A box filled with sand for playing.",
+    "banglaMeaning": "বালির বাক্স",
+    "syllables": [
+      "sand",
+      "box"
+    ],
+    "example": "The kids played in the sandbox.",
+    "hint": "Made of \"sand\" + \"box\".",
+    "image": "/images/level9/sandbox.webp"
+  },
+  {
+    "id": "lvl9-020",
+    "level": 9,
+    "order": 20,
+    "word": "sandstorm",
+    "pronunciation": "/ˈsændstɔːrm/",
+    "banglaPronunciation": "স্যান্ডস্টর্ম",
+    "meaning": "A storm of blowing sand.",
+    "banglaMeaning": "বালুঝড়",
+    "syllables": [
+      "sand",
+      "storm"
+    ],
+    "example": "The sandstorm made it hard to see.",
+    "hint": "Made of \"sand\" + \"storm\".",
+    "image": "/images/level9/sandstorm.webp"
+  },
+  {
+    "id": "lvl9-021",
+    "level": 9,
+    "order": 21,
+    "word": "landslide",
+    "pronunciation": "/ˈlændslaɪd/",
+    "banglaPronunciation": "ল্যান্ডস্লাইড",
+    "meaning": "A mass of earth sliding down a slope.",
+    "banglaMeaning": "ভূমিধস",
+    "syllables": [
+      "land",
+      "slide"
+    ],
+    "example": "Heavy rain caused a landslide.",
+    "hint": "Made of \"land\" + \"slide\".",
+    "image": "/images/level9/landslide.webp"
+  },
+  {
+    "id": "lvl9-022",
+    "level": 9,
+    "order": 22,
+    "word": "iceberg",
+    "pronunciation": "/ˈaɪsbɜːrg/",
+    "banglaPronunciation": "আইসবার্গ",
+    "meaning": "A huge floating piece of ice.",
+    "banglaMeaning": "হিমশৈল",
+    "syllables": [
+      "ice",
+      "berg"
+    ],
+    "example": "The ship sailed past a giant iceberg.",
+    "hint": "Made of \"ice\" + \"berg\".",
+    "image": "/images/level9/iceberg.webp"
+  },
+  {
+    "id": "lvl9-023",
+    "level": 9,
+    "order": 23,
+    "word": "icebreaker",
+    "pronunciation": "/ˈaɪsbreɪkər/",
+    "banglaPronunciation": "আইসব্রেকার",
+    "meaning": "A ship that breaks through ice.",
+    "banglaMeaning": "বরফভাঙা জাহাজ",
+    "syllables": [
+      "ice",
+      "breaker"
+    ],
+    "example": "The icebreaker cleared a path through the ice.",
+    "hint": "Made of \"ice\" + \"breaker\".",
+    "image": "/images/level9/icebreaker.webp"
+  },
+  {
+    "id": "lvl9-024",
+    "level": 9,
+    "order": 24,
+    "word": "frostbite",
+    "pronunciation": "/ˈfrɒstbaɪt/",
+    "banglaPronunciation": "ফ্রস্টবাইট",
+    "meaning": "Injury to skin from extreme cold.",
+    "banglaMeaning": "হিমদংশন",
+    "syllables": [
+      "frost",
+      "bite"
+    ],
+    "example": "He wore gloves to avoid frostbite.",
+    "hint": "Made of \"frost\" + \"bite\".",
+    "image": "/images/level9/frostbite.webp"
+  },
+  {
+    "id": "lvl9-025",
+    "level": 9,
+    "order": 25,
+    "word": "firefly",
+    "pronunciation": "/ˈfaɪərflaɪ/",
+    "banglaPronunciation": "ফায়ারফ্লাই",
+    "meaning": "A small insect that glows at night.",
+    "banglaMeaning": "জোনাকি পোকা",
+    "syllables": [
+      "fire",
+      "fly"
+    ],
+    "example": "Fireflies lit up the summer night.",
+    "hint": "Made of \"fire\" + \"fly\".",
+    "image": "/images/level9/firefly.webp"
+  },
+  {
+    "id": "lvl9-026",
+    "level": 9,
+    "order": 26,
+    "word": "firework",
+    "pronunciation": "/ˈfaɪərwɜːrk/",
+    "banglaPronunciation": "ফায়ারওয়ার্ক",
+    "meaning": "A device that explodes with light.",
+    "banglaMeaning": "আতশবাজি",
+    "syllables": [
+      "fire",
+      "work"
+    ],
+    "example": "We watched fireworks light up the sky.",
+    "hint": "Made of \"fire\" + \"work\".",
+    "image": "/images/level9/firework.webp"
+  },
+  {
+    "id": "lvl9-027",
+    "level": 9,
+    "order": 27,
+    "word": "wildfire",
+    "pronunciation": "/ˈwaɪldfaɪər/",
+    "banglaPronunciation": "ওয়াইল্ডফায়ার",
+    "meaning": "A large, uncontrolled fire.",
+    "banglaMeaning": "দাবানল",
+    "syllables": [
+      "wild",
+      "fire"
+    ],
+    "example": "The wildfire spread across the hills.",
+    "hint": "Made of \"wild\" + \"fire\".",
+    "image": "/images/level9/wildfire.webp"
+  },
+  {
+    "id": "lvl9-028",
+    "level": 9,
+    "order": 28,
+    "word": "driftwood",
+    "pronunciation": "/ˈdrɪftwʊd/",
+    "banglaPronunciation": "ড্রিফটউড",
+    "meaning": "Wood washed ashore by water.",
+    "banglaMeaning": "ভেসে আসা কাঠ",
+    "syllables": [
+      "drift",
+      "wood"
+    ],
+    "example": "We found driftwood along the shore.",
+    "hint": "Made of \"drift\" + \"wood\".",
+    "image": "/images/level9/driftwood.webp"
+  },
+  {
+    "id": "lvl9-029",
+    "level": 9,
+    "order": 29,
+    "word": "seashore",
+    "pronunciation": "/ˈsiːʃɔːr/",
+    "banglaPronunciation": "সিশোর",
+    "meaning": "The land next to the sea.",
+    "banglaMeaning": "সমুদ্র উপকূল",
+    "syllables": [
+      "sea",
+      "shore"
+    ],
+    "example": "We walked along the seashore.",
+    "hint": "Made of \"sea\" + \"shore\".",
+    "image": "/images/level9/seashore.webp"
+  },
+  {
+    "id": "lvl9-030",
+    "level": 9,
+    "order": 30,
+    "word": "hillside",
+    "pronunciation": "/ˈhɪlsaɪd/",
+    "banglaPronunciation": "হিলসাইড",
+    "meaning": "The sloping side of a hill.",
+    "banglaMeaning": "পাহাড়ের ঢাল",
+    "syllables": [
+      "hill",
+      "side"
+    ],
+    "example": "Sheep grazed on the hillside.",
+    "hint": "Made of \"hill\" + \"side\".",
+    "image": "/images/level9/hillside.webp"
+  },
+  {
+    "id": "lvl9-031",
+    "level": 9,
+    "order": 31,
+    "word": "hilltop",
+    "pronunciation": "/ˈhɪltɒp/",
+    "banglaPronunciation": "হিলটপ",
+    "meaning": "The top of a hill.",
+    "banglaMeaning": "পাহাড়ের চূড়া",
+    "syllables": [
+      "hill",
+      "top"
+    ],
+    "example": "A house stood on the hilltop.",
+    "hint": "Made of \"hill\" + \"top\".",
+    "image": "/images/level9/hilltop.webp"
+  },
+  {
+    "id": "lvl9-032",
+    "level": 9,
+    "order": 32,
+    "word": "countryside",
+    "pronunciation": "/ˈkʌntriˌsaɪd/",
+    "banglaPronunciation": "কান্ট্রিসাইড",
+    "meaning": "Land outside of cities and towns.",
+    "banglaMeaning": "গ্রামাঞ্চল",
+    "syllables": [
+      "country",
+      "side"
+    ],
+    "example": "We drove through the peaceful countryside.",
+    "hint": "Made of \"country\" + \"side\".",
+    "image": "/images/level9/countryside.webp"
+  },
+  {
+    "id": "lvl9-033",
+    "level": 9,
+    "order": 33,
+    "word": "riverbank",
+    "pronunciation": "/ˈrɪvərbæŋk/",
+    "banglaPronunciation": "রিভারব্যাংক",
+    "meaning": "The land beside a river.",
+    "banglaMeaning": "নদীর তীর",
+    "syllables": [
+      "river",
+      "bank"
+    ],
+    "example": "We sat on the riverbank and fished.",
+    "hint": "Made of \"river\" + \"bank\".",
+    "image": "/images/level9/riverbank.webp"
+  },
+  {
+    "id": "lvl9-034",
+    "level": 9,
+    "order": 34,
+    "word": "riverbed",
+    "pronunciation": "/ˈrɪvərbɛd/",
+    "banglaPronunciation": "রিভারবেড",
+    "meaning": "The ground a river flows over.",
+    "banglaMeaning": "নদীগর্ভ",
+    "syllables": [
+      "river",
+      "bed"
+    ],
+    "example": "The riverbed was dry in summer.",
+    "hint": "Made of \"river\" + \"bed\".",
+    "image": "/images/level9/riverbed.webp"
+  },
+  {
+    "id": "lvl9-035",
+    "level": 9,
+    "order": 35,
+    "word": "lakeside",
+    "pronunciation": "/ˈleɪksaɪd/",
+    "banglaPronunciation": "লেকসাইড",
+    "meaning": "The area beside a lake.",
+    "banglaMeaning": "হ্রদের তীর",
+    "syllables": [
+      "lake",
+      "side"
+    ],
+    "example": "We had a picnic lakeside.",
+    "hint": "Made of \"lake\" + \"side\".",
+    "image": "/images/level9/lakeside.webp"
+  },
+  {
+    "id": "lvl9-036",
+    "level": 9,
+    "order": 36,
+    "word": "floodgate",
+    "pronunciation": "/ˈflʌdɡeɪt/",
+    "banglaPronunciation": "ফ্লাডগেট",
+    "meaning": "A gate that controls water flow.",
+    "banglaMeaning": "জলপ্রবাহ দ্বার",
+    "syllables": [
+      "flood",
+      "gate"
+    ],
+    "example": "Workers opened the floodgate.",
+    "hint": "Made of \"flood\" + \"gate\".",
+    "image": "/images/level9/floodgate.webp"
+  },
+  {
+    "id": "lvl9-037",
+    "level": 9,
+    "order": 37,
+    "word": "rainforest",
+    "pronunciation": "/ˈreɪnˌfɒrɪst/",
+    "banglaPronunciation": "রেইনফরেস্ট",
+    "meaning": "A thick forest with heavy rainfall.",
+    "banglaMeaning": "রেইনফরেস্ট",
+    "syllables": [
+      "rain",
+      "forest"
+    ],
+    "example": "Many animals live in the rainforest.",
+    "hint": "Made of \"rain\" + \"forest\".",
+    "image": "/images/level9/rainforest.webp"
+  },
+  {
+    "id": "lvl9-038",
+    "level": 9,
+    "order": 38,
+    "word": "treetop",
+    "pronunciation": "/ˈtriːtɒp/",
+    "banglaPronunciation": "ট্রিটপ",
+    "meaning": "The top part of a tree.",
+    "banglaMeaning": "গাছের চূড়া",
+    "syllables": [
+      "tree",
+      "top"
+    ],
+    "example": "A bird sang from the treetop.",
+    "hint": "Made of \"tree\" + \"top\".",
+    "image": "/images/level9/treetop.webp"
+  },
+  {
+    "id": "lvl9-039",
+    "level": 9,
+    "order": 39,
+    "word": "treehouse",
+    "pronunciation": "/ˈtriːhaʊs/",
+    "banglaPronunciation": "ট্রিহাউস",
+    "meaning": "A small house built in a tree.",
+    "banglaMeaning": "গাছের বাড়ি",
+    "syllables": [
+      "tree",
+      "house"
+    ],
+    "example": "The kids built a treehouse.",
+    "hint": "Made of \"tree\" + \"house\".",
+    "image": "/images/level9/treehouse.webp"
+  },
+  {
+    "id": "lvl9-040",
+    "level": 9,
+    "order": 40,
+    "word": "woodpecker",
+    "pronunciation": "/ˈwʊdˌpɛkər/",
+    "banglaPronunciation": "উডপেকার",
+    "meaning": "A bird that pecks holes in trees.",
+    "banglaMeaning": "কাঠঠোকরা",
+    "syllables": [
+      "wood",
+      "pecker"
+    ],
+    "example": "A woodpecker tapped on the old tree.",
+    "hint": "Made of \"wood\" + \"pecker\".",
+    "image": "/images/level9/woodpecker.webp"
+  },
+  {
+    "id": "lvl9-041",
+    "level": 9,
+    "order": 41,
+    "word": "ladybug",
+    "pronunciation": "/ˈleɪdibʌɡ/",
+    "banglaPronunciation": "লেডিবাগ",
+    "meaning": "A small red beetle with black spots.",
+    "banglaMeaning": "লেডিবাগ পোকা",
+    "syllables": [
+      "lady",
+      "bug"
+    ],
+    "example": "A ladybug landed on the leaf.",
+    "hint": "Made of \"lady\" + \"bug\".",
+    "image": "/images/level9/ladybug.webp"
+  },
+  {
+    "id": "lvl9-042",
+    "level": 9,
+    "order": 42,
+    "word": "dragonfly",
+    "pronunciation": "/ˈdræɡənflaɪ/",
+    "banglaPronunciation": "ড্রাগনফ্লাই",
+    "meaning": "An insect with long, thin wings.",
+    "banglaMeaning": "ফড়িং",
+    "syllables": [
+      "dragon",
+      "fly"
+    ],
+    "example": "A dragonfly hovered over the pond.",
+    "hint": "Made of \"dragon\" + \"fly\".",
+    "image": "/images/level9/dragonfly.webp"
+  },
+  {
+    "id": "lvl9-043",
+    "level": 9,
+    "order": 43,
+    "word": "grasshopper",
+    "pronunciation": "/ˈɡræsˌhɒpər/",
+    "banglaPronunciation": "গ্রাসহপার",
+    "meaning": "An insect that jumps through grass.",
+    "banglaMeaning": "ফড়িং পোকা",
+    "syllables": [
+      "grass",
+      "hopper"
+    ],
+    "example": "A grasshopper jumped across the field.",
+    "hint": "Made of \"grass\" + \"hopper\".",
+    "image": "/images/level9/grasshopper.webp"
+  },
+  {
+    "id": "lvl9-044",
+    "level": 9,
+    "order": 44,
+    "word": "honeybee",
+    "pronunciation": "/ˈhʌnibiː/",
+    "banglaPronunciation": "হানিবি",
+    "meaning": "A bee that makes honey.",
+    "banglaMeaning": "মধুমক্ষিকা",
+    "syllables": [
+      "honey",
+      "bee"
+    ],
+    "example": "The honeybee flew from flower to flower.",
+    "hint": "Made of \"honey\" + \"bee\".",
+    "image": "/images/level9/honeybee.webp"
+  },
+  {
+    "id": "lvl9-045",
+    "level": 9,
+    "order": 45,
+    "word": "bumblebee",
+    "pronunciation": "/ˈbʌmbəlbiː/",
+    "banglaPronunciation": "বাম্বলবি",
+    "meaning": "A large, furry, buzzing bee.",
+    "banglaMeaning": "ভোমরা মৌমাছি",
+    "syllables": [
+      "bumble",
+      "bee"
+    ],
+    "example": "A bumblebee buzzed around the garden.",
+    "hint": "Made of \"bumble\" + \"bee\".",
+    "image": "/images/level9/bumblebee.webp"
+  },
+  {
+    "id": "lvl9-046",
+    "level": 9,
+    "order": 46,
+    "word": "housefly",
+    "pronunciation": "/ˈhaʊsflaɪ/",
+    "banglaPronunciation": "হাউসফ্লাই",
+    "meaning": "A common fly found in homes.",
+    "banglaMeaning": "গৃহমাছি",
+    "syllables": [
+      "house",
+      "fly"
+    ],
+    "example": "A housefly landed on the table.",
+    "hint": "Made of \"house\" + \"fly\".",
+    "image": "/images/level9/housefly.webp"
+  },
+  {
+    "id": "lvl9-047",
+    "level": 9,
+    "order": 47,
+    "word": "catfish",
+    "pronunciation": "/ˈkætfɪʃ/",
+    "banglaPronunciation": "ক্যাটফিশ",
+    "meaning": "A fish with whisker-like feelers.",
+    "banglaMeaning": "মাগুর মাছ",
+    "syllables": [
+      "cat",
+      "fish"
+    ],
+    "example": "We caught a catfish in the river.",
+    "hint": "Made of \"cat\" + \"fish\".",
+    "image": "/images/level9/catfish.webp"
+  },
+  {
+    "id": "lvl9-048",
+    "level": 9,
+    "order": 48,
+    "word": "jellyfish",
+    "pronunciation": "/ˈdʒɛlifɪʃ/",
+    "banglaPronunciation": "জেলিফিশ",
+    "meaning": "A soft sea creature with no bones.",
+    "banglaMeaning": "জেলিফিশ",
+    "syllables": [
+      "jelly",
+      "fish"
+    ],
+    "example": "A jellyfish drifted through the water.",
+    "hint": "Made of \"jelly\" + \"fish\".",
+    "image": "/images/level9/jellyfish.webp"
+  },
+  {
+    "id": "lvl9-049",
+    "level": 9,
+    "order": 49,
+    "word": "swordfish",
+    "pronunciation": "/ˈsɔːrdfɪʃ/",
+    "banglaPronunciation": "সোর্ডফিশ",
+    "meaning": "A large fish with a long, flat bill.",
+    "banglaMeaning": "তরোয়াল মাছ",
+    "syllables": [
+      "sword",
+      "fish"
+    ],
+    "example": "The swordfish leaped out of the sea.",
+    "hint": "Made of \"sword\" + \"fish\".",
+    "image": "/images/level9/swordfish.webp"
+  },
+  {
+    "id": "lvl9-050",
+    "level": 9,
+    "order": 50,
+    "word": "goldfish",
+    "pronunciation": "/ˈɡoʊldfɪʃ/",
+    "banglaPronunciation": "গোল্ডফিশ",
+    "meaning": "A small orange fish kept as a pet.",
+    "banglaMeaning": "গোল্ডফিশ",
+    "syllables": [
+      "gold",
+      "fish"
+    ],
+    "example": "She keeps a goldfish in a bowl.",
+    "hint": "Made of \"gold\" + \"fish\".",
+    "image": "/images/level9/goldfish.webp"
+  },
+  {
+    "id": "lvl9-051",
+    "level": 9,
+    "order": 51,
+    "word": "blackbird",
+    "pronunciation": "/ˈblækbɜːrd/",
+    "banglaPronunciation": "ব্ল্যাকবার্ড",
+    "meaning": "A common bird with black feathers.",
+    "banglaMeaning": "কালো পাখি",
+    "syllables": [
+      "black",
+      "bird"
+    ],
+    "example": "A blackbird sang in the tree.",
+    "hint": "Made of \"black\" + \"bird\".",
+    "image": "/images/level9/blackbird.webp"
+  },
+  {
+    "id": "lvl9-052",
+    "level": 9,
+    "order": 52,
+    "word": "bluebird",
+    "pronunciation": "/ˈbluːbɜːrd/",
+    "banglaPronunciation": "ব্লুবার্ড",
+    "meaning": "A small bird with blue feathers.",
+    "banglaMeaning": "নীল পাখি",
+    "syllables": [
+      "blue",
+      "bird"
+    ],
+    "example": "A bluebird landed on the fence.",
+    "hint": "Made of \"blue\" + \"bird\".",
+    "image": "/images/level9/bluebird.webp"
+  },
+  {
+    "id": "lvl9-053",
+    "level": 9,
+    "order": 53,
+    "word": "mockingbird",
+    "pronunciation": "/ˈmɒkɪŋbɜːrd/",
+    "banglaPronunciation": "মকিংবার্ড",
+    "meaning": "A bird that copies other sounds.",
+    "banglaMeaning": "নকলকারী পাখি",
+    "syllables": [
+      "mocking",
+      "bird"
+    ],
+    "example": "The mockingbird copied a car alarm.",
+    "hint": "Made of \"mocking\" + \"bird\".",
+    "image": "/images/level9/mockingbird.webp"
+  },
+  {
+    "id": "lvl9-054",
+    "level": 9,
+    "order": 54,
+    "word": "hummingbird",
+    "pronunciation": "/ˈhʌmɪŋbɜːrd/",
+    "banglaPronunciation": "হামিংবার্ড",
+    "meaning": "A tiny bird with fast-beating wings.",
+    "banglaMeaning": "হামিংবার্ড",
+    "syllables": [
+      "humming",
+      "bird"
+    ],
+    "example": "A hummingbird hovered near the flower.",
+    "hint": "Made of \"humming\" + \"bird\".",
+    "image": "/images/level9/hummingbird.webp"
+  },
+  {
+    "id": "lvl9-055",
+    "level": 9,
+    "order": 55,
+    "word": "songbird",
+    "pronunciation": "/ˈsɒŋbɜːrd/",
+    "banglaPronunciation": "সংবার্ড",
+    "meaning": "A bird known for its singing.",
+    "banglaMeaning": "গায়ক পাখি",
+    "syllables": [
+      "song",
+      "bird"
+    ],
+    "example": "A songbird sang at dawn.",
+    "hint": "Made of \"song\" + \"bird\".",
+    "image": "/images/level9/songbird.webp"
+  },
+  {
+    "id": "lvl9-056",
+    "level": 9,
+    "order": 56,
+    "word": "bullfrog",
+    "pronunciation": "/ˈbʊlfrɒɡ/",
+    "banglaPronunciation": "বুলফ্রগ",
+    "meaning": "A large frog with a deep croak.",
+    "banglaMeaning": "বড় ব্যাঙ",
+    "syllables": [
+      "bull",
+      "frog"
+    ],
+    "example": "The bullfrog croaked loudly at night.",
+    "hint": "Made of \"bull\" + \"frog\".",
+    "image": "/images/level9/bullfrog.webp"
+  },
+  {
+    "id": "lvl9-057",
+    "level": 9,
+    "order": 57,
+    "word": "bulldog",
+    "pronunciation": "/ˈbʊldɒɡ/",
+    "banglaPronunciation": "বুলডগ",
+    "meaning": "A stocky dog with a flat face.",
+    "banglaMeaning": "বুলডগ",
+    "syllables": [
+      "bull",
+      "dog"
+    ],
+    "example": "The bulldog napped on the porch.",
+    "hint": "Made of \"bull\" + \"dog\".",
+    "image": "/images/level9/bulldog.webp"
+  },
+  {
+    "id": "lvl9-058",
+    "level": 9,
+    "order": 58,
+    "word": "racehorse",
+    "pronunciation": "/ˈreɪshɔːrs/",
+    "banglaPronunciation": "রেসহর্স",
+    "meaning": "A horse trained to run fast races.",
+    "banglaMeaning": "দৌড়ের ঘোড়া",
+    "syllables": [
+      "race",
+      "horse"
+    ],
+    "example": "The racehorse crossed the finish line first.",
+    "hint": "Made of \"race\" + \"horse\".",
+    "image": "/images/level9/racehorse.webp"
+  },
+  {
+    "id": "lvl9-059",
+    "level": 9,
+    "order": 59,
+    "word": "warhorse",
+    "pronunciation": "/ˈwɔːrhɔːrs/",
+    "banglaPronunciation": "ওয়ারহর্স",
+    "meaning": "A horse used in battle.",
+    "banglaMeaning": "যুদ্ধের ঘোড়া",
+    "syllables": [
+      "war",
+      "horse"
+    ],
+    "example": "The knight rode his warhorse.",
+    "hint": "Made of \"war\" + \"horse\".",
+    "image": "/images/level9/warhorse.webp"
+  },
+  {
+    "id": "lvl9-060",
+    "level": 9,
+    "order": 60,
+    "word": "horseshoe",
+    "pronunciation": "/ˈhɔːrsʃuː/",
+    "banglaPronunciation": "হর্সশু",
+    "meaning": "A metal shoe for a horse's hoof.",
+    "banglaMeaning": "ঘোড়ার নাল",
+    "syllables": [
+      "horse",
+      "shoe"
+    ],
+    "example": "The blacksmith made a horseshoe.",
+    "hint": "Made of \"horse\" + \"shoe\".",
+    "image": "/images/level9/horseshoe.webp"
+  },
+  {
+    "id": "lvl9-061",
+    "level": 9,
+    "order": 61,
+    "word": "cowboy",
+    "pronunciation": "/ˈkaʊbɔɪ/",
+    "banglaPronunciation": "কাউবয়",
+    "meaning": "A man who herds cattle on a ranch.",
+    "banglaMeaning": "রাখাল ছেলে",
+    "syllables": [
+      "cow",
+      "boy"
+    ],
+    "example": "The cowboy rode across the ranch.",
+    "hint": "Made of \"cow\" + \"boy\".",
+    "image": "/images/level9/cowboy.webp"
+  },
+  {
+    "id": "lvl9-062",
+    "level": 9,
+    "order": 62,
+    "word": "farmhouse",
+    "pronunciation": "/ˈfɑːrmhaʊs/",
+    "banglaPronunciation": "ফার্মহাউস",
+    "meaning": "A house on a farm.",
+    "banglaMeaning": "খামারবাড়ি",
+    "syllables": [
+      "farm",
+      "house"
+    ],
+    "example": "We stayed at an old farmhouse.",
+    "hint": "Made of \"farm\" + \"house\".",
+    "image": "/images/level9/farmhouse.webp"
+  },
+  {
+    "id": "lvl9-063",
+    "level": 9,
+    "order": 63,
+    "word": "farmland",
+    "pronunciation": "/ˈfɑːrmlænd/",
+    "banglaPronunciation": "ফার্মল্যান্ড",
+    "meaning": "Land used for farming.",
+    "banglaMeaning": "কৃষিজমি",
+    "syllables": [
+      "farm",
+      "land"
+    ],
+    "example": "Wide farmland stretched to the horizon.",
+    "hint": "Made of \"farm\" + \"land\".",
+    "image": "/images/level9/farmland.webp"
+  },
+  {
+    "id": "lvl9-064",
+    "level": 9,
+    "order": 64,
+    "word": "farmyard",
+    "pronunciation": "/ˈfɑːrmjɑːrd/",
+    "banglaPronunciation": "ফার্মইয়ার্ড",
+    "meaning": "The yard area of a farm.",
+    "banglaMeaning": "খামারের আঙিনা",
+    "syllables": [
+      "farm",
+      "yard"
+    ],
+    "example": "Chickens ran around the farmyard.",
+    "hint": "Made of \"farm\" + \"yard\".",
+    "image": "/images/level9/farmyard.webp"
+  },
+  {
+    "id": "lvl9-065",
+    "level": 9,
+    "order": 65,
+    "word": "barnyard",
+    "pronunciation": "/ˈbɑːrnjɑːrd/",
+    "banglaPronunciation": "বার্নইয়ার্ড",
+    "meaning": "The yard area near a barn.",
+    "banglaMeaning": "গোলাঘরের আঙিনা",
+    "syllables": [
+      "barn",
+      "yard"
+    ],
+    "example": "Pigs rested in the barnyard.",
+    "hint": "Made of \"barn\" + \"yard\".",
+    "image": "/images/level9/barnyard.webp"
+  },
+  {
+    "id": "lvl9-066",
+    "level": 9,
+    "order": 66,
+    "word": "henhouse",
+    "pronunciation": "/ˈhɛnhaʊs/",
+    "banglaPronunciation": "হেনহাউস",
+    "meaning": "A small building for hens.",
+    "banglaMeaning": "মুরগির ঘর",
+    "syllables": [
+      "hen",
+      "house"
+    ],
+    "example": "She collected eggs from the henhouse.",
+    "hint": "Made of \"hen\" + \"house\".",
+    "image": "/images/level9/henhouse.webp"
+  },
+  {
+    "id": "lvl9-067",
+    "level": 9,
+    "order": 67,
+    "word": "doghouse",
+    "pronunciation": "/ˈdɒɡhaʊs/",
+    "banglaPronunciation": "ডগহাউস",
+    "meaning": "A small shelter for a dog.",
+    "banglaMeaning": "কুকুরের ঘর",
+    "syllables": [
+      "dog",
+      "house"
+    ],
+    "example": "The dog slept in its doghouse.",
+    "hint": "Made of \"dog\" + \"house\".",
+    "image": "/images/level9/doghouse.webp"
+  },
+  {
+    "id": "lvl9-068",
+    "level": 9,
+    "order": 68,
+    "word": "birdhouse",
+    "pronunciation": "/ˈbɜːrdhaʊs/",
+    "banglaPronunciation": "বার্ডহাউস",
+    "meaning": "A small shelter built for birds.",
+    "banglaMeaning": "পাখির ঘর",
+    "syllables": [
+      "bird",
+      "house"
+    ],
+    "example": "We hung a birdhouse in the tree.",
+    "hint": "Made of \"bird\" + \"house\".",
+    "image": "/images/level9/birdhouse.webp"
+  },
+  {
+    "id": "lvl9-069",
+    "level": 9,
+    "order": 69,
+    "word": "birdbath",
+    "pronunciation": "/ˈbɜːrdbæθ/",
+    "banglaPronunciation": "বার্ডবাথ",
+    "meaning": "A basin of water for birds to bathe.",
+    "banglaMeaning": "পাখির স্নানাগার",
+    "syllables": [
+      "bird",
+      "bath"
+    ],
+    "example": "Sparrows splashed in the birdbath.",
+    "hint": "Made of \"bird\" + \"bath\".",
+    "image": "/images/level9/birdbath.webp"
+  },
+  {
+    "id": "lvl9-070",
+    "level": 9,
+    "order": 70,
+    "word": "birdcage",
+    "pronunciation": "/ˈbɜːrdkeɪdʒ/",
+    "banglaPronunciation": "বার্ডকেজ",
+    "meaning": "A cage for keeping a pet bird.",
+    "banglaMeaning": "পাখির খাঁচা",
+    "syllables": [
+      "bird",
+      "cage"
+    ],
+    "example": "The parrot lived in a birdcage.",
+    "hint": "Made of \"bird\" + \"cage\".",
+    "image": "/images/level9/birdcage.webp"
+  },
+  {
+    "id": "lvl9-071",
+    "level": 9,
+    "order": 71,
+    "word": "anthill",
+    "pronunciation": "/ˈænthɪl/",
+    "banglaPronunciation": "অ্যান্টহিল",
+    "meaning": "A mound of earth built by ants.",
+    "banglaMeaning": "পিঁপড়ার ঢিবি",
+    "syllables": [
+      "ant",
+      "hill"
+    ],
+    "example": "Ants swarmed around the anthill.",
+    "hint": "Made of \"ant\" + \"hill\".",
+    "image": "/images/level9/anthill.webp"
+  },
+  {
+    "id": "lvl9-072",
+    "level": 9,
+    "order": 72,
+    "word": "beehive",
+    "pronunciation": "/ˈbiːhaɪv/",
+    "banglaPronunciation": "বিহাইভ",
+    "meaning": "A structure where bees live.",
+    "banglaMeaning": "মৌচাক",
+    "syllables": [
+      "bee",
+      "hive"
+    ],
+    "example": "The beehive buzzed with activity.",
+    "hint": "Made of \"bee\" + \"hive\".",
+    "image": "/images/level9/beehive.webp"
+  },
+  {
+    "id": "lvl9-073",
+    "level": 9,
+    "order": 73,
+    "word": "spiderweb",
+    "pronunciation": "/ˈspaɪdərwɛb/",
+    "banglaPronunciation": "স্পাইডারওয়েব",
+    "meaning": "A net of threads spun by a spider.",
+    "banglaMeaning": "মাকড়সার জাল",
+    "syllables": [
+      "spider",
+      "web"
+    ],
+    "example": "Dew sparkled on the spiderweb.",
+    "hint": "Made of \"spider\" + \"web\".",
+    "image": "/images/level9/spiderweb.webp"
+  },
+  {
+    "id": "lvl9-074",
+    "level": 9,
+    "order": 74,
+    "word": "toothpaste",
+    "pronunciation": "/ˈtuːθpeɪst/",
+    "banglaPronunciation": "টুথপেস্ট",
+    "meaning": "A paste used to clean teeth.",
+    "banglaMeaning": "টুথপেস্ট",
+    "syllables": [
+      "tooth",
+      "paste"
+    ],
+    "example": "He squeezed toothpaste onto the brush.",
+    "hint": "Made of \"tooth\" + \"paste\".",
+    "image": "/images/level9/toothpaste.webp"
+  },
+  {
+    "id": "lvl9-075",
+    "level": 9,
+    "order": 75,
+    "word": "toothpick",
+    "pronunciation": "/ˈtuːθpɪk/",
+    "banglaPronunciation": "টুথপিক",
+    "meaning": "A small stick used to clean teeth.",
+    "banglaMeaning": "টুথপিক",
+    "syllables": [
+      "tooth",
+      "pick"
+    ],
+    "example": "He used a toothpick after dinner.",
+    "hint": "Made of \"tooth\" + \"pick\".",
+    "image": "/images/level9/toothpick.webp"
+  },
+  {
+    "id": "lvl9-076",
+    "level": 9,
+    "order": 76,
+    "word": "hairpin",
+    "pronunciation": "/ˈhɛərpɪn/",
+    "banglaPronunciation": "হেয়ারপিন",
+    "meaning": "A small pin used to hold hair.",
+    "banglaMeaning": "চুলের কাঁটা",
+    "syllables": [
+      "hair",
+      "pin"
+    ],
+    "example": "She fixed her bun with a hairpin.",
+    "hint": "Made of \"hair\" + \"pin\".",
+    "image": "/images/level9/hairpin.webp"
+  },
+  {
+    "id": "lvl9-077",
+    "level": 9,
+    "order": 77,
+    "word": "hairstyle",
+    "pronunciation": "/ˈhɛərstaɪl/",
+    "banglaPronunciation": "হেয়ারস্টাইল",
+    "meaning": "The way hair is arranged.",
+    "banglaMeaning": "চুলের স্টাইল",
+    "syllables": [
+      "hair",
+      "style"
+    ],
+    "example": "She tried a new hairstyle.",
+    "hint": "Made of \"hair\" + \"style\".",
+    "image": "/images/level9/hairstyle.webp"
+  },
+  {
+    "id": "lvl9-078",
+    "level": 9,
+    "order": 78,
+    "word": "eyebrow",
+    "pronunciation": "/ˈaɪbraʊ/",
+    "banglaPronunciation": "আইব্রাউ",
+    "meaning": "The line of hair above the eye.",
+    "banglaMeaning": "ভ্রু",
+    "syllables": [
+      "eye",
+      "brow"
+    ],
+    "example": "She raised an eyebrow in surprise.",
+    "hint": "Made of \"eye\" + \"brow\".",
+    "image": "/images/level9/eyebrow.webp"
+  },
+  {
+    "id": "lvl9-079",
+    "level": 9,
+    "order": 79,
+    "word": "eyelash",
+    "pronunciation": "/ˈaɪlæʃ/",
+    "banglaPronunciation": "আইল্যাশ",
+    "meaning": "One of the hairs on the eyelid.",
+    "banglaMeaning": "চোখের পাপড়ি",
+    "syllables": [
+      "eye",
+      "lash"
+    ],
+    "example": "A speck landed on her eyelash.",
+    "hint": "Made of \"eye\" + \"lash\".",
+    "image": "/images/level9/eyelash.webp"
+  },
+  {
+    "id": "lvl9-080",
+    "level": 9,
+    "order": 80,
+    "word": "eyelid",
+    "pronunciation": "/ˈaɪlɪd/",
+    "banglaPronunciation": "আইলিড",
+    "meaning": "The skin that covers the eye.",
+    "banglaMeaning": "চোখের পাতা",
+    "syllables": [
+      "eye",
+      "lid"
+    ],
+    "example": "He closed his eyelid to rest.",
+    "hint": "Made of \"eye\" + \"lid\".",
+    "image": "/images/level9/eyelid.webp"
+  },
+  {
+    "id": "lvl9-081",
+    "level": 9,
+    "order": 81,
+    "word": "eyesight",
+    "pronunciation": "/ˈaɪsaɪt/",
+    "banglaPronunciation": "আইসাইট",
+    "meaning": "The ability to see.",
+    "banglaMeaning": "দৃষ্টিশক্তি",
+    "syllables": [
+      "eye",
+      "sight"
+    ],
+    "example": "Grandpa's eyesight is still sharp.",
+    "hint": "Made of \"eye\" + \"sight\".",
+    "image": "/images/level9/eyesight.webp"
+  },
+  {
+    "id": "lvl9-082",
+    "level": 9,
+    "order": 82,
+    "word": "earache",
+    "pronunciation": "/ˈɪəreɪk/",
+    "banglaPronunciation": "ইয়ারএক",
+    "meaning": "A pain inside the ear.",
+    "banglaMeaning": "কানের ব্যথা",
+    "syllables": [
+      "ear",
+      "ache"
+    ],
+    "example": "He had an earache after swimming.",
+    "hint": "Made of \"ear\" + \"ache\".",
+    "image": "/images/level9/earache.webp"
+  },
+  {
+    "id": "lvl9-083",
+    "level": 9,
+    "order": 83,
+    "word": "earphone",
+    "pronunciation": "/ˈɪərfoʊn/",
+    "banglaPronunciation": "ইয়ারফোন",
+    "meaning": "A small device worn in the ear for sound.",
+    "banglaMeaning": "ইয়ারফোন",
+    "syllables": [
+      "ear",
+      "phone"
+    ],
+    "example": "She listened to music on her earphone.",
+    "hint": "Made of \"ear\" + \"phone\".",
+    "image": "/images/level9/earphone.webp"
+  },
+  {
+    "id": "lvl9-084",
+    "level": 9,
+    "order": 84,
+    "word": "headache",
+    "pronunciation": "/ˈhɛdeɪk/",
+    "banglaPronunciation": "হেডএক",
+    "meaning": "A pain in the head.",
+    "banglaMeaning": "মাথাব্যথা",
+    "syllables": [
+      "head",
+      "ache"
+    ],
+    "example": "Too much noise gave him a headache.",
+    "hint": "Made of \"head\" + \"ache\".",
+    "image": "/images/level9/headache.webp"
+  },
+  {
+    "id": "lvl9-085",
+    "level": 9,
+    "order": 85,
+    "word": "headphone",
+    "pronunciation": "/ˈhɛdfoʊn/",
+    "banglaPronunciation": "হেডফোন",
+    "meaning": "A device worn over the ears for sound.",
+    "banglaMeaning": "হেডফোন",
+    "syllables": [
+      "head",
+      "phone"
+    ],
+    "example": "He wore a headphone to study.",
+    "hint": "Made of \"head\" + \"phone\".",
+    "image": "/images/level9/headphone.webp"
+  },
+  {
+    "id": "lvl9-086",
+    "level": 9,
+    "order": 86,
+    "word": "headlight",
+    "pronunciation": "/ˈhɛdlaɪt/",
+    "banglaPronunciation": "হেডলাইট",
+    "meaning": "A light on the front of a vehicle.",
+    "banglaMeaning": "গাড়ির সামনের বাতি",
+    "syllables": [
+      "head",
+      "light"
+    ],
+    "example": "The car's headlight lit up the road.",
+    "hint": "Made of \"head\" + \"light\".",
+    "image": "/images/level9/headlight.webp"
+  },
+  {
+    "id": "lvl9-087",
+    "level": 9,
+    "order": 87,
+    "word": "headband",
+    "pronunciation": "/ˈhɛdbænd/",
+    "banglaPronunciation": "হেডব্যান্ড",
+    "meaning": "A band worn around the head.",
+    "banglaMeaning": "হেডব্যান্ড",
+    "syllables": [
+      "head",
+      "band"
+    ],
+    "example": "She wore a headband during her run.",
+    "hint": "Made of \"head\" + \"band\".",
+    "image": "/images/level9/headband.webp"
+  },
+  {
+    "id": "lvl9-088",
+    "level": 9,
+    "order": 88,
+    "word": "headline",
+    "pronunciation": "/ˈhɛdlaɪn/",
+    "banglaPronunciation": "হেডলাইন",
+    "meaning": "The title at the top of a news story.",
+    "banglaMeaning": "শিরোনাম",
+    "syllables": [
+      "head",
+      "line"
+    ],
+    "example": "The headline announced big news.",
+    "hint": "Made of \"head\" + \"line\".",
+    "image": "/images/level9/headline.webp"
+  },
+  {
+    "id": "lvl9-089",
+    "level": 9,
+    "order": 89,
+    "word": "forehead",
+    "pronunciation": "/ˈfɔːrhɛd/",
+    "banglaPronunciation": "ফোরহেড",
+    "meaning": "The part of the face above the eyebrows.",
+    "banglaMeaning": "কপাল",
+    "syllables": [
+      "fore",
+      "head"
+    ],
+    "example": "Sweat dripped from his forehead.",
+    "hint": "Made of \"fore\" + \"head\".",
+    "image": "/images/level9/forehead.webp"
+  },
+  {
+    "id": "lvl9-090",
+    "level": 9,
+    "order": 90,
+    "word": "fingernail",
+    "pronunciation": "/ˈfɪŋɡərneɪl/",
+    "banglaPronunciation": "ফিঙ্গারনেইল",
+    "meaning": "The hard covering at the tip of a finger.",
+    "banglaMeaning": "আঙুলের নখ",
+    "syllables": [
+      "finger",
+      "nail"
+    ],
+    "example": "She painted her fingernail pink.",
+    "hint": "Made of \"finger\" + \"nail\".",
+    "image": "/images/level9/fingernail.webp"
+  },
+  {
+    "id": "lvl9-091",
+    "level": 9,
+    "order": 91,
+    "word": "fingerprint",
+    "pronunciation": "/ˈfɪŋɡərprɪnt/",
+    "banglaPronunciation": "ফিঙ্গারপ্রিন্ট",
+    "meaning": "The unique mark left by a finger.",
+    "banglaMeaning": "আঙুলের ছাপ",
+    "syllables": [
+      "finger",
+      "print"
+    ],
+    "example": "The detective checked the fingerprint.",
+    "hint": "Made of \"finger\" + \"print\".",
+    "image": "/images/level9/fingerprint.webp"
+  },
+  {
+    "id": "lvl9-092",
+    "level": 9,
+    "order": 92,
+    "word": "fingertip",
+    "pronunciation": "/ˈfɪŋɡərtɪp/",
+    "banglaPronunciation": "ফিঙ্গারটিপ",
+    "meaning": "The end part of a finger.",
+    "banglaMeaning": "আঙুলের ডগা",
+    "syllables": [
+      "finger",
+      "tip"
+    ],
+    "example": "He touched it with his fingertip.",
+    "hint": "Made of \"finger\" + \"tip\".",
+    "image": "/images/level9/fingertip.webp"
+  },
+  {
+    "id": "lvl9-093",
+    "level": 9,
+    "order": 93,
+    "word": "thumbnail",
+    "pronunciation": "/ˈθʌmneɪl/",
+    "banglaPronunciation": "থাম্বনেইল",
+    "meaning": "The nail on the thumb.",
+    "banglaMeaning": "বুড়ো আঙুলের নখ",
+    "syllables": [
+      "thumb",
+      "nail"
+    ],
+    "example": "He bit his thumbnail nervously.",
+    "hint": "Made of \"thumb\" + \"nail\".",
+    "image": "/images/level9/thumbnail.webp"
+  },
+  {
+    "id": "lvl9-094",
+    "level": 9,
+    "order": 94,
+    "word": "handbag",
+    "pronunciation": "/ˈhændbæɡ/",
+    "banglaPronunciation": "হ্যান্ডব্যাগ",
+    "meaning": "A small bag carried by hand.",
+    "banglaMeaning": "হাতব্যাগ",
+    "syllables": [
+      "hand",
+      "bag"
+    ],
+    "example": "She carried a red handbag.",
+    "hint": "Made of \"hand\" + \"bag\".",
+    "image": "/images/level9/handbag.webp"
+  },
+  {
+    "id": "lvl9-095",
+    "level": 9,
+    "order": 95,
+    "word": "handball",
+    "pronunciation": "/ˈhændbɔːl/",
+    "banglaPronunciation": "হ্যান্ডবল",
+    "meaning": "A game played by hitting a ball with hands.",
+    "banglaMeaning": "হ্যান্ডবল",
+    "syllables": [
+      "hand",
+      "ball"
+    ],
+    "example": "The boys played handball in the yard.",
+    "hint": "Made of \"hand\" + \"ball\".",
+    "image": "/images/level9/handball.webp"
+  },
+  {
+    "id": "lvl9-096",
+    "level": 9,
+    "order": 96,
+    "word": "handcuff",
+    "pronunciation": "/ˈhændkʌf/",
+    "banglaPronunciation": "হ্যান্ডকাফ",
+    "meaning": "A metal ring used to bind wrists.",
+    "banglaMeaning": "হাতকড়া",
+    "syllables": [
+      "hand",
+      "cuff"
+    ],
+    "example": "The officer used a handcuff.",
+    "hint": "Made of \"hand\" + \"cuff\".",
+    "image": "/images/level9/handcuff.webp"
+  },
+  {
+    "id": "lvl9-097",
+    "level": 9,
+    "order": 97,
+    "word": "handrail",
+    "pronunciation": "/ˈhændreɪl/",
+    "banglaPronunciation": "হ্যান্ডরেল",
+    "meaning": "A rail to hold onto for support.",
+    "banglaMeaning": "রেলিং",
+    "syllables": [
+      "hand",
+      "rail"
+    ],
+    "example": "She held the handrail on the stairs.",
+    "hint": "Made of \"hand\" + \"rail\".",
+    "image": "/images/level9/handrail.webp"
+  },
+  {
+    "id": "lvl9-098",
+    "level": 9,
+    "order": 98,
+    "word": "handwriting",
+    "pronunciation": "/ˈhændraɪtɪŋ/",
+    "banglaPronunciation": "হ্যান্ডরাইটিং",
+    "meaning": "Writing done by hand.",
+    "banglaMeaning": "হাতের লেখা",
+    "syllables": [
+      "hand",
+      "writing"
+    ],
+    "example": "His handwriting was neat and clear.",
+    "hint": "Made of \"hand\" + \"writing\".",
+    "image": "/images/level9/handwriting.webp"
+  },
+  {
+    "id": "lvl9-099",
+    "level": 9,
+    "order": 99,
+    "word": "handbook",
+    "pronunciation": "/ˈhændbʊk/",
+    "banglaPronunciation": "হ্যান্ডবুক",
+    "meaning": "A small reference book.",
+    "banglaMeaning": "নির্দেশিকা বই",
+    "syllables": [
+      "hand",
+      "book"
+    ],
+    "example": "The handbook explained the rules.",
+    "hint": "Made of \"hand\" + \"book\".",
+    "image": "/images/level9/handbook.webp"
+  },
+  {
+    "id": "lvl9-100",
+    "level": 9,
+    "order": 100,
+    "word": "handmade",
+    "pronunciation": "/ˈhændˈmeɪd/",
+    "banglaPronunciation": "হ্যান্ডমেড",
+    "meaning": "Made by hand, not by machine.",
+    "banglaMeaning": "হাতে তৈরি",
+    "syllables": [
+      "hand",
+      "made"
+    ],
+    "example": "She gave a handmade gift.",
+    "hint": "Made of \"hand\" + \"made\".",
+    "image": "/images/level9/handmade.webp"
+  },
+  {
+    "id": "lvl9-101",
+    "level": 9,
+    "order": 101,
+    "word": "homesick",
+    "pronunciation": "/ˈhoʊmsɪk/",
+    "banglaPronunciation": "হোমসিক",
+    "meaning": "Missing home while away.",
+    "banglaMeaning": "বাড়ির জন্য মন কেমন",
+    "syllables": [
+      "home",
+      "sick"
+    ],
+    "example": "She felt homesick at camp.",
+    "hint": "Made of \"home\" + \"sick\".",
+    "image": "/images/level9/homesick.webp"
+  },
+  {
+    "id": "lvl9-102",
+    "level": 9,
+    "order": 102,
+    "word": "homeland",
+    "pronunciation": "/ˈhoʊmlænd/",
+    "banglaPronunciation": "হোমল্যান্ড",
+    "meaning": "One's native country.",
+    "banglaMeaning": "স্বদেশ",
+    "syllables": [
+      "home",
+      "land"
+    ],
+    "example": "He returned to his homeland.",
+    "hint": "Made of \"home\" + \"land\".",
+    "image": "/images/level9/homeland.webp"
+  },
+  {
+    "id": "lvl9-103",
+    "level": 9,
+    "order": 103,
+    "word": "homemade",
+    "pronunciation": "/ˈhoʊmˈmeɪd/",
+    "banglaPronunciation": "হোমমেড",
+    "meaning": "Made at home, not bought.",
+    "banglaMeaning": "ঘরে তৈরি",
+    "syllables": [
+      "home",
+      "made"
+    ],
+    "example": "We ate homemade bread.",
+    "hint": "Made of \"home\" + \"made\".",
+    "image": "/images/level9/homemade.webp"
+  },
+  {
+    "id": "lvl9-104",
+    "level": 9,
+    "order": 104,
+    "word": "classroom",
+    "pronunciation": "/ˈklæsruːm/",
+    "banglaPronunciation": "ক্লাসরুম",
+    "meaning": "A room where lessons are taught.",
+    "banglaMeaning": "শ্রেণিকক্ষ",
+    "syllables": [
+      "class",
+      "room"
+    ],
+    "example": "The classroom was full of students.",
+    "hint": "Made of \"class\" + \"room\".",
+    "image": "/images/level9/classroom.webp"
+  },
+  {
+    "id": "lvl9-105",
+    "level": 9,
+    "order": 105,
+    "word": "classmate",
+    "pronunciation": "/ˈklæsmeɪt/",
+    "banglaPronunciation": "ক্লাসমেট",
+    "meaning": "A student in the same class.",
+    "banglaMeaning": "সহপাঠী",
+    "syllables": [
+      "class",
+      "mate"
+    ],
+    "example": "My classmate helped me with homework.",
+    "hint": "Made of \"class\" + \"mate\".",
+    "image": "/images/level9/classmate.webp"
+  },
+  {
+    "id": "lvl9-106",
+    "level": 9,
+    "order": 106,
+    "word": "playhouse",
+    "pronunciation": "/ˈpleɪhaʊs/",
+    "banglaPronunciation": "প্লেহাউস",
+    "meaning": "A small house for children to play in.",
+    "banglaMeaning": "খেলাঘর",
+    "syllables": [
+      "play",
+      "house"
+    ],
+    "example": "The kids played in the playhouse.",
+    "hint": "Made of \"play\" + \"house\".",
+    "image": "/images/level9/playhouse.webp"
+  },
+  {
+    "id": "lvl9-107",
+    "level": 9,
+    "order": 107,
+    "word": "playpen",
+    "pronunciation": "/ˈpleɪpɛn/",
+    "banglaPronunciation": "প্লেপেন",
+    "meaning": "A small enclosure for a baby to play in.",
+    "banglaMeaning": "শিশুর খেলার ঘেরা জায়গা",
+    "syllables": [
+      "play",
+      "pen"
+    ],
+    "example": "The baby napped in the playpen.",
+    "hint": "Made of \"play\" + \"pen\".",
+    "image": "/images/level9/playpen.webp"
+  },
+  {
+    "id": "lvl9-108",
+    "level": 9,
+    "order": 108,
+    "word": "playmate",
+    "pronunciation": "/ˈpleɪmeɪt/",
+    "banglaPronunciation": "প্লেমেট",
+    "meaning": "A friend to play with.",
+    "banglaMeaning": "খেলার সাথী",
+    "syllables": [
+      "play",
+      "mate"
+    ],
+    "example": "She invited her playmate over.",
+    "hint": "Made of \"play\" + \"mate\".",
+    "image": "/images/level9/playmate.webp"
+  },
+  {
+    "id": "lvl9-109",
+    "level": 9,
+    "order": 109,
+    "word": "bedsheet",
+    "pronunciation": "/ˈbɛdʃiːt/",
+    "banglaPronunciation": "বেডশিট",
+    "meaning": "A cloth covering placed on a bed.",
+    "banglaMeaning": "বিছানার চাদর",
+    "syllables": [
+      "bed",
+      "sheet"
+    ],
+    "example": "She washed the bedsheet on Sunday.",
+    "hint": "Made of \"bed\" + \"sheet\".",
+    "image": "/images/level9/bedsheet.webp"
+  },
+  {
+    "id": "lvl9-110",
+    "level": 9,
+    "order": 110,
+    "word": "bedspread",
+    "pronunciation": "/ˈbɛdsprɛd/",
+    "banglaPronunciation": "বেডস্প্রেড",
+    "meaning": "A decorative cover placed over a bed.",
+    "banglaMeaning": "বিছানার চাদর ঢাকনা",
+    "syllables": [
+      "bed",
+      "spread"
+    ],
+    "example": "A blue bedspread covered the bed.",
+    "hint": "Made of \"bed\" + \"spread\".",
+    "image": "/images/level9/bedspread.webp"
+  },
+  {
+    "id": "lvl9-111",
+    "level": 9,
+    "order": 111,
+    "word": "bathtub",
+    "pronunciation": "/ˈbæθtʌb/",
+    "banglaPronunciation": "বাথটাব",
+    "meaning": "A large tub for bathing.",
+    "banglaMeaning": "স্নানের টব",
+    "syllables": [
+      "bath",
+      "tub"
+    ],
+    "example": "The bathtub filled with warm water.",
+    "hint": "Made of \"bath\" + \"tub\".",
+    "image": "/images/level9/bathtub.webp"
+  },
+  {
+    "id": "lvl9-112",
+    "level": 9,
+    "order": 112,
+    "word": "bathrobe",
+    "pronunciation": "/ˈbæθroʊb/",
+    "banglaPronunciation": "বাথরোব",
+    "meaning": "A loose robe worn after bathing.",
+    "banglaMeaning": "স্নানের পোশাক",
+    "syllables": [
+      "bath",
+      "robe"
+    ],
+    "example": "He wrapped himself in a bathrobe.",
+    "hint": "Made of \"bath\" + \"robe\".",
+    "image": "/images/level9/bathrobe.webp"
+  },
+  {
+    "id": "lvl9-113",
+    "level": 9,
+    "order": 113,
+    "word": "backyard",
+    "pronunciation": "/ˈbækjɑːrd/",
+    "banglaPronunciation": "ব্যাকইয়ার্ড",
+    "meaning": "The yard behind a house.",
+    "banglaMeaning": "বাড়ির পেছনের আঙিনা",
+    "syllables": [
+      "back",
+      "yard"
+    ],
+    "example": "The kids played in the backyard.",
+    "hint": "Made of \"back\" + \"yard\".",
+    "image": "/images/level9/backyard.webp"
+  },
+  {
+    "id": "lvl9-114",
+    "level": 9,
+    "order": 114,
+    "word": "backbone",
+    "pronunciation": "/ˈbækboʊn/",
+    "banglaPronunciation": "ব্যাকবোন",
+    "meaning": "The row of bones down the back.",
+    "banglaMeaning": "মেরুদণ্ড",
+    "syllables": [
+      "back",
+      "bone"
+    ],
+    "example": "The backbone supports the whole body.",
+    "hint": "Made of \"back\" + \"bone\".",
+    "image": "/images/level9/backbone.webp"
+  },
+  {
+    "id": "lvl9-115",
+    "level": 9,
+    "order": 115,
+    "word": "backdoor",
+    "pronunciation": "/ˈbækdɔːr/",
+    "banglaPronunciation": "ব্যাকডোর",
+    "meaning": "A door at the rear of a building.",
+    "banglaMeaning": "পেছনের দরজা",
+    "syllables": [
+      "back",
+      "door"
+    ],
+    "example": "We entered through the backdoor.",
+    "hint": "Made of \"back\" + \"door\".",
+    "image": "/images/level9/backdoor.webp"
+  },
+  {
+    "id": "lvl9-116",
+    "level": 9,
+    "order": 116,
+    "word": "backache",
+    "pronunciation": "/ˈbækeɪk/",
+    "banglaPronunciation": "ব্যাকএক",
+    "meaning": "A pain in the back.",
+    "banglaMeaning": "পিঠের ব্যথা",
+    "syllables": [
+      "back",
+      "ache"
+    ],
+    "example": "Lifting boxes gave him a backache.",
+    "hint": "Made of \"back\" + \"ache\".",
+    "image": "/images/level9/backache.webp"
+  },
+  {
+    "id": "lvl9-117",
+    "level": 9,
+    "order": 117,
+    "word": "backstage",
+    "pronunciation": "/ˈbækˈsteɪdʒ/",
+    "banglaPronunciation": "ব্যাকস্টেজ",
+    "meaning": "The area behind a stage.",
+    "banglaMeaning": "মঞ্চের পেছনের অংশ",
+    "syllables": [
+      "back",
+      "stage"
+    ],
+    "example": "Actors waited backstage.",
+    "hint": "Made of \"back\" + \"stage\".",
+    "image": "/images/level9/backstage.webp"
+  },
+  {
+    "id": "lvl9-118",
+    "level": 9,
+    "order": 118,
+    "word": "doorway",
+    "pronunciation": "/ˈdɔːrweɪ/",
+    "banglaPronunciation": "ডোরওয়ে",
+    "meaning": "The opening where a door is.",
+    "banglaMeaning": "দরজার পথ",
+    "syllables": [
+      "door",
+      "way"
+    ],
+    "example": "He stood in the doorway.",
+    "hint": "Made of \"door\" + \"way\".",
+    "image": "/images/level9/doorway.webp"
+  },
+  {
+    "id": "lvl9-119",
+    "level": 9,
+    "order": 119,
+    "word": "doorbell",
+    "pronunciation": "/ˈdɔːrbɛl/",
+    "banglaPronunciation": "ডোরবেল",
+    "meaning": "A bell rung at a door.",
+    "banglaMeaning": "কলিং বেল",
+    "syllables": [
+      "door",
+      "bell"
+    ],
+    "example": "She rang the doorbell twice.",
+    "hint": "Made of \"door\" + \"bell\".",
+    "image": "/images/level9/doorbell.webp"
+  },
+  {
+    "id": "lvl9-120",
+    "level": 9,
+    "order": 120,
+    "word": "doorstep",
+    "pronunciation": "/ˈdɔːrstɛp/",
+    "banglaPronunciation": "ডোরস্টেপ",
+    "meaning": "The step in front of a door.",
+    "banglaMeaning": "দরজার সিঁড়ি",
+    "syllables": [
+      "door",
+      "step"
+    ],
+    "example": "The package sat on the doorstep.",
+    "hint": "Made of \"door\" + \"step\".",
+    "image": "/images/level9/doorstep.webp"
+  },
+  {
+    "id": "lvl9-121",
+    "level": 9,
+    "order": 121,
+    "word": "doorknob",
+    "pronunciation": "/ˈdɔːrnɒb/",
+    "banglaPronunciation": "ডোরনব",
+    "meaning": "A round handle used to open a door.",
+    "banglaMeaning": "দরজার হাতল",
+    "syllables": [
+      "door",
+      "knob"
+    ],
+    "example": "She turned the doorknob slowly.",
+    "hint": "Made of \"door\" + \"knob\".",
+    "image": "/images/level9/doorknob.webp"
+  },
+  {
+    "id": "lvl9-122",
+    "level": 9,
+    "order": 122,
+    "word": "doormat",
+    "pronunciation": "/ˈdɔːrmæt/",
+    "banglaPronunciation": "ডোরম্যাট",
+    "meaning": "A mat placed outside a door.",
+    "banglaMeaning": "দরজার মাদুর",
+    "syllables": [
+      "door",
+      "mat"
+    ],
+    "example": "Wipe your shoes on the doormat.",
+    "hint": "Made of \"door\" + \"mat\".",
+    "image": "/images/level9/doormat.webp"
+  },
+  {
+    "id": "lvl9-123",
+    "level": 9,
+    "order": 123,
+    "word": "windowsill",
+    "pronunciation": "/ˈwɪndoʊsɪl/",
+    "banglaPronunciation": "উইন্ডোসিল",
+    "meaning": "The ledge at the base of a window.",
+    "banglaMeaning": "জানালার সিল",
+    "syllables": [
+      "window",
+      "sill"
+    ],
+    "example": "A cat sat on the windowsill.",
+    "hint": "Made of \"window\" + \"sill\".",
+    "image": "/images/level9/windowsill.webp"
+  },
+  {
+    "id": "lvl9-124",
+    "level": 9,
+    "order": 124,
+    "word": "keyhole",
+    "pronunciation": "/ˈkiːhoʊl/",
+    "banglaPronunciation": "কিহোল",
+    "meaning": "The hole where a key is inserted.",
+    "banglaMeaning": "চাবির গর্ত",
+    "syllables": [
+      "key",
+      "hole"
+    ],
+    "example": "He peeked through the keyhole.",
+    "hint": "Made of \"key\" + \"hole\".",
+    "image": "/images/level9/keyhole.webp"
+  },
+  {
+    "id": "lvl9-125",
+    "level": 9,
+    "order": 125,
+    "word": "keychain",
+    "pronunciation": "/ˈkiːtʃeɪn/",
+    "banglaPronunciation": "কিচেইন",
+    "meaning": "A chain used to hold keys.",
+    "banglaMeaning": "চাবির রিং",
+    "syllables": [
+      "key",
+      "chain"
+    ],
+    "example": "She hung her keys on a keychain.",
+    "hint": "Made of \"key\" + \"chain\".",
+    "image": "/images/level9/keychain.webp"
+  },
+  {
+    "id": "lvl9-126",
+    "level": 9,
+    "order": 126,
+    "word": "keynote",
+    "pronunciation": "/ˈkiːnoʊt/",
+    "banglaPronunciation": "কিনোট",
+    "meaning": "The main idea or theme of a speech.",
+    "banglaMeaning": "মূল বক্তব্য",
+    "syllables": [
+      "key",
+      "note"
+    ],
+    "example": "He gave the keynote speech.",
+    "hint": "Made of \"key\" + \"note\".",
+    "image": "/images/level9/keynote.webp"
+  },
+  {
+    "id": "lvl9-127",
+    "level": 9,
+    "order": 127,
+    "word": "notepad",
+    "pronunciation": "/ˈnoʊtpæd/",
+    "banglaPronunciation": "নোটপ্যাড",
+    "meaning": "A pad of paper for writing notes.",
+    "banglaMeaning": "নোট প্যাড",
+    "syllables": [
+      "note",
+      "pad"
+    ],
+    "example": "She wrote a list on her notepad.",
+    "hint": "Made of \"note\" + \"pad\".",
+    "image": "/images/level9/notepad.webp"
+  },
+  {
+    "id": "lvl9-128",
+    "level": 9,
+    "order": 128,
+    "word": "textbook",
+    "pronunciation": "/ˈtɛkstbʊk/",
+    "banglaPronunciation": "টেক্সটবুক",
+    "meaning": "A book used for studying a subject.",
+    "banglaMeaning": "পাঠ্যবই",
+    "syllables": [
+      "text",
+      "book"
+    ],
+    "example": "He opened his math textbook.",
+    "hint": "Made of \"text\" + \"book\".",
+    "image": "/images/level9/textbook.webp"
+  },
+  {
+    "id": "lvl9-129",
+    "level": 9,
+    "order": 129,
+    "word": "workbook",
+    "pronunciation": "/ˈwɜːrkbʊk/",
+    "banglaPronunciation": "ওয়ার্কবুক",
+    "meaning": "A book with exercises for practice.",
+    "banglaMeaning": "অনুশীলন বই",
+    "syllables": [
+      "work",
+      "book"
+    ],
+    "example": "She filled in the workbook.",
+    "hint": "Made of \"work\" + \"book\".",
+    "image": "/images/level9/workbook.webp"
+  },
+  {
+    "id": "lvl9-130",
+    "level": 9,
+    "order": 130,
+    "word": "cookbook",
+    "pronunciation": "/ˈkʊkbʊk/",
+    "banglaPronunciation": "কুকবুক",
+    "meaning": "A book of recipes.",
+    "banglaMeaning": "রান্নার বই",
+    "syllables": [
+      "cook",
+      "book"
+    ],
+    "example": "Mom found the recipe in her cookbook.",
+    "hint": "Made of \"cook\" + \"book\".",
+    "image": "/images/level9/cookbook.webp"
+  },
+  {
+    "id": "lvl9-131",
+    "level": 9,
+    "order": 131,
+    "word": "bookshelf",
+    "pronunciation": "/ˈbʊkʃɛlf/",
+    "banglaPronunciation": "বুকশেলফ",
+    "meaning": "A shelf for holding books.",
+    "banglaMeaning": "বইয়ের তাক",
+    "syllables": [
+      "book",
+      "shelf"
+    ],
+    "example": "He arranged his books on the bookshelf.",
+    "hint": "Made of \"book\" + \"shelf\".",
+    "image": "/images/level9/bookshelf.webp"
+  },
+  {
+    "id": "lvl9-132",
+    "level": 9,
+    "order": 132,
+    "word": "bookcase",
+    "pronunciation": "/ˈbʊkkeɪs/",
+    "banglaPronunciation": "বুককেস",
+    "meaning": "A piece of furniture for storing books.",
+    "banglaMeaning": "বইয়ের আলমারি",
+    "syllables": [
+      "book",
+      "case"
+    ],
+    "example": "The bookcase was full of stories.",
+    "hint": "Made of \"book\" + \"case\".",
+    "image": "/images/level9/bookcase.webp"
+  },
+  {
+    "id": "lvl9-133",
+    "level": 9,
+    "order": 133,
+    "word": "bookworm",
+    "pronunciation": "/ˈbʊkwɜːrm/",
+    "banglaPronunciation": "বুকওয়ার্ম",
+    "meaning": "A person who loves reading books.",
+    "banglaMeaning": "বইপোকা",
+    "syllables": [
+      "book",
+      "worm"
+    ],
+    "example": "My sister is a real bookworm.",
+    "hint": "Made of \"book\" + \"worm\".",
+    "image": "/images/level9/bookworm.webp"
+  },
+  {
+    "id": "lvl9-134",
+    "level": 9,
+    "order": 134,
+    "word": "bookmark",
+    "pronunciation": "/ˈbʊkmɑːrk/",
+    "banglaPronunciation": "বুকমার্ক",
+    "meaning": "A marker used to save a page in a book.",
+    "banglaMeaning": "বুকমার্ক",
+    "syllables": [
+      "book",
+      "mark"
+    ],
+    "example": "She used a leaf as a bookmark.",
+    "hint": "Made of \"book\" + \"mark\".",
+    "image": "/images/level9/bookmark.webp"
+  },
+  {
+    "id": "lvl9-135",
+    "level": 9,
+    "order": 135,
+    "word": "newspaper",
+    "pronunciation": "/ˈnjuːzpeɪpər/",
+    "banglaPronunciation": "নিউজপেপার",
+    "meaning": "A printed sheet with daily news.",
+    "banglaMeaning": "সংবাদপত্র",
+    "syllables": [
+      "news",
+      "paper"
+    ],
+    "example": "Dad reads the newspaper every morning.",
+    "hint": "Made of \"news\" + \"paper\".",
+    "image": "/images/level9/newspaper.webp"
+  },
+  {
+    "id": "lvl9-136",
+    "level": 9,
+    "order": 136,
+    "word": "newsstand",
+    "pronunciation": "/ˈnjuːzstænd/",
+    "banglaPronunciation": "নিউজস্ট্যান্ড",
+    "meaning": "A stall that sells newspapers.",
+    "banglaMeaning": "সংবাদপত্রের স্টল",
+    "syllables": [
+      "news",
+      "stand"
+    ],
+    "example": "He bought a magazine at the newsstand.",
+    "hint": "Made of \"news\" + \"stand\".",
+    "image": "/images/level9/newsstand.webp"
+  },
+  {
+    "id": "lvl9-137",
+    "level": 9,
+    "order": 137,
+    "word": "newsletter",
+    "pronunciation": "/ˈnjuːzˌlɛtər/",
+    "banglaPronunciation": "নিউজলেটার",
+    "meaning": "A printed report sent regularly.",
+    "banglaMeaning": "নিউজলেটার",
+    "syllables": [
+      "news",
+      "letter"
+    ],
+    "example": "The school sent a monthly newsletter.",
+    "hint": "Made of \"news\" + \"letter\".",
+    "image": "/images/level9/newsletter.webp"
+  },
+  {
+    "id": "lvl9-138",
+    "level": 9,
+    "order": 138,
+    "word": "mailbox",
+    "pronunciation": "/ˈmeɪlbɒks/",
+    "banglaPronunciation": "মেইলবক্স",
+    "meaning": "A box for receiving mail.",
+    "banglaMeaning": "ডাকবাক্স",
+    "syllables": [
+      "mail",
+      "box"
+    ],
+    "example": "A letter arrived in the mailbox.",
+    "hint": "Made of \"mail\" + \"box\".",
+    "image": "/images/level9/mailbox.webp"
+  },
+  {
+    "id": "lvl9-139",
+    "level": 9,
+    "order": 139,
+    "word": "mailman",
+    "pronunciation": "/ˈmeɪlmæn/",
+    "banglaPronunciation": "মেইলম্যান",
+    "meaning": "A person who delivers mail.",
+    "banglaMeaning": "ডাকপিয়ন",
+    "syllables": [
+      "mail",
+      "man"
+    ],
+    "example": "The mailman came at noon.",
+    "hint": "Made of \"mail\" + \"man\".",
+    "image": "/images/level9/mailman.webp"
+  },
+  {
+    "id": "lvl9-140",
+    "level": 9,
+    "order": 140,
+    "word": "postcard",
+    "pronunciation": "/ˈpoʊstkɑːrd/",
+    "banglaPronunciation": "পোস্টকার্ড",
+    "meaning": "A card sent by mail without an envelope.",
+    "banglaMeaning": "পোস্টকার্ড",
+    "syllables": [
+      "post",
+      "card"
+    ],
+    "example": "She sent a postcard from the beach.",
+    "hint": "Made of \"post\" + \"card\".",
+    "image": "/images/level9/postcard.webp"
+  },
+  {
+    "id": "lvl9-141",
+    "level": 9,
+    "order": 141,
+    "word": "toolbox",
+    "pronunciation": "/ˈtuːlbɒks/",
+    "banglaPronunciation": "টুলবক্স",
+    "meaning": "A box for storing tools.",
+    "banglaMeaning": "টুলবাক্স",
+    "syllables": [
+      "tool",
+      "box"
+    ],
+    "example": "He kept his tools in a toolbox.",
+    "hint": "Made of \"tool\" + \"box\".",
+    "image": "/images/level9/toolbox.webp"
+  },
+  {
+    "id": "lvl9-142",
+    "level": 9,
+    "order": 142,
+    "word": "lunchbox",
+    "pronunciation": "/ˈlʌntʃbɒks/",
+    "banglaPronunciation": "লাঞ্চবক্স",
+    "meaning": "A box for carrying lunch.",
+    "banglaMeaning": "টিফিন বাক্স",
+    "syllables": [
+      "lunch",
+      "box"
+    ],
+    "example": "She packed her lunchbox for school.",
+    "hint": "Made of \"lunch\" + \"box\".",
+    "image": "/images/level9/lunchbox.webp"
+  },
+  {
+    "id": "lvl9-143",
+    "level": 9,
+    "order": 143,
+    "word": "shoebox",
+    "pronunciation": "/ˈʃuːbɒks/",
+    "banglaPronunciation": "শুবক্স",
+    "meaning": "A box that shoes come in.",
+    "banglaMeaning": "জুতার বাক্স",
+    "syllables": [
+      "shoe",
+      "box"
+    ],
+    "example": "He stored old photos in a shoebox.",
+    "hint": "Made of \"shoe\" + \"box\".",
+    "image": "/images/level9/shoebox.webp"
+  },
+  {
+    "id": "lvl9-144",
+    "level": 9,
+    "order": 144,
+    "word": "matchbox",
+    "pronunciation": "/ˈmætʃbɒks/",
+    "banglaPronunciation": "ম্যাচবক্স",
+    "meaning": "A small box that holds matches.",
+    "banglaMeaning": "ম্যাচের বাক্স",
+    "syllables": [
+      "match",
+      "box"
+    ],
+    "example": "She found a matchbox in the drawer.",
+    "hint": "Made of \"match\" + \"box\".",
+    "image": "/images/level9/matchbox.webp"
+  },
+  {
+    "id": "lvl9-145",
+    "level": 9,
+    "order": 145,
+    "word": "icebox",
+    "pronunciation": "/ˈaɪsbɒks/",
+    "banglaPronunciation": "আইসবক্স",
+    "meaning": "An old-fashioned box for keeping food cold.",
+    "banglaMeaning": "বরফের বাক্স",
+    "syllables": [
+      "ice",
+      "box"
+    ],
+    "example": "Grandma still calls the fridge an icebox.",
+    "hint": "Made of \"ice\" + \"box\".",
+    "image": "/images/level9/icebox.webp"
+  },
+  {
+    "id": "lvl9-146",
+    "level": 9,
+    "order": 146,
+    "word": "inbox",
+    "pronunciation": "/ˈɪnbɒks/",
+    "banglaPronunciation": "ইনবক্স",
+    "meaning": "A place where messages are received.",
+    "banglaMeaning": "ইনবক্স",
+    "syllables": [
+      "in",
+      "box"
+    ],
+    "example": "She checked her email inbox.",
+    "hint": "Made of \"in\" + \"box\".",
+    "image": "/images/level9/inbox.webp"
+  },
+  {
+    "id": "lvl9-147",
+    "level": 9,
+    "order": 147,
+    "word": "outbox",
+    "pronunciation": "/ˈaʊtbɒks/",
+    "banglaPronunciation": "আউটবক্স",
+    "meaning": "A place for messages waiting to be sent.",
+    "banglaMeaning": "আউটবক্স",
+    "syllables": [
+      "out",
+      "box"
+    ],
+    "example": "The letter sat in his outbox.",
+    "hint": "Made of \"out\" + \"box\".",
+    "image": "/images/level9/outbox.webp"
+  },
+  {
+    "id": "lvl9-148",
+    "level": 9,
+    "order": 148,
+    "word": "suitcase",
+    "pronunciation": "/ˈsuːtkeɪs/",
+    "banglaPronunciation": "স্যুটকেস",
+    "meaning": "A case for carrying clothes when traveling.",
+    "banglaMeaning": "স্যুটকেস",
+    "syllables": [
+      "suit",
+      "case"
+    ],
+    "example": "He packed his suitcase for the trip.",
+    "hint": "Made of \"suit\" + \"case\".",
+    "image": "/images/level9/suitcase.webp"
+  },
+  {
+    "id": "lvl9-149",
+    "level": 9,
+    "order": 149,
+    "word": "briefcase",
+    "pronunciation": "/ˈbriːfkeɪs/",
+    "banglaPronunciation": "ব্রিফকেস",
+    "meaning": "A flat case for carrying papers.",
+    "banglaMeaning": "ব্রিফকেস",
+    "syllables": [
+      "brief",
+      "case"
+    ],
+    "example": "Dad carried his briefcase to work.",
+    "hint": "Made of \"brief\" + \"case\".",
+    "image": "/images/level9/briefcase.webp"
+  },
+  {
+    "id": "lvl9-150",
+    "level": 9,
+    "order": 150,
+    "word": "staircase",
+    "pronunciation": "/ˈstɛərkeɪs/",
+    "banglaPronunciation": "স্টেয়ারকেস",
+    "meaning": "A set of stairs.",
+    "banglaMeaning": "সিঁড়ি",
+    "syllables": [
+      "stair",
+      "case"
+    ],
+    "example": "She climbed the old staircase.",
+    "hint": "Made of \"stair\" + \"case\".",
+    "image": "/images/level9/staircase.webp"
+  },
+  {
+    "id": "lvl9-151",
+    "level": 9,
+    "order": 151,
+    "word": "showcase",
+    "pronunciation": "/ˈʃoʊkeɪs/",
+    "banglaPronunciation": "শোকেস",
+    "meaning": "A glass case for displaying items.",
+    "banglaMeaning": "প্রদর্শনী কেস",
+    "syllables": [
+      "show",
+      "case"
+    ],
+    "example": "Trophies sat in the showcase.",
+    "hint": "Made of \"show\" + \"case\".",
+    "image": "/images/level9/showcase.webp"
+  },
+  {
+    "id": "lvl9-152",
+    "level": 9,
+    "order": 152,
+    "word": "necktie",
+    "pronunciation": "/ˈnɛktaɪ/",
+    "banglaPronunciation": "নেকটাই",
+    "meaning": "A strip of cloth worn around the neck.",
+    "banglaMeaning": "টাই",
+    "syllables": [
+      "neck",
+      "tie"
+    ],
+    "example": "He wore a blue necktie.",
+    "hint": "Made of \"neck\" + \"tie\".",
+    "image": "/images/level9/necktie.webp"
+  },
+  {
+    "id": "lvl9-153",
+    "level": 9,
+    "order": 153,
+    "word": "bowtie",
+    "pronunciation": "/ˈboʊtaɪ/",
+    "banglaPronunciation": "বোটাই",
+    "meaning": "A necktie tied in a bow shape.",
+    "banglaMeaning": "বো-টাই",
+    "syllables": [
+      "bow",
+      "tie"
+    ],
+    "example": "He wore a bowtie to the party.",
+    "hint": "Made of \"bow\" + \"tie\".",
+    "image": "/images/level9/bowtie.webp"
+  },
+  {
+    "id": "lvl9-154",
+    "level": 9,
+    "order": 154,
+    "word": "overcoat",
+    "pronunciation": "/ˈoʊvərkoʊt/",
+    "banglaPronunciation": "ওভারকোট",
+    "meaning": "A heavy coat worn over other clothes.",
+    "banglaMeaning": "ওভারকোট",
+    "syllables": [
+      "over",
+      "coat"
+    ],
+    "example": "She wore an overcoat in winter.",
+    "hint": "Made of \"over\" + \"coat\".",
+    "image": "/images/level9/overcoat.webp"
+  },
+  {
+    "id": "lvl9-155",
+    "level": 9,
+    "order": 155,
+    "word": "nightgown",
+    "pronunciation": "/ˈnaɪtɡaʊn/",
+    "banglaPronunciation": "নাইটগাউন",
+    "meaning": "A loose garment worn for sleeping.",
+    "banglaMeaning": "রাতের পোশাক",
+    "syllables": [
+      "night",
+      "gown"
+    ],
+    "example": "She slipped into her nightgown.",
+    "hint": "Made of \"night\" + \"gown\".",
+    "image": "/images/level9/nightgown.webp"
+  },
+  {
+    "id": "lvl9-156",
+    "level": 9,
+    "order": 156,
+    "word": "nightmare",
+    "pronunciation": "/ˈnaɪtmɛər/",
+    "banglaPronunciation": "নাইটমেয়ার",
+    "meaning": "A frightening dream.",
+    "banglaMeaning": "দুঃস্বপ্ন",
+    "syllables": [
+      "night",
+      "mare"
+    ],
+    "example": "He woke up from a nightmare.",
+    "hint": "Made of \"night\" + \"mare\".",
+    "image": "/images/level9/nightmare.webp"
+  },
+  {
+    "id": "lvl9-157",
+    "level": 9,
+    "order": 157,
+    "word": "nightfall",
+    "pronunciation": "/ˈnaɪtfɔːl/",
+    "banglaPronunciation": "নাইটফল",
+    "meaning": "The coming of night.",
+    "banglaMeaning": "সন্ধ্যা নামা",
+    "syllables": [
+      "night",
+      "fall"
+    ],
+    "example": "They returned home before nightfall.",
+    "hint": "Made of \"night\" + \"fall\".",
+    "image": "/images/level9/nightfall.webp"
+  },
+  {
+    "id": "lvl9-158",
+    "level": 9,
+    "order": 158,
+    "word": "overnight",
+    "pronunciation": "/ˈoʊvərnaɪt/",
+    "banglaPronunciation": "ওভারনাইট",
+    "meaning": "Lasting through the night.",
+    "banglaMeaning": "সারারাত",
+    "syllables": [
+      "over",
+      "night"
+    ],
+    "example": "We took an overnight train.",
+    "hint": "Made of \"over\" + \"night\".",
+    "image": "/images/level9/overnight.webp"
+  },
+  {
+    "id": "lvl9-159",
+    "level": 9,
+    "order": 159,
+    "word": "spotlight",
+    "pronunciation": "/ˈspɒtlaɪt/",
+    "banglaPronunciation": "স্পটলাইট",
+    "meaning": "A strong beam of light aimed at one spot.",
+    "banglaMeaning": "স্পটলাইট",
+    "syllables": [
+      "spot",
+      "light"
+    ],
+    "example": "The singer stood in the spotlight.",
+    "hint": "Made of \"spot\" + \"light\".",
+    "image": "/images/level9/spotlight.webp"
+  },
+  {
+    "id": "lvl9-160",
+    "level": 9,
+    "order": 160,
+    "word": "streetlight",
+    "pronunciation": "/ˈstriːtlaɪt/",
+    "banglaPronunciation": "স্ট্রিটলাইট",
+    "meaning": "A light on a pole beside a street.",
+    "banglaMeaning": "রাস্তার বাতি",
+    "syllables": [
+      "street",
+      "light"
+    ],
+    "example": "The streetlight turned on at dusk.",
+    "hint": "Made of \"street\" + \"light\".",
+    "image": "/images/level9/streetlight.webp"
+  },
+  {
+    "id": "lvl9-161",
+    "level": 9,
+    "order": 161,
+    "word": "candlelight",
+    "pronunciation": "/ˈkændəlˌlaɪt/",
+    "banglaPronunciation": "ক্যান্ডেললাইট",
+    "meaning": "Light produced by a candle.",
+    "banglaMeaning": "মোমবাতির আলো",
+    "syllables": [
+      "candle",
+      "light"
+    ],
+    "example": "They ate dinner by candlelight.",
+    "hint": "Made of \"candle\" + \"light\".",
+    "image": "/images/level9/candlelight.webp"
+  },
+  {
+    "id": "lvl9-162",
+    "level": 9,
+    "order": 162,
+    "word": "skylight",
+    "pronunciation": "/ˈskaɪlaɪt/",
+    "banglaPronunciation": "স্কাইলাইট",
+    "meaning": "A window set into a roof or ceiling.",
+    "banglaMeaning": "আকাশ জানালা",
+    "syllables": [
+      "sky",
+      "light"
+    ],
+    "example": "Sunlight poured in through the skylight.",
+    "hint": "Made of \"sky\" + \"light\".",
+    "image": "/images/level9/skylight.webp"
+  },
+  {
+    "id": "lvl9-163",
+    "level": 9,
+    "order": 163,
+    "word": "searchlight",
+    "pronunciation": "/ˈsɜːrtʃlaɪt/",
+    "banglaPronunciation": "সার্চলাইট",
+    "meaning": "A powerful light used to find things.",
+    "banglaMeaning": "সার্চলাইট",
+    "syllables": [
+      "search",
+      "light"
+    ],
+    "example": "The guard used a searchlight at night.",
+    "hint": "Made of \"search\" + \"light\".",
+    "image": "/images/level9/searchlight.webp"
+  },
+  {
+    "id": "lvl9-164",
+    "level": 9,
+    "order": 164,
+    "word": "heartbeat",
+    "pronunciation": "/ˈhɑːrtbiːt/",
+    "banglaPronunciation": "হার্টবিট",
+    "meaning": "The rhythmic beating of the heart.",
+    "banglaMeaning": "হৃদস্পন্দন",
+    "syllables": [
+      "heart",
+      "beat"
+    ],
+    "example": "She felt her heartbeat quicken.",
+    "hint": "Made of \"heart\" + \"beat\".",
+    "image": "/images/level9/heartbeat.webp"
+  },
+  {
+    "id": "lvl9-165",
+    "level": 9,
+    "order": 165,
+    "word": "footstep",
+    "pronunciation": "/ˈfʊtstɛp/",
+    "banglaPronunciation": "ফুটস্টেপ",
+    "meaning": "The sound or mark of a step.",
+    "banglaMeaning": "পায়ের শব্দ",
+    "syllables": [
+      "foot",
+      "step"
+    ],
+    "example": "He heard a footstep behind him.",
+    "hint": "Made of \"foot\" + \"step\".",
+    "image": "/images/level9/footstep.webp"
+  },
+  {
+    "id": "lvl9-166",
+    "level": 9,
+    "order": 166,
+    "word": "footprint",
+    "pronunciation": "/ˈfʊtprɪnt/",
+    "banglaPronunciation": "ফুটপ্রিন্ট",
+    "meaning": "The mark left by a foot.",
+    "banglaMeaning": "পায়ের ছাপ",
+    "syllables": [
+      "foot",
+      "print"
+    ],
+    "example": "We saw a footprint in the mud.",
+    "hint": "Made of \"foot\" + \"print\".",
+    "image": "/images/level9/footprint.webp"
+  },
+  {
+    "id": "lvl9-167",
+    "level": 9,
+    "order": 167,
+    "word": "footpath",
+    "pronunciation": "/ˈfʊtpæθ/",
+    "banglaPronunciation": "ফুটপাথ",
+    "meaning": "A path for walking.",
+    "banglaMeaning": "পায়ে চলার পথ",
+    "syllables": [
+      "foot",
+      "path"
+    ],
+    "example": "We followed the footpath through the woods.",
+    "hint": "Made of \"foot\" + \"path\".",
+    "image": "/images/level9/footpath.webp"
+  },
+  {
+    "id": "lvl9-168",
+    "level": 9,
+    "order": 168,
+    "word": "barefoot",
+    "pronunciation": "/ˈbɛərfʊt/",
+    "banglaPronunciation": "ব্যায়ারফুট",
+    "meaning": "Without shoes or socks.",
+    "banglaMeaning": "খালি পায়ে",
+    "syllables": [
+      "bare",
+      "foot"
+    ],
+    "example": "The children ran barefoot on the grass.",
+    "hint": "Made of \"bare\" + \"foot\".",
+    "image": "/images/level9/barefoot.webp"
+  },
+  {
+    "id": "lvl9-169",
+    "level": 9,
+    "order": 169,
+    "word": "tiptoe",
+    "pronunciation": "/ˈtɪptoʊ/",
+    "banglaPronunciation": "টিপটো",
+    "meaning": "To walk quietly on the toes.",
+    "banglaMeaning": "পায়ের আঙুলে হাঁটা",
+    "syllables": [
+      "tip",
+      "toe"
+    ],
+    "example": "She tiptoed past the sleeping baby.",
+    "hint": "Made of \"tip\" + \"toe\".",
+    "image": "/images/level9/tiptoe.webp"
+  },
+  {
+    "id": "lvl9-170",
+    "level": 9,
+    "order": 170,
+    "word": "toenail",
+    "pronunciation": "/ˈtoʊneɪl/",
+    "banglaPronunciation": "টোনেইল",
+    "meaning": "The nail on a toe.",
+    "banglaMeaning": "পায়ের আঙুলের নখ",
+    "syllables": [
+      "toe",
+      "nail"
+    ],
+    "example": "He trimmed his toenail carefully.",
+    "hint": "Made of \"toe\" + \"nail\".",
+    "image": "/images/level9/toenail.webp"
+  },
+  {
+    "id": "lvl9-171",
+    "level": 9,
+    "order": 171,
+    "word": "kneecap",
+    "pronunciation": "/ˈniːkæp/",
+    "banglaPronunciation": "নিক্যাপ",
+    "meaning": "The bone at the front of the knee.",
+    "banglaMeaning": "হাঁটুর হাড়",
+    "syllables": [
+      "knee",
+      "cap"
+    ],
+    "example": "He hurt his kneecap falling down.",
+    "hint": "Made of \"knee\" + \"cap\".",
+    "image": "/images/level9/kneecap.webp"
+  },
+  {
+    "id": "lvl9-172",
+    "level": 9,
+    "order": 172,
+    "word": "wristband",
+    "pronunciation": "/ˈrɪstbænd/",
+    "banglaPronunciation": "রিস্টব্যান্ড",
+    "meaning": "A band worn around the wrist.",
+    "banglaMeaning": "কব্জিবন্ধনী",
+    "syllables": [
+      "wrist",
+      "band"
+    ],
+    "example": "He wore a sports wristband.",
+    "hint": "Made of \"wrist\" + \"band\".",
+    "image": "/images/level9/wristband.webp"
+  },
+  {
+    "id": "lvl9-173",
+    "level": 9,
+    "order": 173,
+    "word": "armchair",
+    "pronunciation": "/ˈɑːrmtʃɛər/",
+    "banglaPronunciation": "আর্মচেয়ার",
+    "meaning": "A chair with armrests.",
+    "banglaMeaning": "হাতলযুক্ত চেয়ার",
+    "syllables": [
+      "arm",
+      "chair"
+    ],
+    "example": "Grandpa sat in his armchair.",
+    "hint": "Made of \"arm\" + \"chair\".",
+    "image": "/images/level9/armchair.webp"
+  },
+  {
+    "id": "lvl9-174",
+    "level": 9,
+    "order": 174,
+    "word": "armpit",
+    "pronunciation": "/ˈɑːrmpɪt/",
+    "banglaPronunciation": "আর্মপিট",
+    "meaning": "The hollow under the arm.",
+    "banglaMeaning": "বগল",
+    "syllables": [
+      "arm",
+      "pit"
+    ],
+    "example": "He raised his arm to check his armpit.",
+    "hint": "Made of \"arm\" + \"pit\".",
+    "image": "/images/level9/armpit.webp"
+  },
+  {
+    "id": "lvl9-175",
+    "level": 9,
+    "order": 175,
+    "word": "armband",
+    "pronunciation": "/ˈɑːrmbænd/",
+    "banglaPronunciation": "আর্মব্যান্ড",
+    "meaning": "A band worn around the upper arm.",
+    "banglaMeaning": "আর্মব্যান্ড",
+    "syllables": [
+      "arm",
+      "band"
+    ],
+    "example": "The captain wore an armband.",
+    "hint": "Made of \"arm\" + \"band\".",
+    "image": "/images/level9/armband.webp"
+  },
+  {
+    "id": "lvl9-176",
+    "level": 9,
+    "order": 176,
+    "word": "wishbone",
+    "pronunciation": "/ˈwɪʃboʊn/",
+    "banglaPronunciation": "উইশবোন",
+    "meaning": "A forked bone in a bird's breast.",
+    "banglaMeaning": "শুভেচ্ছা হাড়",
+    "syllables": [
+      "wish",
+      "bone"
+    ],
+    "example": "They pulled the wishbone apart.",
+    "hint": "Made of \"wish\" + \"bone\".",
+    "image": "/images/level9/wishbone.webp"
+  },
+  {
+    "id": "lvl9-177",
+    "level": 9,
+    "order": 177,
+    "word": "jawbone",
+    "pronunciation": "/ˈdʒɔːboʊn/",
+    "banglaPronunciation": "জবোন",
+    "meaning": "The bone that forms the jaw.",
+    "banglaMeaning": "চোয়ালের হাড়",
+    "syllables": [
+      "jaw",
+      "bone"
+    ],
+    "example": "The dentist examined his jawbone.",
+    "hint": "Made of \"jaw\" + \"bone\".",
+    "image": "/images/level9/jawbone.webp"
+  },
+  {
+    "id": "lvl9-178",
+    "level": 9,
+    "order": 178,
+    "word": "teamwork",
+    "pronunciation": "/ˈtiːmwɜːrk/",
+    "banglaPronunciation": "টিমওয়ার্ক",
+    "meaning": "Cooperative effort by a group.",
+    "banglaMeaning": "দলগত কাজ",
+    "syllables": [
+      "team",
+      "work"
+    ],
+    "example": "They won the game through teamwork.",
+    "hint": "Made of \"team\" + \"work\".",
+    "image": "/images/level9/teamwork.webp"
+  },
+  {
+    "id": "lvl9-179",
+    "level": 9,
+    "order": 179,
+    "word": "paperwork",
+    "pronunciation": "/ˈpeɪpərwɜːrk/",
+    "banglaPronunciation": "পেপারওয়ার্ক",
+    "meaning": "Work involving forms and documents.",
+    "banglaMeaning": "কাগজপত্রের কাজ",
+    "syllables": [
+      "paper",
+      "work"
+    ],
+    "example": "She finished the paperwork on time.",
+    "hint": "Made of \"paper\" + \"work\".",
+    "image": "/images/level9/paperwork.webp"
+  },
+  {
+    "id": "lvl9-180",
+    "level": 9,
+    "order": 180,
+    "word": "housework",
+    "pronunciation": "/ˈhaʊswɜːrk/",
+    "banglaPronunciation": "হাউসওয়ার্ক",
+    "meaning": "Cleaning and other household tasks.",
+    "banglaMeaning": "গৃহস্থালির কাজ",
+    "syllables": [
+      "house",
+      "work"
+    ],
+    "example": "She helps with housework every day.",
+    "hint": "Made of \"house\" + \"work\".",
+    "image": "/images/level9/housework.webp"
+  },
+  {
+    "id": "lvl9-181",
+    "level": 9,
+    "order": 181,
+    "word": "artwork",
+    "pronunciation": "/ˈɑːrtwɜːrk/",
+    "banglaPronunciation": "আর্টওয়ার্ক",
+    "meaning": "A piece of created art.",
+    "banglaMeaning": "শিল্পকর্ম",
+    "syllables": [
+      "art",
+      "work"
+    ],
+    "example": "The gallery displayed new artwork.",
+    "hint": "Made of \"art\" + \"work\".",
+    "image": "/images/level9/artwork.webp"
+  },
+  {
+    "id": "lvl9-182",
+    "level": 9,
+    "order": 182,
+    "word": "airplane",
+    "pronunciation": "/ˈɛərpleɪn/",
+    "banglaPronunciation": "এয়ারপ্লেন",
+    "meaning": "A flying vehicle with wings and engines.",
+    "banglaMeaning": "বিমান",
+    "syllables": [
+      "air",
+      "plane"
+    ],
+    "example": "The airplane landed safely.",
+    "hint": "Made of \"air\" + \"plane\".",
+    "image": "/images/level9/airplane.webp"
+  },
+  {
+    "id": "lvl9-183",
+    "level": 9,
+    "order": 183,
+    "word": "airport",
+    "pronunciation": "/ˈɛərpɔːrt/",
+    "banglaPronunciation": "এয়ারপোর্ট",
+    "meaning": "A place where airplanes take off and land.",
+    "banglaMeaning": "বিমানবন্দর",
+    "syllables": [
+      "air",
+      "port"
+    ],
+    "example": "We arrived early at the airport.",
+    "hint": "Made of \"air\" + \"port\".",
+    "image": "/images/level9/airport.webp"
+  },
+  {
+    "id": "lvl9-184",
+    "level": 9,
+    "order": 184,
+    "word": "aircraft",
+    "pronunciation": "/ˈɛərkræft/",
+    "banglaPronunciation": "এয়ারক্রাফট",
+    "meaning": "Any vehicle that can fly.",
+    "banglaMeaning": "আকাশযান",
+    "syllables": [
+      "air",
+      "craft"
+    ],
+    "example": "The aircraft climbed above the clouds.",
+    "hint": "Made of \"air\" + \"craft\".",
+    "image": "/images/level9/aircraft.webp"
+  },
+  {
+    "id": "lvl9-185",
+    "level": 9,
+    "order": 185,
+    "word": "spaceship",
+    "pronunciation": "/ˈspeɪsʃɪp/",
+    "banglaPronunciation": "স্পেসশিপ",
+    "meaning": "A vehicle that travels in space.",
+    "banglaMeaning": "মহাকাশযান",
+    "syllables": [
+      "space",
+      "ship"
+    ],
+    "example": "The spaceship launched into orbit.",
+    "hint": "Made of \"space\" + \"ship\".",
+    "image": "/images/level9/spaceship.webp"
+  },
+  {
+    "id": "lvl9-186",
+    "level": 9,
+    "order": 186,
+    "word": "spacecraft",
+    "pronunciation": "/ˈspeɪskræft/",
+    "banglaPronunciation": "স্পেসক্রাফট",
+    "meaning": "A vehicle built to travel in space.",
+    "banglaMeaning": "মহাকাশযান",
+    "syllables": [
+      "space",
+      "craft"
+    ],
+    "example": "The spacecraft orbited the moon.",
+    "hint": "Made of \"space\" + \"craft\".",
+    "image": "/images/level9/spacecraft.webp"
+  },
+  {
+    "id": "lvl9-187",
+    "level": 9,
+    "order": 187,
+    "word": "spaceman",
+    "pronunciation": "/ˈspeɪsmæn/",
+    "banglaPronunciation": "স্পেসম্যান",
+    "meaning": "A person who travels in space.",
+    "banglaMeaning": "মহাকাশচারী",
+    "syllables": [
+      "space",
+      "man"
+    ],
+    "example": "The spaceman floated outside the ship.",
+    "hint": "Made of \"space\" + \"man\".",
+    "image": "/images/level9/spaceman.webp"
+  },
+  {
+    "id": "lvl9-188",
+    "level": 9,
+    "order": 188,
+    "word": "sailboat",
+    "pronunciation": "/ˈseɪlboʊt/",
+    "banglaPronunciation": "সেইলবোট",
+    "meaning": "A boat powered by sails.",
+    "banglaMeaning": "পালতোলা নৌকা",
+    "syllables": [
+      "sail",
+      "boat"
+    ],
+    "example": "We rented a sailboat for the day.",
+    "hint": "Made of \"sail\" + \"boat\".",
+    "image": "/images/level9/sailboat.webp"
+  },
+  {
+    "id": "lvl9-189",
+    "level": 9,
+    "order": 189,
+    "word": "rowboat",
+    "pronunciation": "/ˈroʊboʊt/",
+    "banglaPronunciation": "রোবোট",
+    "meaning": "A small boat moved by oars.",
+    "banglaMeaning": "বৈঠাচালিত নৌকা",
+    "syllables": [
+      "row",
+      "boat"
+    ],
+    "example": "They rowed the rowboat across the pond.",
+    "hint": "Made of \"row\" + \"boat\".",
+    "image": "/images/level9/rowboat.webp"
+  },
+  {
+    "id": "lvl9-190",
+    "level": 9,
+    "order": 190,
+    "word": "speedboat",
+    "pronunciation": "/ˈspiːdboʊt/",
+    "banglaPronunciation": "স্পিডবোট",
+    "meaning": "A fast motor-powered boat.",
+    "banglaMeaning": "দ্রুতগামী নৌকা",
+    "syllables": [
+      "speed",
+      "boat"
+    ],
+    "example": "The speedboat raced across the lake.",
+    "hint": "Made of \"speed\" + \"boat\".",
+    "image": "/images/level9/speedboat.webp"
+  },
+  {
+    "id": "lvl9-191",
+    "level": 9,
+    "order": 191,
+    "word": "motorboat",
+    "pronunciation": "/ˈmoʊtərboʊt/",
+    "banglaPronunciation": "মোটরবোট",
+    "meaning": "A boat driven by an engine.",
+    "banglaMeaning": "মোটর নৌকা",
+    "syllables": [
+      "motor",
+      "boat"
+    ],
+    "example": "We took a motorboat to the island.",
+    "hint": "Made of \"motor\" + \"boat\".",
+    "image": "/images/level9/motorboat.webp"
+  },
+  {
+    "id": "lvl9-192",
+    "level": 9,
+    "order": 192,
+    "word": "houseboat",
+    "pronunciation": "/ˈhaʊsboʊt/",
+    "banglaPronunciation": "হাউসবোট",
+    "meaning": "A boat used as a home.",
+    "banglaMeaning": "বাসগৃহ নৌকা",
+    "syllables": [
+      "house",
+      "boat"
+    ],
+    "example": "They live on a houseboat by the river.",
+    "hint": "Made of \"house\" + \"boat\".",
+    "image": "/images/level9/houseboat.webp"
+  },
+  {
+    "id": "lvl9-193",
+    "level": 9,
+    "order": 193,
+    "word": "tugboat",
+    "pronunciation": "/ˈtʌɡboʊt/",
+    "banglaPronunciation": "টাগবোট",
+    "meaning": "A small boat that tows larger ships.",
+    "banglaMeaning": "টাগবোট",
+    "syllables": [
+      "tug",
+      "boat"
+    ],
+    "example": "A tugboat guided the ship into port.",
+    "hint": "Made of \"tug\" + \"boat\".",
+    "image": "/images/level9/tugboat.webp"
+  },
+  {
+    "id": "lvl9-194",
+    "level": 9,
+    "order": 194,
+    "word": "lifeboat",
+    "pronunciation": "/ˈlaɪfboʊt/",
+    "banglaPronunciation": "লাইফবোট",
+    "meaning": "A small boat used to escape danger at sea.",
+    "banglaMeaning": "জীবনরক্ষাকারী নৌকা",
+    "syllables": [
+      "life",
+      "boat"
+    ],
+    "example": "The crew launched the lifeboat.",
+    "hint": "Made of \"life\" + \"boat\".",
+    "image": "/images/level9/lifeboat.webp"
+  },
+  {
+    "id": "lvl9-195",
+    "level": 9,
+    "order": 195,
+    "word": "railroad",
+    "pronunciation": "/ˈreɪlroʊd/",
+    "banglaPronunciation": "রেলরোড",
+    "meaning": "A track for trains.",
+    "banglaMeaning": "রেলপথ",
+    "syllables": [
+      "rail",
+      "road"
+    ],
+    "example": "The railroad crossed the wide river.",
+    "hint": "Made of \"rail\" + \"road\".",
+    "image": "/images/level9/railroad.webp"
+  },
+  {
+    "id": "lvl9-196",
+    "level": 9,
+    "order": 196,
+    "word": "railway",
+    "pronunciation": "/ˈreɪlweɪ/",
+    "banglaPronunciation": "রেলওয়ে",
+    "meaning": "A system of tracks for trains.",
+    "banglaMeaning": "রেলওয়ে",
+    "syllables": [
+      "rail",
+      "way"
+    ],
+    "example": "The railway connects two cities.",
+    "hint": "Made of \"rail\" + \"way\".",
+    "image": "/images/level9/railway.webp"
+  },
+  {
+    "id": "lvl9-197",
+    "level": 9,
+    "order": 197,
+    "word": "highway",
+    "pronunciation": "/ˈhaɪweɪ/",
+    "banglaPronunciation": "হাইওয়ে",
+    "meaning": "A main road for fast travel.",
+    "banglaMeaning": "মহাসড়ক",
+    "syllables": [
+      "high",
+      "way"
+    ],
+    "example": "We drove down the busy highway.",
+    "hint": "Made of \"high\" + \"way\".",
+    "image": "/images/level9/highway.webp"
+  },
+  {
+    "id": "lvl9-198",
+    "level": 9,
+    "order": 198,
+    "word": "driveway",
+    "pronunciation": "/ˈdraɪvweɪ/",
+    "banglaPronunciation": "ড্রাইভওয়ে",
+    "meaning": "A path leading to a house for vehicles.",
+    "banglaMeaning": "গাড়ি রাখার পথ",
+    "syllables": [
+      "drive",
+      "way"
+    ],
+    "example": "The car parked in the driveway.",
+    "hint": "Made of \"drive\" + \"way\".",
+    "image": "/images/level9/driveway.webp"
+  },
+  {
+    "id": "lvl9-199",
+    "level": 9,
+    "order": 199,
+    "word": "runway",
+    "pronunciation": "/ˈrʌnweɪ/",
+    "banglaPronunciation": "রানওয়ে",
+    "meaning": "A strip where planes take off and land.",
+    "banglaMeaning": "রানওয়ে",
+    "syllables": [
+      "run",
+      "way"
+    ],
+    "example": "The plane sped down the runway.",
+    "hint": "Made of \"run\" + \"way\".",
+    "image": "/images/level9/runway.webp"
+  },
+  {
+    "id": "lvl9-200",
+    "level": 9,
+    "order": 200,
+    "word": "subway",
+    "pronunciation": "/ˈsʌbweɪ/",
+    "banglaPronunciation": "সাবওয়ে",
+    "meaning": "An underground railway system.",
+    "banglaMeaning": "পাতাল রেল",
+    "syllables": [
+      "sub",
+      "way"
+    ],
+    "example": "We rode the subway downtown.",
+    "hint": "Made of \"sub\" + \"way\".",
+    "image": "/images/level9/subway.webp"
+  },
+  {
+    "id": "lvl9-201",
+    "level": 9,
+    "order": 201,
+    "word": "crosswalk",
+    "pronunciation": "/ˈkrɒswɔːk/",
+    "banglaPronunciation": "ক্রসওয়াক",
+    "meaning": "A marked path for crossing a street.",
+    "banglaMeaning": "পথচারী পারাপার",
+    "syllables": [
+      "cross",
+      "walk"
+    ],
+    "example": "She waited at the crosswalk.",
+    "hint": "Made of \"cross\" + \"walk\".",
+    "image": "/images/level9/crosswalk.webp"
+  },
+  {
+    "id": "lvl9-202",
+    "level": 9,
+    "order": 202,
+    "word": "sidewalk",
+    "pronunciation": "/ˈsaɪdwɔːk/",
+    "banglaPronunciation": "সাইডওয়াক",
+    "meaning": "A paved path beside a road.",
+    "banglaMeaning": "ফুটপাথ",
+    "syllables": [
+      "side",
+      "walk"
+    ],
+    "example": "Kids rode bikes on the sidewalk.",
+    "hint": "Made of \"side\" + \"walk\".",
+    "image": "/images/level9/sidewalk.webp"
+  },
+  {
+    "id": "lvl9-203",
+    "level": 9,
+    "order": 203,
+    "word": "boardwalk",
+    "pronunciation": "/ˈbɔːrdwɔːk/",
+    "banglaPronunciation": "বোর্ডওয়াক",
+    "meaning": "A wooden walkway, often by the beach.",
+    "banglaMeaning": "কাঠের হাঁটাপথ",
+    "syllables": [
+      "board",
+      "walk"
+    ],
+    "example": "We strolled along the boardwalk.",
+    "hint": "Made of \"board\" + \"walk\".",
+    "image": "/images/level9/boardwalk.webp"
+  },
+  {
+    "id": "lvl9-204",
+    "level": 9,
+    "order": 204,
+    "word": "oatmeal",
+    "pronunciation": "/ˈoʊtmiːl/",
+    "banglaPronunciation": "ওটমিল",
+    "meaning": "A cooked cereal made from oats.",
+    "banglaMeaning": "ওটমিল",
+    "syllables": [
+      "oat",
+      "meal"
+    ],
+    "example": "She had warm oatmeal for breakfast.",
+    "hint": "Made of \"oat\" + \"meal\".",
+    "image": "/images/level9/oatmeal.webp"
+  },
+  {
+    "id": "lvl9-205",
+    "level": 9,
+    "order": 205,
+    "word": "popcorn",
+    "pronunciation": "/ˈpɒpkɔːrn/",
+    "banglaPronunciation": "পপকর্ন",
+    "meaning": "Corn kernels popped by heating.",
+    "banglaMeaning": "পপকর্ন",
+    "syllables": [
+      "pop",
+      "corn"
+    ],
+    "example": "We ate popcorn during the movie.",
+    "hint": "Made of \"pop\" + \"corn\".",
+    "image": "/images/level9/popcorn.webp"
+  },
+  {
+    "id": "lvl9-206",
+    "level": 9,
+    "order": 206,
+    "word": "pancake",
+    "pronunciation": "/ˈpænkeɪk/",
+    "banglaPronunciation": "প্যানকেক",
+    "meaning": "A flat cake cooked in a pan.",
+    "banglaMeaning": "প্যানকেক",
+    "syllables": [
+      "pan",
+      "cake"
+    ],
+    "example": "He flipped a pancake in the pan.",
+    "hint": "Made of \"pan\" + \"cake\".",
+    "image": "/images/level9/pancake.webp"
+  },
+  {
+    "id": "lvl9-207",
+    "level": 9,
+    "order": 207,
+    "word": "cupcake",
+    "pronunciation": "/ˈkʌpkeɪk/",
+    "banglaPronunciation": "কাপকেক",
+    "meaning": "A small cake baked in a cup shape.",
+    "banglaMeaning": "কাপকেক",
+    "syllables": [
+      "cup",
+      "cake"
+    ],
+    "example": "She frosted a chocolate cupcake.",
+    "hint": "Made of \"cup\" + \"cake\".",
+    "image": "/images/level9/cupcake.webp"
+  },
+  {
+    "id": "lvl9-208",
+    "level": 9,
+    "order": 208,
+    "word": "milkshake",
+    "pronunciation": "/ˈmɪlkʃeɪk/",
+    "banglaPronunciation": "মিল্কশেক",
+    "meaning": "A drink made by blending milk and flavoring.",
+    "banglaMeaning": "মিল্কশেক",
+    "syllables": [
+      "milk",
+      "shake"
+    ],
+    "example": "He ordered a strawberry milkshake.",
+    "hint": "Made of \"milk\" + \"shake\".",
+    "image": "/images/level9/milkshake.webp"
+  },
+  {
+    "id": "lvl9-209",
+    "level": 9,
+    "order": 209,
+    "word": "cheesecake",
+    "pronunciation": "/ˈtʃiːzkeɪk/",
+    "banglaPronunciation": "চিজকেক",
+    "meaning": "A rich cake made with soft cheese.",
+    "banglaMeaning": "চিজকেক",
+    "syllables": [
+      "cheese",
+      "cake"
+    ],
+    "example": "We shared a slice of cheesecake.",
+    "hint": "Made of \"cheese\" + \"cake\".",
+    "image": "/images/level9/cheesecake.webp"
+  },
+  {
+    "id": "lvl9-210",
+    "level": 9,
+    "order": 210,
+    "word": "meatball",
+    "pronunciation": "/ˈmiːtbɔːl/",
+    "banglaPronunciation": "মিটবল",
+    "meaning": "A small ball of cooked ground meat.",
+    "banglaMeaning": "মাংসের বল",
+    "syllables": [
+      "meat",
+      "ball"
+    ],
+    "example": "She served spaghetti with a meatball.",
+    "hint": "Made of \"meat\" + \"ball\".",
+    "image": "/images/level9/meatball.webp"
+  },
+  {
+    "id": "lvl9-211",
+    "level": 9,
+    "order": 211,
+    "word": "hotdog",
+    "pronunciation": "/ˈhɒtdɒɡ/",
+    "banglaPronunciation": "হটডগ",
+    "meaning": "A sausage served in a long bun.",
+    "banglaMeaning": "হটডগ",
+    "syllables": [
+      "hot",
+      "dog"
+    ],
+    "example": "He grilled a hotdog for lunch.",
+    "hint": "Made of \"hot\" + \"dog\".",
+    "image": "/images/level9/hotdog.webp"
+  },
+  {
+    "id": "lvl9-212",
+    "level": 9,
+    "order": 212,
+    "word": "buttermilk",
+    "pronunciation": "/ˈbʌtərmɪlk/",
+    "banglaPronunciation": "বাটারমিল্ক",
+    "meaning": "A tangy liquid left after churning butter.",
+    "banglaMeaning": "বাটারমিল্ক",
+    "syllables": [
+      "butter",
+      "milk"
+    ],
+    "example": "She baked biscuits with buttermilk.",
+    "hint": "Made of \"butter\" + \"milk\".",
+    "image": "/images/level9/buttermilk.webp"
+  },
+  {
+    "id": "lvl9-213",
+    "level": 9,
+    "order": 213,
+    "word": "weekday",
+    "pronunciation": "/ˈwiːkdeɪ/",
+    "banglaPronunciation": "উইকডে",
+    "meaning": "Any day except Saturday or Sunday.",
+    "banglaMeaning": "সপ্তাহের কর্মদিন",
+    "syllables": [
+      "week",
+      "day"
+    ],
+    "example": "He works every weekday.",
+    "hint": "Made of \"week\" + \"day\".",
+    "image": "/images/level9/weekday.webp"
+  },
+  {
+    "id": "lvl9-214",
+    "level": 9,
+    "order": 214,
+    "word": "weekend",
+    "pronunciation": "/ˈwiːkɛnd/",
+    "banglaPronunciation": "উইকএন্ড",
+    "meaning": "Saturday and Sunday.",
+    "banglaMeaning": "সপ্তাহান্ত",
+    "syllables": [
+      "week",
+      "end"
+    ],
+    "example": "We rest on the weekend.",
+    "hint": "Made of \"week\" + \"end\".",
+    "image": "/images/level9/weekend.webp"
+  },
+  {
+    "id": "lvl9-215",
+    "level": 9,
+    "order": 215,
+    "word": "midday",
+    "pronunciation": "/ˈmɪddeɪ/",
+    "banglaPronunciation": "মিডডে",
+    "meaning": "The middle of the day, around noon.",
+    "banglaMeaning": "মধ্যাহ্ন",
+    "syllables": [
+      "mid",
+      "day"
+    ],
+    "example": "We ate lunch at midday.",
+    "hint": "Made of \"mid\" + \"day\".",
+    "image": "/images/level9/midday.webp"
+  },
+  {
+    "id": "lvl9-216",
+    "level": 9,
+    "order": 216,
+    "word": "daytime",
+    "pronunciation": "/ˈdeɪtaɪm/",
+    "banglaPronunciation": "ডেটাইম",
+    "meaning": "The hours between sunrise and sunset.",
+    "banglaMeaning": "দিনের বেলা",
+    "syllables": [
+      "day",
+      "time"
+    ],
+    "example": "Birds sing during the daytime.",
+    "hint": "Made of \"day\" + \"time\".",
+    "image": "/images/level9/daytime.webp"
+  },
+  {
+    "id": "lvl9-217",
+    "level": 9,
+    "order": 217,
+    "word": "nighttime",
+    "pronunciation": "/ˈnaɪttaɪm/",
+    "banglaPronunciation": "নাইটটাইম",
+    "meaning": "The hours of darkness.",
+    "banglaMeaning": "রাতের বেলা",
+    "syllables": [
+      "night",
+      "time"
+    ],
+    "example": "Owls hunt at nighttime.",
+    "hint": "Made of \"night\" + \"time\".",
+    "image": "/images/level9/nighttime.webp"
+  },
+  {
+    "id": "lvl9-218",
+    "level": 9,
+    "order": 218,
+    "word": "bedtime",
+    "pronunciation": "/ˈbɛdtaɪm/",
+    "banglaPronunciation": "বেডটাইম",
+    "meaning": "The time to go to sleep.",
+    "banglaMeaning": "ঘুমানোর সময়",
+    "syllables": [
+      "bed",
+      "time"
+    ],
+    "example": "She reads a story at bedtime.",
+    "hint": "Made of \"bed\" + \"time\".",
+    "image": "/images/level9/bedtime.webp"
+  },
+  {
+    "id": "lvl9-219",
+    "level": 9,
+    "order": 219,
+    "word": "lifetime",
+    "pronunciation": "/ˈlaɪftaɪm/",
+    "banglaPronunciation": "লাইফটাইম",
+    "meaning": "The length of a person's life.",
+    "banglaMeaning": "জীবনকাল",
+    "syllables": [
+      "life",
+      "time"
+    ],
+    "example": "He traveled the world in his lifetime.",
+    "hint": "Made of \"life\" + \"time\".",
+    "image": "/images/level9/lifetime.webp"
+  },
+  {
+    "id": "lvl9-220",
+    "level": 9,
+    "order": 220,
+    "word": "sometime",
+    "pronunciation": "/ˈsʌmtaɪm/",
+    "banglaPronunciation": "সামটাইম",
+    "meaning": "At an unspecified time.",
+    "banglaMeaning": "কোনো একসময়",
+    "syllables": [
+      "some",
+      "time"
+    ],
+    "example": "Let's meet sometime next week.",
+    "hint": "Made of \"some\" + \"time\".",
+    "image": "/images/level9/sometime.webp"
+  },
+  {
+    "id": "lvl9-221",
+    "level": 9,
+    "order": 221,
+    "word": "anytime",
+    "pronunciation": "/ˈɛnitaɪm/",
+    "banglaPronunciation": "এনিটাইম",
+    "meaning": "At any time at all.",
+    "banglaMeaning": "যেকোনো সময়",
+    "syllables": [
+      "any",
+      "time"
+    ],
+    "example": "Call me anytime you need help.",
+    "hint": "Made of \"any\" + \"time\".",
+    "image": "/images/level9/anytime.webp"
+  },
+  {
+    "id": "lvl9-222",
+    "level": 9,
+    "order": 222,
+    "word": "overtime",
+    "pronunciation": "/ˈoʊvərtaɪm/",
+    "banglaPronunciation": "ওভারটাইম",
+    "meaning": "Time worked beyond the usual hours.",
+    "banglaMeaning": "অতিরিক্ত সময়",
+    "syllables": [
+      "over",
+      "time"
+    ],
+    "example": "He worked overtime to finish the job.",
+    "hint": "Made of \"over\" + \"time\".",
+    "image": "/images/level9/overtime.webp"
+  },
+  {
+    "id": "lvl9-223",
+    "level": 9,
+    "order": 223,
+    "word": "halftime",
+    "pronunciation": "/ˈhæftaɪm/",
+    "banglaPronunciation": "হাফটাইম",
+    "meaning": "The break in the middle of a game.",
+    "banglaMeaning": "বিরতি",
+    "syllables": [
+      "half",
+      "time"
+    ],
+    "example": "The band played during halftime.",
+    "hint": "Made of \"half\" + \"time\".",
+    "image": "/images/level9/halftime.webp"
+  },
+  {
+    "id": "lvl9-224",
+    "level": 9,
+    "order": 224,
+    "word": "springtime",
+    "pronunciation": "/ˈsprɪŋtaɪm/",
+    "banglaPronunciation": "স্প্রিংটাইম",
+    "meaning": "The season of spring.",
+    "banglaMeaning": "বসন্তকাল",
+    "syllables": [
+      "spring",
+      "time"
+    ],
+    "example": "Flowers bloom in springtime.",
+    "hint": "Made of \"spring\" + \"time\".",
+    "image": "/images/level9/springtime.webp"
+  },
+  {
+    "id": "lvl9-225",
+    "level": 9,
+    "order": 225,
+    "word": "summertime",
+    "pronunciation": "/ˈsʌmərtaɪm/",
+    "banglaPronunciation": "সামারটাইম",
+    "meaning": "The season of summer.",
+    "banglaMeaning": "গ্রীষ্মকাল",
+    "syllables": [
+      "summer",
+      "time"
+    ],
+    "example": "We swim a lot in summertime.",
+    "hint": "Made of \"summer\" + \"time\".",
+    "image": "/images/level9/summertime.webp"
+  },
+  {
+    "id": "lvl9-226",
+    "level": 9,
+    "order": 226,
+    "word": "wintertime",
+    "pronunciation": "/ˈwɪntərtaɪm/",
+    "banglaPronunciation": "উইন্টারটাইম",
+    "meaning": "The season of winter.",
+    "banglaMeaning": "শীতকাল",
+    "syllables": [
+      "winter",
+      "time"
+    ],
+    "example": "Snow falls in wintertime.",
+    "hint": "Made of \"winter\" + \"time\".",
+    "image": "/images/level9/wintertime.webp"
+  },
+  {
+    "id": "lvl9-227",
+    "level": 9,
+    "order": 227,
+    "word": "hometown",
+    "pronunciation": "/ˈhoʊmtaʊn/",
+    "banglaPronunciation": "হোমটাউন",
+    "meaning": "The town where a person was born or grew up.",
+    "banglaMeaning": "জন্মশহর",
+    "syllables": [
+      "home",
+      "town"
+    ],
+    "example": "He visited his hometown last year.",
+    "hint": "Made of \"home\" + \"town\".",
+    "image": "/images/level9/hometown.webp"
+  },
+  {
+    "id": "lvl9-228",
+    "level": 9,
+    "order": 228,
+    "word": "foreground",
+    "pronunciation": "/ˈfɔːrɡraʊnd/",
+    "banglaPronunciation": "ফোরগ্রাউন্ড",
+    "meaning": "The part of a scene nearest the viewer.",
+    "banglaMeaning": "অগ্রভূমি",
+    "syllables": [
+      "fore",
+      "ground"
+    ],
+    "example": "A tree stood in the foreground.",
+    "hint": "Made of \"fore\" + \"ground\".",
+    "image": "/images/level9/foreground.webp"
+  },
+  {
+    "id": "lvl9-229",
+    "level": 9,
+    "order": 229,
+    "word": "underground",
+    "pronunciation": "/ˈʌndərɡraʊnd/",
+    "banglaPronunciation": "আন্ডারগ্রাউন্ড",
+    "meaning": "Below the surface of the ground.",
+    "banglaMeaning": "ভূগর্ভস্থ",
+    "syllables": [
+      "under",
+      "ground"
+    ],
+    "example": "Moles live underground.",
+    "hint": "Made of \"under\" + \"ground\".",
+    "image": "/images/level9/underground.webp"
+  },
+  {
+    "id": "lvl9-230",
+    "level": 9,
+    "order": 230,
+    "word": "courtyard",
+    "pronunciation": "/ˈkɔːrtjɑːrd/",
+    "banglaPronunciation": "কোর্টইয়ার্ড",
+    "meaning": "An open space enclosed by walls or buildings.",
+    "banglaMeaning": "প্রাঙ্গণ",
+    "syllables": [
+      "court",
+      "yard"
+    ],
+    "example": "Students gathered in the courtyard.",
+    "hint": "Made of \"court\" + \"yard\".",
+    "image": "/images/level9/courtyard.webp"
+  },
+  {
+    "id": "lvl9-231",
+    "level": 9,
+    "order": 231,
+    "word": "shipyard",
+    "pronunciation": "/ˈʃɪpjɑːrd/",
+    "banglaPronunciation": "শিপইয়ার্ড",
+    "meaning": "A place where ships are built or repaired.",
+    "banglaMeaning": "জাহাজ নির্মাণস্থল",
+    "syllables": [
+      "ship",
+      "yard"
+    ],
+    "example": "Workers built the boat at the shipyard.",
+    "hint": "Made of \"ship\" + \"yard\".",
+    "image": "/images/level9/shipyard.webp"
+  },
+  {
+    "id": "lvl9-232",
+    "level": 9,
+    "order": 232,
+    "word": "junkyard",
+    "pronunciation": "/ˈdʒʌŋkjɑːrd/",
+    "banglaPronunciation": "জাংকইয়ার্ড",
+    "meaning": "A place where old, unwanted items are kept.",
+    "banglaMeaning": "পুরনো মালামালের জায়গা",
+    "syllables": [
+      "junk",
+      "yard"
+    ],
+    "example": "Old cars sat in the junkyard.",
+    "hint": "Made of \"junk\" + \"yard\".",
+    "image": "/images/level9/junkyard.webp"
+  },
+  {
+    "id": "lvl9-233",
+    "level": 9,
+    "order": 233,
+    "word": "vineyard",
+    "pronunciation": "/ˈvɪnjərd/",
+    "banglaPronunciation": "ভিনইয়ার্ড",
+    "meaning": "A field where grapevines grow.",
+    "banglaMeaning": "আঙুরক্ষেত",
+    "syllables": [
+      "vine",
+      "yard"
+    ],
+    "example": "Grapes grew across the vineyard.",
+    "hint": "Made of \"vine\" + \"yard\".",
+    "image": "/images/level9/vineyard.webp"
+  },
+  {
+    "id": "lvl9-234",
+    "level": 9,
+    "order": 234,
+    "word": "graveyard",
+    "pronunciation": "/ˈɡreɪvjɑːrd/",
+    "banglaPronunciation": "গ্রেভইয়ার্ড",
+    "meaning": "A place where the dead are buried.",
+    "banglaMeaning": "কবরস্থান",
+    "syllables": [
+      "grave",
+      "yard"
+    ],
+    "example": "An old graveyard stood by the church.",
+    "hint": "Made of \"grave\" + \"yard\".",
+    "image": "/images/level9/graveyard.webp"
+  },
+  {
+    "id": "lvl9-235",
+    "level": 9,
+    "order": 235,
+    "word": "something",
+    "pronunciation": "/ˈsʌmθɪŋ/",
+    "banglaPronunciation": "সামথিং",
+    "meaning": "An unspecified thing.",
+    "banglaMeaning": "কিছু একটা",
+    "syllables": [
+      "some",
+      "thing"
+    ],
+    "example": "She whispered something to me.",
+    "hint": "Made of \"some\" + \"thing\".",
+    "image": "/images/level9/something.webp"
+  },
+  {
+    "id": "lvl9-236",
+    "level": 9,
+    "order": 236,
+    "word": "somebody",
+    "pronunciation": "/ˈsʌmˌbɒdi/",
+    "banglaPronunciation": "সামবডি",
+    "meaning": "An unspecified person.",
+    "banglaMeaning": "কেউ একজন",
+    "syllables": [
+      "some",
+      "body"
+    ],
+    "example": "Somebody left the door open.",
+    "hint": "Made of \"some\" + \"body\".",
+    "image": "/images/level9/somebody.webp"
+  },
+  {
+    "id": "lvl9-237",
+    "level": 9,
+    "order": 237,
+    "word": "somewhere",
+    "pronunciation": "/ˈsʌmwɛər/",
+    "banglaPronunciation": "সামহোয়ার",
+    "meaning": "At or to an unspecified place.",
+    "banglaMeaning": "কোথাও একটা",
+    "syllables": [
+      "some",
+      "where"
+    ],
+    "example": "Let's go somewhere quiet.",
+    "hint": "Made of \"some\" + \"where\".",
+    "image": "/images/level9/somewhere.webp"
+  },
+  {
+    "id": "lvl9-238",
+    "level": 9,
+    "order": 238,
+    "word": "somehow",
+    "pronunciation": "/ˈsʌmhaʊ/",
+    "banglaPronunciation": "সামহাউ",
+    "meaning": "In a way not specified.",
+    "banglaMeaning": "কোনোভাবে",
+    "syllables": [
+      "some",
+      "how"
+    ],
+    "example": "We will fix it somehow.",
+    "hint": "Made of \"some\" + \"how\".",
+    "image": "/images/level9/somehow.webp"
+  },
+  {
+    "id": "lvl9-239",
+    "level": 9,
+    "order": 239,
+    "word": "someone",
+    "pronunciation": "/ˈsʌmwʌn/",
+    "banglaPronunciation": "সামওয়ান",
+    "meaning": "An unspecified person.",
+    "banglaMeaning": "কেউ একজন",
+    "syllables": [
+      "some",
+      "one"
+    ],
+    "example": "Someone knocked on the door.",
+    "hint": "Made of \"some\" + \"one\".",
+    "image": "/images/level9/someone.webp"
+  },
+  {
+    "id": "lvl9-240",
+    "level": 9,
+    "order": 240,
+    "word": "anybody",
+    "pronunciation": "/ˈɛnibɒdi/",
+    "banglaPronunciation": "এনিবডি",
+    "meaning": "Any person at all.",
+    "banglaMeaning": "যে কেউ",
+    "syllables": [
+      "any",
+      "body"
+    ],
+    "example": "Did anybody see my keys?",
+    "hint": "Made of \"any\" + \"body\".",
+    "image": "/images/level9/anybody.webp"
+  },
+  {
+    "id": "lvl9-241",
+    "level": 9,
+    "order": 241,
+    "word": "anywhere",
+    "pronunciation": "/ˈɛniwɛər/",
+    "banglaPronunciation": "এনিহোয়ার",
+    "meaning": "At, to, or in any place.",
+    "banglaMeaning": "যেকোনো জায়গায়",
+    "syllables": [
+      "any",
+      "where"
+    ],
+    "example": "You can sit anywhere you like.",
+    "hint": "Made of \"any\" + \"where\".",
+    "image": "/images/level9/anywhere.webp"
+  },
+  {
+    "id": "lvl9-242",
+    "level": 9,
+    "order": 242,
+    "word": "anyone",
+    "pronunciation": "/ˈɛniwʌn/",
+    "banglaPronunciation": "এনিওয়ান",
+    "meaning": "Any person at all.",
+    "banglaMeaning": "যে কেউ",
+    "syllables": [
+      "any",
+      "one"
+    ],
+    "example": "Is anyone home?",
+    "hint": "Made of \"any\" + \"one\".",
+    "image": "/images/level9/anyone.webp"
+  },
+  {
+    "id": "lvl9-243",
+    "level": 9,
+    "order": 243,
+    "word": "everybody",
+    "pronunciation": "/ˈɛvriˌbɒdi/",
+    "banglaPronunciation": "এভরিবডি",
+    "meaning": "Every person; all people.",
+    "banglaMeaning": "সবাই",
+    "syllables": [
+      "every",
+      "body"
+    ],
+    "example": "Everybody cheered at the end.",
+    "hint": "Made of \"every\" + \"body\".",
+    "image": "/images/level9/everybody.webp"
+  },
+  {
+    "id": "lvl9-244",
+    "level": 9,
+    "order": 244,
+    "word": "everywhere",
+    "pronunciation": "/ˈɛvriwɛər/",
+    "banglaPronunciation": "এভরিহোয়ার",
+    "meaning": "In, at, or to all places.",
+    "banglaMeaning": "সবখানে",
+    "syllables": [
+      "every",
+      "where"
+    ],
+    "example": "She looked everywhere for her keys.",
+    "hint": "Made of \"every\" + \"where\".",
+    "image": "/images/level9/everywhere.webp"
+  },
+  {
+    "id": "lvl9-245",
+    "level": 9,
+    "order": 245,
+    "word": "everyone",
+    "pronunciation": "/ˈɛvriwʌn/",
+    "banglaPronunciation": "এভরিওয়ান",
+    "meaning": "Every person; all people.",
+    "banglaMeaning": "সবাই",
+    "syllables": [
+      "every",
+      "one"
+    ],
+    "example": "Everyone enjoyed the party.",
+    "hint": "Made of \"every\" + \"one\".",
+    "image": "/images/level9/everyone.webp"
+  },
+  {
+    "id": "lvl9-246",
+    "level": 9,
+    "order": 246,
+    "word": "everything",
+    "pronunciation": "/ˈɛvriθɪŋ/",
+    "banglaPronunciation": "এভরিথিং",
+    "meaning": "All things; the whole of something.",
+    "banglaMeaning": "সবকিছু",
+    "syllables": [
+      "every",
+      "thing"
+    ],
+    "example": "She packed everything for the trip.",
+    "hint": "Made of \"every\" + \"thing\".",
+    "image": "/images/level9/everything.webp"
+  },
+  {
+    "id": "lvl9-247",
+    "level": 9,
+    "order": 247,
+    "word": "nobody",
+    "pronunciation": "/ˈnoʊbɒdi/",
+    "banglaPronunciation": "নোবডি",
+    "meaning": "No person; not anybody.",
+    "banglaMeaning": "কেউ না",
+    "syllables": [
+      "no",
+      "body"
+    ],
+    "example": "Nobody answered the phone.",
+    "hint": "Made of \"no\" + \"body\".",
+    "image": "/images/level9/nobody.webp"
+  },
+  {
+    "id": "lvl9-248",
+    "level": 9,
+    "order": 248,
+    "word": "nothing",
+    "pronunciation": "/ˈnʌθɪŋ/",
+    "banglaPronunciation": "নাথিং",
+    "meaning": "Not anything; no single thing.",
+    "banglaMeaning": "কিছুই না",
+    "syllables": [
+      "no",
+      "thing"
+    ],
+    "example": "There was nothing left to eat.",
+    "hint": "Made of \"no\" + \"thing\".",
+    "image": "/images/level9/nothing.webp"
+  },
+  {
+    "id": "lvl9-249",
+    "level": 9,
+    "order": 249,
+    "word": "without",
+    "pronunciation": "/wɪˈðaʊt/",
+    "banglaPronunciation": "উইদাউট",
+    "meaning": "Not having or accompanied by.",
+    "banglaMeaning": "ছাড়া",
+    "syllables": [
+      "with",
+      "out"
+    ],
+    "example": "He left without saying goodbye.",
+    "hint": "Made of \"with\" + \"out\".",
+    "image": "/images/level9/without.webp"
+  },
+  {
+    "id": "lvl9-250",
+    "level": 9,
+    "order": 250,
+    "word": "upstairs",
+    "pronunciation": "/ʌpˈstɛərz/",
+    "banglaPronunciation": "আপস্টেয়ার্স",
+    "meaning": "On or to an upper floor.",
+    "banglaMeaning": "উপরতলায়",
+    "syllables": [
+      "up",
+      "stairs"
+    ],
+    "example": "She went upstairs to sleep.",
+    "hint": "Made of \"up\" + \"stairs\".",
+    "image": "/images/level9/upstairs.webp"
+  },
+  {
+    "id": "lvl9-251",
+    "level": 9,
+    "order": 251,
+    "word": "downstairs",
+    "pronunciation": "/daʊnˈstɛərz/",
+    "banglaPronunciation": "ডাউনস্টেয়ার্স",
+    "meaning": "On or to a lower floor.",
+    "banglaMeaning": "নিচতলায়",
+    "syllables": [
+      "down",
+      "stairs"
+    ],
+    "example": "He ran downstairs for breakfast.",
+    "hint": "Made of \"down\" + \"stairs\".",
+    "image": "/images/level9/downstairs.webp"
+  },
+  {
+    "id": "lvl9-252",
+    "level": 9,
+    "order": 252,
+    "word": "indoor",
+    "pronunciation": "/ˈɪndɔːr/",
+    "banglaPronunciation": "ইনডোর",
+    "meaning": "Located or done inside a building.",
+    "banglaMeaning": "অন্দর",
+    "syllables": [
+      "in",
+      "door"
+    ],
+    "example": "We played an indoor game.",
+    "hint": "Made of \"in\" + \"door\".",
+    "image": "/images/level9/indoor.webp"
+  },
+  {
+    "id": "lvl9-253",
+    "level": 9,
+    "order": 253,
+    "word": "outdoor",
+    "pronunciation": "/ˈaʊtdɔːr/",
+    "banglaPronunciation": "আউটডোর",
+    "meaning": "Located or done in the open air.",
+    "banglaMeaning": "বহির্মুখী",
+    "syllables": [
+      "out",
+      "door"
+    ],
+    "example": "They enjoyed an outdoor picnic.",
+    "hint": "Made of \"out\" + \"door\".",
+    "image": "/images/level9/outdoor.webp"
+  },
+  {
+    "id": "lvl9-254",
+    "level": 9,
+    "order": 254,
+    "word": "starlight",
+    "pronunciation": "/ˈstɑːrlaɪt/",
+    "banglaPronunciation": "স্টারলাইট",
+    "meaning": "Light coming from the stars.",
+    "banglaMeaning": "তারার আলো",
+    "syllables": [
+      "star",
+      "light"
+    ],
+    "example": "We walked home under starlight.",
+    "hint": "Made of \"star\" + \"light\".",
+    "image": "/images/level9/starlight.webp"
+  },
+  {
+    "id": "lvl9-255",
+    "level": 9,
+    "order": 255,
+    "word": "thunderbolt",
+    "pronunciation": "/ˈθʌndərboʊlt/",
+    "banglaPronunciation": "থান্ডারবোল্ট",
+    "meaning": "A flash of lightning with thunder.",
+    "banglaMeaning": "বজ্রপাত",
+    "syllables": [
+      "thunder",
+      "bolt"
+    ],
+    "example": "A thunderbolt lit up the sky.",
+    "hint": "Made of \"thunder\" + \"bolt\".",
+    "image": "/images/level9/thunderbolt.webp"
+  },
+  {
+    "id": "lvl9-256",
+    "level": 9,
+    "order": 256,
+    "word": "waterproof",
+    "pronunciation": "/ˈwɔːtərpruːf/",
+    "banglaPronunciation": "ওয়াটারপ্রুফ",
+    "meaning": "Not letting water through.",
+    "banglaMeaning": "জলরোধী",
+    "syllables": [
+      "water",
+      "proof"
+    ],
+    "example": "She wore a waterproof jacket.",
+    "hint": "Made of \"water\" + \"proof\".",
+    "image": "/images/level9/waterproof.webp"
+  },
+  {
+    "id": "lvl9-257",
+    "level": 9,
+    "order": 257,
+    "word": "airtight",
+    "pronunciation": "/ˈɛərtaɪt/",
+    "banglaPronunciation": "এয়ারটাইট",
+    "meaning": "Sealed so no air can pass through.",
+    "banglaMeaning": "বায়ুনিরোধী",
+    "syllables": [
+      "air",
+      "tight"
+    ],
+    "example": "The jar has an airtight lid.",
+    "hint": "Made of \"air\" + \"tight\".",
+    "image": "/images/level9/airtight.webp"
+  },
+  {
+    "id": "lvl9-258",
+    "level": 9,
+    "order": 258,
+    "word": "watertight",
+    "pronunciation": "/ˈwɔːtərtaɪt/",
+    "banglaPronunciation": "ওয়াটারটাইট",
+    "meaning": "Sealed so no water can pass through.",
+    "banglaMeaning": "জলনিরোধী",
+    "syllables": [
+      "water",
+      "tight"
+    ],
+    "example": "The boat's hull is watertight.",
+    "hint": "Made of \"water\" + \"tight\".",
+    "image": "/images/level9/watertight.webp"
+  },
+  {
+    "id": "lvl9-259",
+    "level": 9,
+    "order": 259,
+    "word": "dishwasher",
+    "pronunciation": "/ˈdɪʃˌwɒʃər/",
+    "banglaPronunciation": "ডিশওয়াশার",
+    "meaning": "A machine that washes dishes.",
+    "banglaMeaning": "থালা ধোয়ার যন্ত্র",
+    "syllables": [
+      "dish",
+      "washer"
+    ],
+    "example": "Mom loaded the dishwasher.",
+    "hint": "Made of \"dish\" + \"washer\".",
+    "image": "/images/level9/dishwasher.webp"
+  },
+  {
+    "id": "lvl9-260",
+    "level": 9,
+    "order": 260,
+    "word": "typewriter",
+    "pronunciation": "/ˈtaɪpraɪtər/",
+    "banglaPronunciation": "টাইপরাইটার",
+    "meaning": "A machine for printing letters onto paper.",
+    "banglaMeaning": "টাইপরাইটার",
+    "syllables": [
+      "type",
+      "writer"
+    ],
+    "example": "Grandpa still owns an old typewriter.",
+    "hint": "Made of \"type\" + \"writer\".",
+    "image": "/images/level9/typewriter.webp"
+  },
+  {
+    "id": "lvl9-261",
+    "level": 9,
+    "order": 261,
+    "word": "skateboard",
+    "pronunciation": "/ˈskeɪtbɔːrd/",
+    "banglaPronunciation": "স্কেটবোর্ড",
+    "meaning": "A board with wheels for riding.",
+    "banglaMeaning": "স্কেটবোর্ড",
+    "syllables": [
+      "skate",
+      "board"
+    ],
+    "example": "He rode his skateboard down the hill.",
+    "hint": "Made of \"skate\" + \"board\".",
+    "image": "/images/level9/skateboard.webp"
+  },
+  {
+    "id": "lvl9-262",
+    "level": 9,
+    "order": 262,
+    "word": "surfboard",
+    "pronunciation": "/ˈsɜːrfbɔːrd/",
+    "banglaPronunciation": "সার্ফবোর্ড",
+    "meaning": "A board used for riding ocean waves.",
+    "banglaMeaning": "সার্ফবোর্ড",
+    "syllables": [
+      "surf",
+      "board"
+    ],
+    "example": "She paddled her surfboard into the waves.",
+    "hint": "Made of \"surf\" + \"board\".",
+    "image": "/images/level9/surfboard.webp"
+  },
+  {
+    "id": "lvl9-263",
+    "level": 9,
+    "order": 263,
+    "word": "cardboard",
+    "pronunciation": "/ˈkɑːrdbɔːrd/",
+    "banglaPronunciation": "কার্ডবোর্ড",
+    "meaning": "A stiff, thick kind of paper.",
+    "banglaMeaning": "কার্ডবোর্ড",
+    "syllables": [
+      "card",
+      "board"
+    ],
+    "example": "The gift came in a cardboard box.",
+    "hint": "Made of \"card\" + \"board\".",
+    "image": "/images/level9/cardboard.webp"
+  },
+  {
+    "id": "lvl9-264",
+    "level": 9,
+    "order": 264,
+    "word": "springboard",
+    "pronunciation": "/ˈsprɪŋbɔːrd/",
+    "banglaPronunciation": "স্প্রিংবোর্ড",
+    "meaning": "A flexible board used for jumping.",
+    "banglaMeaning": "স্প্রিংবোর্ড",
+    "syllables": [
+      "spring",
+      "board"
+    ],
+    "example": "She bounced off the springboard into the pool.",
+    "hint": "Made of \"spring\" + \"board\".",
+    "image": "/images/level9/springboard.webp"
+  },
+  {
+    "id": "lvl9-265",
+    "level": 9,
+    "order": 265,
+    "word": "snowboard",
+    "pronunciation": "/ˈsnoʊbɔːrd/",
+    "banglaPronunciation": "স্নোবোর্ড",
+    "meaning": "A board for gliding down snowy slopes.",
+    "banglaMeaning": "স্নোবোর্ড",
+    "syllables": [
+      "snow",
+      "board"
+    ],
+    "example": "He carried his snowboard up the hill.",
+    "hint": "Made of \"snow\" + \"board\".",
+    "image": "/images/level9/snowboard.webp"
+  },
+  {
+    "id": "lvl9-266",
+    "level": 9,
+    "order": 266,
+    "word": "billboard",
+    "pronunciation": "/ˈbɪlbɔːrd/",
+    "banglaPronunciation": "বিলবোর্ড",
+    "meaning": "A large outdoor advertising sign.",
+    "banglaMeaning": "বিলবোর্ড",
+    "syllables": [
+      "bill",
+      "board"
+    ],
+    "example": "A billboard advertised the new movie.",
+    "hint": "Made of \"bill\" + \"board\".",
+    "image": "/images/level9/billboard.webp"
+  },
+  {
+    "id": "lvl9-267",
+    "level": 9,
+    "order": 267,
+    "word": "chalkboard",
+    "pronunciation": "/ˈtʃɔːkbɔːrd/",
+    "banglaPronunciation": "চকবোর্ড",
+    "meaning": "A board written on with chalk.",
+    "banglaMeaning": "চকবোর্ড",
+    "syllables": [
+      "chalk",
+      "board"
+    ],
+    "example": "The teacher wrote on the chalkboard.",
+    "hint": "Made of \"chalk\" + \"board\".",
+    "image": "/images/level9/chalkboard.webp"
+  },
+  {
+    "id": "lvl9-268",
+    "level": 9,
+    "order": 268,
+    "word": "cupboard",
+    "pronunciation": "/ˈkʌbərd/",
+    "banglaPronunciation": "কাবার্ড",
+    "meaning": "A cabinet with shelves for storage.",
+    "banglaMeaning": "আলমারি",
+    "syllables": [
+      "cup",
+      "board"
+    ],
+    "example": "She kept the plates in the cupboard.",
+    "hint": "Made of \"cup\" + \"board\".",
+    "image": "/images/level9/cupboard.webp"
+  },
+  {
+    "id": "lvl9-269",
+    "level": 9,
+    "order": 269,
+    "word": "volleyball",
+    "pronunciation": "/ˈvɒlibɔːl/",
+    "banglaPronunciation": "ভলিবল",
+    "meaning": "A game played by hitting a ball over a net.",
+    "banglaMeaning": "ভলিবল",
+    "syllables": [
+      "volley",
+      "ball"
+    ],
+    "example": "They played volleyball on the beach.",
+    "hint": "Made of \"volley\" + \"ball\".",
+    "image": "/images/level9/volleyball.webp"
+  },
+  {
+    "id": "lvl9-270",
+    "level": 9,
+    "order": 270,
+    "word": "snowplow",
+    "pronunciation": "/ˈsnoʊplaʊ/",
+    "banglaPronunciation": "স্নোপ্লাউ",
+    "meaning": "A vehicle used to clear snow from roads.",
+    "banglaMeaning": "তুষার সরানোর গাড়ি",
+    "syllables": [
+      "snow",
+      "plow"
+    ],
+    "example": "The snowplow cleared the street early.",
+    "hint": "Made of \"snow\" + \"plow\".",
+    "image": "/images/level9/snowplow.webp"
+  },
+  {
+    "id": "lvl9-271",
+    "level": 9,
+    "order": 271,
+    "word": "mudslide",
+    "pronunciation": "/ˈmʌdslaɪd/",
+    "banglaPronunciation": "মাডস্লাইড",
+    "meaning": "A mass of wet earth sliding downhill.",
+    "banglaMeaning": "কর্দমাক্ত ধস",
+    "syllables": [
+      "mud",
+      "slide"
+    ],
+    "example": "Heavy rain triggered a mudslide.",
+    "hint": "Made of \"mud\" + \"slide\".",
+    "image": "/images/level9/mudslide.webp"
+  },
+  {
+    "id": "lvl9-272",
+    "level": 9,
+    "order": 272,
+    "word": "waterway",
+    "pronunciation": "/ˈwɔːtərweɪ/",
+    "banglaPronunciation": "ওয়াটারওয়ে",
+    "meaning": "A river or canal used for travel.",
+    "banglaMeaning": "জলপথ",
+    "syllables": [
+      "water",
+      "way"
+    ],
+    "example": "Boats traveled along the waterway.",
+    "hint": "Made of \"water\" + \"way\".",
+    "image": "/images/level9/waterway.webp"
+  },
+  {
+    "id": "lvl9-273",
+    "level": 9,
+    "order": 273,
+    "word": "seaplane",
+    "pronunciation": "/ˈsiːpleɪn/",
+    "banglaPronunciation": "সিপ্লেন",
+    "meaning": "An aircraft that can land on water.",
+    "banglaMeaning": "সমুদ্রবিমান",
+    "syllables": [
+      "sea",
+      "plane"
+    ],
+    "example": "The seaplane landed on the calm lake.",
+    "hint": "Made of \"sea\" + \"plane\".",
+    "image": "/images/level9/seaplane.webp"
+  },
+  {
+    "id": "lvl9-274",
+    "level": 9,
+    "order": 274,
+    "word": "breakfast",
+    "pronunciation": "/ˈbrɛkfəst/",
+    "banglaPronunciation": "ব্রেকফাস্ট",
+    "meaning": "The first meal of the day.",
+    "banglaMeaning": "সকালের নাস্তা",
+    "syllables": [
+      "break",
+      "fast"
+    ],
+    "example": "We ate breakfast before school.",
+    "hint": "Made of \"break\" + \"fast\".",
+    "image": "/images/level9/breakfast.webp"
+  },
+  {
+    "id": "lvl9-275",
+    "level": 9,
+    "order": 275,
+    "word": "cheekbone",
+    "pronunciation": "/ˈtʃiːkboʊn/",
+    "banglaPronunciation": "চিকবোন",
+    "meaning": "The bone below the eye that shapes the cheek.",
+    "banglaMeaning": "গালের হাড়",
+    "syllables": [
+      "cheek",
+      "bone"
+    ],
+    "example": "She had high cheekbones.",
+    "hint": "Made of \"cheek\" + \"bone\".",
+    "image": "/images/level9/cheekbone.webp"
+  },
+  {
+    "id": "lvl9-276",
+    "level": 9,
+    "order": 276,
+    "word": "breastbone",
+    "pronunciation": "/ˈbrɛstboʊn/",
+    "banglaPronunciation": "ব্রেস্টবোন",
+    "meaning": "The flat bone in the middle of the chest.",
+    "banglaMeaning": "বুকের হাড়",
+    "syllables": [
+      "breast",
+      "bone"
+    ],
+    "example": "The doctor pressed near his breastbone.",
+    "hint": "Made of \"breast\" + \"bone\".",
+    "image": "/images/level9/breastbone.webp"
+  },
+  {
+    "id": "lvl9-277",
+    "level": 9,
+    "order": 277,
+    "word": "framework",
+    "pronunciation": "/ˈfreɪmwɜːrk/",
+    "banglaPronunciation": "ফ্রেমওয়ার্ক",
+    "meaning": "A basic structure that supports a system.",
+    "banglaMeaning": "কাঠামো",
+    "syllables": [
+      "frame",
+      "work"
+    ],
+    "example": "They built a framework for the roof.",
+    "hint": "Made of \"frame\" + \"work\".",
+    "image": "/images/level9/framework.webp"
+  },
+  {
+    "id": "lvl9-278",
+    "level": 9,
+    "order": 278,
+    "word": "network",
+    "pronunciation": "/ˈnɛtwɜːrk/",
+    "banglaPronunciation": "নেটওয়ার্ক",
+    "meaning": "A connected system or group.",
+    "banglaMeaning": "নেটওয়ার্ক",
+    "syllables": [
+      "net",
+      "work"
+    ],
+    "example": "The computers shared a network.",
+    "hint": "Made of \"net\" + \"work\".",
+    "image": "/images/level9/network.webp"
+  },
+  {
+    "id": "lvl9-279",
+    "level": 9,
+    "order": 279,
+    "word": "forehand",
+    "pronunciation": "/ˈfɔːrhænd/",
+    "banglaPronunciation": "ফোরহ্যান্ড",
+    "meaning": "A tennis stroke made with the palm forward.",
+    "banglaMeaning": "ফোরহ্যান্ড",
+    "syllables": [
+      "fore",
+      "hand"
+    ],
+    "example": "She hit a strong forehand shot.",
+    "hint": "Made of \"fore\" + \"hand\".",
+    "image": "/images/level9/forehand.webp"
+  },
+  {
+    "id": "lvl9-280",
+    "level": 9,
+    "order": 280,
+    "word": "outfield",
+    "pronunciation": "/ˈaʊtfiːld/",
+    "banglaPronunciation": "আউটফিল্ড",
+    "meaning": "The far part of a baseball field.",
+    "banglaMeaning": "আউটফিল্ড",
+    "syllables": [
+      "out",
+      "field"
+    ],
+    "example": "He caught the ball in the outfield.",
+    "hint": "Made of \"out\" + \"field\".",
+    "image": "/images/level9/outfield.webp"
+  },
+  {
+    "id": "lvl9-281",
+    "level": 9,
+    "order": 281,
+    "word": "cornfield",
+    "pronunciation": "/ˈkɔːrnfiːld/",
+    "banglaPronunciation": "কর্নফিল্ড",
+    "meaning": "A field where corn is grown.",
+    "banglaMeaning": "ভুট্টার ক্ষেত",
+    "syllables": [
+      "corn",
+      "field"
+    ],
+    "example": "They walked through the cornfield.",
+    "hint": "Made of \"corn\" + \"field\".",
+    "image": "/images/level9/cornfield.webp"
+  },
+  {
+    "id": "lvl9-282",
+    "level": 9,
+    "order": 282,
+    "word": "battlefield",
+    "pronunciation": "/ˈbætəlfiːld/",
+    "banglaPronunciation": "ব্যাটলফিল্ড",
+    "meaning": "The place where a battle is fought.",
+    "banglaMeaning": "যুদ্ধক্ষেত্র",
+    "syllables": [
+      "battle",
+      "field"
+    ],
+    "example": "Soldiers marched across the battlefield.",
+    "hint": "Made of \"battle\" + \"field\".",
+    "image": "/images/level9/battlefield.webp"
+  },
+  {
+    "id": "lvl9-283",
+    "level": 9,
+    "order": 283,
+    "word": "snowfall",
+    "pronunciation": "/ˈsnoʊfɔːl/",
+    "banglaPronunciation": "স্নোফল",
+    "meaning": "The falling of snow.",
+    "banglaMeaning": "তুষারপাত",
+    "syllables": [
+      "snow",
+      "fall"
+    ],
+    "example": "Heavy snowfall covered the town.",
+    "hint": "Made of \"snow\" + \"fall\".",
+    "image": "/images/level9/snowfall.webp"
+  },
+  {
+    "id": "lvl9-284",
+    "level": 9,
+    "order": 284,
+    "word": "rainstorm",
+    "pronunciation": "/ˈreɪnstɔːrm/",
+    "banglaPronunciation": "রেইনস্টর্ম",
+    "meaning": "A storm with heavy rain.",
+    "banglaMeaning": "বৃষ্টিঝড়",
+    "syllables": [
+      "rain",
+      "storm"
+    ],
+    "example": "A rainstorm flooded the streets.",
+    "hint": "Made of \"rain\" + \"storm\".",
+    "image": "/images/level9/rainstorm.webp"
+  },
+  {
+    "id": "lvl9-285",
+    "level": 9,
+    "order": 285,
+    "word": "windstorm",
+    "pronunciation": "/ˈwɪndstɔːrm/",
+    "banglaPronunciation": "উইন্ডস্টর্ম",
+    "meaning": "A storm with very strong winds.",
+    "banglaMeaning": "ঝড়ো বাতাসের ঝড়",
+    "syllables": [
+      "wind",
+      "storm"
+    ],
+    "example": "The windstorm knocked down trees.",
+    "hint": "Made of \"wind\" + \"storm\".",
+    "image": "/images/level9/windstorm.webp"
+  },
+  {
+    "id": "lvl9-286",
+    "level": 9,
+    "order": 286,
+    "word": "hailstorm",
+    "pronunciation": "/ˈheɪlstɔːrm/",
+    "banglaPronunciation": "হেইলস্টর্ম",
+    "meaning": "A storm with falling ice pellets.",
+    "banglaMeaning": "শিলাবৃষ্টি ঝড়",
+    "syllables": [
+      "hail",
+      "storm"
+    ],
+    "example": "The hailstorm damaged the crops.",
+    "hint": "Made of \"hail\" + \"storm\".",
+    "image": "/images/level9/hailstorm.webp"
+  },
+  {
+    "id": "lvl9-287",
+    "level": 9,
+    "order": 287,
+    "word": "moonwalk",
+    "pronunciation": "/ˈmuːnwɔːk/",
+    "banglaPronunciation": "মুনওয়াক",
+    "meaning": "A walk taken on the surface of the moon.",
+    "banglaMeaning": "চন্দ্র হাঁটা",
+    "syllables": [
+      "moon",
+      "walk"
+    ],
+    "example": "The astronaut took the first moonwalk.",
+    "hint": "Made of \"moon\" + \"walk\".",
+    "image": "/images/level9/moonwalk.webp"
+  },
+  {
+    "id": "lvl9-288",
+    "level": 9,
+    "order": 288,
+    "word": "moonbeam",
+    "pronunciation": "/ˈmuːnbiːm/",
+    "banglaPronunciation": "মুনবিম",
+    "meaning": "A ray of light from the moon.",
+    "banglaMeaning": "চাঁদের আলোকরশ্মি",
+    "syllables": [
+      "moon",
+      "beam"
+    ],
+    "example": "A moonbeam lit the quiet garden.",
+    "hint": "Made of \"moon\" + \"beam\".",
+    "image": "/images/level9/moonbeam.webp"
+  },
+  {
+    "id": "lvl9-289",
+    "level": 9,
+    "order": 289,
+    "word": "starlit",
+    "pronunciation": "/ˈstɑːrlɪt/",
+    "banglaPronunciation": "স্টারলিট",
+    "meaning": "Lit by the light of stars.",
+    "banglaMeaning": "তারায় আলোকিত",
+    "syllables": [
+      "star",
+      "lit"
+    ],
+    "example": "They walked under a starlit sky.",
+    "hint": "Made of \"star\" + \"lit\".",
+    "image": "/images/level9/starlit.webp"
+  },
+  {
+    "id": "lvl9-290",
+    "level": 9,
+    "order": 290,
+    "word": "sunbeam",
+    "pronunciation": "/ˈsʌnbiːm/",
+    "banglaPronunciation": "সানবিম",
+    "meaning": "A ray of sunlight.",
+    "banglaMeaning": "সূর্যরশ্মি",
+    "syllables": [
+      "sun",
+      "beam"
+    ],
+    "example": "A sunbeam warmed the windowsill.",
+    "hint": "Made of \"sun\" + \"beam\".",
+    "image": "/images/level9/sunbeam.webp"
+  },
+  {
+    "id": "lvl9-291",
+    "level": 9,
+    "order": 291,
+    "word": "dewdrop",
+    "pronunciation": "/ˈdjuːdrɒp/",
+    "banglaPronunciation": "ডিউড্রপ",
+    "meaning": "A small drop of dew.",
+    "banglaMeaning": "শিশিরবিন্দু",
+    "syllables": [
+      "dew",
+      "drop"
+    ],
+    "example": "A dewdrop glistened on the leaf.",
+    "hint": "Made of \"dew\" + \"drop\".",
+    "image": "/images/level9/dewdrop.webp"
+  },
+  {
+    "id": "lvl9-292",
+    "level": 9,
+    "order": 292,
+    "word": "snowdrift",
+    "pronunciation": "/ˈsnoʊdrɪft/",
+    "banglaPronunciation": "স্নোড্রিফট",
+    "meaning": "A deep pile of snow formed by wind.",
+    "banglaMeaning": "তুষারস্তূপ",
+    "syllables": [
+      "snow",
+      "drift"
+    ],
+    "example": "The car got stuck in a snowdrift.",
+    "hint": "Made of \"snow\" + \"drift\".",
+    "image": "/images/level9/snowdrift.webp"
+  },
+  {
+    "id": "lvl9-293",
+    "level": 9,
+    "order": 293,
+    "word": "frostbitten",
+    "pronunciation": "/ˈfrɒstˌbɪtən/",
+    "banglaPronunciation": "ফ্রস্টবিটেন",
+    "meaning": "Injured by extreme cold.",
+    "banglaMeaning": "হিমদংশিত",
+    "syllables": [
+      "frost",
+      "bitten"
+    ],
+    "example": "His fingers were frostbitten from the cold.",
+    "hint": "Made of \"frost\" + \"bitten\".",
+    "image": "/images/level9/frostbitten.webp"
+  },
+  {
+    "id": "lvl9-294",
+    "level": 9,
+    "order": 294,
+    "word": "campfire",
+    "pronunciation": "/ˈkæmpfaɪər/",
+    "banglaPronunciation": "ক্যাম্পফায়ার",
+    "meaning": "An outdoor fire at a campsite.",
+    "banglaMeaning": "ক্যাম্পফায়ার",
+    "syllables": [
+      "camp",
+      "fire"
+    ],
+    "example": "We sang songs around the campfire.",
+    "hint": "Made of \"camp\" + \"fire\".",
+    "image": "/images/level9/campfire.webp"
+  },
+  {
+    "id": "lvl9-295",
+    "level": 9,
+    "order": 295,
+    "word": "bonfire",
+    "pronunciation": "/ˈbɒnfaɪər/",
+    "banglaPronunciation": "বনফায়ার",
+    "meaning": "A large outdoor fire for celebration.",
+    "banglaMeaning": "উৎসবের আগুন",
+    "syllables": [
+      "bon",
+      "fire"
+    ],
+    "example": "They lit a bonfire on the beach.",
+    "hint": "Made of \"bon\" + \"fire\".",
+    "image": "/images/level9/bonfire.webp"
+  },
+  {
+    "id": "lvl9-296",
+    "level": 9,
+    "order": 296,
+    "word": "gemstone",
+    "pronunciation": "/ˈdʒɛmstoʊn/",
+    "banglaPronunciation": "জেমস্টোন",
+    "meaning": "A precious stone used in jewelry.",
+    "banglaMeaning": "রত্নপাথর",
+    "syllables": [
+      "gem",
+      "stone"
+    ],
+    "example": "The ring held a bright gemstone.",
+    "hint": "Made of \"gem\" + \"stone\".",
+    "image": "/images/level9/gemstone.webp"
+  },
+  {
+    "id": "lvl9-297",
+    "level": 9,
+    "order": 297,
+    "word": "milestone",
+    "pronunciation": "/ˈmaɪlstoʊn/",
+    "banglaPronunciation": "মাইলস্টোন",
+    "meaning": "A stone marker showing distance, or a key event.",
+    "banglaMeaning": "মাইলফলক",
+    "syllables": [
+      "mile",
+      "stone"
+    ],
+    "example": "Graduating was a big milestone.",
+    "hint": "Made of \"mile\" + \"stone\".",
+    "image": "/images/level9/milestone.webp"
+  },
+  {
+    "id": "lvl9-298",
+    "level": 9,
+    "order": 298,
+    "word": "cornerstone",
+    "pronunciation": "/ˈkɔːrnərstoʊn/",
+    "banglaPronunciation": "কর্নারস্টোন",
+    "meaning": "A stone at the base of a building's corner.",
+    "banglaMeaning": "ভিত্তিপ্রস্তর",
+    "syllables": [
+      "corner",
+      "stone"
+    ],
+    "example": "They laid the cornerstone of the school.",
+    "hint": "Made of \"corner\" + \"stone\".",
+    "image": "/images/level9/cornerstone.webp"
+  },
+  {
+    "id": "lvl9-299",
+    "level": 9,
+    "order": 299,
+    "word": "limestone",
+    "pronunciation": "/ˈlaɪmstoʊn/",
+    "banglaPronunciation": "লাইমস্টোন",
+    "meaning": "A common type of white rock.",
+    "banglaMeaning": "চুনাপাথর",
+    "syllables": [
+      "lime",
+      "stone"
+    ],
+    "example": "The cave walls were made of limestone.",
+    "hint": "Made of \"lime\" + \"stone\".",
+    "image": "/images/level9/limestone.webp"
+  },
+  {
+    "id": "lvl9-300",
+    "level": 9,
+    "order": 300,
+    "word": "cobblestone",
+    "pronunciation": "/ˈkɒbəlstoʊn/",
+    "banglaPronunciation": "কবলস্টোন",
+    "meaning": "A rounded stone used to pave streets.",
+    "banglaMeaning": "গোলাকার ফুটপাত পাথর",
+    "syllables": [
+      "cobble",
+      "stone"
+    ],
+    "example": "We walked along the cobblestone street.",
+    "hint": "Made of \"cobble\" + \"stone\".",
+    "image": "/images/level9/cobblestone.webp"
+  },
+  {
+    "id": "lvl9-301",
+    "level": 9,
+    "order": 301,
+    "word": "quicksand",
+    "pronunciation": "/ˈkwɪksænd/",
+    "banglaPronunciation": "কুইকস্যান্ড",
+    "meaning": "Loose wet sand that sucks in objects.",
+    "banglaMeaning": "চোরাবালি",
+    "syllables": [
+      "quick",
+      "sand"
+    ],
+    "example": "He avoided stepping into the quicksand.",
+    "hint": "Made of \"quick\" + \"sand\".",
+    "image": "/images/level9/quicksand.webp"
+  },
+  {
+    "id": "lvl9-302",
+    "level": 9,
+    "order": 302,
+    "word": "hourglass",
+    "pronunciation": "/ˈaʊərɡlæs/",
+    "banglaPronunciation": "আওয়ারগ্লাস",
+    "meaning": "A timer using falling sand in glass.",
+    "banglaMeaning": "বালুঘড়ি",
+    "syllables": [
+      "hour",
+      "glass"
+    ],
+    "example": "Sand ran through the hourglass.",
+    "hint": "Made of \"hour\" + \"glass\".",
+    "image": "/images/level9/hourglass.webp"
+  },
+  {
+    "id": "lvl9-303",
+    "level": 9,
+    "order": 303,
+    "word": "eyeglasses",
+    "pronunciation": "/ˈaɪˌɡlæsɪz/",
+    "banglaPronunciation": "আইগ্লাসেস",
+    "meaning": "Lenses worn to help someone see.",
+    "banglaMeaning": "চশমা",
+    "syllables": [
+      "eye",
+      "glasses"
+    ],
+    "example": "She cleaned her eyeglasses carefully.",
+    "hint": "Made of \"eye\" + \"glasses\".",
+    "image": "/images/level9/eyeglasses.webp"
+  },
+  {
+    "id": "lvl9-304",
+    "level": 9,
+    "order": 304,
+    "word": "sunglasses",
+    "pronunciation": "/ˈsʌnˌɡlæsɪz/",
+    "banglaPronunciation": "সানগ্লাসেস",
+    "meaning": "Dark glasses worn to protect eyes from sun.",
+    "banglaMeaning": "রোদচশমা",
+    "syllables": [
+      "sun",
+      "glasses"
+    ],
+    "example": "He wore sunglasses at the beach.",
+    "hint": "Made of \"sun\" + \"glasses\".",
+    "image": "/images/level9/sunglasses.webp"
+  },
+  {
+    "id": "lvl9-305",
+    "level": 9,
+    "order": 305,
+    "word": "broomstick",
+    "pronunciation": "/ˈbruːmstɪk/",
+    "banglaPronunciation": "ব্রুমস্টিক",
+    "meaning": "The wooden handle of a broom.",
+    "banglaMeaning": "ঝাড়ুর হাতল",
+    "syllables": [
+      "broom",
+      "stick"
+    ],
+    "example": "The witch flew on her broomstick.",
+    "hint": "Made of \"broom\" + \"stick\".",
+    "image": "/images/level9/broomstick.webp"
+  },
+  {
+    "id": "lvl9-306",
+    "level": 9,
+    "order": 306,
+    "word": "yardstick",
+    "pronunciation": "/ˈjɑːrdstɪk/",
+    "banglaPronunciation": "ইয়ার্ডস্টিক",
+    "meaning": "A stick used for measuring a yard.",
+    "banglaMeaning": "গজ ফিতা",
+    "syllables": [
+      "yard",
+      "stick"
+    ],
+    "example": "He measured the wood with a yardstick.",
+    "hint": "Made of \"yard\" + \"stick\".",
+    "image": "/images/level9/yardstick.webp"
+  },
+  {
+    "id": "lvl9-307",
+    "level": 9,
+    "order": 307,
+    "word": "drumstick",
+    "pronunciation": "/ˈdrʌmstɪk/",
+    "banglaPronunciation": "ড্রামস্টিক",
+    "meaning": "A stick used for playing drums.",
+    "banglaMeaning": "ড্রামস্টিক",
+    "syllables": [
+      "drum",
+      "stick"
+    ],
+    "example": "She tapped the drumstick on the drum.",
+    "hint": "Made of \"drum\" + \"stick\".",
+    "image": "/images/level9/drumstick.webp"
+  },
+  {
+    "id": "lvl9-308",
+    "level": 9,
+    "order": 308,
+    "word": "lipstick",
+    "pronunciation": "/ˈlɪpstɪk/",
+    "banglaPronunciation": "লিপস্টিক",
+    "meaning": "A colored stick used on the lips.",
+    "banglaMeaning": "লিপস্টিক",
+    "syllables": [
+      "lip",
+      "stick"
+    ],
+    "example": "She applied red lipstick.",
+    "hint": "Made of \"lip\" + \"stick\".",
+    "image": "/images/level9/lipstick.webp"
+  },
+  {
+    "id": "lvl9-309",
+    "level": 9,
+    "order": 309,
+    "word": "matchstick",
+    "pronunciation": "/ˈmætʃstɪk/",
+    "banglaPronunciation": "ম্যাচস্টিক",
+    "meaning": "The thin stick part of a match.",
+    "banglaMeaning": "ম্যাচকাঠি",
+    "syllables": [
+      "match",
+      "stick"
+    ],
+    "example": "He struck the matchstick to light it.",
+    "hint": "Made of \"match\" + \"stick\".",
+    "image": "/images/level9/matchstick.webp"
+  },
+  {
+    "id": "lvl9-310",
+    "level": 9,
+    "order": 310,
+    "word": "chopstick",
+    "pronunciation": "/ˈtʃɒpstɪk/",
+    "banglaPronunciation": "চপস্টিক",
+    "meaning": "A thin stick used for eating food.",
+    "banglaMeaning": "চপস্টিক",
+    "syllables": [
+      "chop",
+      "stick"
+    ],
+    "example": "She ate rice with a chopstick.",
+    "hint": "Made of \"chop\" + \"stick\".",
+    "image": "/images/level9/chopstick.webp"
+  },
+  {
+    "id": "lvl9-311",
+    "level": 9,
+    "order": 311,
+    "word": "fireplace",
+    "pronunciation": "/ˈfaɪərpleɪs/",
+    "banglaPronunciation": "ফায়ারপ্লেস",
+    "meaning": "A structure for holding an indoor fire.",
+    "banglaMeaning": "অগ্নিকুণ্ড",
+    "syllables": [
+      "fire",
+      "place"
+    ],
+    "example": "They warmed up by the fireplace.",
+    "hint": "Made of \"fire\" + \"place\".",
+    "image": "/images/level9/fireplace.webp"
+  },
+  {
+    "id": "lvl9-312",
+    "level": 9,
+    "order": 312,
+    "word": "marketplace",
+    "pronunciation": "/ˈmɑːrkɪtpleɪs/",
+    "banglaPronunciation": "মার্কেটপ্লেস",
+    "meaning": "A place where goods are bought and sold.",
+    "banglaMeaning": "বাজারস্থান",
+    "syllables": [
+      "market",
+      "place"
+    ],
+    "example": "Vendors sold fruit in the marketplace.",
+    "hint": "Made of \"market\" + \"place\".",
+    "image": "/images/level9/marketplace.webp"
+  },
+  {
+    "id": "lvl9-313",
+    "level": 9,
+    "order": 313,
+    "word": "birthplace",
+    "pronunciation": "/ˈbɜːrθpleɪs/",
+    "banglaPronunciation": "বার্থপ্লেস",
+    "meaning": "The place where a person was born.",
+    "banglaMeaning": "জন্মস্থান",
+    "syllables": [
+      "birth",
+      "place"
+    ],
+    "example": "This village is his birthplace.",
+    "hint": "Made of \"birth\" + \"place\".",
+    "image": "/images/level9/birthplace.webp"
+  },
+  {
+    "id": "lvl9-314",
+    "level": 9,
+    "order": 314,
+    "word": "workplace",
+    "pronunciation": "/ˈwɜːrkpleɪs/",
+    "banglaPronunciation": "ওয়ার্কপ্লেস",
+    "meaning": "The location where a person works.",
+    "banglaMeaning": "কর্মস্থল",
+    "syllables": [
+      "work",
+      "place"
+    ],
+    "example": "The office is a friendly workplace.",
+    "hint": "Made of \"work\" + \"place\".",
+    "image": "/images/level9/workplace.webp"
+  },
+  {
+    "id": "lvl9-315",
+    "level": 9,
+    "order": 315,
+    "word": "hideout",
+    "pronunciation": "/ˈhaɪdaʊt/",
+    "banglaPronunciation": "হাইডআউট",
+    "meaning": "A secret place to hide.",
+    "banglaMeaning": "গোপন আশ্রয়স্থল",
+    "syllables": [
+      "hide",
+      "out"
+    ],
+    "example": "The kids built a hideout in the woods.",
+    "hint": "Made of \"hide\" + \"out\".",
+    "image": "/images/level9/hideout.webp"
+  },
+  {
+    "id": "lvl9-316",
+    "level": 9,
+    "order": 316,
+    "word": "lookout",
+    "pronunciation": "/ˈlʊkaʊt/",
+    "banglaPronunciation": "লুকআউট",
+    "meaning": "A place or person watching for danger.",
+    "banglaMeaning": "পাহারা",
+    "syllables": [
+      "look",
+      "out"
+    ],
+    "example": "He stood as a lookout on the hill.",
+    "hint": "Made of \"look\" + \"out\".",
+    "image": "/images/level9/lookout.webp"
+  },
+  {
+    "id": "lvl9-317",
+    "level": 9,
+    "order": 317,
+    "word": "hangout",
+    "pronunciation": "/ˈhæŋaʊt/",
+    "banglaPronunciation": "হ্যাংআউট",
+    "meaning": "A favorite place to spend time.",
+    "banglaMeaning": "আড্ডাখানা",
+    "syllables": [
+      "hang",
+      "out"
+    ],
+    "example": "The cafe is our usual hangout.",
+    "hint": "Made of \"hang\" + \"out\".",
+    "image": "/images/level9/hangout.webp"
+  },
+  {
+    "id": "lvl9-318",
+    "level": 9,
+    "order": 318,
+    "word": "workout",
+    "pronunciation": "/ˈwɜːrkaʊt/",
+    "banglaPronunciation": "ওয়ার্কআউট",
+    "meaning": "A session of physical exercise.",
+    "banglaMeaning": "শরীরচর্চা",
+    "syllables": [
+      "work",
+      "out"
+    ],
+    "example": "She did a workout before school.",
+    "hint": "Made of \"work\" + \"out\".",
+    "image": "/images/level9/workout.webp"
+  },
+  {
+    "id": "lvl9-319",
+    "level": 9,
+    "order": 319,
+    "word": "printout",
+    "pronunciation": "/ˈprɪntaʊt/",
+    "banglaPronunciation": "প্রিন্টআউট",
+    "meaning": "A paper copy from a printer.",
+    "banglaMeaning": "প্রিন্ট কপি",
+    "syllables": [
+      "print",
+      "out"
+    ],
+    "example": "He handed her a printout of the report.",
+    "hint": "Made of \"print\" + \"out\".",
+    "image": "/images/level9/printout.webp"
+  },
+  {
+    "id": "lvl9-320",
+    "level": 9,
+    "order": 320,
+    "word": "layout",
+    "pronunciation": "/ˈleɪaʊt/",
+    "banglaPronunciation": "লেআউট",
+    "meaning": "The way something is arranged.",
+    "banglaMeaning": "বিন্যাস",
+    "syllables": [
+      "lay",
+      "out"
+    ],
+    "example": "She designed the layout of the page.",
+    "hint": "Made of \"lay\" + \"out\".",
+    "image": "/images/level9/layout.webp"
+  },
+  {
+    "id": "lvl9-321",
+    "level": 9,
+    "order": 321,
+    "word": "blackout",
+    "pronunciation": "/ˈblækaʊt/",
+    "banglaPronunciation": "ব্ল্যাকআউট",
+    "meaning": "A total loss of electric power.",
+    "banglaMeaning": "বিদ্যুৎবিভ্রাট",
+    "syllables": [
+      "black",
+      "out"
+    ],
+    "example": "A blackout hit the whole city.",
+    "hint": "Made of \"black\" + \"out\".",
+    "image": "/images/level9/blackout.webp"
+  },
+  {
+    "id": "lvl9-322",
+    "level": 9,
+    "order": 322,
+    "word": "checkout",
+    "pronunciation": "/ˈtʃɛkaʊt/",
+    "banglaPronunciation": "চেকআউট",
+    "meaning": "The place or process of paying for items.",
+    "banglaMeaning": "চেকআউট",
+    "syllables": [
+      "check",
+      "out"
+    ],
+    "example": "We waited in line at the checkout.",
+    "hint": "Made of \"check\" + \"out\".",
+    "image": "/images/level9/checkout.webp"
+  },
+  {
+    "id": "lvl9-323",
+    "level": 9,
+    "order": 323,
+    "word": "cookout",
+    "pronunciation": "/ˈkʊkaʊt/",
+    "banglaPronunciation": "কুকআউট",
+    "meaning": "An outdoor meal cooked over a fire.",
+    "banglaMeaning": "বহিরাঙ্গন রান্না",
+    "syllables": [
+      "cook",
+      "out"
+    ],
+    "example": "The family had a cookout on Saturday.",
+    "hint": "Made of \"cook\" + \"out\".",
+    "image": "/images/level9/cookout.webp"
+  },
+  {
+    "id": "lvl9-324",
+    "level": 9,
+    "order": 324,
+    "word": "daydream",
+    "pronunciation": "/ˈdeɪdriːm/",
+    "banglaPronunciation": "ডেড্রিম",
+    "meaning": "A pleasant thought while awake.",
+    "banglaMeaning": "দিবাস্বপ্ন",
+    "syllables": [
+      "day",
+      "dream"
+    ],
+    "example": "She had a daydream about summer.",
+    "hint": "Made of \"day\" + \"dream\".",
+    "image": "/images/level9/daydream.webp"
+  },
+  {
+    "id": "lvl9-325",
+    "level": 9,
+    "order": 325,
+    "word": "earring",
+    "pronunciation": "/ˈɪərɪŋ/",
+    "banglaPronunciation": "ইয়ারিং",
+    "meaning": "A piece of jewelry worn on the ear.",
+    "banglaMeaning": "কানের দুল",
+    "syllables": [
+      "ear",
+      "ring"
+    ],
+    "example": "She wore a small gold earring.",
+    "hint": "Made of \"ear\" + \"ring\".",
+    "image": "/images/level9/earring.webp"
+  },
+  {
+    "id": "lvl9-326",
+    "level": 9,
+    "order": 326,
+    "word": "earplug",
+    "pronunciation": "/ˈɪərplʌɡ/",
+    "banglaPronunciation": "ইয়ারপ্লাগ",
+    "meaning": "A device placed in the ear to block sound.",
+    "banglaMeaning": "কানের প্লাগ",
+    "syllables": [
+      "ear",
+      "plug"
+    ],
+    "example": "He used an earplug to sleep better.",
+    "hint": "Made of \"ear\" + \"plug\".",
+    "image": "/images/level9/earplug.webp"
+  },
+  {
+    "id": "lvl9-327",
+    "level": 9,
+    "order": 327,
+    "word": "kneepad",
+    "pronunciation": "/ˈniːpæd/",
+    "banglaPronunciation": "নিপ্যাড",
+    "meaning": "A cushion worn to protect the knee.",
+    "banglaMeaning": "হাঁটুর প্যাড",
+    "syllables": [
+      "knee",
+      "pad"
+    ],
+    "example": "She wore a kneepad for skating.",
+    "hint": "Made of \"knee\" + \"pad\".",
+    "image": "/images/level9/kneepad.webp"
+  },
+  {
+    "id": "lvl9-328",
+    "level": 9,
+    "order": 328,
+    "word": "shoelace",
+    "pronunciation": "/ˈʃuːleɪs/",
+    "banglaPronunciation": "শুলেস",
+    "meaning": "The cord used to tie a shoe.",
+    "banglaMeaning": "জুতার ফিতা",
+    "syllables": [
+      "shoe",
+      "lace"
+    ],
+    "example": "His shoelace came untied.",
+    "hint": "Made of \"shoe\" + \"lace\".",
+    "image": "/images/level9/shoelace.webp"
+  },
+  {
+    "id": "lvl9-329",
+    "level": 9,
+    "order": 329,
+    "word": "shoemaker",
+    "pronunciation": "/ˈʃuːˌmeɪkər/",
+    "banglaPronunciation": "শুমেকার",
+    "meaning": "A person who makes shoes.",
+    "banglaMeaning": "জুতা প্রস্তুতকারক",
+    "syllables": [
+      "shoe",
+      "maker"
+    ],
+    "example": "The shoemaker fixed the old boots.",
+    "hint": "Made of \"shoe\" + \"maker\".",
+    "image": "/images/level9/shoemaker.webp"
+  },
+  {
+    "id": "lvl9-330",
+    "level": 9,
+    "order": 330,
+    "word": "shoehorn",
+    "pronunciation": "/ˈʃuːhɔːrn/",
+    "banglaPronunciation": "শুহর্ন",
+    "meaning": "A tool used to help put on shoes.",
+    "banglaMeaning": "জুতা পরার সাহায্যকারী",
+    "syllables": [
+      "shoe",
+      "horn"
+    ],
+    "example": "He used a shoehorn to slip on his boots.",
+    "hint": "Made of \"shoe\" + \"horn\".",
+    "image": "/images/level9/shoehorn.webp"
+  },
+  {
+    "id": "lvl9-331",
+    "level": 9,
+    "order": 331,
+    "word": "applesauce",
+    "pronunciation": "/ˈæpəlsɔːs/",
+    "banglaPronunciation": "অ্যাপলসস",
+    "meaning": "A soft food made from cooked apples.",
+    "banglaMeaning": "আপেলসস",
+    "syllables": [
+      "apple",
+      "sauce"
+    ],
+    "example": "She fed the baby applesauce.",
+    "hint": "Made of \"apple\" + \"sauce\".",
+    "image": "/images/level9/applesauce.webp"
+  },
+  {
+    "id": "lvl9-332",
+    "level": 9,
+    "order": 332,
+    "word": "grapevine",
+    "pronunciation": "/ˈɡreɪpvaɪn/",
+    "banglaPronunciation": "গ্রেপভাইন",
+    "meaning": "The climbing plant that grapes grow on.",
+    "banglaMeaning": "আঙুর লতা",
+    "syllables": [
+      "grape",
+      "vine"
+    ],
+    "example": "Grapes hung from the grapevine.",
+    "hint": "Made of \"grape\" + \"vine\".",
+    "image": "/images/level9/grapevine.webp"
+  },
+  {
+    "id": "lvl9-333",
+    "level": 9,
+    "order": 333,
+    "word": "strawberry",
+    "pronunciation": "/ˈstrɔːbɛri/",
+    "banglaPronunciation": "স্ট্রবেরি",
+    "meaning": "A small red juicy fruit.",
+    "banglaMeaning": "স্ট্রবেরি",
+    "syllables": [
+      "straw",
+      "berry"
+    ],
+    "example": "She picked a ripe strawberry.",
+    "hint": "Made of \"straw\" + \"berry\".",
+    "image": "/images/level9/strawberry.webp"
+  },
+  {
+    "id": "lvl9-334",
+    "level": 9,
+    "order": 334,
+    "word": "blackberry",
+    "pronunciation": "/ˈblækbɛri/",
+    "banglaPronunciation": "ব্ল্যাকবেরি",
+    "meaning": "A small dark purple-black fruit.",
+    "banglaMeaning": "ব্ল্যাকবেরি",
+    "syllables": [
+      "black",
+      "berry"
+    ],
+    "example": "We gathered blackberry from the bush.",
+    "hint": "Made of \"black\" + \"berry\".",
+    "image": "/images/level9/blackberry.webp"
+  },
+  {
+    "id": "lvl9-335",
+    "level": 9,
+    "order": 335,
+    "word": "blueberry",
+    "pronunciation": "/ˈbluːbɛri/",
+    "banglaPronunciation": "ব্লুবেরি",
+    "meaning": "A small round blue fruit.",
+    "banglaMeaning": "ব্লুবেরি",
+    "syllables": [
+      "blue",
+      "berry"
+    ],
+    "example": "He baked a blueberry muffin.",
+    "hint": "Made of \"blue\" + \"berry\".",
+    "image": "/images/level9/blueberry.webp"
+  },
+  {
+    "id": "lvl9-336",
+    "level": 9,
+    "order": 336,
+    "word": "raspberry",
+    "pronunciation": "/ˈræzbɛri/",
+    "banglaPronunciation": "রাস্পবেরি",
+    "meaning": "A small red or black soft fruit.",
+    "banglaMeaning": "রাস্পবেরি",
+    "syllables": [
+      "rasp",
+      "berry"
+    ],
+    "example": "She added raspberry to her yogurt.",
+    "hint": "Made of \"rasp\" + \"berry\".",
+    "image": "/images/level9/raspberry.webp"
+  },
+  {
+    "id": "lvl9-337",
+    "level": 9,
+    "order": 337,
+    "word": "cranberry",
+    "pronunciation": "/ˈkrænbɛri/",
+    "banglaPronunciation": "ক্র্যানবেরি",
+    "meaning": "A small tart red berry.",
+    "banglaMeaning": "ক্র্যানবেরি",
+    "syllables": [
+      "cran",
+      "berry"
+    ],
+    "example": "We drank cranberry juice.",
+    "hint": "Made of \"cran\" + \"berry\".",
+    "image": "/images/level9/cranberry.webp"
+  },
+  {
+    "id": "lvl9-338",
+    "level": 9,
+    "order": 338,
+    "word": "gingerbread",
+    "pronunciation": "/ˈdʒɪndʒərbrɛd/",
+    "banglaPronunciation": "জিঞ্জারব্রেড",
+    "meaning": "A spiced cake or cookie flavored with ginger.",
+    "banglaMeaning": "জিঞ্জারব্রেড",
+    "syllables": [
+      "ginger",
+      "bread"
+    ],
+    "example": "They decorated a gingerbread house.",
+    "hint": "Made of \"ginger\" + \"bread\".",
+    "image": "/images/level9/gingerbread.webp"
+  },
+  {
+    "id": "lvl9-339",
+    "level": 9,
+    "order": 339,
+    "word": "shortbread",
+    "pronunciation": "/ˈʃɔːrtbrɛd/",
+    "banglaPronunciation": "শর্টব্রেড",
+    "meaning": "A crumbly, buttery cookie.",
+    "banglaMeaning": "শর্টব্রেড",
+    "syllables": [
+      "short",
+      "bread"
+    ],
+    "example": "She baked a batch of shortbread.",
+    "hint": "Made of \"short\" + \"bread\".",
+    "image": "/images/level9/shortbread.webp"
+  },
+  {
+    "id": "lvl9-340",
+    "level": 9,
+    "order": 340,
+    "word": "cornbread",
+    "pronunciation": "/ˈkɔːrnbrɛd/",
+    "banglaPronunciation": "কর্নব্রেড",
+    "meaning": "A bread made mainly from cornmeal.",
+    "banglaMeaning": "কর্নব্রেড",
+    "syllables": [
+      "corn",
+      "bread"
+    ],
+    "example": "We served cornbread with the soup.",
+    "hint": "Made of \"corn\" + \"bread\".",
+    "image": "/images/level9/cornbread.webp"
+  },
+  {
+    "id": "lvl9-341",
+    "level": 9,
+    "order": 341,
+    "word": "breadcrumb",
+    "pronunciation": "/ˈbrɛdkrʌm/",
+    "banglaPronunciation": "ব্রেডক্রাম",
+    "meaning": "A small fragment of dried bread.",
+    "banglaMeaning": "ব্রেডক্রাম",
+    "syllables": [
+      "bread",
+      "crumb"
+    ],
+    "example": "She coated the chicken in breadcrumb.",
+    "hint": "Made of \"bread\" + \"crumb\".",
+    "image": "/images/level9/breadcrumb.webp"
+  },
+  {
+    "id": "lvl9-342",
+    "level": 9,
+    "order": 342,
+    "word": "toothache",
+    "pronunciation": "/ˈtuːθeɪk/",
+    "banglaPronunciation": "টুথএক",
+    "meaning": "A pain in a tooth.",
+    "banglaMeaning": "দাঁতের ব্যথা",
+    "syllables": [
+      "tooth",
+      "ache"
+    ],
+    "example": "He went to the dentist for a toothache.",
+    "hint": "Made of \"tooth\" + \"ache\".",
+    "image": "/images/level9/toothache.webp"
+  },
+  {
+    "id": "lvl9-343",
+    "level": 9,
+    "order": 343,
+    "word": "stomachache",
+    "pronunciation": "/ˈstʌməkeɪk/",
+    "banglaPronunciation": "স্টমাকএক",
+    "meaning": "A pain in the stomach.",
+    "banglaMeaning": "পেটব্যথা",
+    "syllables": [
+      "stomach",
+      "ache"
+    ],
+    "example": "She stayed home with a stomachache.",
+    "hint": "Made of \"stomach\" + \"ache\".",
+    "image": "/images/level9/stomachache.webp"
+  },
+  {
+    "id": "lvl9-344",
+    "level": 9,
+    "order": 344,
+    "word": "heartache",
+    "pronunciation": "/ˈhɑːrteɪk/",
+    "banglaPronunciation": "হার্টএক",
+    "meaning": "A feeling of deep sadness.",
+    "banglaMeaning": "মনোবেদনা",
+    "syllables": [
+      "heart",
+      "ache"
+    ],
+    "example": "The sad movie caused some heartache.",
+    "hint": "Made of \"heart\" + \"ache\".",
+    "image": "/images/level9/heartache.webp"
+  },
+  {
+    "id": "lvl9-345",
+    "level": 9,
+    "order": 345,
+    "word": "armrest",
+    "pronunciation": "/ˈɑːrmrɛst/",
+    "banglaPronunciation": "আর্মরেস্ট",
+    "meaning": "A support for resting the arm.",
+    "banglaMeaning": "হাতলের বিশ্রাম স্থান",
+    "syllables": [
+      "arm",
+      "rest"
+    ],
+    "example": "She rested her arm on the armrest.",
+    "hint": "Made of \"arm\" + \"rest\".",
+    "image": "/images/level9/armrest.webp"
+  },
+  {
+    "id": "lvl9-346",
+    "level": 9,
+    "order": 346,
+    "word": "footrest",
+    "pronunciation": "/ˈfʊtrɛst/",
+    "banglaPronunciation": "ফুটরেস্ট",
+    "meaning": "A support for resting the feet.",
+    "banglaMeaning": "পা রাখার স্থান",
+    "syllables": [
+      "foot",
+      "rest"
+    ],
+    "example": "He put his feet up on the footrest.",
+    "hint": "Made of \"foot\" + \"rest\".",
+    "image": "/images/level9/footrest.webp"
+  },
+  {
+    "id": "lvl9-347",
+    "level": 9,
+    "order": 347,
+    "word": "headrest",
+    "pronunciation": "/ˈhɛdrɛst/",
+    "banglaPronunciation": "হেডরেস্ট",
+    "meaning": "A support for resting the head.",
+    "banglaMeaning": "মাথা রাখার স্থান",
+    "syllables": [
+      "head",
+      "rest"
+    ],
+    "example": "She leaned back on the headrest.",
+    "hint": "Made of \"head\" + \"rest\".",
+    "image": "/images/level9/headrest.webp"
+  },
+  {
+    "id": "lvl9-348",
+    "level": 9,
+    "order": 348,
+    "word": "backrest",
+    "pronunciation": "/ˈbækrɛst/",
+    "banglaPronunciation": "ব্যাকরেস্ট",
+    "meaning": "A support for the back of a seat.",
+    "banglaMeaning": "পিঠের ঠেস",
+    "syllables": [
+      "back",
+      "rest"
+    ],
+    "example": "The chair has a soft backrest.",
+    "hint": "Made of \"back\" + \"rest\".",
+    "image": "/images/level9/backrest.webp"
+  },
+  {
+    "id": "lvl9-349",
+    "level": 9,
+    "order": 349,
+    "word": "daybed",
+    "pronunciation": "/ˈdeɪbɛd/",
+    "banglaPronunciation": "ডেবেড",
+    "meaning": "A couch that can be used as a bed.",
+    "banglaMeaning": "দিনের বিছানা",
+    "syllables": [
+      "day",
+      "bed"
+    ],
+    "example": "She napped on the daybed.",
+    "hint": "Made of \"day\" + \"bed\".",
+    "image": "/images/level9/daybed.webp"
+  },
+  {
+    "id": "lvl9-350",
+    "level": 9,
+    "order": 350,
+    "word": "seabed",
+    "pronunciation": "/ˈsiːbɛd/",
+    "banglaPronunciation": "সিবেড",
+    "meaning": "The ground at the bottom of the sea.",
+    "banglaMeaning": "সমুদ্রতল",
+    "syllables": [
+      "sea",
+      "bed"
+    ],
+    "example": "Coral grew across the seabed.",
+    "hint": "Made of \"sea\" + \"bed\".",
+    "image": "/images/level9/seabed.webp"
+  }
+]

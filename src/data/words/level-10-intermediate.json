@@ -1,0 +1,7055 @@
+[
+  {
+    "id": "lvl10-001",
+    "level": 10,
+    "order": 1,
+    "word": "unhappy",
+    "pronunciation": "/ʌnˈhæpi/",
+    "banglaPronunciation": "আনহ্যাপি",
+    "meaning": "Not happy; sad.",
+    "banglaMeaning": "অসুখী",
+    "syllables": [
+      "un",
+      "hap",
+      "py"
+    ],
+    "example": "The lost puppy looked unhappy.",
+    "hint": "Prefix 'un-' means not — 'un' + 'happy'.",
+    "image": "/images/level10/unhappy.webp"
+  },
+  {
+    "id": "lvl10-002",
+    "level": 10,
+    "order": 2,
+    "word": "unable",
+    "pronunciation": "/ʌnˈeɪbəl/",
+    "banglaPronunciation": "আনএইবল",
+    "meaning": "Not able to do something.",
+    "banglaMeaning": "অক্ষম",
+    "syllables": [
+      "un",
+      "a",
+      "ble"
+    ],
+    "example": "He was unable to lift the box.",
+    "hint": "Prefix 'un-' means not — 'un' + 'able'.",
+    "image": "/images/level10/unable.webp"
+  },
+  {
+    "id": "lvl10-003",
+    "level": 10,
+    "order": 3,
+    "word": "unfair",
+    "pronunciation": "/ʌnˈfɛr/",
+    "banglaPronunciation": "আনফেয়ার",
+    "meaning": "Not fair or just.",
+    "banglaMeaning": "অন্যায্য",
+    "syllables": [
+      "un",
+      "fair"
+    ],
+    "example": "It felt unfair to lose the game like that.",
+    "hint": "Prefix 'un-' means not — 'un' + 'fair'.",
+    "image": "/images/level10/unfair.webp"
+  },
+  {
+    "id": "lvl10-004",
+    "level": 10,
+    "order": 4,
+    "word": "unsafe",
+    "pronunciation": "/ʌnˈseɪf/",
+    "banglaPronunciation": "আনসেইফ",
+    "meaning": "Not safe; dangerous.",
+    "banglaMeaning": "অনিরাপদ",
+    "syllables": [
+      "un",
+      "safe"
+    ],
+    "example": "The old bridge is unsafe to cross.",
+    "hint": "Prefix 'un-' means not — 'un' + 'safe'.",
+    "image": "/images/level10/unsafe.webp"
+  },
+  {
+    "id": "lvl10-005",
+    "level": 10,
+    "order": 5,
+    "word": "unpaved",
+    "pronunciation": "/ʌnˈpeɪvd/",
+    "banglaPronunciation": "আনপেইভড",
+    "meaning": "Not covered with a paved surface.",
+    "banglaMeaning": "পাকা নয় এমন",
+    "syllables": [
+      "un",
+      "paved"
+    ],
+    "example": "The unpaved road was full of dust.",
+    "hint": "Prefix 'un-' means not — 'un' + 'paved'.",
+    "image": "/images/level10/unpaved.webp"
+  },
+  {
+    "id": "lvl10-006",
+    "level": 10,
+    "order": 6,
+    "word": "unpack",
+    "pronunciation": "/ʌnˈpæk/",
+    "banglaPronunciation": "আনপ্যাক",
+    "meaning": "To remove things from a bag or box.",
+    "banglaMeaning": "মালপত্র বের করা",
+    "syllables": [
+      "un",
+      "pack"
+    ],
+    "example": "We need to unpack the suitcase.",
+    "hint": "Prefix 'un-' means not — 'un' + 'pack'.",
+    "image": "/images/level10/unpack.webp"
+  },
+  {
+    "id": "lvl10-007",
+    "level": 10,
+    "order": 7,
+    "word": "unplug",
+    "pronunciation": "/ʌnˈplʌɡ/",
+    "banglaPronunciation": "আনপ্লাগ",
+    "meaning": "To disconnect a plug from a socket.",
+    "banglaMeaning": "প্লাগ খুলে দেওয়া",
+    "syllables": [
+      "un",
+      "plug"
+    ],
+    "example": "Please unplug the toaster after use.",
+    "hint": "Prefix 'un-' means not — 'un' + 'plug'.",
+    "image": "/images/level10/unplug.webp"
+  },
+  {
+    "id": "lvl10-008",
+    "level": 10,
+    "order": 8,
+    "word": "undo",
+    "pronunciation": "/ʌnˈduː/",
+    "banglaPronunciation": "আনডু",
+    "meaning": "To reverse an action.",
+    "banglaMeaning": "পূর্বাবস্থায় ফেরানো",
+    "syllables": [
+      "un",
+      "do"
+    ],
+    "example": "Click here to undo your last change.",
+    "hint": "Prefix 'un-' means not — reverses 'do'.",
+    "image": "/images/level10/undo.webp"
+  },
+  {
+    "id": "lvl10-009",
+    "level": 10,
+    "order": 9,
+    "word": "uneven",
+    "pronunciation": "/ʌnˈiːvən/",
+    "banglaPronunciation": "আনইভেন",
+    "meaning": "Not level or smooth.",
+    "banglaMeaning": "অসমান",
+    "syllables": [
+      "un",
+      "e",
+      "ven"
+    ],
+    "example": "The path was rocky and uneven.",
+    "hint": "Prefix 'un-' means not — 'un' + 'even'.",
+    "image": "/images/level10/uneven.webp"
+  },
+  {
+    "id": "lvl10-010",
+    "level": 10,
+    "order": 10,
+    "word": "unusual",
+    "pronunciation": "/ʌnˈjuːʒuəl/",
+    "banglaPronunciation": "আনইউজুয়াল",
+    "meaning": "Not common; rare.",
+    "banglaMeaning": "অস্বাভাবিক",
+    "syllables": [
+      "un",
+      "u",
+      "su",
+      "al"
+    ],
+    "example": "It was unusual to see snow in April.",
+    "hint": "Prefix 'un-' means not — 'un' + 'usual'.",
+    "image": "/images/level10/unusual.webp"
+  },
+  {
+    "id": "lvl10-011",
+    "level": 10,
+    "order": 11,
+    "word": "unknown",
+    "pronunciation": "/ʌnˈnoʊn/",
+    "banglaPronunciation": "আননৌন",
+    "meaning": "Not known or identified.",
+    "banglaMeaning": "অজানা",
+    "syllables": [
+      "un",
+      "known"
+    ],
+    "example": "The artist remained unknown for years.",
+    "hint": "Prefix 'un-' means not — 'un' + 'known'.",
+    "image": "/images/level10/unknown.webp"
+  },
+  {
+    "id": "lvl10-012",
+    "level": 10,
+    "order": 12,
+    "word": "unwrap",
+    "pronunciation": "/ʌnˈræp/",
+    "banglaPronunciation": "আনর‍্যাপ",
+    "meaning": "To remove the wrapping from something.",
+    "banglaMeaning": "মোড়ক খোলা",
+    "syllables": [
+      "un",
+      "wrap"
+    ],
+    "example": "She unwrapped her birthday gift.",
+    "hint": "Prefix 'un-' means not — 'un' + 'wrap'.",
+    "image": "/images/level10/unwrap.webp"
+  },
+  {
+    "id": "lvl10-013",
+    "level": 10,
+    "order": 13,
+    "word": "uncover",
+    "pronunciation": "/ʌnˈkʌvər/",
+    "banglaPronunciation": "আনকাভার",
+    "meaning": "To remove a cover, or to reveal.",
+    "banglaMeaning": "আবরণ সরানো",
+    "syllables": [
+      "un",
+      "cov",
+      "er"
+    ],
+    "example": "Detectives worked to uncover the truth.",
+    "hint": "Prefix 'un-' means not — 'un' + 'cover'.",
+    "image": "/images/level10/uncover.webp"
+  },
+  {
+    "id": "lvl10-014",
+    "level": 10,
+    "order": 14,
+    "word": "unclear",
+    "pronunciation": "/ʌnˈklɪr/",
+    "banglaPronunciation": "আনক্লিয়ার",
+    "meaning": "Not clear; confusing.",
+    "banglaMeaning": "অস্পষ্ট",
+    "syllables": [
+      "un",
+      "clear"
+    ],
+    "example": "His instructions were unclear.",
+    "hint": "Prefix 'un-' means not — 'un' + 'clear'.",
+    "image": "/images/level10/unclear.webp"
+  },
+  {
+    "id": "lvl10-015",
+    "level": 10,
+    "order": 15,
+    "word": "unequal",
+    "pronunciation": "/ʌnˈiːkwəl/",
+    "banglaPronunciation": "আনইকুয়াল",
+    "meaning": "Not equal in size or amount.",
+    "banglaMeaning": "অসম",
+    "syllables": [
+      "un",
+      "e",
+      "qual"
+    ],
+    "example": "The two teams had unequal numbers of players.",
+    "hint": "Prefix 'un-' means not — 'un' + 'equal'.",
+    "image": "/images/level10/unequal.webp"
+  },
+  {
+    "id": "lvl10-016",
+    "level": 10,
+    "order": 16,
+    "word": "unfold",
+    "pronunciation": "/ʌnˈfoʊld/",
+    "banglaPronunciation": "আনফোল্ড",
+    "meaning": "To open something that was folded.",
+    "banglaMeaning": "ভাঁজ খোলা",
+    "syllables": [
+      "un",
+      "fold"
+    ],
+    "example": "He unfolded the map on the table.",
+    "hint": "Prefix 'un-' means not — 'un' + 'fold'.",
+    "image": "/images/level10/unfold.webp"
+  },
+  {
+    "id": "lvl10-017",
+    "level": 10,
+    "order": 17,
+    "word": "unfriendly",
+    "pronunciation": "/ʌnˈfrɛndli/",
+    "banglaPronunciation": "আনফ্রেন্ডলি",
+    "meaning": "Not friendly; unkind.",
+    "banglaMeaning": "অবন্ধুসুলভ",
+    "syllables": [
+      "un",
+      "friend",
+      "ly"
+    ],
+    "example": "The new neighbor seemed unfriendly at first.",
+    "hint": "Prefix 'un-' means not — 'un' + 'friendly'.",
+    "image": "/images/level10/unfriendly.webp"
+  },
+  {
+    "id": "lvl10-018",
+    "level": 10,
+    "order": 18,
+    "word": "unhealthy",
+    "pronunciation": "/ʌnˈhɛlθi/",
+    "banglaPronunciation": "আনহেলথি",
+    "meaning": "Not good for your health.",
+    "banglaMeaning": "অস্বাস্থ্যকর",
+    "syllables": [
+      "un",
+      "health",
+      "y"
+    ],
+    "example": "Eating too much sugar is unhealthy.",
+    "hint": "Prefix 'un-' means not — 'un' + 'healthy'.",
+    "image": "/images/level10/unhealthy.webp"
+  },
+  {
+    "id": "lvl10-019",
+    "level": 10,
+    "order": 19,
+    "word": "unlucky",
+    "pronunciation": "/ʌnˈlʌki/",
+    "banglaPronunciation": "আনলাকি",
+    "meaning": "Having bad luck.",
+    "banglaMeaning": "দুর্ভাগা",
+    "syllables": [
+      "un",
+      "luck",
+      "y"
+    ],
+    "example": "Breaking a mirror is said to be unlucky.",
+    "hint": "Prefix 'un-' means not — 'un' + 'lucky'.",
+    "image": "/images/level10/unlucky.webp"
+  },
+  {
+    "id": "lvl10-020",
+    "level": 10,
+    "order": 20,
+    "word": "untidy",
+    "pronunciation": "/ʌnˈtaɪdi/",
+    "banglaPronunciation": "আনটাইডি",
+    "meaning": "Not neat; messy.",
+    "banglaMeaning": "অগোছালো",
+    "syllables": [
+      "un",
+      "ti",
+      "dy"
+    ],
+    "example": "His room was untidy after the party.",
+    "hint": "Prefix 'un-' means not — 'un' + 'tidy'.",
+    "image": "/images/level10/untidy.webp"
+  },
+  {
+    "id": "lvl10-021",
+    "level": 10,
+    "order": 21,
+    "word": "unpaid",
+    "pronunciation": "/ʌnˈpeɪd/",
+    "banglaPronunciation": "আনপেইড",
+    "meaning": "Not yet paid.",
+    "banglaMeaning": "অপরিশোধিত",
+    "syllables": [
+      "un",
+      "paid"
+    ],
+    "example": "The unpaid bill was still on the table.",
+    "hint": "Prefix 'un-' means not — 'un' + 'paid'.",
+    "image": "/images/level10/unpaid.webp"
+  },
+  {
+    "id": "lvl10-022",
+    "level": 10,
+    "order": 22,
+    "word": "unwind",
+    "pronunciation": "/ʌnˈwaɪnd/",
+    "banglaPronunciation": "আনওয়াইন্ড",
+    "meaning": "To relax after being busy or tense.",
+    "banglaMeaning": "শিথিল হওয়া",
+    "syllables": [
+      "un",
+      "wind"
+    ],
+    "example": "She likes to unwind with a good book.",
+    "hint": "Prefix 'un-' means not — 'un' + 'wind'.",
+    "image": "/images/level10/unwind.webp"
+  },
+  {
+    "id": "lvl10-023",
+    "level": 10,
+    "order": 23,
+    "word": "unzip",
+    "pronunciation": "/ʌnˈzɪp/",
+    "banglaPronunciation": "আনজিপ",
+    "meaning": "To open a zip fastener.",
+    "banglaMeaning": "জিপার খোলা",
+    "syllables": [
+      "un",
+      "zip"
+    ],
+    "example": "He unzipped his jacket in the warm room.",
+    "hint": "Prefix 'un-' means not — 'un' + 'zip'.",
+    "image": "/images/level10/unzip.webp"
+  },
+  {
+    "id": "lvl10-024",
+    "level": 10,
+    "order": 24,
+    "word": "unmask",
+    "pronunciation": "/ʌnˈmæsk/",
+    "banglaPronunciation": "আনমাস্ক",
+    "meaning": "To remove a mask, or reveal the truth.",
+    "banglaMeaning": "মুখোশ খোলা",
+    "syllables": [
+      "un",
+      "mask"
+    ],
+    "example": "The story unmasked the real culprit.",
+    "hint": "Prefix 'un-' means not — 'un' + 'mask'.",
+    "image": "/images/level10/unmask.webp"
+  },
+  {
+    "id": "lvl10-025",
+    "level": 10,
+    "order": 25,
+    "word": "unbutton",
+    "pronunciation": "/ʌnˈbʌtən/",
+    "banglaPronunciation": "আনবাটন",
+    "meaning": "To undo the buttons of clothing.",
+    "banglaMeaning": "বোতাম খোলা",
+    "syllables": [
+      "un",
+      "but",
+      "ton"
+    ],
+    "example": "He unbuttoned his coat before sitting down.",
+    "hint": "Prefix 'un-' means not — 'un' + 'button'.",
+    "image": "/images/level10/unbutton.webp"
+  },
+  {
+    "id": "lvl10-026",
+    "level": 10,
+    "order": 26,
+    "word": "rewrite",
+    "pronunciation": "/riːˈraɪt/",
+    "banglaPronunciation": "রিরাইট",
+    "meaning": "To write something again.",
+    "banglaMeaning": "আবার লেখা",
+    "syllables": [
+      "re",
+      "write"
+    ],
+    "example": "She had to rewrite her essay.",
+    "hint": "Prefix 're-' means again — 're' + 'write'.",
+    "image": "/images/level10/rewrite.webp"
+  },
+  {
+    "id": "lvl10-027",
+    "level": 10,
+    "order": 27,
+    "word": "replay",
+    "pronunciation": "/ˈriːpleɪ/",
+    "banglaPronunciation": "রিপ্লে",
+    "meaning": "To play something again.",
+    "banglaMeaning": "আবার চালানো",
+    "syllables": [
+      "re",
+      "play"
+    ],
+    "example": "Let's replay that goal in slow motion.",
+    "hint": "Prefix 're-' means again — 're' + 'play'.",
+    "image": "/images/level10/replay.webp"
+  },
+  {
+    "id": "lvl10-028",
+    "level": 10,
+    "order": 28,
+    "word": "refill",
+    "pronunciation": "/riːˈfɪl/",
+    "banglaPronunciation": "রিফিল",
+    "meaning": "To fill something again.",
+    "banglaMeaning": "আবার ভর্তি করা",
+    "syllables": [
+      "re",
+      "fill"
+    ],
+    "example": "Can you refill my water bottle?",
+    "hint": "Prefix 're-' means again — 're' + 'fill'.",
+    "image": "/images/level10/refill.webp"
+  },
+  {
+    "id": "lvl10-029",
+    "level": 10,
+    "order": 29,
+    "word": "rebuild",
+    "pronunciation": "/riːˈbɪld/",
+    "banglaPronunciation": "রিবিল্ড",
+    "meaning": "To build something again.",
+    "banglaMeaning": "আবার নির্মাণ করা",
+    "syllables": [
+      "re",
+      "build"
+    ],
+    "example": "The town worked to rebuild after the storm.",
+    "hint": "Prefix 're-' means again — 're' + 'build'.",
+    "image": "/images/level10/rebuild.webp"
+  },
+  {
+    "id": "lvl10-030",
+    "level": 10,
+    "order": 30,
+    "word": "reheat",
+    "pronunciation": "/riːˈhiːt/",
+    "banglaPronunciation": "রিহিট",
+    "meaning": "To heat food again.",
+    "banglaMeaning": "আবার গরম করা",
+    "syllables": [
+      "re",
+      "heat"
+    ],
+    "example": "I will reheat the soup for dinner.",
+    "hint": "Prefix 're-' means again — 're' + 'heat'.",
+    "image": "/images/level10/reheat.webp"
+  },
+  {
+    "id": "lvl10-031",
+    "level": 10,
+    "order": 31,
+    "word": "reload",
+    "pronunciation": "/riːˈloʊd/",
+    "banglaPronunciation": "রিলোড",
+    "meaning": "To load something again.",
+    "banglaMeaning": "আবার লোড করা",
+    "syllables": [
+      "re",
+      "load"
+    ],
+    "example": "Please reload the page to see updates.",
+    "hint": "Prefix 're-' means again — 're' + 'load'.",
+    "image": "/images/level10/reload.webp"
+  },
+  {
+    "id": "lvl10-032",
+    "level": 10,
+    "order": 32,
+    "word": "remind",
+    "pronunciation": "/rɪˈmaɪnd/",
+    "banglaPronunciation": "রিমাইন্ড",
+    "meaning": "To help someone remember something.",
+    "banglaMeaning": "মনে করিয়ে দেওয়া",
+    "syllables": [
+      "re",
+      "mind"
+    ],
+    "example": "Remind me to call her later.",
+    "hint": "Prefix 're-' means again — 're' + 'mind'.",
+    "image": "/images/level10/remind.webp"
+  },
+  {
+    "id": "lvl10-033",
+    "level": 10,
+    "order": 33,
+    "word": "repay",
+    "pronunciation": "/rɪˈpeɪ/",
+    "banglaPronunciation": "রিপেই",
+    "meaning": "To pay back money owed.",
+    "banglaMeaning": "শোধ করা",
+    "syllables": [
+      "re",
+      "pay"
+    ],
+    "example": "He promised to repay the loan next month.",
+    "hint": "Prefix 're-' means again — 're' + 'pay'.",
+    "image": "/images/level10/repay.webp"
+  },
+  {
+    "id": "lvl10-034",
+    "level": 10,
+    "order": 34,
+    "word": "restart",
+    "pronunciation": "/riːˈstɑːrt/",
+    "banglaPronunciation": "রিস্টার্ট",
+    "meaning": "To start something again.",
+    "banglaMeaning": "আবার শুরু করা",
+    "syllables": [
+      "re",
+      "start"
+    ],
+    "example": "We had to restart the computer.",
+    "hint": "Prefix 're-' means again — 're' + 'start'.",
+    "image": "/images/level10/restart.webp"
+  },
+  {
+    "id": "lvl10-035",
+    "level": 10,
+    "order": 35,
+    "word": "recount",
+    "pronunciation": "/rɪˈkaʊnt/",
+    "banglaPronunciation": "রিকাউন্ট",
+    "meaning": "To tell about an event in detail.",
+    "banglaMeaning": "বিস্তারিত বর্ণনা করা",
+    "syllables": [
+      "re",
+      "count"
+    ],
+    "example": "He loved to recount his travels.",
+    "hint": "Prefix 're-' means again — 're' + 'count'.",
+    "image": "/images/level10/recount.webp"
+  },
+  {
+    "id": "lvl10-036",
+    "level": 10,
+    "order": 36,
+    "word": "reuse",
+    "pronunciation": "/riːˈjuːz/",
+    "banglaPronunciation": "রিইউজ",
+    "meaning": "To use something again.",
+    "banglaMeaning": "পুনরায় ব্যবহার করা",
+    "syllables": [
+      "re",
+      "use"
+    ],
+    "example": "We should reuse these paper bags.",
+    "hint": "Prefix 're-' means again — 're' + 'use'.",
+    "image": "/images/level10/reuse.webp"
+  },
+  {
+    "id": "lvl10-037",
+    "level": 10,
+    "order": 37,
+    "word": "review",
+    "pronunciation": "/rɪˈvjuː/",
+    "banglaPronunciation": "রিভিউ",
+    "meaning": "To look at something again to check it.",
+    "banglaMeaning": "পর্যালোচনা করা",
+    "syllables": [
+      "re",
+      "view"
+    ],
+    "example": "Please review your answers before submitting.",
+    "hint": "Prefix 're-' means again — 're' + 'view'.",
+    "image": "/images/level10/review.webp"
+  },
+  {
+    "id": "lvl10-038",
+    "level": 10,
+    "order": 38,
+    "word": "revisit",
+    "pronunciation": "/riːˈvɪzɪt/",
+    "banglaPronunciation": "রিভিজিট",
+    "meaning": "To visit a place again.",
+    "banglaMeaning": "আবার পরিদর্শন করা",
+    "syllables": [
+      "re",
+      "vis",
+      "it"
+    ],
+    "example": "We plan to revisit the museum next year.",
+    "hint": "Prefix 're-' means again — 're' + 'visit'.",
+    "image": "/images/level10/revisit.webp"
+  },
+  {
+    "id": "lvl10-039",
+    "level": 10,
+    "order": 39,
+    "word": "reopen",
+    "pronunciation": "/riːˈoʊpən/",
+    "banglaPronunciation": "রিওপেন",
+    "meaning": "To open something again.",
+    "banglaMeaning": "আবার খোলা",
+    "syllables": [
+      "re",
+      "o",
+      "pen"
+    ],
+    "example": "The shop will reopen after renovation.",
+    "hint": "Prefix 're-' means again — 're' + 'open'.",
+    "image": "/images/level10/reopen.webp"
+  },
+  {
+    "id": "lvl10-040",
+    "level": 10,
+    "order": 40,
+    "word": "rejoin",
+    "pronunciation": "/riːˈdʒɔɪn/",
+    "banglaPronunciation": "রিজয়েন",
+    "meaning": "To join something again.",
+    "banglaMeaning": "আবার যোগ দেওয়া",
+    "syllables": [
+      "re",
+      "join"
+    ],
+    "example": "He decided to rejoin the football team.",
+    "hint": "Prefix 're-' means again — 're' + 'join'.",
+    "image": "/images/level10/rejoin.webp"
+  },
+  {
+    "id": "lvl10-041",
+    "level": 10,
+    "order": 41,
+    "word": "rename",
+    "pronunciation": "/riːˈneɪm/",
+    "banglaPronunciation": "রিনেইম",
+    "meaning": "To give something a new name.",
+    "banglaMeaning": "নতুন নাম দেওয়া",
+    "syllables": [
+      "re",
+      "name"
+    ],
+    "example": "They chose to rename the street.",
+    "hint": "Prefix 're-' means again — 're' + 'name'.",
+    "image": "/images/level10/rename.webp"
+  },
+  {
+    "id": "lvl10-042",
+    "level": 10,
+    "order": 42,
+    "word": "repaint",
+    "pronunciation": "/riːˈpeɪnt/",
+    "banglaPronunciation": "রিপেইন্ট",
+    "meaning": "To paint something again.",
+    "banglaMeaning": "আবার রং করা",
+    "syllables": [
+      "re",
+      "paint"
+    ],
+    "example": "We repainted the fence last summer.",
+    "hint": "Prefix 're-' means again — 're' + 'paint'.",
+    "image": "/images/level10/repaint.webp"
+  },
+  {
+    "id": "lvl10-043",
+    "level": 10,
+    "order": 43,
+    "word": "reorder",
+    "pronunciation": "/riːˈɔːrdər/",
+    "banglaPronunciation": "রিঅর্ডার",
+    "meaning": "To order something again, or arrange again.",
+    "banglaMeaning": "আবার অর্ডার করা",
+    "syllables": [
+      "re",
+      "or",
+      "der"
+    ],
+    "example": "I need to reorder more printer paper.",
+    "hint": "Prefix 're-' means again — 're' + 'order'.",
+    "image": "/images/level10/reorder.webp"
+  },
+  {
+    "id": "lvl10-044",
+    "level": 10,
+    "order": 44,
+    "word": "rewind",
+    "pronunciation": "/riːˈwaɪnd/",
+    "banglaPronunciation": "রিওয়াইন্ড",
+    "meaning": "To wind something back to the start.",
+    "banglaMeaning": "পিছনে ঘোরানো",
+    "syllables": [
+      "re",
+      "wind"
+    ],
+    "example": "She rewound the tape to watch it again.",
+    "hint": "Prefix 're-' means again — 're' + 'wind'.",
+    "image": "/images/level10/rewind.webp"
+  },
+  {
+    "id": "lvl10-045",
+    "level": 10,
+    "order": 45,
+    "word": "regroup",
+    "pronunciation": "/riːˈɡruːp/",
+    "banglaPronunciation": "রিগ্রুপ",
+    "meaning": "To form a group again after being scattered.",
+    "banglaMeaning": "আবার দলবদ্ধ হওয়া",
+    "syllables": [
+      "re",
+      "group"
+    ],
+    "example": "The players stopped to regroup at halftime.",
+    "hint": "Prefix 're-' means again — 're' + 'group'.",
+    "image": "/images/level10/regroup.webp"
+  },
+  {
+    "id": "lvl10-046",
+    "level": 10,
+    "order": 46,
+    "word": "reassure",
+    "pronunciation": "/riːəˈʃʊr/",
+    "banglaPronunciation": "রিঅ্যাশিওর",
+    "meaning": "To comfort someone and remove their doubts.",
+    "banglaMeaning": "আশ্বস্ত করা",
+    "syllables": [
+      "re",
+      "as",
+      "sure"
+    ],
+    "example": "The doctor reassured the worried patient.",
+    "hint": "Prefix 're-' means again — 're' + 'assure'.",
+    "image": "/images/level10/reassure.webp"
+  },
+  {
+    "id": "lvl10-047",
+    "level": 10,
+    "order": 47,
+    "word": "reconnect",
+    "pronunciation": "/riːkəˈnɛkt/",
+    "banglaPronunciation": "রিকানেক্ট",
+    "meaning": "To connect again.",
+    "banglaMeaning": "আবার সংযুক্ত করা",
+    "syllables": [
+      "re",
+      "con",
+      "nect"
+    ],
+    "example": "We tried to reconnect the broken wire.",
+    "hint": "Prefix 're-' means again — 're' + 'connect'.",
+    "image": "/images/level10/reconnect.webp"
+  },
+  {
+    "id": "lvl10-048",
+    "level": 10,
+    "order": 48,
+    "word": "recharge",
+    "pronunciation": "/riːˈtʃɑːrdʒ/",
+    "banglaPronunciation": "রিচার্জ",
+    "meaning": "To charge a battery again.",
+    "banglaMeaning": "আবার চার্জ করা",
+    "syllables": [
+      "re",
+      "charge"
+    ],
+    "example": "I need to recharge my phone tonight.",
+    "hint": "Prefix 're-' means again — 're' + 'charge'.",
+    "image": "/images/level10/recharge.webp"
+  },
+  {
+    "id": "lvl10-049",
+    "level": 10,
+    "order": 49,
+    "word": "reassemble",
+    "pronunciation": "/riːəˈsɛmbəl/",
+    "banglaPronunciation": "রিঅ্যাসেম্বল",
+    "meaning": "To put the parts of something back together.",
+    "banglaMeaning": "আবার একত্র করা",
+    "syllables": [
+      "re",
+      "as",
+      "sem",
+      "ble"
+    ],
+    "example": "He had to reassemble the broken toy.",
+    "hint": "Prefix 're-' means again — 're' + 'assemble'.",
+    "image": "/images/level10/reassemble.webp"
+  },
+  {
+    "id": "lvl10-050",
+    "level": 10,
+    "order": 50,
+    "word": "rebound",
+    "pronunciation": "/rɪˈbaʊnd/",
+    "banglaPronunciation": "রিবাউন্ড",
+    "meaning": "To bounce back after hitting something.",
+    "banglaMeaning": "প্রতিফলিত হওয়া",
+    "syllables": [
+      "re",
+      "bound"
+    ],
+    "example": "The ball rebounded off the wall.",
+    "hint": "Prefix 're-' means again — 're' + 'bound'.",
+    "image": "/images/level10/rebound.webp"
+  },
+  {
+    "id": "lvl10-051",
+    "level": 10,
+    "order": 51,
+    "word": "disagree",
+    "pronunciation": "/dɪsəˈɡriː/",
+    "banglaPronunciation": "ডিসাগ্রি",
+    "meaning": "To have a different opinion.",
+    "banglaMeaning": "একমত না হওয়া",
+    "syllables": [
+      "dis",
+      "a",
+      "gree"
+    ],
+    "example": "The brothers often disagree about music.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'agree'.",
+    "image": "/images/level10/disagree.webp"
+  },
+  {
+    "id": "lvl10-052",
+    "level": 10,
+    "order": 52,
+    "word": "dislike",
+    "pronunciation": "/dɪsˈlaɪk/",
+    "banglaPronunciation": "ডিসলাইক",
+    "meaning": "To not like something.",
+    "banglaMeaning": "অপছন্দ করা",
+    "syllables": [
+      "dis",
+      "like"
+    ],
+    "example": "She does not dislike vegetables at all.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'like'.",
+    "image": "/images/level10/dislike.webp"
+  },
+  {
+    "id": "lvl10-053",
+    "level": 10,
+    "order": 53,
+    "word": "disobey",
+    "pronunciation": "/dɪsəˈbeɪ/",
+    "banglaPronunciation": "ডিসঅবেই",
+    "meaning": "To not obey a rule or instruction.",
+    "banglaMeaning": "অমান্য করা",
+    "syllables": [
+      "dis",
+      "o",
+      "bey"
+    ],
+    "example": "The soldier refused to disobey orders.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'obey'.",
+    "image": "/images/level10/disobey.webp"
+  },
+  {
+    "id": "lvl10-054",
+    "level": 10,
+    "order": 54,
+    "word": "disconnect",
+    "pronunciation": "/dɪskəˈnɛkt/",
+    "banglaPronunciation": "ডিসকানেক্ট",
+    "meaning": "To break a connection.",
+    "banglaMeaning": "সংযোগ বিচ্ছিন্ন করা",
+    "syllables": [
+      "dis",
+      "con",
+      "nect"
+    ],
+    "example": "Please disconnect the cable before moving it.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'connect'.",
+    "image": "/images/level10/disconnect.webp"
+  },
+  {
+    "id": "lvl10-055",
+    "level": 10,
+    "order": 55,
+    "word": "dismount",
+    "pronunciation": "/dɪsˈmaʊnt/",
+    "banglaPronunciation": "ডিসমাউন্ট",
+    "meaning": "To get off a horse or bike.",
+    "banglaMeaning": "নেমে আসা",
+    "syllables": [
+      "dis",
+      "mount"
+    ],
+    "example": "The rider began to dismount slowly.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'mount'.",
+    "image": "/images/level10/dismount.webp"
+  },
+  {
+    "id": "lvl10-056",
+    "level": 10,
+    "order": 56,
+    "word": "discomfort",
+    "pronunciation": "/dɪsˈkʌmfərt/",
+    "banglaPronunciation": "ডিসকামফোর্ট",
+    "meaning": "A feeling of being uncomfortable.",
+    "banglaMeaning": "অস্বস্তি",
+    "syllables": [
+      "dis",
+      "com",
+      "fort"
+    ],
+    "example": "The tight shoes caused discomfort.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'comfort'.",
+    "image": "/images/level10/discomfort.webp"
+  },
+  {
+    "id": "lvl10-057",
+    "level": 10,
+    "order": 57,
+    "word": "dishonest",
+    "pronunciation": "/dɪsˈɒnɪst/",
+    "banglaPronunciation": "ডিসঅনেস্ট",
+    "meaning": "Not honest; likely to lie.",
+    "banglaMeaning": "অসৎ",
+    "syllables": [
+      "dis",
+      "hon",
+      "est"
+    ],
+    "example": "It is wrong to be dishonest with your friends.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'honest'.",
+    "image": "/images/level10/dishonest.webp"
+  },
+  {
+    "id": "lvl10-058",
+    "level": 10,
+    "order": 58,
+    "word": "disorder",
+    "pronunciation": "/dɪsˈɔːrdər/",
+    "banglaPronunciation": "ডিসঅর্ডার",
+    "meaning": "A lack of order; a mess.",
+    "banglaMeaning": "বিশৃঙ্খলা",
+    "syllables": [
+      "dis",
+      "or",
+      "der"
+    ],
+    "example": "The room was in complete disorder.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'order'.",
+    "image": "/images/level10/disorder.webp"
+  },
+  {
+    "id": "lvl10-059",
+    "level": 10,
+    "order": 59,
+    "word": "displease",
+    "pronunciation": "/dɪsˈpliːz/",
+    "banglaPronunciation": "ডিসপ্লিজ",
+    "meaning": "To make someone unhappy or annoyed.",
+    "banglaMeaning": "অসন্তুষ্ট করা",
+    "syllables": [
+      "dis",
+      "please"
+    ],
+    "example": "His rudeness seemed to displease the teacher.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'please'.",
+    "image": "/images/level10/displease.webp"
+  },
+  {
+    "id": "lvl10-060",
+    "level": 10,
+    "order": 60,
+    "word": "distrust",
+    "pronunciation": "/dɪsˈtrʌst/",
+    "banglaPronunciation": "ডিসট্রাস্ট",
+    "meaning": "A lack of trust.",
+    "banglaMeaning": "অবিশ্বাস",
+    "syllables": [
+      "dis",
+      "trust"
+    ],
+    "example": "Lying can create distrust between friends.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'trust'.",
+    "image": "/images/level10/distrust.webp"
+  },
+  {
+    "id": "lvl10-061",
+    "level": 10,
+    "order": 61,
+    "word": "disrespect",
+    "pronunciation": "/dɪsrɪˈspɛkt/",
+    "banglaPronunciation": "ডিসরিস্পেক্ট",
+    "meaning": "A lack of respect.",
+    "banglaMeaning": "অসম্মান",
+    "syllables": [
+      "dis",
+      "re",
+      "spect"
+    ],
+    "example": "Shouting at your elders shows disrespect.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'respect'.",
+    "image": "/images/level10/disrespect.webp"
+  },
+  {
+    "id": "lvl10-062",
+    "level": 10,
+    "order": 62,
+    "word": "disqualify",
+    "pronunciation": "/dɪsˈkwɒlɪfaɪ/",
+    "banglaPronunciation": "ডিসকোয়ালিফাই",
+    "meaning": "To officially remove someone from a competition.",
+    "banglaMeaning": "অযোগ্য ঘোষণা করা",
+    "syllables": [
+      "dis",
+      "qual",
+      "i",
+      "fy"
+    ],
+    "example": "The runner was disqualified for a false start.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'qualify'.",
+    "image": "/images/level10/disqualify.webp"
+  },
+  {
+    "id": "lvl10-063",
+    "level": 10,
+    "order": 63,
+    "word": "disprove",
+    "pronunciation": "/dɪsˈpruːv/",
+    "banglaPronunciation": "ডিসপ্রুভ",
+    "meaning": "To show that something is not true.",
+    "banglaMeaning": "মিথ্যা প্রমাণ করা",
+    "syllables": [
+      "dis",
+      "prove"
+    ],
+    "example": "New evidence helped disprove the old theory.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'prove'.",
+    "image": "/images/level10/disprove.webp"
+  },
+  {
+    "id": "lvl10-064",
+    "level": 10,
+    "order": 64,
+    "word": "disarm",
+    "pronunciation": "/dɪsˈɑːrm/",
+    "banglaPronunciation": "ডিসআর্ম",
+    "meaning": "To take a weapon away from someone.",
+    "banglaMeaning": "নিরস্ত্র করা",
+    "syllables": [
+      "dis",
+      "arm"
+    ],
+    "example": "The guard moved quickly to disarm the intruder.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'arm'.",
+    "image": "/images/level10/disarm.webp"
+  },
+  {
+    "id": "lvl10-065",
+    "level": 10,
+    "order": 65,
+    "word": "discolor",
+    "pronunciation": "/dɪsˈkʌlər/",
+    "banglaPronunciation": "ডিসকালার",
+    "meaning": "To change or spoil the color of something.",
+    "banglaMeaning": "রং নষ্ট হওয়া",
+    "syllables": [
+      "dis",
+      "col",
+      "or"
+    ],
+    "example": "Sunlight can discolor old photographs.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'color'.",
+    "image": "/images/level10/discolor.webp"
+  },
+  {
+    "id": "lvl10-066",
+    "level": 10,
+    "order": 66,
+    "word": "disbelief",
+    "pronunciation": "/dɪsbɪˈliːf/",
+    "banglaPronunciation": "ডিসবিলিফ",
+    "meaning": "A refusal or inability to believe something.",
+    "banglaMeaning": "অবিশ্বাস",
+    "syllables": [
+      "dis",
+      "be",
+      "lief"
+    ],
+    "example": "She stared in disbelief at the news.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'belief'.",
+    "image": "/images/level10/disbelief.webp"
+  },
+  {
+    "id": "lvl10-067",
+    "level": 10,
+    "order": 67,
+    "word": "disinfect",
+    "pronunciation": "/dɪsɪnˈfɛkt/",
+    "banglaPronunciation": "ডিসইনফেক্ট",
+    "meaning": "To clean something to remove germs.",
+    "banglaMeaning": "জীবাণুমুক্ত করা",
+    "syllables": [
+      "dis",
+      "in",
+      "fect"
+    ],
+    "example": "Nurses disinfect the tools before use.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'infect'.",
+    "image": "/images/level10/disinfect.webp"
+  },
+  {
+    "id": "lvl10-068",
+    "level": 10,
+    "order": 68,
+    "word": "dislodge",
+    "pronunciation": "/dɪsˈlɒdʒ/",
+    "banglaPronunciation": "ডিসলজ",
+    "meaning": "To force something out of its position.",
+    "banglaMeaning": "স্থানচ্যুত করা",
+    "syllables": [
+      "dis",
+      "lodge"
+    ],
+    "example": "The wind managed to dislodge a roof tile.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'lodge'.",
+    "image": "/images/level10/dislodge.webp"
+  },
+  {
+    "id": "lvl10-069",
+    "level": 10,
+    "order": 69,
+    "word": "disallow",
+    "pronunciation": "/dɪsəˈlaʊ/",
+    "banglaPronunciation": "ডিসঅ্যালাউ",
+    "meaning": "To not permit something.",
+    "banglaMeaning": "অনুমতি না দেওয়া",
+    "syllables": [
+      "dis",
+      "al",
+      "low"
+    ],
+    "example": "The referee disallowed the goal.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'allow'.",
+    "image": "/images/level10/disallow.webp"
+  },
+  {
+    "id": "lvl10-070",
+    "level": 10,
+    "order": 70,
+    "word": "displace",
+    "pronunciation": "/dɪsˈpleɪs/",
+    "banglaPronunciation": "ডিসপ্লেইস",
+    "meaning": "To force something out of its usual place.",
+    "banglaMeaning": "স্থানচ্যুত করা",
+    "syllables": [
+      "dis",
+      "place"
+    ],
+    "example": "The flood displaced many families.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'place'.",
+    "image": "/images/level10/displace.webp"
+  },
+  {
+    "id": "lvl10-071",
+    "level": 10,
+    "order": 71,
+    "word": "discourage",
+    "pronunciation": "/dɪsˈkʌrɪdʒ/",
+    "banglaPronunciation": "ডিসকারেজ",
+    "meaning": "To make someone less willing to do something.",
+    "banglaMeaning": "নিরুৎসাহিত করা",
+    "syllables": [
+      "dis",
+      "cour",
+      "age"
+    ],
+    "example": "Failing once should not discourage you.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'courage'.",
+    "image": "/images/level10/discourage.webp"
+  },
+  {
+    "id": "lvl10-072",
+    "level": 10,
+    "order": 72,
+    "word": "disregard",
+    "pronunciation": "/dɪsrɪˈɡɑːrd/",
+    "banglaPronunciation": "ডিসরিগার্ড",
+    "meaning": "To ignore or pay no attention to.",
+    "banglaMeaning": "উপেক্ষা করা",
+    "syllables": [
+      "dis",
+      "re",
+      "gard"
+    ],
+    "example": "Please disregard the earlier email.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'regard'.",
+    "image": "/images/level10/disregard.webp"
+  },
+  {
+    "id": "lvl10-073",
+    "level": 10,
+    "order": 73,
+    "word": "disband",
+    "pronunciation": "/dɪsˈbænd/",
+    "banglaPronunciation": "ডিসব্যান্ড",
+    "meaning": "To break up a group.",
+    "banglaMeaning": "দল ভেঙে দেওয়া",
+    "syllables": [
+      "dis",
+      "band"
+    ],
+    "example": "The old committee decided to disband.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'band'.",
+    "image": "/images/level10/disband.webp"
+  },
+  {
+    "id": "lvl10-074",
+    "level": 10,
+    "order": 74,
+    "word": "preview",
+    "pronunciation": "/ˈpriːvjuː/",
+    "banglaPronunciation": "প্রিভিউ",
+    "meaning": "A look at something before it is fully shown.",
+    "banglaMeaning": "পূর্বদৃশ্য",
+    "syllables": [
+      "pre",
+      "view"
+    ],
+    "example": "We watched a preview of the new movie.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'view'.",
+    "image": "/images/level10/preview.webp"
+  },
+  {
+    "id": "lvl10-075",
+    "level": 10,
+    "order": 75,
+    "word": "prepay",
+    "pronunciation": "/priːˈpeɪ/",
+    "banglaPronunciation": "প্রিপেই",
+    "meaning": "To pay for something before receiving it.",
+    "banglaMeaning": "আগেই পরিশোধ করা",
+    "syllables": [
+      "pre",
+      "pay"
+    ],
+    "example": "You can prepay for the tickets online.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'pay'.",
+    "image": "/images/level10/prepay.webp"
+  },
+  {
+    "id": "lvl10-076",
+    "level": 10,
+    "order": 76,
+    "word": "preheat",
+    "pronunciation": "/priːˈhiːt/",
+    "banglaPronunciation": "প্রিহিট",
+    "meaning": "To heat something before using it.",
+    "banglaMeaning": "আগেভাগে গরম করা",
+    "syllables": [
+      "pre",
+      "heat"
+    ],
+    "example": "Preheat the oven before baking the cake.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'heat'.",
+    "image": "/images/level10/preheat.webp"
+  },
+  {
+    "id": "lvl10-077",
+    "level": 10,
+    "order": 77,
+    "word": "prewash",
+    "pronunciation": "/priːˈwɒʃ/",
+    "banglaPronunciation": "প্রিওয়াশ",
+    "meaning": "To wash something before the main wash.",
+    "banglaMeaning": "আগেই ধোয়া",
+    "syllables": [
+      "pre",
+      "wash"
+    ],
+    "example": "Prewash the stain before regular washing.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'wash'.",
+    "image": "/images/level10/prewash.webp"
+  },
+  {
+    "id": "lvl10-078",
+    "level": 10,
+    "order": 78,
+    "word": "precook",
+    "pronunciation": "/priːˈkʊk/",
+    "banglaPronunciation": "প্রিকুক",
+    "meaning": "To cook something partly before the final cooking.",
+    "banglaMeaning": "আগেভাগে রান্না করা",
+    "syllables": [
+      "pre",
+      "cook"
+    ],
+    "example": "The chicken was precooked to save time.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'cook'.",
+    "image": "/images/level10/precook.webp"
+  },
+  {
+    "id": "lvl10-079",
+    "level": 10,
+    "order": 79,
+    "word": "prepack",
+    "pronunciation": "/priːˈpæk/",
+    "banglaPronunciation": "প্রিপ্যাক",
+    "meaning": "To pack something in advance.",
+    "banglaMeaning": "আগেই প্যাক করা",
+    "syllables": [
+      "pre",
+      "pack"
+    ],
+    "example": "The store sells prepacked salads.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'pack'.",
+    "image": "/images/level10/prepack.webp"
+  },
+  {
+    "id": "lvl10-080",
+    "level": 10,
+    "order": 80,
+    "word": "preschool",
+    "pronunciation": "/ˈpriːskuːl/",
+    "banglaPronunciation": "প্রিস্কুল",
+    "meaning": "A school for children before they start regular school.",
+    "banglaMeaning": "প্রাক-বিদ্যালয়",
+    "syllables": [
+      "pre",
+      "school"
+    ],
+    "example": "My little sister goes to preschool.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'school'.",
+    "image": "/images/level10/preschool.webp"
+  },
+  {
+    "id": "lvl10-081",
+    "level": 10,
+    "order": 81,
+    "word": "preflight",
+    "pronunciation": "/ˈpriːflaɪt/",
+    "banglaPronunciation": "প্রিফ্লাইট",
+    "meaning": "Happening before a flight takes off.",
+    "banglaMeaning": "উড়ানের পূর্ববর্তী",
+    "syllables": [
+      "pre",
+      "flight"
+    ],
+    "example": "The pilot ran a preflight check.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'flight'.",
+    "image": "/images/level10/preflight.webp"
+  },
+  {
+    "id": "lvl10-082",
+    "level": 10,
+    "order": 82,
+    "word": "prehistoric",
+    "pronunciation": "/priːhɪˈstɒrɪk/",
+    "banglaPronunciation": "প্রিহিস্টরিক",
+    "meaning": "From a time before written history.",
+    "banglaMeaning": "প্রাগৈতিহাসিক",
+    "syllables": [
+      "pre",
+      "his",
+      "tor",
+      "ic"
+    ],
+    "example": "Dinosaurs lived in prehistoric times.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'historic'.",
+    "image": "/images/level10/prehistoric.webp"
+  },
+  {
+    "id": "lvl10-083",
+    "level": 10,
+    "order": 83,
+    "word": "preorder",
+    "pronunciation": "/priːˈɔːrdər/",
+    "banglaPronunciation": "প্রিঅর্ডার",
+    "meaning": "To order something before it is available.",
+    "banglaMeaning": "আগেভাগে অর্ডার করা",
+    "syllables": [
+      "pre",
+      "or",
+      "der"
+    ],
+    "example": "Fans could preorder the new game.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'order'.",
+    "image": "/images/level10/preorder.webp"
+  },
+  {
+    "id": "lvl10-084",
+    "level": 10,
+    "order": 84,
+    "word": "prevent",
+    "pronunciation": "/prɪˈvɛnt/",
+    "banglaPronunciation": "প্রিভেন্ট",
+    "meaning": "To stop something from happening.",
+    "banglaMeaning": "প্রতিরোধ করা",
+    "syllables": [
+      "pre",
+      "vent"
+    ],
+    "example": "Washing hands helps prevent illness.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'vent'.",
+    "image": "/images/level10/prevent.webp"
+  },
+  {
+    "id": "lvl10-085",
+    "level": 10,
+    "order": 85,
+    "word": "prepare",
+    "pronunciation": "/prɪˈpɛr/",
+    "banglaPronunciation": "প্রিপেয়ার",
+    "meaning": "To get ready for something.",
+    "banglaMeaning": "প্রস্তুত করা",
+    "syllables": [
+      "pre",
+      "pare"
+    ],
+    "example": "She began to prepare dinner early.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'pare'.",
+    "image": "/images/level10/prepare.webp"
+  },
+  {
+    "id": "lvl10-086",
+    "level": 10,
+    "order": 86,
+    "word": "precaution",
+    "pronunciation": "/prɪˈkɔːʃən/",
+    "banglaPronunciation": "প্রিকশন",
+    "meaning": "An action taken in advance to avoid danger.",
+    "banglaMeaning": "সতর্কতামূলক ব্যবস্থা",
+    "syllables": [
+      "pre",
+      "cau",
+      "tion"
+    ],
+    "example": "Wearing a helmet is a wise precaution.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'caution'.",
+    "image": "/images/level10/precaution.webp"
+  },
+  {
+    "id": "lvl10-087",
+    "level": 10,
+    "order": 87,
+    "word": "predict",
+    "pronunciation": "/prɪˈdɪkt/",
+    "banglaPronunciation": "প্রিডিক্ট",
+    "meaning": "To say what will happen in the future.",
+    "banglaMeaning": "ভবিষ্যদ্বাণী করা",
+    "syllables": [
+      "pre",
+      "dict"
+    ],
+    "example": "No one could predict the storm's path.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'dict'.",
+    "image": "/images/level10/predict.webp"
+  },
+  {
+    "id": "lvl10-088",
+    "level": 10,
+    "order": 88,
+    "word": "preface",
+    "pronunciation": "/ˈprɛfɪs/",
+    "banglaPronunciation": "প্রেফেস",
+    "meaning": "An introduction at the start of a book.",
+    "banglaMeaning": "ভূমিকা",
+    "syllables": [
+      "pref",
+      "ace"
+    ],
+    "example": "The author wrote a short preface.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'face'.",
+    "image": "/images/level10/preface.webp"
+  },
+  {
+    "id": "lvl10-089",
+    "level": 10,
+    "order": 89,
+    "word": "prefix",
+    "pronunciation": "/ˈpriːfɪks/",
+    "banglaPronunciation": "প্রিফিক্স",
+    "meaning": "Letters added to the start of a word.",
+    "banglaMeaning": "উপসর্গ",
+    "syllables": [
+      "pre",
+      "fix"
+    ],
+    "example": "'Un-' is a common prefix in English.",
+    "hint": "Prefix 'pre-' means before — 'pre' + 'fix'.",
+    "image": "/images/level10/prefix.webp"
+  },
+  {
+    "id": "lvl10-090",
+    "level": 10,
+    "order": 90,
+    "word": "mislead",
+    "pronunciation": "/mɪsˈliːd/",
+    "banglaPronunciation": "মিসলিড",
+    "meaning": "To give someone a false idea.",
+    "banglaMeaning": "বিভ্রান্ত করা",
+    "syllables": [
+      "mis",
+      "lead"
+    ],
+    "example": "The advertisement seemed to mislead buyers.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'lead'.",
+    "image": "/images/level10/mislead.webp"
+  },
+  {
+    "id": "lvl10-091",
+    "level": 10,
+    "order": 91,
+    "word": "misplace",
+    "pronunciation": "/mɪsˈpleɪs/",
+    "banglaPronunciation": "মিসপ্লেস",
+    "meaning": "To put something in the wrong place, or lose it.",
+    "banglaMeaning": "ভুল জায়গায় রাখা",
+    "syllables": [
+      "mis",
+      "place"
+    ],
+    "example": "I keep misplacing my keys.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'place'.",
+    "image": "/images/level10/misplace.webp"
+  },
+  {
+    "id": "lvl10-092",
+    "level": 10,
+    "order": 92,
+    "word": "mispronounce",
+    "pronunciation": "/mɪsprəˈnaʊns/",
+    "banglaPronunciation": "মিসপ্রোনাউন্স",
+    "meaning": "To say a word incorrectly.",
+    "banglaMeaning": "ভুল উচ্চারণ করা",
+    "syllables": [
+      "mis",
+      "pro",
+      "nounce"
+    ],
+    "example": "Many people mispronounce this tricky word.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'pronounce'.",
+    "image": "/images/level10/mispronounce.webp"
+  },
+  {
+    "id": "lvl10-093",
+    "level": 10,
+    "order": 93,
+    "word": "misprint",
+    "pronunciation": "/ˈmɪsprɪnt/",
+    "banglaPronunciation": "মিসপ্রিন্ট",
+    "meaning": "A mistake in printed text.",
+    "banglaMeaning": "মুদ্রণ ভুল",
+    "syllables": [
+      "mis",
+      "print"
+    ],
+    "example": "There was a misprint on the ticket.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'print'.",
+    "image": "/images/level10/misprint.webp"
+  },
+  {
+    "id": "lvl10-094",
+    "level": 10,
+    "order": 94,
+    "word": "mismatch",
+    "pronunciation": "/ˈmɪsmætʃ/",
+    "banglaPronunciation": "মিসম্যাচ",
+    "meaning": "A pair of things that do not go together.",
+    "banglaMeaning": "অসামঞ্জস্য",
+    "syllables": [
+      "mis",
+      "match"
+    ],
+    "example": "His socks were a funny mismatch.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'match'.",
+    "image": "/images/level10/mismatch.webp"
+  },
+  {
+    "id": "lvl10-095",
+    "level": 10,
+    "order": 95,
+    "word": "misjudge",
+    "pronunciation": "/mɪsˈdʒʌdʒ/",
+    "banglaPronunciation": "মিসজাজ",
+    "meaning": "To judge someone or something wrongly.",
+    "banglaMeaning": "ভুল বিচার করা",
+    "syllables": [
+      "mis",
+      "judge"
+    ],
+    "example": "I think I misjudged how far away it was.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'judge'.",
+    "image": "/images/level10/misjudge.webp"
+  },
+  {
+    "id": "lvl10-096",
+    "level": 10,
+    "order": 96,
+    "word": "mistrust",
+    "pronunciation": "/mɪsˈtrʌst/",
+    "banglaPronunciation": "মিসট্রাস্ট",
+    "meaning": "A lack of trust; suspicion.",
+    "banglaMeaning": "অবিশ্বাস",
+    "syllables": [
+      "mis",
+      "trust"
+    ],
+    "example": "The two rivals felt deep mistrust.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'trust'.",
+    "image": "/images/level10/mistrust.webp"
+  },
+  {
+    "id": "lvl10-097",
+    "level": 10,
+    "order": 97,
+    "word": "misuse",
+    "pronunciation": "/mɪsˈjuːz/",
+    "banglaPronunciation": "মিসইউজ",
+    "meaning": "To use something incorrectly or badly.",
+    "banglaMeaning": "অপব্যবহার করা",
+    "syllables": [
+      "mis",
+      "use"
+    ],
+    "example": "Please do not misuse the school computers.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'use'.",
+    "image": "/images/level10/misuse.webp"
+  },
+  {
+    "id": "lvl10-098",
+    "level": 10,
+    "order": 98,
+    "word": "misfit",
+    "pronunciation": "/ˈmɪsfɪt/",
+    "banglaPronunciation": "মিসফিট",
+    "meaning": "Someone who does not fit in well with others.",
+    "banglaMeaning": "অসামঞ্জস্যপূর্ণ ব্যক্তি",
+    "syllables": [
+      "mis",
+      "fit"
+    ],
+    "example": "He felt like a misfit at the new school.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'fit'.",
+    "image": "/images/level10/misfit.webp"
+  },
+  {
+    "id": "lvl10-099",
+    "level": 10,
+    "order": 99,
+    "word": "mislabel",
+    "pronunciation": "/mɪsˈleɪbəl/",
+    "banglaPronunciation": "মিসলেইবেল",
+    "meaning": "To label something incorrectly.",
+    "banglaMeaning": "ভুল লেবেল লাগানো",
+    "syllables": [
+      "mis",
+      "la",
+      "bel"
+    ],
+    "example": "The jar was mislabeled as sugar instead of salt.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'label'.",
+    "image": "/images/level10/mislabel.webp"
+  },
+  {
+    "id": "lvl10-100",
+    "level": 10,
+    "order": 100,
+    "word": "misinform",
+    "pronunciation": "/mɪsɪnˈfɔːrm/",
+    "banglaPronunciation": "মিসইনফর্ম",
+    "meaning": "To give someone false or wrong information.",
+    "banglaMeaning": "ভুল তথ্য দেওয়া",
+    "syllables": [
+      "mis",
+      "in",
+      "form"
+    ],
+    "example": "The report seemed to misinform the public.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'inform'.",
+    "image": "/images/level10/misinform.webp"
+  },
+  {
+    "id": "lvl10-101",
+    "level": 10,
+    "order": 101,
+    "word": "miscalculate",
+    "pronunciation": "/mɪsˈkælkjəleɪt/",
+    "banglaPronunciation": "মিসক্যালকুলেট",
+    "meaning": "To calculate something incorrectly.",
+    "banglaMeaning": "ভুল হিসাব করা",
+    "syllables": [
+      "mis",
+      "cal",
+      "cu",
+      "late"
+    ],
+    "example": "He miscalculated the total cost.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'calculate'.",
+    "image": "/images/level10/miscalculate.webp"
+  },
+  {
+    "id": "lvl10-102",
+    "level": 10,
+    "order": 102,
+    "word": "misread",
+    "pronunciation": "/mɪsˈriːd/",
+    "banglaPronunciation": "মিসরিড",
+    "meaning": "To read something incorrectly.",
+    "banglaMeaning": "ভুল পড়া",
+    "syllables": [
+      "mis",
+      "read"
+    ],
+    "example": "I misread the number on the sign.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'read'.",
+    "image": "/images/level10/misread.webp"
+  },
+  {
+    "id": "lvl10-103",
+    "level": 10,
+    "order": 103,
+    "word": "misbehave",
+    "pronunciation": "/mɪsbɪˈheɪv/",
+    "banglaPronunciation": "মিসবিহেভ",
+    "meaning": "To behave badly.",
+    "banglaMeaning": "দুর্ব্যবহার করা",
+    "syllables": [
+      "mis",
+      "be",
+      "have"
+    ],
+    "example": "The puppy tends to misbehave when it's hungry.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'behave'.",
+    "image": "/images/level10/misbehave.webp"
+  },
+  {
+    "id": "lvl10-104",
+    "level": 10,
+    "order": 104,
+    "word": "mistreat",
+    "pronunciation": "/mɪsˈtriːt/",
+    "banglaPronunciation": "মিসট্রিট",
+    "meaning": "To treat someone badly or unfairly.",
+    "banglaMeaning": "দুর্ব্যবহার করা",
+    "syllables": [
+      "mis",
+      "treat"
+    ],
+    "example": "It is cruel to mistreat animals.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'treat'.",
+    "image": "/images/level10/mistreat.webp"
+  },
+  {
+    "id": "lvl10-105",
+    "level": 10,
+    "order": 105,
+    "word": "miscount",
+    "pronunciation": "/mɪsˈkaʊnt/",
+    "banglaPronunciation": "মিসকাউন্ট",
+    "meaning": "To count something incorrectly.",
+    "banglaMeaning": "ভুল গণনা করা",
+    "syllables": [
+      "mis",
+      "count"
+    ],
+    "example": "She miscounted the change at the till.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'count'.",
+    "image": "/images/level10/miscount.webp"
+  },
+  {
+    "id": "lvl10-106",
+    "level": 10,
+    "order": 106,
+    "word": "mismanage",
+    "pronunciation": "/mɪsˈmænɪdʒ/",
+    "banglaPronunciation": "মিসম্যানেজ",
+    "meaning": "To manage something badly.",
+    "banglaMeaning": "কুব্যবস্থাপনা করা",
+    "syllables": [
+      "mis",
+      "man",
+      "age"
+    ],
+    "example": "The project failed because it was mismanaged.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'manage'.",
+    "image": "/images/level10/mismanage.webp"
+  },
+  {
+    "id": "lvl10-107",
+    "level": 10,
+    "order": 107,
+    "word": "misdirect",
+    "pronunciation": "/mɪsdɪˈrɛkt/",
+    "banglaPronunciation": "মিসডিরেক্ট",
+    "meaning": "To send or guide someone the wrong way.",
+    "banglaMeaning": "ভুল পথে চালিত করা",
+    "syllables": [
+      "mis",
+      "di",
+      "rect"
+    ],
+    "example": "The stranger misdirected us down the wrong street.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'direct'.",
+    "image": "/images/level10/misdirect.webp"
+  },
+  {
+    "id": "lvl10-108",
+    "level": 10,
+    "order": 108,
+    "word": "misconduct",
+    "pronunciation": "/mɪsˈkɒndʌkt/",
+    "banglaPronunciation": "মিসকনডাক্ট",
+    "meaning": "Bad or unacceptable behavior.",
+    "banglaMeaning": "অসদাচরণ",
+    "syllables": [
+      "mis",
+      "con",
+      "duct"
+    ],
+    "example": "The worker was fired for misconduct.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'conduct'.",
+    "image": "/images/level10/misconduct.webp"
+  },
+  {
+    "id": "lvl10-109",
+    "level": 10,
+    "order": 109,
+    "word": "nonstop",
+    "pronunciation": "/ˈnɒnstɒp/",
+    "banglaPronunciation": "ননস্টপ",
+    "meaning": "Without stopping.",
+    "banglaMeaning": "অবিরাম",
+    "syllables": [
+      "non",
+      "stop"
+    ],
+    "example": "We took a nonstop flight home.",
+    "hint": "Prefix 'non-' means not — 'non' + 'stop'.",
+    "image": "/images/level10/nonstop.webp"
+  },
+  {
+    "id": "lvl10-110",
+    "level": 10,
+    "order": 110,
+    "word": "nonfat",
+    "pronunciation": "/ˈnɒnfæt/",
+    "banglaPronunciation": "ননফ্যাট",
+    "meaning": "Containing no fat.",
+    "banglaMeaning": "চর্বিহীন",
+    "syllables": [
+      "non",
+      "fat"
+    ],
+    "example": "She prefers nonfat milk.",
+    "hint": "Prefix 'non-' means not — 'non' + 'fat'.",
+    "image": "/images/level10/nonfat.webp"
+  },
+  {
+    "id": "lvl10-111",
+    "level": 10,
+    "order": 111,
+    "word": "nonsense",
+    "pronunciation": "/ˈnɒnsɛns/",
+    "banglaPronunciation": "ননসেন্স",
+    "meaning": "Words or ideas that have no meaning.",
+    "banglaMeaning": "অর্থহীন কথা",
+    "syllables": [
+      "non",
+      "sense"
+    ],
+    "example": "He was talking complete nonsense.",
+    "hint": "Prefix 'non-' means not — 'non' + 'sense'.",
+    "image": "/images/level10/nonsense.webp"
+  },
+  {
+    "id": "lvl10-112",
+    "level": 10,
+    "order": 112,
+    "word": "nonfiction",
+    "pronunciation": "/nɒnˈfɪkʃən/",
+    "banglaPronunciation": "ননফিকশন",
+    "meaning": "Writing about real facts, not made up stories.",
+    "banglaMeaning": "প্রকৃতপক্ষে ঘটে যাওয়া বিষয়ভিত্তিক লেখা",
+    "syllables": [
+      "non",
+      "fic",
+      "tion"
+    ],
+    "example": "She enjoys reading nonfiction books.",
+    "hint": "Prefix 'non-' means not — 'non' + 'fiction'.",
+    "image": "/images/level10/nonfiction.webp"
+  },
+  {
+    "id": "lvl10-113",
+    "level": 10,
+    "order": 113,
+    "word": "nonstick",
+    "pronunciation": "/ˈnɒnstɪk/",
+    "banglaPronunciation": "ননস্টিক",
+    "meaning": "Designed so food does not stick to it.",
+    "banglaMeaning": "আঠালো নয় এমন",
+    "syllables": [
+      "non",
+      "stick"
+    ],
+    "example": "We cooked eggs in a nonstick pan.",
+    "hint": "Prefix 'non-' means not — 'non' + 'stick'.",
+    "image": "/images/level10/nonstick.webp"
+  },
+  {
+    "id": "lvl10-114",
+    "level": 10,
+    "order": 114,
+    "word": "nonprofit",
+    "pronunciation": "/nɒnˈprɒfɪt/",
+    "banglaPronunciation": "ননপ্রফিট",
+    "meaning": "An organization not run for profit.",
+    "banglaMeaning": "অলাভজনক",
+    "syllables": [
+      "non",
+      "prof",
+      "it"
+    ],
+    "example": "She works for a nonprofit charity.",
+    "hint": "Prefix 'non-' means not — 'non' + 'profit'.",
+    "image": "/images/level10/nonprofit.webp"
+  },
+  {
+    "id": "lvl10-115",
+    "level": 10,
+    "order": 115,
+    "word": "nonverbal",
+    "pronunciation": "/nɒnˈvɜːrbəl/",
+    "banglaPronunciation": "ননভার্বাল",
+    "meaning": "Not using words; using gestures instead.",
+    "banglaMeaning": "অ-মৌখিক",
+    "syllables": [
+      "non",
+      "ver",
+      "bal"
+    ],
+    "example": "A smile is a form of nonverbal communication.",
+    "hint": "Prefix 'non-' means not — 'non' + 'verbal'.",
+    "image": "/images/level10/nonverbal.webp"
+  },
+  {
+    "id": "lvl10-116",
+    "level": 10,
+    "order": 116,
+    "word": "nontoxic",
+    "pronunciation": "/nɒnˈtɒksɪk/",
+    "banglaPronunciation": "ননটক্সিক",
+    "meaning": "Not poisonous.",
+    "banglaMeaning": "বিষমুক্ত",
+    "syllables": [
+      "non",
+      "tox",
+      "ic"
+    ],
+    "example": "The paint used on toys must be nontoxic.",
+    "hint": "Prefix 'non-' means not — 'non' + 'toxic'.",
+    "image": "/images/level10/nontoxic.webp"
+  },
+  {
+    "id": "lvl10-117",
+    "level": 10,
+    "order": 117,
+    "word": "nonstandard",
+    "pronunciation": "/nɒnˈstændərd/",
+    "banglaPronunciation": "ননস্ট্যান্ডার্ড",
+    "meaning": "Not following the usual or common form.",
+    "banglaMeaning": "প্রমিত নয় এমন",
+    "syllables": [
+      "non",
+      "stan",
+      "dard"
+    ],
+    "example": "He used a nonstandard size of screw.",
+    "hint": "Prefix 'non-' means not — 'non' + 'standard'.",
+    "image": "/images/level10/nonstandard.webp"
+  },
+  {
+    "id": "lvl10-118",
+    "level": 10,
+    "order": 118,
+    "word": "nonliving",
+    "pronunciation": "/nɒnˈlɪvɪŋ/",
+    "banglaPronunciation": "ননলিভিং",
+    "meaning": "Not alive.",
+    "banglaMeaning": "প্রাণহীন",
+    "syllables": [
+      "non",
+      "liv",
+      "ing"
+    ],
+    "example": "A rock is a nonliving thing.",
+    "hint": "Prefix 'non-' means not — 'non' + 'living'.",
+    "image": "/images/level10/nonliving.webp"
+  },
+  {
+    "id": "lvl10-119",
+    "level": 10,
+    "order": 119,
+    "word": "nonrenewable",
+    "pronunciation": "/nɒnrɪˈnuːəbəl/",
+    "banglaPronunciation": "ননরিনিউয়েবল",
+    "meaning": "Unable to be replaced once used up.",
+    "banglaMeaning": "অ-নবায়নযোগ্য",
+    "syllables": [
+      "non",
+      "re",
+      "new",
+      "a",
+      "ble"
+    ],
+    "example": "Coal is a nonrenewable energy source.",
+    "hint": "Prefix 'non-' means not — 'non' + 'renewable'.",
+    "image": "/images/level10/nonrenewable.webp"
+  },
+  {
+    "id": "lvl10-120",
+    "level": 10,
+    "order": 120,
+    "word": "nonviolent",
+    "pronunciation": "/nɒnˈvaɪələnt/",
+    "banglaPronunciation": "ননভায়োলেন্ট",
+    "meaning": "Not using force or violence.",
+    "banglaMeaning": "অহিংস",
+    "syllables": [
+      "non",
+      "vi",
+      "o",
+      "lent"
+    ],
+    "example": "The protest remained peaceful and nonviolent.",
+    "hint": "Prefix 'non-' means not — 'non' + 'violent'.",
+    "image": "/images/level10/nonviolent.webp"
+  },
+  {
+    "id": "lvl10-121",
+    "level": 10,
+    "order": 121,
+    "word": "overcook",
+    "pronunciation": "/ˌoʊvərˈkʊk/",
+    "banglaPronunciation": "ওভারকুক",
+    "meaning": "To cook food for too long.",
+    "banglaMeaning": "অতিরিক্ত রান্না করা",
+    "syllables": [
+      "o",
+      "ver",
+      "cook"
+    ],
+    "example": "Be careful not to overcook the pasta.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'cook'.",
+    "image": "/images/level10/overcook.webp"
+  },
+  {
+    "id": "lvl10-122",
+    "level": 10,
+    "order": 122,
+    "word": "overeat",
+    "pronunciation": "/ˌoʊvərˈiːt/",
+    "banglaPronunciation": "ওভারইট",
+    "meaning": "To eat more than needed.",
+    "banglaMeaning": "অতিরিক্ত খাওয়া",
+    "syllables": [
+      "o",
+      "ver",
+      "eat"
+    ],
+    "example": "It's easy to overeat at a big feast.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'eat'.",
+    "image": "/images/level10/overeat.webp"
+  },
+  {
+    "id": "lvl10-123",
+    "level": 10,
+    "order": 123,
+    "word": "overflow",
+    "pronunciation": "/ˌoʊvərˈfloʊ/",
+    "banglaPronunciation": "ওভারফ্লো",
+    "meaning": "To flow over the edges of something.",
+    "banglaMeaning": "উপচে পড়া",
+    "syllables": [
+      "o",
+      "ver",
+      "flow"
+    ],
+    "example": "The river began to overflow its banks.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'flow'.",
+    "image": "/images/level10/overflow.webp"
+  },
+  {
+    "id": "lvl10-124",
+    "level": 10,
+    "order": 124,
+    "word": "overjoyed",
+    "pronunciation": "/ˌoʊvərˈdʒɔɪd/",
+    "banglaPronunciation": "ওভারজয়েড",
+    "meaning": "Extremely happy.",
+    "banglaMeaning": "আনন্দে আত্মহারা",
+    "syllables": [
+      "o",
+      "ver",
+      "joyed"
+    ],
+    "example": "She was overjoyed to see her old friend.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'joyed'.",
+    "image": "/images/level10/overjoyed.webp"
+  },
+  {
+    "id": "lvl10-125",
+    "level": 10,
+    "order": 125,
+    "word": "overload",
+    "pronunciation": "/ˌoʊvərˈloʊd/",
+    "banglaPronunciation": "ওভারলোড",
+    "meaning": "To put too much weight or too many things on something.",
+    "banglaMeaning": "অতিরিক্ত বোঝা চাপানো",
+    "syllables": [
+      "o",
+      "ver",
+      "load"
+    ],
+    "example": "Do not overload the small elevator.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'load'.",
+    "image": "/images/level10/overload.webp"
+  },
+  {
+    "id": "lvl10-126",
+    "level": 10,
+    "order": 126,
+    "word": "overpass",
+    "pronunciation": "/ˈoʊvərpæs/",
+    "banglaPronunciation": "ওভারপাস",
+    "meaning": "A bridge that carries a road over another.",
+    "banglaMeaning": "ওভারপাস সেতু",
+    "syllables": [
+      "o",
+      "ver",
+      "pass"
+    ],
+    "example": "We drove under the overpass.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'pass'.",
+    "image": "/images/level10/overpass.webp"
+  },
+  {
+    "id": "lvl10-127",
+    "level": 10,
+    "order": 127,
+    "word": "overpay",
+    "pronunciation": "/ˌoʊvərˈpeɪ/",
+    "banglaPronunciation": "ওভারপেই",
+    "meaning": "To pay more than needed.",
+    "banglaMeaning": "অতিরিক্ত মূল্য দেওয়া",
+    "syllables": [
+      "o",
+      "ver",
+      "pay"
+    ],
+    "example": "We didn't want to overpay for the tickets.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'pay'.",
+    "image": "/images/level10/overpay.webp"
+  },
+  {
+    "id": "lvl10-128",
+    "level": 10,
+    "order": 128,
+    "word": "overreact",
+    "pronunciation": "/ˌoʊvəriˈækt/",
+    "banglaPronunciation": "ওভাররিঅ্যাক্ট",
+    "meaning": "To react more strongly than necessary.",
+    "banglaMeaning": "অতিরিক্ত প্রতিক্রিয়া দেখানো",
+    "syllables": [
+      "o",
+      "ver",
+      "re",
+      "act"
+    ],
+    "example": "Try not to overreact to small problems.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'react'.",
+    "image": "/images/level10/overreact.webp"
+  },
+  {
+    "id": "lvl10-129",
+    "level": 10,
+    "order": 129,
+    "word": "oversee",
+    "pronunciation": "/ˌoʊvərˈsiː/",
+    "banglaPronunciation": "ওভারসি",
+    "meaning": "To watch over and manage something.",
+    "banglaMeaning": "তত্ত্বাবধান করা",
+    "syllables": [
+      "o",
+      "ver",
+      "see"
+    ],
+    "example": "She was chosen to oversee the new project.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'see'.",
+    "image": "/images/level10/oversee.webp"
+  },
+  {
+    "id": "lvl10-130",
+    "level": 10,
+    "order": 130,
+    "word": "oversleep",
+    "pronunciation": "/ˌoʊvərˈsliːp/",
+    "banglaPronunciation": "ওভারস্লিপ",
+    "meaning": "To sleep longer than intended.",
+    "banglaMeaning": "বেশি ঘুমিয়ে পড়া",
+    "syllables": [
+      "o",
+      "ver",
+      "sleep"
+    ],
+    "example": "I overslept and missed the bus.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'sleep'.",
+    "image": "/images/level10/oversleep.webp"
+  },
+  {
+    "id": "lvl10-131",
+    "level": 10,
+    "order": 131,
+    "word": "overthrow",
+    "pronunciation": "/ˌoʊvərˈθroʊ/",
+    "banglaPronunciation": "ওভারথ্রো",
+    "meaning": "To remove a leader or government by force.",
+    "banglaMeaning": "উৎখাত করা",
+    "syllables": [
+      "o",
+      "ver",
+      "throw"
+    ],
+    "example": "The rebels tried to overthrow the government.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'throw'.",
+    "image": "/images/level10/overthrow.webp"
+  },
+  {
+    "id": "lvl10-132",
+    "level": 10,
+    "order": 132,
+    "word": "overturn",
+    "pronunciation": "/ˌoʊvərˈtɜːrn/",
+    "banglaPronunciation": "ওভারটার্ন",
+    "meaning": "To turn something upside down, or cancel a decision.",
+    "banglaMeaning": "উল্টে দেওয়া",
+    "syllables": [
+      "o",
+      "ver",
+      "turn"
+    ],
+    "example": "The judge decided to overturn the earlier ruling.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'turn'.",
+    "image": "/images/level10/overturn.webp"
+  },
+  {
+    "id": "lvl10-133",
+    "level": 10,
+    "order": 133,
+    "word": "overweight",
+    "pronunciation": "/ˌoʊvərˈweɪt/",
+    "banglaPronunciation": "ওভারওয়েট",
+    "meaning": "Weighing more than is healthy or allowed.",
+    "banglaMeaning": "অতিরিক্ত ওজনযুক্ত",
+    "syllables": [
+      "o",
+      "ver",
+      "weight"
+    ],
+    "example": "The bag was overweight for the flight.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'weight'.",
+    "image": "/images/level10/overweight.webp"
+  },
+  {
+    "id": "lvl10-134",
+    "level": 10,
+    "order": 134,
+    "word": "overwork",
+    "pronunciation": "/ˌoʊvərˈwɜːrk/",
+    "banglaPronunciation": "ওভারওয়ার্ক",
+    "meaning": "To work too much or too hard.",
+    "banglaMeaning": "অতিরিক্ত পরিশ্রম করা",
+    "syllables": [
+      "o",
+      "ver",
+      "work"
+    ],
+    "example": "Don't overwork yourself before the exam.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'work'.",
+    "image": "/images/level10/overwork.webp"
+  },
+  {
+    "id": "lvl10-135",
+    "level": 10,
+    "order": 135,
+    "word": "overwhelm",
+    "pronunciation": "/ˌoʊvərˈwɛlm/",
+    "banglaPronunciation": "ওভারওয়েলম",
+    "meaning": "To affect someone so strongly they cannot cope.",
+    "banglaMeaning": "অভিভূত করা",
+    "syllables": [
+      "o",
+      "ver",
+      "whelm"
+    ],
+    "example": "The amount of homework began to overwhelm her.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'whelm'.",
+    "image": "/images/level10/overwhelm.webp"
+  },
+  {
+    "id": "lvl10-136",
+    "level": 10,
+    "order": 136,
+    "word": "overtake",
+    "pronunciation": "/ˌoʊvərˈteɪk/",
+    "banglaPronunciation": "ওভারটেইক",
+    "meaning": "To pass and go ahead of someone.",
+    "banglaMeaning": "পেছনে ফেলে এগিয়ে যাওয়া",
+    "syllables": [
+      "o",
+      "ver",
+      "take"
+    ],
+    "example": "The car began to overtake the truck.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'take'.",
+    "image": "/images/level10/overtake.webp"
+  },
+  {
+    "id": "lvl10-137",
+    "level": 10,
+    "order": 137,
+    "word": "overact",
+    "pronunciation": "/ˌoʊvərˈækt/",
+    "banglaPronunciation": "ওভারঅ্যাক্ট",
+    "meaning": "To act in an exaggerated way.",
+    "banglaMeaning": "অতিরঞ্জিতভাবে অভিনয় করা",
+    "syllables": [
+      "o",
+      "ver",
+      "act"
+    ],
+    "example": "The actor tended to overact in sad scenes.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'act'.",
+    "image": "/images/level10/overact.webp"
+  },
+  {
+    "id": "lvl10-138",
+    "level": 10,
+    "order": 138,
+    "word": "overdose",
+    "pronunciation": "/ˈoʊvərdoʊs/",
+    "banglaPronunciation": "ওভারডোজ",
+    "meaning": "Too large an amount of a drug at one time.",
+    "banglaMeaning": "অতিরিক্ত মাত্রা",
+    "syllables": [
+      "o",
+      "ver",
+      "dose"
+    ],
+    "example": "The label warns against an overdose.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'dose'.",
+    "image": "/images/level10/overdose.webp"
+  },
+  {
+    "id": "lvl10-139",
+    "level": 10,
+    "order": 139,
+    "word": "overrule",
+    "pronunciation": "/ˌoʊvərˈruːl/",
+    "banglaPronunciation": "ওভাররুল",
+    "meaning": "To reject a decision using higher authority.",
+    "banglaMeaning": "বাতিল করে দেওয়া",
+    "syllables": [
+      "o",
+      "ver",
+      "rule"
+    ],
+    "example": "The judge chose to overrule the objection.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'rule'.",
+    "image": "/images/level10/overrule.webp"
+  },
+  {
+    "id": "lvl10-140",
+    "level": 10,
+    "order": 140,
+    "word": "overshoot",
+    "pronunciation": "/ˌoʊvərˈʃuːt/",
+    "banglaPronunciation": "ওভারশুট",
+    "meaning": "To go beyond an intended target.",
+    "banglaMeaning": "লক্ষ্যের বাইরে চলে যাওয়া",
+    "syllables": [
+      "o",
+      "ver",
+      "shoot"
+    ],
+    "example": "The plane began to overshoot the runway.",
+    "hint": "Prefix 'over-' means too much or above — 'over' + 'shoot'.",
+    "image": "/images/level10/overshoot.webp"
+  },
+  {
+    "id": "lvl10-141",
+    "level": 10,
+    "order": 141,
+    "word": "underdog",
+    "pronunciation": "/ˈʌndərdɒɡ/",
+    "banglaPronunciation": "আন্ডারডগ",
+    "meaning": "A competitor expected to lose.",
+    "banglaMeaning": "দুর্বল প্রতিদ্বন্দ্বী",
+    "syllables": [
+      "un",
+      "der",
+      "dog"
+    ],
+    "example": "Everyone cheered for the underdog team.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'dog'.",
+    "image": "/images/level10/underdog.webp"
+  },
+  {
+    "id": "lvl10-142",
+    "level": 10,
+    "order": 142,
+    "word": "undergo",
+    "pronunciation": "/ʌndərˈɡoʊ/",
+    "banglaPronunciation": "আন্ডারগো",
+    "meaning": "To experience something, often difficult.",
+    "banglaMeaning": "অভিজ্ঞতা লাভ করা",
+    "syllables": [
+      "un",
+      "der",
+      "go"
+    ],
+    "example": "She had to undergo a small surgery.",
+    "hint": "Prefix 'un-' means not — 'un' + 'dergo'.",
+    "image": "/images/level10/undergo.webp"
+  },
+  {
+    "id": "lvl10-143",
+    "level": 10,
+    "order": 143,
+    "word": "underdone",
+    "pronunciation": "/ʌndərˈdʌn/",
+    "banglaPronunciation": "আন্ডারডান",
+    "meaning": "Not cooked enough.",
+    "banglaMeaning": "কম রান্না করা",
+    "syllables": [
+      "un",
+      "der",
+      "done"
+    ],
+    "example": "The steak was slightly underdone.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'done'.",
+    "image": "/images/level10/underdone.webp"
+  },
+  {
+    "id": "lvl10-144",
+    "level": 10,
+    "order": 144,
+    "word": "underline",
+    "pronunciation": "/ˈʌndərlaɪn/",
+    "banglaPronunciation": "আন্ডারলাইন",
+    "meaning": "To draw a line under a word.",
+    "banglaMeaning": "নিচে দাগ দেওয়া",
+    "syllables": [
+      "un",
+      "der",
+      "line"
+    ],
+    "example": "Please underline the correct answer.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'line'.",
+    "image": "/images/level10/underline.webp"
+  },
+  {
+    "id": "lvl10-145",
+    "level": 10,
+    "order": 145,
+    "word": "undermine",
+    "pronunciation": "/ˌʌndərˈmaɪn/",
+    "banglaPronunciation": "আন্ডারমাইন",
+    "meaning": "To weaken something gradually.",
+    "banglaMeaning": "দুর্বল করে দেওয়া",
+    "syllables": [
+      "un",
+      "der",
+      "mine"
+    ],
+    "example": "Constant doubt can undermine your confidence.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'mine'.",
+    "image": "/images/level10/undermine.webp"
+  },
+  {
+    "id": "lvl10-146",
+    "level": 10,
+    "order": 146,
+    "word": "underpaid",
+    "pronunciation": "/ˌʌndərˈpeɪd/",
+    "banglaPronunciation": "আন্ডারপেইড",
+    "meaning": "Paid too little for the work done.",
+    "banglaMeaning": "কম বেতন পাওয়া",
+    "syllables": [
+      "un",
+      "der",
+      "paid"
+    ],
+    "example": "Many workers feel they are underpaid.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'paid'.",
+    "image": "/images/level10/underpaid.webp"
+  },
+  {
+    "id": "lvl10-147",
+    "level": 10,
+    "order": 147,
+    "word": "underrate",
+    "pronunciation": "/ˌʌndərˈreɪt/",
+    "banglaPronunciation": "আন্ডাররেইট",
+    "meaning": "To not recognize the true value of something.",
+    "banglaMeaning": "কম মূল্যায়ন করা",
+    "syllables": [
+      "un",
+      "der",
+      "rate"
+    ],
+    "example": "People often underrate his skill.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'rate'.",
+    "image": "/images/level10/underrate.webp"
+  },
+  {
+    "id": "lvl10-148",
+    "level": 10,
+    "order": 148,
+    "word": "undersea",
+    "pronunciation": "/ˈʌndərsiː/",
+    "banglaPronunciation": "আন্ডারসি",
+    "meaning": "Existing below the surface of the sea.",
+    "banglaMeaning": "সমুদ্রের নিচের",
+    "syllables": [
+      "un",
+      "der",
+      "sea"
+    ],
+    "example": "We explored the undersea coral reef.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'sea'.",
+    "image": "/images/level10/undersea.webp"
+  },
+  {
+    "id": "lvl10-149",
+    "level": 10,
+    "order": 149,
+    "word": "undertake",
+    "pronunciation": "/ˌʌndərˈteɪk/",
+    "banglaPronunciation": "আন্ডারটেইক",
+    "meaning": "To begin a task or responsibility.",
+    "banglaMeaning": "দায়িত্ব গ্রহণ করা",
+    "syllables": [
+      "un",
+      "der",
+      "take"
+    ],
+    "example": "She agreed to undertake the difficult project.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'take'.",
+    "image": "/images/level10/undertake.webp"
+  },
+  {
+    "id": "lvl10-150",
+    "level": 10,
+    "order": 150,
+    "word": "underwear",
+    "pronunciation": "/ˈʌndərwɛr/",
+    "banglaPronunciation": "আন্ডারওয়্যার",
+    "meaning": "Clothing worn under other clothes.",
+    "banglaMeaning": "অন্তর্বাস",
+    "syllables": [
+      "un",
+      "der",
+      "wear"
+    ],
+    "example": "He packed fresh underwear for the trip.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'wear'.",
+    "image": "/images/level10/underwear.webp"
+  },
+  {
+    "id": "lvl10-151",
+    "level": 10,
+    "order": 151,
+    "word": "underwater",
+    "pronunciation": "/ˌʌndərˈwɔːtər/",
+    "banglaPronunciation": "আন্ডারওয়াটার",
+    "meaning": "Below the surface of water.",
+    "banglaMeaning": "জলের নিচে",
+    "syllables": [
+      "un",
+      "der",
+      "wa",
+      "ter"
+    ],
+    "example": "The camera took photos underwater.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'water'.",
+    "image": "/images/level10/underwater.webp"
+  },
+  {
+    "id": "lvl10-152",
+    "level": 10,
+    "order": 152,
+    "word": "undercook",
+    "pronunciation": "/ˌʌndərˈkʊk/",
+    "banglaPronunciation": "আন্ডারকুক",
+    "meaning": "To cook food for too short a time.",
+    "banglaMeaning": "কম রান্না করা",
+    "syllables": [
+      "un",
+      "der",
+      "cook"
+    ],
+    "example": "Undercooked chicken can be dangerous.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'cook'.",
+    "image": "/images/level10/undercook.webp"
+  },
+  {
+    "id": "lvl10-153",
+    "level": 10,
+    "order": 153,
+    "word": "underage",
+    "pronunciation": "/ˌʌndərˈeɪdʒ/",
+    "banglaPronunciation": "আন্ডারএইজ",
+    "meaning": "Too young to legally do something.",
+    "banglaMeaning": "আইনগত বয়সের কম",
+    "syllables": [
+      "un",
+      "der",
+      "age"
+    ],
+    "example": "It is illegal to sell alcohol to underage buyers.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'age'.",
+    "image": "/images/level10/underage.webp"
+  },
+  {
+    "id": "lvl10-154",
+    "level": 10,
+    "order": 154,
+    "word": "undercover",
+    "pronunciation": "/ˌʌndərˈkʌvər/",
+    "banglaPronunciation": "আন্ডারকাভার",
+    "meaning": "Working secretly, hiding one's identity.",
+    "banglaMeaning": "গোপনে কাজ করা",
+    "syllables": [
+      "un",
+      "der",
+      "cov",
+      "er"
+    ],
+    "example": "The undercover officer gathered evidence.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'cover'.",
+    "image": "/images/level10/undercover.webp"
+  },
+  {
+    "id": "lvl10-155",
+    "level": 10,
+    "order": 155,
+    "word": "underpass",
+    "pronunciation": "/ˈʌndərpæs/",
+    "banglaPronunciation": "আন্ডারপাস",
+    "meaning": "A road or path that goes under another.",
+    "banglaMeaning": "নিচু সড়ক পথ",
+    "syllables": [
+      "un",
+      "der",
+      "pass"
+    ],
+    "example": "We walked through the pedestrian underpass.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'pass'.",
+    "image": "/images/level10/underpass.webp"
+  },
+  {
+    "id": "lvl10-156",
+    "level": 10,
+    "order": 156,
+    "word": "underpin",
+    "pronunciation": "/ˌʌndərˈpɪn/",
+    "banglaPronunciation": "আন্ডারপিন",
+    "meaning": "To support or form the basis of something.",
+    "banglaMeaning": "ভিত্তি স্থাপন করা",
+    "syllables": [
+      "un",
+      "der",
+      "pin"
+    ],
+    "example": "Hard work underpins every success.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'pin'.",
+    "image": "/images/level10/underpin.webp"
+  },
+  {
+    "id": "lvl10-157",
+    "level": 10,
+    "order": 157,
+    "word": "underpay",
+    "pronunciation": "/ˌʌndərˈpeɪ/",
+    "banglaPronunciation": "আন্ডারপেই",
+    "meaning": "To pay someone too little.",
+    "banglaMeaning": "কম মজুরি দেওয়া",
+    "syllables": [
+      "un",
+      "der",
+      "pay"
+    ],
+    "example": "The company was accused of underpaying staff.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'pay'.",
+    "image": "/images/level10/underpay.webp"
+  },
+  {
+    "id": "lvl10-158",
+    "level": 10,
+    "order": 158,
+    "word": "underuse",
+    "pronunciation": "/ˌʌndərˈjuːz/",
+    "banglaPronunciation": "আন্ডারইউজ",
+    "meaning": "To not use something enough.",
+    "banglaMeaning": "কম ব্যবহার করা",
+    "syllables": [
+      "un",
+      "der",
+      "use"
+    ],
+    "example": "The library facilities are often underused.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'use'.",
+    "image": "/images/level10/underuse.webp"
+  },
+  {
+    "id": "lvl10-159",
+    "level": 10,
+    "order": 159,
+    "word": "undertone",
+    "pronunciation": "/ˈʌndərtoʊn/",
+    "banglaPronunciation": "আন্ডারটোন",
+    "meaning": "A quiet, underlying tone or meaning.",
+    "banglaMeaning": "অন্তর্নিহিত ভাব",
+    "syllables": [
+      "un",
+      "der",
+      "tone"
+    ],
+    "example": "There was a hint of sadness in his undertone.",
+    "hint": "Prefix 'under-' means too little or below — 'under' + 'tone'.",
+    "image": "/images/level10/undertone.webp"
+  },
+  {
+    "id": "lvl10-160",
+    "level": 10,
+    "order": 160,
+    "word": "interact",
+    "pronunciation": "/ɪntərˈækt/",
+    "banglaPronunciation": "ইন্টারঅ্যাক্ট",
+    "meaning": "To communicate or act with others.",
+    "banglaMeaning": "পারস্পরিক ক্রিয়া করা",
+    "syllables": [
+      "in",
+      "ter",
+      "act"
+    ],
+    "example": "Students interact during group projects.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'act'.",
+    "image": "/images/level10/interact.webp"
+  },
+  {
+    "id": "lvl10-161",
+    "level": 10,
+    "order": 161,
+    "word": "intercept",
+    "pronunciation": "/ɪntərˈsɛpt/",
+    "banglaPronunciation": "ইন্টারসেপ্ট",
+    "meaning": "To stop something before it reaches its target.",
+    "banglaMeaning": "পথিমধ্যে আটকানো",
+    "syllables": [
+      "in",
+      "ter",
+      "cept"
+    ],
+    "example": "The defender managed to intercept the pass.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'cept'.",
+    "image": "/images/level10/intercept.webp"
+  },
+  {
+    "id": "lvl10-162",
+    "level": 10,
+    "order": 162,
+    "word": "interchange",
+    "pronunciation": "/ˈɪntərtʃeɪndʒ/",
+    "banglaPronunciation": "ইন্টারচেঞ্জ",
+    "meaning": "To exchange, or a road junction.",
+    "banglaMeaning": "পারস্পরিক বিনিময়",
+    "syllables": [
+      "in",
+      "ter",
+      "change"
+    ],
+    "example": "The highway interchange was very busy.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'change'.",
+    "image": "/images/level10/interchange.webp"
+  },
+  {
+    "id": "lvl10-163",
+    "level": 10,
+    "order": 163,
+    "word": "interfere",
+    "pronunciation": "/ɪntərˈfɪr/",
+    "banglaPronunciation": "ইন্টারফিয়ার",
+    "meaning": "To get involved in something that is not your business.",
+    "banglaMeaning": "হস্তক্ষেপ করা",
+    "syllables": [
+      "in",
+      "ter",
+      "fere"
+    ],
+    "example": "Please don't interfere in our discussion.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'fere'.",
+    "image": "/images/level10/interfere.webp"
+  },
+  {
+    "id": "lvl10-164",
+    "level": 10,
+    "order": 164,
+    "word": "interlock",
+    "pronunciation": "/ˌɪntərˈlɒk/",
+    "banglaPronunciation": "ইন্টারলক",
+    "meaning": "To join firmly together.",
+    "banglaMeaning": "পরস্পর সংযুক্ত হওয়া",
+    "syllables": [
+      "in",
+      "ter",
+      "lock"
+    ],
+    "example": "The puzzle pieces interlock perfectly.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'lock'.",
+    "image": "/images/level10/interlock.webp"
+  },
+  {
+    "id": "lvl10-165",
+    "level": 10,
+    "order": 165,
+    "word": "intermix",
+    "pronunciation": "/ˌɪntərˈmɪks/",
+    "banglaPronunciation": "ইন্টারমিক্স",
+    "meaning": "To mix things together.",
+    "banglaMeaning": "একসাথে মেশানো",
+    "syllables": [
+      "in",
+      "ter",
+      "mix"
+    ],
+    "example": "The two colors began to intermix.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'mix'.",
+    "image": "/images/level10/intermix.webp"
+  },
+  {
+    "id": "lvl10-166",
+    "level": 10,
+    "order": 166,
+    "word": "internal",
+    "pronunciation": "/ɪnˈtɜːrnəl/",
+    "banglaPronunciation": "ইন্টার্নাল",
+    "meaning": "Existing inside something.",
+    "banglaMeaning": "অভ্যন্তরীণ",
+    "syllables": [
+      "in",
+      "ter",
+      "nal"
+    ],
+    "example": "The doctor checked for internal injuries.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'nal'.",
+    "image": "/images/level10/internal.webp"
+  },
+  {
+    "id": "lvl10-167",
+    "level": 10,
+    "order": 167,
+    "word": "interplay",
+    "pronunciation": "/ˈɪntərpleɪ/",
+    "banglaPronunciation": "ইন্টারপ্লে",
+    "meaning": "The way two things affect each other.",
+    "banglaMeaning": "পারস্পরিক ক্রিয়া",
+    "syllables": [
+      "in",
+      "ter",
+      "play"
+    ],
+    "example": "There was an interesting interplay of light and shadow.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'play'.",
+    "image": "/images/level10/interplay.webp"
+  },
+  {
+    "id": "lvl10-168",
+    "level": 10,
+    "order": 168,
+    "word": "intersect",
+    "pronunciation": "/ɪntərˈsɛkt/",
+    "banglaPronunciation": "ইন্টারসেক্ট",
+    "meaning": "To cross or meet at a point.",
+    "banglaMeaning": "ছেদ করা",
+    "syllables": [
+      "in",
+      "ter",
+      "sect"
+    ],
+    "example": "The two roads intersect near the school.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'sect'.",
+    "image": "/images/level10/intersect.webp"
+  },
+  {
+    "id": "lvl10-169",
+    "level": 10,
+    "order": 169,
+    "word": "interstate",
+    "pronunciation": "/ˈɪntərsteɪt/",
+    "banglaPronunciation": "ইন্টারস্টেট",
+    "meaning": "Connecting or existing between states.",
+    "banglaMeaning": "আন্তঃরাজ্য",
+    "syllables": [
+      "in",
+      "ter",
+      "state"
+    ],
+    "example": "We drove along the interstate highway.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'state'.",
+    "image": "/images/level10/interstate.webp"
+  },
+  {
+    "id": "lvl10-170",
+    "level": 10,
+    "order": 170,
+    "word": "interval",
+    "pronunciation": "/ˈɪntərvəl/",
+    "banglaPronunciation": "ইন্টারভাল",
+    "meaning": "A pause or gap between events.",
+    "banglaMeaning": "বিরতি",
+    "syllables": [
+      "in",
+      "ter",
+      "val"
+    ],
+    "example": "There was a short interval before the second act.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'val'.",
+    "image": "/images/level10/interval.webp"
+  },
+  {
+    "id": "lvl10-171",
+    "level": 10,
+    "order": 171,
+    "word": "intervene",
+    "pronunciation": "/ɪntərˈviːn/",
+    "banglaPronunciation": "ইন্টারভিন",
+    "meaning": "To get involved in a situation to change it.",
+    "banglaMeaning": "হস্তক্ষেপ করা",
+    "syllables": [
+      "in",
+      "ter",
+      "vene"
+    ],
+    "example": "A teacher had to intervene in the argument.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'vene'.",
+    "image": "/images/level10/intervene.webp"
+  },
+  {
+    "id": "lvl10-172",
+    "level": 10,
+    "order": 172,
+    "word": "interview",
+    "pronunciation": "/ˈɪntərvjuː/",
+    "banglaPronunciation": "ইন্টারভিউ",
+    "meaning": "A meeting to ask someone questions.",
+    "banglaMeaning": "সাক্ষাৎকার",
+    "syllables": [
+      "in",
+      "ter",
+      "view"
+    ],
+    "example": "She prepared carefully for the job interview.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'view'.",
+    "image": "/images/level10/interview.webp"
+  },
+  {
+    "id": "lvl10-173",
+    "level": 10,
+    "order": 173,
+    "word": "interweave",
+    "pronunciation": "/ɪntərˈwiːv/",
+    "banglaPronunciation": "ইন্টারউইভ",
+    "meaning": "To weave or twist things together.",
+    "banglaMeaning": "একে অপরের সাথে বুনন করা",
+    "syllables": [
+      "in",
+      "ter",
+      "weave"
+    ],
+    "example": "The story interweaves two different plots.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'weave'.",
+    "image": "/images/level10/interweave.webp"
+  },
+  {
+    "id": "lvl10-174",
+    "level": 10,
+    "order": 174,
+    "word": "interlace",
+    "pronunciation": "/ɪntərˈleɪs/",
+    "banglaPronunciation": "ইন্টারলেইস",
+    "meaning": "To cross or twine together.",
+    "banglaMeaning": "পরস্পর জড়ানো",
+    "syllables": [
+      "in",
+      "ter",
+      "lace"
+    ],
+    "example": "The vines interlace across the fence.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'lace'.",
+    "image": "/images/level10/interlace.webp"
+  },
+  {
+    "id": "lvl10-175",
+    "level": 10,
+    "order": 175,
+    "word": "interlink",
+    "pronunciation": "/ɪntərˈlɪŋk/",
+    "banglaPronunciation": "ইন্টারলিংক",
+    "meaning": "To connect things to each other.",
+    "banglaMeaning": "পরস্পর যুক্ত করা",
+    "syllables": [
+      "in",
+      "ter",
+      "link"
+    ],
+    "example": "These pages interlink to related topics.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'link'.",
+    "image": "/images/level10/interlink.webp"
+  },
+  {
+    "id": "lvl10-176",
+    "level": 10,
+    "order": 176,
+    "word": "intersperse",
+    "pronunciation": "/ɪntərˈspɜːrs/",
+    "banglaPronunciation": "ইন্টারস্পার্স",
+    "meaning": "To scatter among other things.",
+    "banglaMeaning": "বিক্ষিপ্তভাবে ছড়ানো",
+    "syllables": [
+      "in",
+      "ter",
+      "sperse"
+    ],
+    "example": "The garden had roses interspersed with tulips.",
+    "hint": "Prefix 'inter-' means between — 'inter' + 'sperse'.",
+    "image": "/images/level10/intersperse.webp"
+  },
+  {
+    "id": "lvl10-177",
+    "level": 10,
+    "order": 177,
+    "word": "creation",
+    "pronunciation": "/kriˈeɪʃən/",
+    "banglaPronunciation": "ক্রিয়েশন",
+    "meaning": "The act of making something new.",
+    "banglaMeaning": "সৃষ্টি",
+    "syllables": [
+      "cre",
+      "a",
+      "tion"
+    ],
+    "example": "The painting was a beautiful creation.",
+    "hint": "Ends in '-tion' (the act or result of) — 'crea' + '-tion'.",
+    "image": "/images/level10/creation.webp"
+  },
+  {
+    "id": "lvl10-178",
+    "level": 10,
+    "order": 178,
+    "word": "education",
+    "pronunciation": "/ɛdʒʊˈkeɪʃən/",
+    "banglaPronunciation": "এডুকেশন",
+    "meaning": "The process of teaching and learning.",
+    "banglaMeaning": "শিক্ষা",
+    "syllables": [
+      "ed",
+      "u",
+      "ca",
+      "tion"
+    ],
+    "example": "Education opens many doors in life.",
+    "hint": "Ends in '-tion' (the act or result of) — 'educa' + '-tion'.",
+    "image": "/images/level10/education.webp"
+  },
+  {
+    "id": "lvl10-179",
+    "level": 10,
+    "order": 179,
+    "word": "direction",
+    "pronunciation": "/dɪˈrɛkʃən/",
+    "banglaPronunciation": "ডিরেকশন",
+    "meaning": "The way something is pointed or moving.",
+    "banglaMeaning": "দিক",
+    "syllables": [
+      "di",
+      "rec",
+      "tion"
+    ],
+    "example": "We asked for directions to the station.",
+    "hint": "Ends in '-tion' (the act or result of) — 'direc' + '-tion'.",
+    "image": "/images/level10/direction.webp"
+  },
+  {
+    "id": "lvl10-180",
+    "level": 10,
+    "order": 180,
+    "word": "collection",
+    "pronunciation": "/kəˈlɛkʃən/",
+    "banglaPronunciation": "কালেকশন",
+    "meaning": "A group of things gathered together.",
+    "banglaMeaning": "সংগ্রহ",
+    "syllables": [
+      "col",
+      "lec",
+      "tion"
+    ],
+    "example": "He has a large stamp collection.",
+    "hint": "Ends in '-tion' (the act or result of) — 'collec' + '-tion'.",
+    "image": "/images/level10/collection.webp"
+  },
+  {
+    "id": "lvl10-181",
+    "level": 10,
+    "order": 181,
+    "word": "selection",
+    "pronunciation": "/sɪˈlɛkʃən/",
+    "banglaPronunciation": "সিলেকশন",
+    "meaning": "The act of choosing from a group.",
+    "banglaMeaning": "নির্বাচন",
+    "syllables": [
+      "se",
+      "lec",
+      "tion"
+    ],
+    "example": "The store has a wide selection of shoes.",
+    "hint": "Ends in '-tion' (the act or result of) — 'selec' + '-tion'.",
+    "image": "/images/level10/selection.webp"
+  },
+  {
+    "id": "lvl10-182",
+    "level": 10,
+    "order": 182,
+    "word": "correction",
+    "pronunciation": "/kəˈrɛkʃən/",
+    "banglaPronunciation": "কারেকশন",
+    "meaning": "A change made to fix a mistake.",
+    "banglaMeaning": "সংশোধন",
+    "syllables": [
+      "cor",
+      "rec",
+      "tion"
+    ],
+    "example": "The teacher made a correction on my essay.",
+    "hint": "Ends in '-tion' (the act or result of) — 'correc' + '-tion'.",
+    "image": "/images/level10/correction.webp"
+  },
+  {
+    "id": "lvl10-183",
+    "level": 10,
+    "order": 183,
+    "word": "inspection",
+    "pronunciation": "/ɪnˈspɛkʃən/",
+    "banglaPronunciation": "ইনস্পেকশন",
+    "meaning": "A close look to check something.",
+    "banglaMeaning": "পরিদর্শন",
+    "syllables": [
+      "in",
+      "spec",
+      "tion"
+    ],
+    "example": "The car passed its safety inspection.",
+    "hint": "Ends in '-tion' (the act or result of) — 'inspec' + '-tion'.",
+    "image": "/images/level10/inspection.webp"
+  },
+  {
+    "id": "lvl10-184",
+    "level": 10,
+    "order": 184,
+    "word": "protection",
+    "pronunciation": "/prəˈtɛkʃən/",
+    "banglaPronunciation": "প্রোটেকশন",
+    "meaning": "The act of keeping something safe.",
+    "banglaMeaning": "সুরক্ষা",
+    "syllables": [
+      "pro",
+      "tec",
+      "tion"
+    ],
+    "example": "The helmet gives good head protection.",
+    "hint": "Ends in '-tion' (the act or result of) — 'protec' + '-tion'.",
+    "image": "/images/level10/protection.webp"
+  },
+  {
+    "id": "lvl10-185",
+    "level": 10,
+    "order": 185,
+    "word": "reaction",
+    "pronunciation": "/riˈækʃən/",
+    "banglaPronunciation": "রিঅ্যাকশন",
+    "meaning": "A response to something that happens.",
+    "banglaMeaning": "প্রতিক্রিয়া",
+    "syllables": [
+      "re",
+      "ac",
+      "tion"
+    ],
+    "example": "Her reaction to the surprise was joy.",
+    "hint": "Prefix 're-' means again — 're' + 'action'.",
+    "image": "/images/level10/reaction.webp"
+  },
+  {
+    "id": "lvl10-186",
+    "level": 10,
+    "order": 186,
+    "word": "addition",
+    "pronunciation": "/əˈdɪʃən/",
+    "banglaPronunciation": "অ্যাডিশন",
+    "meaning": "The act of adding something.",
+    "banglaMeaning": "যোগ",
+    "syllables": [
+      "ad",
+      "di",
+      "tion"
+    ],
+    "example": "Addition is one of the first math skills.",
+    "hint": "Ends in '-tion' (the act or result of) — 'addi' + '-tion'.",
+    "image": "/images/level10/addition.webp"
+  },
+  {
+    "id": "lvl10-187",
+    "level": 10,
+    "order": 187,
+    "word": "condition",
+    "pronunciation": "/kənˈdɪʃən/",
+    "banglaPronunciation": "কনডিশন",
+    "meaning": "The state something is in.",
+    "banglaMeaning": "অবস্থা",
+    "syllables": [
+      "con",
+      "di",
+      "tion"
+    ],
+    "example": "The old car was in poor condition.",
+    "hint": "Ends in '-tion' (the act or result of) — 'condi' + '-tion'.",
+    "image": "/images/level10/condition.webp"
+  },
+  {
+    "id": "lvl10-188",
+    "level": 10,
+    "order": 188,
+    "word": "position",
+    "pronunciation": "/pəˈzɪʃən/",
+    "banglaPronunciation": "পজিশন",
+    "meaning": "The place where something is.",
+    "banglaMeaning": "অবস্থান",
+    "syllables": [
+      "po",
+      "si",
+      "tion"
+    ],
+    "example": "Move the chair to a better position.",
+    "hint": "Ends in '-tion' (the act or result of) — 'posi' + '-tion'.",
+    "image": "/images/level10/position.webp"
+  },
+  {
+    "id": "lvl10-189",
+    "level": 10,
+    "order": 189,
+    "word": "solution",
+    "pronunciation": "/səˈluːʃən/",
+    "banglaPronunciation": "সলিউশন",
+    "meaning": "An answer to a problem.",
+    "banglaMeaning": "সমাধান",
+    "syllables": [
+      "so",
+      "lu",
+      "tion"
+    ],
+    "example": "We finally found a solution to the puzzle.",
+    "hint": "Ends in '-tion' (the act or result of) — 'solu' + '-tion'.",
+    "image": "/images/level10/solution.webp"
+  },
+  {
+    "id": "lvl10-190",
+    "level": 10,
+    "order": 190,
+    "word": "pollution",
+    "pronunciation": "/pəˈluːʃən/",
+    "banglaPronunciation": "পলিউশন",
+    "meaning": "Harmful substances that damage the environment.",
+    "banglaMeaning": "দূষণ",
+    "syllables": [
+      "pol",
+      "lu",
+      "tion"
+    ],
+    "example": "Air pollution can harm our health.",
+    "hint": "Ends in '-tion' (the act or result of) — 'pollu' + '-tion'.",
+    "image": "/images/level10/pollution.webp"
+  },
+  {
+    "id": "lvl10-191",
+    "level": 10,
+    "order": 191,
+    "word": "celebration",
+    "pronunciation": "/sɛləˈbreɪʃən/",
+    "banglaPronunciation": "সেলিব্রেশন",
+    "meaning": "An event to mark a special occasion.",
+    "banglaMeaning": "উদযাপন",
+    "syllables": [
+      "cel",
+      "e",
+      "bra",
+      "tion"
+    ],
+    "example": "The wedding celebration lasted all day.",
+    "hint": "Ends in '-tion' (the act or result of) — 'celebra' + '-tion'.",
+    "image": "/images/level10/celebration.webp"
+  },
+  {
+    "id": "lvl10-192",
+    "level": 10,
+    "order": 192,
+    "word": "invitation",
+    "pronunciation": "/ɪnvɪˈteɪʃən/",
+    "banglaPronunciation": "ইনভিটেশন",
+    "meaning": "A request for someone to attend something.",
+    "banglaMeaning": "আমন্ত্রণ",
+    "syllables": [
+      "in",
+      "vi",
+      "ta",
+      "tion"
+    ],
+    "example": "She sent an invitation to the party.",
+    "hint": "Ends in '-tion' (the act or result of) — 'invita' + '-tion'.",
+    "image": "/images/level10/invitation.webp"
+  },
+  {
+    "id": "lvl10-193",
+    "level": 10,
+    "order": 193,
+    "word": "population",
+    "pronunciation": "/pɒpjʊˈleɪʃən/",
+    "banglaPronunciation": "পপুলেশন",
+    "meaning": "The number of people living in a place.",
+    "banglaMeaning": "জনসংখ্যা",
+    "syllables": [
+      "pop",
+      "u",
+      "la",
+      "tion"
+    ],
+    "example": "The city's population keeps growing.",
+    "hint": "Ends in '-tion' (the act or result of) — 'popula' + '-tion'.",
+    "image": "/images/level10/population.webp"
+  },
+  {
+    "id": "lvl10-194",
+    "level": 10,
+    "order": 194,
+    "word": "decoration",
+    "pronunciation": "/dɛkəˈreɪʃən/",
+    "banglaPronunciation": "ডেকোরেশন",
+    "meaning": "Something added to make a place look nicer.",
+    "banglaMeaning": "সাজসজ্জা",
+    "syllables": [
+      "dec",
+      "o",
+      "ra",
+      "tion"
+    ],
+    "example": "We hung colorful decorations for the party.",
+    "hint": "Ends in '-tion' (the act or result of) — 'decora' + '-tion'.",
+    "image": "/images/level10/decoration.webp"
+  },
+  {
+    "id": "lvl10-195",
+    "level": 10,
+    "order": 195,
+    "word": "generation",
+    "pronunciation": "/dʒɛnəˈreɪʃən/",
+    "banglaPronunciation": "জেনারেশন",
+    "meaning": "People born around the same time.",
+    "banglaMeaning": "প্রজন্ম",
+    "syllables": [
+      "gen",
+      "er",
+      "a",
+      "tion"
+    ],
+    "example": "Grandparents share stories with each generation.",
+    "hint": "Ends in '-tion' (the act or result of) — 'genera' + '-tion'.",
+    "image": "/images/level10/generation.webp"
+  },
+  {
+    "id": "lvl10-196",
+    "level": 10,
+    "order": 196,
+    "word": "attention",
+    "pronunciation": "/əˈtɛnʃən/",
+    "banglaPronunciation": "অ্যাটেনশন",
+    "meaning": "Careful focus on something.",
+    "banglaMeaning": "মনোযোগ",
+    "syllables": [
+      "at",
+      "ten",
+      "tion"
+    ],
+    "example": "Please pay attention during the lesson.",
+    "hint": "Ends in '-tion' (the act or result of) — 'atten' + '-tion'.",
+    "image": "/images/level10/attention.webp"
+  },
+  {
+    "id": "lvl10-197",
+    "level": 10,
+    "order": 197,
+    "word": "invention",
+    "pronunciation": "/ɪnˈvɛnʃən/",
+    "banglaPronunciation": "ইনভেনশন",
+    "meaning": "Something newly created or designed.",
+    "banglaMeaning": "আবিষ্কার",
+    "syllables": [
+      "in",
+      "ven",
+      "tion"
+    ],
+    "example": "The telephone was a remarkable invention.",
+    "hint": "Ends in '-tion' (the act or result of) — 'inven' + '-tion'.",
+    "image": "/images/level10/invention.webp"
+  },
+  {
+    "id": "lvl10-198",
+    "level": 10,
+    "order": 198,
+    "word": "connection",
+    "pronunciation": "/kəˈnɛkʃən/",
+    "banglaPronunciation": "কানেকশন",
+    "meaning": "A link between two things.",
+    "banglaMeaning": "সংযোগ",
+    "syllables": [
+      "con",
+      "nec",
+      "tion"
+    ],
+    "example": "There is a strong connection between diet and health.",
+    "hint": "Ends in '-tion' (the act or result of) — 'connec' + '-tion'.",
+    "image": "/images/level10/connection.webp"
+  },
+  {
+    "id": "lvl10-199",
+    "level": 10,
+    "order": 199,
+    "word": "mission",
+    "pronunciation": "/ˈmɪʃən/",
+    "banglaPronunciation": "মিশন",
+    "meaning": "An important task or purpose.",
+    "banglaMeaning": "অভিযান",
+    "syllables": [
+      "mis",
+      "sion"
+    ],
+    "example": "The team's mission was to explore the cave.",
+    "hint": "Prefix 'mis-' means wrongly — 'mis' + 'sion'.",
+    "image": "/images/level10/mission.webp"
+  },
+  {
+    "id": "lvl10-200",
+    "level": 10,
+    "order": 200,
+    "word": "session",
+    "pronunciation": "/ˈsɛʃən/",
+    "banglaPronunciation": "সেশন",
+    "meaning": "A period of time used for an activity.",
+    "banglaMeaning": "অধিবেশন",
+    "syllables": [
+      "ses",
+      "sion"
+    ],
+    "example": "We had a long study session yesterday.",
+    "hint": "Ends in '-sion' (the act or result of) — 'ses' + '-sion'.",
+    "image": "/images/level10/session.webp"
+  },
+  {
+    "id": "lvl10-201",
+    "level": 10,
+    "order": 201,
+    "word": "passion",
+    "pronunciation": "/ˈpæʃən/",
+    "banglaPronunciation": "প্যাশন",
+    "meaning": "A strong feeling of love or interest.",
+    "banglaMeaning": "আবেগ",
+    "syllables": [
+      "pas",
+      "sion"
+    ],
+    "example": "She has a real passion for painting.",
+    "hint": "Ends in '-sion' (the act or result of) — 'pas' + '-sion'.",
+    "image": "/images/level10/passion.webp"
+  },
+  {
+    "id": "lvl10-202",
+    "level": 10,
+    "order": 202,
+    "word": "mansion",
+    "pronunciation": "/ˈmænʃən/",
+    "banglaPronunciation": "ম্যানশন",
+    "meaning": "A very large, grand house.",
+    "banglaMeaning": "প্রাসাদ",
+    "syllables": [
+      "man",
+      "sion"
+    ],
+    "example": "They live in a beautiful mansion.",
+    "hint": "Ends in '-sion' (the act or result of) — 'man' + '-sion'.",
+    "image": "/images/level10/mansion.webp"
+  },
+  {
+    "id": "lvl10-203",
+    "level": 10,
+    "order": 203,
+    "word": "tension",
+    "pronunciation": "/ˈtɛnʃən/",
+    "banglaPronunciation": "টেনশন",
+    "meaning": "A feeling of stress or worry.",
+    "banglaMeaning": "উত্তেজনা",
+    "syllables": [
+      "ten",
+      "sion"
+    ],
+    "example": "There was tension before the big match.",
+    "hint": "Ends in '-sion' (the act or result of) — 'ten' + '-sion'.",
+    "image": "/images/level10/tension.webp"
+  },
+  {
+    "id": "lvl10-204",
+    "level": 10,
+    "order": 204,
+    "word": "pension",
+    "pronunciation": "/ˈpɛnʃən/",
+    "banglaPronunciation": "পেনশন",
+    "meaning": "Money paid regularly after retirement.",
+    "banglaMeaning": "পেনশন",
+    "syllables": [
+      "pen",
+      "sion"
+    ],
+    "example": "My grandfather receives a monthly pension.",
+    "hint": "Ends in '-sion' (the act or result of) — 'pen' + '-sion'.",
+    "image": "/images/level10/pension.webp"
+  },
+  {
+    "id": "lvl10-205",
+    "level": 10,
+    "order": 205,
+    "word": "version",
+    "pronunciation": "/ˈvɜːrʒən/",
+    "banglaPronunciation": "ভার্শন",
+    "meaning": "One form of something that exists in several forms.",
+    "banglaMeaning": "সংস্করণ",
+    "syllables": [
+      "ver",
+      "sion"
+    ],
+    "example": "This is the newest version of the app.",
+    "hint": "Ends in '-sion' (the act or result of) — 'ver' + '-sion'.",
+    "image": "/images/level10/version.webp"
+  },
+  {
+    "id": "lvl10-206",
+    "level": 10,
+    "order": 206,
+    "word": "vision",
+    "pronunciation": "/ˈvɪʒən/",
+    "banglaPronunciation": "ভিশন",
+    "meaning": "The ability to see, or a plan for the future.",
+    "banglaMeaning": "দৃষ্টিশক্তি",
+    "syllables": [
+      "vi",
+      "sion"
+    ],
+    "example": "Her vision for the company was bold.",
+    "hint": "Ends in '-sion' (the act or result of) — the act of seeing.",
+    "image": "/images/level10/vision.webp"
+  },
+  {
+    "id": "lvl10-207",
+    "level": 10,
+    "order": 207,
+    "word": "division",
+    "pronunciation": "/dɪˈvɪʒən/",
+    "banglaPronunciation": "ডিভিশন",
+    "meaning": "The act of splitting something into parts.",
+    "banglaMeaning": "বিভাজন",
+    "syllables": [
+      "di",
+      "vi",
+      "sion"
+    ],
+    "example": "We learned division in math class.",
+    "hint": "Ends in '-sion' (the act or result of) — 'divi' + '-sion'.",
+    "image": "/images/level10/division.webp"
+  },
+  {
+    "id": "lvl10-208",
+    "level": 10,
+    "order": 208,
+    "word": "decision",
+    "pronunciation": "/dɪˈsɪʒən/",
+    "banglaPronunciation": "ডিসিশন",
+    "meaning": "A choice made after thinking.",
+    "banglaMeaning": "সিদ্ধান্ত",
+    "syllables": [
+      "de",
+      "ci",
+      "sion"
+    ],
+    "example": "It was a difficult decision to make.",
+    "hint": "Ends in '-sion' (the act or result of) — 'deci' + '-sion'.",
+    "image": "/images/level10/decision.webp"
+  },
+  {
+    "id": "lvl10-209",
+    "level": 10,
+    "order": 209,
+    "word": "television",
+    "pronunciation": "/ˈtɛlɪvɪʒən/",
+    "banglaPronunciation": "টেলিভিশন",
+    "meaning": "A device for watching shows and news.",
+    "banglaMeaning": "টেলিভিশন",
+    "syllables": [
+      "tel",
+      "e",
+      "vi",
+      "sion"
+    ],
+    "example": "We watched the news on television.",
+    "hint": "Ends in '-sion' (the act or result of) — 'televi' + '-sion'.",
+    "image": "/images/level10/television.webp"
+  },
+  {
+    "id": "lvl10-210",
+    "level": 10,
+    "order": 210,
+    "word": "expression",
+    "pronunciation": "/ɪkˈsprɛʃən/",
+    "banglaPronunciation": "এক্সপ্রেশন",
+    "meaning": "A look on someone's face, or a way of showing feeling.",
+    "banglaMeaning": "প্রকাশভঙ্গি",
+    "syllables": [
+      "ex",
+      "pres",
+      "sion"
+    ],
+    "example": "Her expression showed pure surprise.",
+    "hint": "Ends in '-sion' (the act or result of) — 'expres' + '-sion'.",
+    "image": "/images/level10/expression.webp"
+  },
+  {
+    "id": "lvl10-211",
+    "level": 10,
+    "order": 211,
+    "word": "impression",
+    "pronunciation": "/ɪmˈprɛʃən/",
+    "banglaPronunciation": "ইমপ্রেশন",
+    "meaning": "An idea or feeling about something.",
+    "banglaMeaning": "ধারণা",
+    "syllables": [
+      "im",
+      "pres",
+      "sion"
+    ],
+    "example": "He made a great first impression.",
+    "hint": "Ends in '-sion' (the act or result of) — 'impres' + '-sion'.",
+    "image": "/images/level10/impression.webp"
+  },
+  {
+    "id": "lvl10-212",
+    "level": 10,
+    "order": 212,
+    "word": "discussion",
+    "pronunciation": "/dɪˈskʌʃən/",
+    "banglaPronunciation": "ডিসকাশন",
+    "meaning": "A talk between people about a topic.",
+    "banglaMeaning": "আলোচনা",
+    "syllables": [
+      "dis",
+      "cus",
+      "sion"
+    ],
+    "example": "We had a lively discussion in class.",
+    "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'cussion'.",
+    "image": "/images/level10/discussion.webp"
+  },
+  {
+    "id": "lvl10-213",
+    "level": 10,
+    "order": 213,
+    "word": "comfortable",
+    "pronunciation": "/ˈkʌmfərtəbəl/",
+    "banglaPronunciation": "কমফোর্টেবল",
+    "meaning": "Giving physical ease and relaxation.",
+    "banglaMeaning": "আরামদায়ক",
+    "syllables": [
+      "com",
+      "fort",
+      "a",
+      "ble"
+    ],
+    "example": "This chair is very comfortable.",
+    "hint": "Ends in '-able' (able to be) — 'comfort' + '-able'.",
+    "image": "/images/level10/comfortable.webp"
+  },
+  {
+    "id": "lvl10-214",
+    "level": 10,
+    "order": 214,
+    "word": "reasonable",
+    "pronunciation": "/ˈriːzənəbəl/",
+    "banglaPronunciation": "রিজনেবল",
+    "meaning": "Fair and sensible.",
+    "banglaMeaning": "যুক্তিসঙ্গত",
+    "syllables": [
+      "rea",
+      "son",
+      "a",
+      "ble"
+    ],
+    "example": "The price seemed very reasonable.",
+    "hint": "Prefix 're-' means again — 're' + 'asonable'.",
+    "image": "/images/level10/reasonable.webp"
+  },
+  {
+    "id": "lvl10-215",
+    "level": 10,
+    "order": 215,
+    "word": "enjoyable",
+    "pronunciation": "/ɪnˈdʒɔɪəbəl/",
+    "banglaPronunciation": "এনজয়েবল",
+    "meaning": "Giving pleasure or satisfaction.",
+    "banglaMeaning": "উপভোগ্য",
+    "syllables": [
+      "en",
+      "joy",
+      "a",
+      "ble"
+    ],
+    "example": "We had an enjoyable day at the beach.",
+    "hint": "Ends in '-able' (able to be) — 'enjoy' + '-able'.",
+    "image": "/images/level10/enjoyable.webp"
+  },
+  {
+    "id": "lvl10-216",
+    "level": 10,
+    "order": 216,
+    "word": "breakable",
+    "pronunciation": "/ˈbreɪkəbəl/",
+    "banglaPronunciation": "ব্রেকেবল",
+    "meaning": "Able to be broken easily.",
+    "banglaMeaning": "ভঙ্গুর",
+    "syllables": [
+      "break",
+      "a",
+      "ble"
+    ],
+    "example": "Handle the glass vase, it is breakable.",
+    "hint": "Ends in '-able' (able to be) — 'break' + '-able'.",
+    "image": "/images/level10/breakable.webp"
+  },
+  {
+    "id": "lvl10-217",
+    "level": 10,
+    "order": 217,
+    "word": "washable",
+    "pronunciation": "/ˈwɒʃəbəl/",
+    "banglaPronunciation": "ওয়াশেবল",
+    "meaning": "Able to be washed without damage.",
+    "banglaMeaning": "ধোয়া যায় এমন",
+    "syllables": [
+      "wash",
+      "a",
+      "ble"
+    ],
+    "example": "This jacket is machine washable.",
+    "hint": "Ends in '-able' (able to be) — 'wash' + '-able'.",
+    "image": "/images/level10/washable.webp"
+  },
+  {
+    "id": "lvl10-218",
+    "level": 10,
+    "order": 218,
+    "word": "drinkable",
+    "pronunciation": "/ˈdrɪŋkəbəl/",
+    "banglaPronunciation": "ড্রিংকেবল",
+    "meaning": "Safe or fit to drink.",
+    "banglaMeaning": "পানযোগ্য",
+    "syllables": [
+      "drink",
+      "a",
+      "ble"
+    ],
+    "example": "Is the tap water drinkable here?",
+    "hint": "Ends in '-able' (able to be) — 'drink' + '-able'.",
+    "image": "/images/level10/drinkable.webp"
+  },
+  {
+    "id": "lvl10-219",
+    "level": 10,
+    "order": 219,
+    "word": "believable",
+    "pronunciation": "/bɪˈliːvəbəl/",
+    "banglaPronunciation": "বিলিভেবল",
+    "meaning": "Able to be believed; convincing.",
+    "banglaMeaning": "বিশ্বাসযোগ্য",
+    "syllables": [
+      "be",
+      "liev",
+      "a",
+      "ble"
+    ],
+    "example": "The movie's plot was hardly believable.",
+    "hint": "Ends in '-able' (able to be) — 'believ' + '-able'.",
+    "image": "/images/level10/believable.webp"
+  },
+  {
+    "id": "lvl10-220",
+    "level": 10,
+    "order": 220,
+    "word": "dependable",
+    "pronunciation": "/dɪˈpɛndəbəl/",
+    "banglaPronunciation": "ডিপেন্ডেবল",
+    "meaning": "Able to be trusted or relied on.",
+    "banglaMeaning": "নির্ভরযোগ্য",
+    "syllables": [
+      "de",
+      "pend",
+      "a",
+      "ble"
+    ],
+    "example": "She is a dependable friend.",
+    "hint": "Ends in '-able' (able to be) — 'depend' + '-able'.",
+    "image": "/images/level10/dependable.webp"
+  },
+  {
+    "id": "lvl10-221",
+    "level": 10,
+    "order": 221,
+    "word": "favorable",
+    "pronunciation": "/ˈfeɪvərəbəl/",
+    "banglaPronunciation": "ফেভারেবল",
+    "meaning": "Positive or advantageous.",
+    "banglaMeaning": "অনুকূল",
+    "syllables": [
+      "fa",
+      "vor",
+      "a",
+      "ble"
+    ],
+    "example": "The weather looked favorable for the trip.",
+    "hint": "Ends in '-able' (able to be) — 'favor' + '-able'.",
+    "image": "/images/level10/favorable.webp"
+  },
+  {
+    "id": "lvl10-222",
+    "level": 10,
+    "order": 222,
+    "word": "honorable",
+    "pronunciation": "/ˈɒnərəbəl/",
+    "banglaPronunciation": "অনারেবল",
+    "meaning": "Deserving respect and honor.",
+    "banglaMeaning": "সম্মানজনক",
+    "syllables": [
+      "hon",
+      "or",
+      "a",
+      "ble"
+    ],
+    "example": "He was known for his honorable actions.",
+    "hint": "Ends in '-able' (able to be) — 'honor' + '-able'.",
+    "image": "/images/level10/honorable.webp"
+  },
+  {
+    "id": "lvl10-223",
+    "level": 10,
+    "order": 223,
+    "word": "valuable",
+    "pronunciation": "/ˈvæljuəbəl/",
+    "banglaPronunciation": "ভ্যালুয়েবল",
+    "meaning": "Worth a lot; important.",
+    "banglaMeaning": "মূল্যবান",
+    "syllables": [
+      "val",
+      "u",
+      "a",
+      "ble"
+    ],
+    "example": "She gave me some valuable advice.",
+    "hint": "Ends in '-able' (able to be) — 'valu' + '-able'.",
+    "image": "/images/level10/valuable.webp"
+  },
+  {
+    "id": "lvl10-224",
+    "level": 10,
+    "order": 224,
+    "word": "workable",
+    "pronunciation": "/ˈwɜːrkəbəl/",
+    "banglaPronunciation": "ওয়ার্কেবল",
+    "meaning": "Able to be used or put into practice.",
+    "banglaMeaning": "কার্যকর",
+    "syllables": [
+      "work",
+      "a",
+      "ble"
+    ],
+    "example": "We found a workable solution.",
+    "hint": "Ends in '-able' (able to be) — 'work' + '-able'.",
+    "image": "/images/level10/workable.webp"
+  },
+  {
+    "id": "lvl10-225",
+    "level": 10,
+    "order": 225,
+    "word": "teachable",
+    "pronunciation": "/ˈtiːtʃəbəl/",
+    "banglaPronunciation": "টিচেবল",
+    "meaning": "Able to be taught, or willing to learn.",
+    "banglaMeaning": "শিক্ষণীয়",
+    "syllables": [
+      "teach",
+      "a",
+      "ble"
+    ],
+    "example": "This was a teachable moment for the class.",
+    "hint": "Ends in '-able' (able to be) — 'teach' + '-able'.",
+    "image": "/images/level10/teachable.webp"
+  },
+  {
+    "id": "lvl10-226",
+    "level": 10,
+    "order": 226,
+    "word": "agreeable",
+    "pronunciation": "/əˈɡriːəbəl/",
+    "banglaPronunciation": "অ্যাগ্রিয়েবল",
+    "meaning": "Pleasant and willing to agree.",
+    "banglaMeaning": "সম্মতিপূর্ণ",
+    "syllables": [
+      "a",
+      "gree",
+      "a",
+      "ble"
+    ],
+    "example": "He seemed agreeable to the new plan.",
+    "hint": "Ends in '-able' (able to be) — 'agree' + '-able'.",
+    "image": "/images/level10/agreeable.webp"
+  },
+  {
+    "id": "lvl10-227",
+    "level": 10,
+    "order": 227,
+    "word": "manageable",
+    "pronunciation": "/ˈmænɪdʒəbəl/",
+    "banglaPronunciation": "ম্যানেজেবল",
+    "meaning": "Able to be handled or controlled.",
+    "banglaMeaning": "পরিচালনাযোগ্য",
+    "syllables": [
+      "man",
+      "age",
+      "a",
+      "ble"
+    ],
+    "example": "The workload became more manageable.",
+    "hint": "Ends in '-able' (able to be) — 'manage' + '-able'.",
+    "image": "/images/level10/manageable.webp"
+  },
+  {
+    "id": "lvl10-228",
+    "level": 10,
+    "order": 228,
+    "word": "adjustable",
+    "pronunciation": "/əˈdʒʌstəbəl/",
+    "banglaPronunciation": "অ্যাডজাস্টেবল",
+    "meaning": "Able to be changed to fit needs.",
+    "banglaMeaning": "সমন্বয়যোগ্য",
+    "syllables": [
+      "ad",
+      "just",
+      "a",
+      "ble"
+    ],
+    "example": "The office chair has an adjustable height.",
+    "hint": "Ends in '-able' (able to be) — 'adjust' + '-able'.",
+    "image": "/images/level10/adjustable.webp"
+  },
+  {
+    "id": "lvl10-229",
+    "level": 10,
+    "order": 229,
+    "word": "impossible",
+    "pronunciation": "/ɪmˈpɒsəbəl/",
+    "banglaPronunciation": "ইমপসিবল",
+    "meaning": "Not able to happen or be done.",
+    "banglaMeaning": "অসম্ভব",
+    "syllables": [
+      "im",
+      "pos",
+      "si",
+      "ble"
+    ],
+    "example": "It felt impossible to finish on time.",
+    "hint": "Ends in '-ible' (able to be) — 'imposs' + '-ible'.",
+    "image": "/images/level10/impossible.webp"
+  },
+  {
+    "id": "lvl10-230",
+    "level": 10,
+    "order": 230,
+    "word": "terrible",
+    "pronunciation": "/ˈtɛrəbəl/",
+    "banglaPronunciation": "টেরিবল",
+    "meaning": "Very bad or unpleasant.",
+    "banglaMeaning": "ভয়ানক",
+    "syllables": [
+      "ter",
+      "ri",
+      "ble"
+    ],
+    "example": "We had terrible weather all week.",
+    "hint": "Ends in '-ible' (able to be) — 'terr' + '-ible'.",
+    "image": "/images/level10/terrible.webp"
+  },
+  {
+    "id": "lvl10-231",
+    "level": 10,
+    "order": 231,
+    "word": "horrible",
+    "pronunciation": "/ˈhɒrəbəl/",
+    "banglaPronunciation": "হরিবল",
+    "meaning": "Extremely unpleasant or shocking.",
+    "banglaMeaning": "ভয়ঙ্কর",
+    "syllables": [
+      "hor",
+      "ri",
+      "ble"
+    ],
+    "example": "That was a horrible accident.",
+    "hint": "Ends in '-ible' (able to be) — 'horr' + '-ible'.",
+    "image": "/images/level10/horrible.webp"
+  },
+  {
+    "id": "lvl10-232",
+    "level": 10,
+    "order": 232,
+    "word": "visible",
+    "pronunciation": "/ˈvɪzəbəl/",
+    "banglaPronunciation": "ভিজিবল",
+    "meaning": "Able to be seen.",
+    "banglaMeaning": "দৃশ্যমান",
+    "syllables": [
+      "vis",
+      "i",
+      "ble"
+    ],
+    "example": "The mountain was visible from far away.",
+    "hint": "Ends in '-ible' (able to be) — 'vis' + '-ible'.",
+    "image": "/images/level10/visible.webp"
+  },
+  {
+    "id": "lvl10-233",
+    "level": 10,
+    "order": 233,
+    "word": "flexible",
+    "pronunciation": "/ˈflɛksəbəl/",
+    "banglaPronunciation": "ফ্লেক্সিবল",
+    "meaning": "Able to bend or change easily.",
+    "banglaMeaning": "নমনীয়",
+    "syllables": [
+      "flex",
+      "i",
+      "ble"
+    ],
+    "example": "Gymnasts must be very flexible.",
+    "hint": "Ends in '-ible' (able to be) — 'flex' + '-ible'.",
+    "image": "/images/level10/flexible.webp"
+  },
+  {
+    "id": "lvl10-234",
+    "level": 10,
+    "order": 234,
+    "word": "sensible",
+    "pronunciation": "/ˈsɛnsəbəl/",
+    "banglaPronunciation": "সেন্সিবল",
+    "meaning": "Showing good sense; practical.",
+    "banglaMeaning": "বিচক্ষণ",
+    "syllables": [
+      "sen",
+      "si",
+      "ble"
+    ],
+    "example": "It was a sensible choice to leave early.",
+    "hint": "Ends in '-ible' (able to be) — 'sens' + '-ible'.",
+    "image": "/images/level10/sensible.webp"
+  },
+  {
+    "id": "lvl10-235",
+    "level": 10,
+    "order": 235,
+    "word": "edible",
+    "pronunciation": "/ˈɛdəbəl/",
+    "banglaPronunciation": "এডিবল",
+    "meaning": "Safe and fit to eat.",
+    "banglaMeaning": "খাদ্যযোগ্য",
+    "syllables": [
+      "ed",
+      "i",
+      "ble"
+    ],
+    "example": "Not all mushrooms are edible.",
+    "hint": "Ends in '-ible' (able to be) — able to be eaten.",
+    "image": "/images/level10/edible.webp"
+  },
+  {
+    "id": "lvl10-236",
+    "level": 10,
+    "order": 236,
+    "word": "credible",
+    "pronunciation": "/ˈkrɛdəbəl/",
+    "banglaPronunciation": "ক্রেডিবল",
+    "meaning": "Able to be believed or trusted.",
+    "banglaMeaning": "বিশ্বাসযোগ্য",
+    "syllables": [
+      "cred",
+      "i",
+      "ble"
+    ],
+    "example": "The witness gave a credible account.",
+    "hint": "Ends in '-ible' (able to be) — 'cred' + '-ible'.",
+    "image": "/images/level10/credible.webp"
+  },
+  {
+    "id": "lvl10-237",
+    "level": 10,
+    "order": 237,
+    "word": "legible",
+    "pronunciation": "/ˈlɛdʒəbəl/",
+    "banglaPronunciation": "লেজিবল",
+    "meaning": "Clear enough to be read.",
+    "banglaMeaning": "পাঠযোগ্য",
+    "syllables": [
+      "leg",
+      "i",
+      "ble"
+    ],
+    "example": "Please write in legible handwriting.",
+    "hint": "Ends in '-ible' (able to be) — 'leg' + '-ible'.",
+    "image": "/images/level10/legible.webp"
+  },
+  {
+    "id": "lvl10-238",
+    "level": 10,
+    "order": 238,
+    "word": "audible",
+    "pronunciation": "/ˈɔːdəbəl/",
+    "banglaPronunciation": "অডিবল",
+    "meaning": "Loud enough to be heard.",
+    "banglaMeaning": "শ্রবণযোগ্য",
+    "syllables": [
+      "au",
+      "di",
+      "ble"
+    ],
+    "example": "His voice was barely audible over the noise.",
+    "hint": "Ends in '-ible' (able to be) — 'aud' + '-ible'.",
+    "image": "/images/level10/audible.webp"
+  },
+  {
+    "id": "lvl10-239",
+    "level": 10,
+    "order": 239,
+    "word": "tangible",
+    "pronunciation": "/ˈtændʒəbəl/",
+    "banglaPronunciation": "ট্যানজিবল",
+    "meaning": "Able to be touched or felt; real.",
+    "banglaMeaning": "স্পর্শযোগ্য",
+    "syllables": [
+      "tan",
+      "gi",
+      "ble"
+    ],
+    "example": "We need tangible proof of the claim.",
+    "hint": "Ends in '-ible' (able to be) — 'tang' + '-ible'.",
+    "image": "/images/level10/tangible.webp"
+  },
+  {
+    "id": "lvl10-240",
+    "level": 10,
+    "order": 240,
+    "word": "incredible",
+    "pronunciation": "/ɪnˈkrɛdəbəl/",
+    "banglaPronunciation": "ইনক্রেডিবল",
+    "meaning": "Impossible to believe; amazing.",
+    "banglaMeaning": "অবিশ্বাস্য",
+    "syllables": [
+      "in",
+      "cred",
+      "i",
+      "ble"
+    ],
+    "example": "The view from the top was incredible.",
+    "hint": "Ends in '-ible' (able to be) — 'incred' + '-ible'.",
+    "image": "/images/level10/incredible.webp"
+  },
+  {
+    "id": "lvl10-241",
+    "level": 10,
+    "order": 241,
+    "word": "responsible",
+    "pronunciation": "/rɪˈspɒnsəbəl/",
+    "banglaPronunciation": "রেসপনসিবল",
+    "meaning": "Having a duty to take care of something.",
+    "banglaMeaning": "দায়িত্বশীল",
+    "syllables": [
+      "re",
+      "spon",
+      "si",
+      "ble"
+    ],
+    "example": "She is responsible for the younger children.",
+    "hint": "Prefix 're-' means again — 're' + 'sponsible'.",
+    "image": "/images/level10/responsible.webp"
+  },
+  {
+    "id": "lvl10-242",
+    "level": 10,
+    "order": 242,
+    "word": "invisible",
+    "pronunciation": "/ɪnˈvɪzəbəl/",
+    "banglaPronunciation": "ইনভিজিবল",
+    "meaning": "Not able to be seen.",
+    "banglaMeaning": "অদৃশ্য",
+    "syllables": [
+      "in",
+      "vis",
+      "i",
+      "ble"
+    ],
+    "example": "The stars are invisible during the day.",
+    "hint": "Ends in '-ible' (able to be) — 'invis' + '-ible'.",
+    "image": "/images/level10/invisible.webp"
+  },
+  {
+    "id": "lvl10-243",
+    "level": 10,
+    "order": 243,
+    "word": "agreement",
+    "pronunciation": "/əˈɡriːmənt/",
+    "banglaPronunciation": "অ্যাগ্রিমেন্ট",
+    "meaning": "A decision reached by two or more people.",
+    "banglaMeaning": "চুক্তি",
+    "syllables": [
+      "a",
+      "gree",
+      "ment"
+    ],
+    "example": "They signed an agreement to work together.",
+    "hint": "Ends in '-ment' (the result or state of) — 'agree' + '-ment'.",
+    "image": "/images/level10/agreement.webp"
+  },
+  {
+    "id": "lvl10-244",
+    "level": 10,
+    "order": 244,
+    "word": "movement",
+    "pronunciation": "/ˈmuːvmənt/",
+    "banglaPronunciation": "মুভমেন্ট",
+    "meaning": "The act of moving.",
+    "banglaMeaning": "আন্দোলন",
+    "syllables": [
+      "move",
+      "ment"
+    ],
+    "example": "She noticed a slight movement in the bushes.",
+    "hint": "Ends in '-ment' (the result or state of) — 'move' + '-ment'.",
+    "image": "/images/level10/movement.webp"
+  },
+  {
+    "id": "lvl10-245",
+    "level": 10,
+    "order": 245,
+    "word": "statement",
+    "pronunciation": "/ˈsteɪtmənt/",
+    "banglaPronunciation": "স্টেটমেন্ট",
+    "meaning": "Something said or written clearly.",
+    "banglaMeaning": "বিবৃতি",
+    "syllables": [
+      "state",
+      "ment"
+    ],
+    "example": "The police released an official statement.",
+    "hint": "Ends in '-ment' (the result or state of) — 'state' + '-ment'.",
+    "image": "/images/level10/statement.webp"
+  },
+  {
+    "id": "lvl10-246",
+    "level": 10,
+    "order": 246,
+    "word": "treatment",
+    "pronunciation": "/ˈtriːtmənt/",
+    "banglaPronunciation": "ট্রিটমেন্ট",
+    "meaning": "Medical care, or the way someone is treated.",
+    "banglaMeaning": "চিকিৎসা",
+    "syllables": [
+      "treat",
+      "ment"
+    ],
+    "example": "The doctor recommended a new treatment.",
+    "hint": "Ends in '-ment' (the result or state of) — 'treat' + '-ment'.",
+    "image": "/images/level10/treatment.webp"
+  },
+  {
+    "id": "lvl10-247",
+    "level": 10,
+    "order": 247,
+    "word": "amazement",
+    "pronunciation": "/əˈmeɪzmənt/",
+    "banglaPronunciation": "অ্যামেইজমেন্ট",
+    "meaning": "A feeling of great surprise.",
+    "banglaMeaning": "বিস্ময়",
+    "syllables": [
+      "a",
+      "maze",
+      "ment"
+    ],
+    "example": "She stared in amazement at the fireworks.",
+    "hint": "Ends in '-ment' (the result or state of) — 'amaze' + '-ment'.",
+    "image": "/images/level10/amazement.webp"
+  },
+  {
+    "id": "lvl10-248",
+    "level": 10,
+    "order": 248,
+    "word": "settlement",
+    "pronunciation": "/ˈsɛtəlmənt/",
+    "banglaPronunciation": "সেটলমেন্ট",
+    "meaning": "A small community, or an agreement.",
+    "banglaMeaning": "বন্দোবস্ত",
+    "syllables": [
+      "set",
+      "tle",
+      "ment"
+    ],
+    "example": "The old settlement had only a few houses.",
+    "hint": "Ends in '-ment' (the result or state of) — 'settle' + '-ment'.",
+    "image": "/images/level10/settlement.webp"
+  },
+  {
+    "id": "lvl10-249",
+    "level": 10,
+    "order": 249,
+    "word": "amusement",
+    "pronunciation": "/əˈmjuːzmənt/",
+    "banglaPronunciation": "অ্যামিউজমেন্ট",
+    "meaning": "A feeling of enjoyment or fun.",
+    "banglaMeaning": "আনন্দ",
+    "syllables": [
+      "a",
+      "muse",
+      "ment"
+    ],
+    "example": "The clown was a great source of amusement.",
+    "hint": "Ends in '-ment' (the result or state of) — 'amuse' + '-ment'.",
+    "image": "/images/level10/amusement.webp"
+  },
+  {
+    "id": "lvl10-250",
+    "level": 10,
+    "order": 250,
+    "word": "enjoyment",
+    "pronunciation": "/ɪnˈdʒɔɪmənt/",
+    "banglaPronunciation": "এনজয়মেন্ট",
+    "meaning": "A feeling of pleasure.",
+    "banglaMeaning": "আনন্দ",
+    "syllables": [
+      "en",
+      "joy",
+      "ment"
+    ],
+    "example": "Reading brings me great enjoyment.",
+    "hint": "Ends in '-ment' (the result or state of) — 'enjoy' + '-ment'.",
+    "image": "/images/level10/enjoyment.webp"
+  },
+  {
+    "id": "lvl10-251",
+    "level": 10,
+    "order": 251,
+    "word": "excitement",
+    "pronunciation": "/ɪkˈsaɪtmənt/",
+    "banglaPronunciation": "এক্সাইটমেন্ট",
+    "meaning": "A feeling of great enthusiasm.",
+    "banglaMeaning": "উত্তেজনা",
+    "syllables": [
+      "ex",
+      "cite",
+      "ment"
+    ],
+    "example": "There was excitement in the air before the show.",
+    "hint": "Ends in '-ment' (the result or state of) — 'excite' + '-ment'.",
+    "image": "/images/level10/excitement.webp"
+  },
+  {
+    "id": "lvl10-252",
+    "level": 10,
+    "order": 252,
+    "word": "improvement",
+    "pronunciation": "/ɪmˈpruːvmənt/",
+    "banglaPronunciation": "ইমপ্রুভমেন্ট",
+    "meaning": "A change that makes something better.",
+    "banglaMeaning": "উন্নতি",
+    "syllables": [
+      "im",
+      "prove",
+      "ment"
+    ],
+    "example": "Her grades showed real improvement.",
+    "hint": "Ends in '-ment' (the result or state of) — 'improve' + '-ment'.",
+    "image": "/images/level10/improvement.webp"
+  },
+  {
+    "id": "lvl10-253",
+    "level": 10,
+    "order": 253,
+    "word": "replacement",
+    "pronunciation": "/rɪˈpleɪsmənt/",
+    "banglaPronunciation": "রিপ্লেসমেন্ট",
+    "meaning": "Something that takes the place of another.",
+    "banglaMeaning": "প্রতিস্থাপন",
+    "syllables": [
+      "re",
+      "place",
+      "ment"
+    ],
+    "example": "We need a replacement for the broken part.",
+    "hint": "Prefix 're-' means again — 're' + 'placement'.",
+    "image": "/images/level10/replacement.webp"
+  },
+  {
+    "id": "lvl10-254",
+    "level": 10,
+    "order": 254,
+    "word": "adjustment",
+    "pronunciation": "/əˈdʒʌstmənt/",
+    "banglaPronunciation": "অ্যাডজাস্টমেন্ট",
+    "meaning": "A small change made to improve something.",
+    "banglaMeaning": "সমন্বয়",
+    "syllables": [
+      "ad",
+      "just",
+      "ment"
+    ],
+    "example": "The mechanic made a small adjustment.",
+    "hint": "Ends in '-ment' (the result or state of) — 'adjust' + '-ment'.",
+    "image": "/images/level10/adjustment.webp"
+  },
+  {
+    "id": "lvl10-255",
+    "level": 10,
+    "order": 255,
+    "word": "achievement",
+    "pronunciation": "/əˈtʃiːvmənt/",
+    "banglaPronunciation": "অ্যাচিভমেন্ট",
+    "meaning": "Something accomplished successfully.",
+    "banglaMeaning": "অর্জন",
+    "syllables": [
+      "a",
+      "chieve",
+      "ment"
+    ],
+    "example": "Winning the award was a great achievement.",
+    "hint": "Ends in '-ment' (the result or state of) — 'achieve' + '-ment'.",
+    "image": "/images/level10/achievement.webp"
+  },
+  {
+    "id": "lvl10-256",
+    "level": 10,
+    "order": 256,
+    "word": "development",
+    "pronunciation": "/dɪˈvɛləpmənt/",
+    "banglaPronunciation": "ডেভেলপমেন্ট",
+    "meaning": "The process of growing or improving.",
+    "banglaMeaning": "উন্নয়ন",
+    "syllables": [
+      "de",
+      "vel",
+      "op",
+      "ment"
+    ],
+    "example": "The city has seen a lot of development.",
+    "hint": "Ends in '-ment' (the result or state of) — 'develop' + '-ment'.",
+    "image": "/images/level10/development.webp"
+  },
+  {
+    "id": "lvl10-257",
+    "level": 10,
+    "order": 257,
+    "word": "happiness",
+    "pronunciation": "/ˈhæpinəs/",
+    "banglaPronunciation": "হ্যাপিনেস",
+    "meaning": "The state of being happy.",
+    "banglaMeaning": "সুখ",
+    "syllables": [
+      "hap",
+      "pi",
+      "ness"
+    ],
+    "example": "Family brings her the most happiness.",
+    "hint": "Ends in '-ness' (the state of being) — 'happi' + '-ness'.",
+    "image": "/images/level10/happiness.webp"
+  },
+  {
+    "id": "lvl10-258",
+    "level": 10,
+    "order": 258,
+    "word": "kindness",
+    "pronunciation": "/ˈkaɪndnəs/",
+    "banglaPronunciation": "কাইন্ডনেস",
+    "meaning": "The quality of being kind.",
+    "banglaMeaning": "দয়া",
+    "syllables": [
+      "kind",
+      "ness"
+    ],
+    "example": "She is known for her kindness.",
+    "hint": "Ends in '-ness' (the state of being) — 'kind' + '-ness'.",
+    "image": "/images/level10/kindness.webp"
+  },
+  {
+    "id": "lvl10-259",
+    "level": 10,
+    "order": 259,
+    "word": "sadness",
+    "pronunciation": "/ˈsædnəs/",
+    "banglaPronunciation": "স্যাডনেস",
+    "meaning": "The state of feeling sad.",
+    "banglaMeaning": "দুঃখ",
+    "syllables": [
+      "sad",
+      "ness"
+    ],
+    "example": "There was a sense of sadness in his voice.",
+    "hint": "Ends in '-ness' (the state of being) — 'sad' + '-ness'.",
+    "image": "/images/level10/sadness.webp"
+  },
+  {
+    "id": "lvl10-260",
+    "level": 10,
+    "order": 260,
+    "word": "darkness",
+    "pronunciation": "/ˈdɑːrknəs/",
+    "banglaPronunciation": "ডার্কনেস",
+    "meaning": "The absence of light.",
+    "banglaMeaning": "অন্ধকার",
+    "syllables": [
+      "dark",
+      "ness"
+    ],
+    "example": "The room was filled with darkness.",
+    "hint": "Ends in '-ness' (the state of being) — 'dark' + '-ness'.",
+    "image": "/images/level10/darkness.webp"
+  },
+  {
+    "id": "lvl10-261",
+    "level": 10,
+    "order": 261,
+    "word": "weakness",
+    "pronunciation": "/ˈwiːknəs/",
+    "banglaPronunciation": "উইকনেস",
+    "meaning": "A lack of strength or a fault.",
+    "banglaMeaning": "দুর্বলতা",
+    "syllables": [
+      "weak",
+      "ness"
+    ],
+    "example": "Chocolate is my biggest weakness.",
+    "hint": "Ends in '-ness' (the state of being) — 'weak' + '-ness'.",
+    "image": "/images/level10/weakness.webp"
+  },
+  {
+    "id": "lvl10-262",
+    "level": 10,
+    "order": 262,
+    "word": "illness",
+    "pronunciation": "/ˈɪlnəs/",
+    "banglaPronunciation": "ইলনেস",
+    "meaning": "A disease or period of being sick.",
+    "banglaMeaning": "অসুস্থতা",
+    "syllables": [
+      "ill",
+      "ness"
+    ],
+    "example": "He recovered quickly from his illness.",
+    "hint": "Ends in '-ness' (the state of being) — 'ill' + '-ness'.",
+    "image": "/images/level10/illness.webp"
+  },
+  {
+    "id": "lvl10-263",
+    "level": 10,
+    "order": 263,
+    "word": "fitness",
+    "pronunciation": "/ˈfɪtnəs/",
+    "banglaPronunciation": "ফিটনেস",
+    "meaning": "The state of being physically healthy.",
+    "banglaMeaning": "সুস্থতা",
+    "syllables": [
+      "fit",
+      "ness"
+    ],
+    "example": "Running helps improve overall fitness.",
+    "hint": "Ends in '-ness' (the state of being) — 'fit' + '-ness'.",
+    "image": "/images/level10/fitness.webp"
+  },
+  {
+    "id": "lvl10-264",
+    "level": 10,
+    "order": 264,
+    "word": "softness",
+    "pronunciation": "/ˈsɒftnəs/",
+    "banglaPronunciation": "সফটনেস",
+    "meaning": "The quality of being soft.",
+    "banglaMeaning": "কোমলতা",
+    "syllables": [
+      "soft",
+      "ness"
+    ],
+    "example": "I love the softness of this blanket.",
+    "hint": "Ends in '-ness' (the state of being) — 'soft' + '-ness'.",
+    "image": "/images/level10/softness.webp"
+  },
+  {
+    "id": "lvl10-265",
+    "level": 10,
+    "order": 265,
+    "word": "brightness",
+    "pronunciation": "/ˈbraɪtnəs/",
+    "banglaPronunciation": "ব্রাইটনেস",
+    "meaning": "The quality of giving off strong light.",
+    "banglaMeaning": "উজ্জ্বলতা",
+    "syllables": [
+      "bright",
+      "ness"
+    ],
+    "example": "Adjust the brightness of the screen.",
+    "hint": "Ends in '-ness' (the state of being) — 'bright' + '-ness'.",
+    "image": "/images/level10/brightness.webp"
+  },
+  {
+    "id": "lvl10-266",
+    "level": 10,
+    "order": 266,
+    "word": "sickness",
+    "pronunciation": "/ˈsɪknəs/",
+    "banglaPronunciation": "সিকনেস",
+    "meaning": "The state of being ill.",
+    "banglaMeaning": "অসুস্থতা",
+    "syllables": [
+      "sick",
+      "ness"
+    ],
+    "example": "Morning sickness is common in pregnancy.",
+    "hint": "Ends in '-ness' (the state of being) — 'sick' + '-ness'.",
+    "image": "/images/level10/sickness.webp"
+  },
+  {
+    "id": "lvl10-267",
+    "level": 10,
+    "order": 267,
+    "word": "awareness",
+    "pronunciation": "/əˈwɛrnəs/",
+    "banglaPronunciation": "অ্যাওয়ারনেস",
+    "meaning": "Knowledge or understanding of a situation.",
+    "banglaMeaning": "সচেতনতা",
+    "syllables": [
+      "a",
+      "ware",
+      "ness"
+    ],
+    "example": "The campaign raised awareness about recycling.",
+    "hint": "Ends in '-ness' (the state of being) — 'aware' + '-ness'.",
+    "image": "/images/level10/awareness.webp"
+  },
+  {
+    "id": "lvl10-268",
+    "level": 10,
+    "order": 268,
+    "word": "fairness",
+    "pronunciation": "/ˈfɛrnəs/",
+    "banglaPronunciation": "ফেয়ারনেস",
+    "meaning": "The quality of treating people equally.",
+    "banglaMeaning": "ন্যায্যতা",
+    "syllables": [
+      "fair",
+      "ness"
+    ],
+    "example": "The judge is known for fairness.",
+    "hint": "Ends in '-ness' (the state of being) — 'fair' + '-ness'.",
+    "image": "/images/level10/fairness.webp"
+  },
+  {
+    "id": "lvl10-269",
+    "level": 10,
+    "order": 269,
+    "word": "sweetness",
+    "pronunciation": "/ˈswiːtnəs/",
+    "banglaPronunciation": "সুইটনেস",
+    "meaning": "The quality of tasting sweet, or being kind.",
+    "banglaMeaning": "মিষ্টতা",
+    "syllables": [
+      "sweet",
+      "ness"
+    ],
+    "example": "The cake had just the right sweetness.",
+    "hint": "Ends in '-ness' (the state of being) — 'sweet' + '-ness'.",
+    "image": "/images/level10/sweetness.webp"
+  },
+  {
+    "id": "lvl10-270",
+    "level": 10,
+    "order": 270,
+    "word": "thickness",
+    "pronunciation": "/ˈθɪknəs/",
+    "banglaPronunciation": "থিকনেস",
+    "meaning": "How thick something is.",
+    "banglaMeaning": "পুরুত্ব",
+    "syllables": [
+      "thick",
+      "ness"
+    ],
+    "example": "Measure the thickness of the wood.",
+    "hint": "Ends in '-ness' (the state of being) — 'thick' + '-ness'.",
+    "image": "/images/level10/thickness.webp"
+  },
+  {
+    "id": "lvl10-271",
+    "level": 10,
+    "order": 271,
+    "word": "loneliness",
+    "pronunciation": "/ˈloʊnlinəs/",
+    "banglaPronunciation": "লোনলিনেস",
+    "meaning": "The feeling of being alone and sad about it.",
+    "banglaMeaning": "একাকীত্ব",
+    "syllables": [
+      "lone",
+      "li",
+      "ness"
+    ],
+    "example": "He felt a deep loneliness after moving away.",
+    "hint": "Ends in '-ness' (the state of being) — 'loneli' + '-ness'.",
+    "image": "/images/level10/loneliness.webp"
+  },
+  {
+    "id": "lvl10-272",
+    "level": 10,
+    "order": 272,
+    "word": "forgiveness",
+    "pronunciation": "/fərˈɡɪvnəs/",
+    "banglaPronunciation": "ফরগিভনেস",
+    "meaning": "The act of pardoning someone.",
+    "banglaMeaning": "ক্ষমা",
+    "syllables": [
+      "for",
+      "give",
+      "ness"
+    ],
+    "example": "She asked for forgiveness after the mistake.",
+    "hint": "Ends in '-ness' (the state of being) — 'forgive' + '-ness'.",
+    "image": "/images/level10/forgiveness.webp"
+  },
+  {
+    "id": "lvl10-273",
+    "level": 10,
+    "order": 273,
+    "word": "famous",
+    "pronunciation": "/ˈfeɪməs/",
+    "banglaPronunciation": "ফেইমাস",
+    "meaning": "Known by many people.",
+    "banglaMeaning": "বিখ্যাত",
+    "syllables": [
+      "fa",
+      "mous"
+    ],
+    "example": "The singer became famous overnight.",
+    "hint": "Ends in '-ous' (full of) — 'fam' + '-ous'.",
+    "image": "/images/level10/famous.webp"
+  },
+  {
+    "id": "lvl10-274",
+    "level": 10,
+    "order": 274,
+    "word": "dangerous",
+    "pronunciation": "/ˈdeɪndʒərəs/",
+    "banglaPronunciation": "ডেঞ্জারাস",
+    "meaning": "Likely to cause harm.",
+    "banglaMeaning": "বিপজ্জনক",
+    "syllables": [
+      "dan",
+      "ger",
+      "ous"
+    ],
+    "example": "Swimming in that river is dangerous.",
+    "hint": "Ends in '-ous' (full of) — 'danger' + '-ous'.",
+    "image": "/images/level10/dangerous.webp"
+  },
+  {
+    "id": "lvl10-275",
+    "level": 10,
+    "order": 275,
+    "word": "curious",
+    "pronunciation": "/ˈkjʊriəs/",
+    "banglaPronunciation": "কিউরিয়াস",
+    "meaning": "Eager to learn or know something.",
+    "banglaMeaning": "কৌতূহলী",
+    "syllables": [
+      "cu",
+      "ri",
+      "ous"
+    ],
+    "example": "The curious cat explored every corner.",
+    "hint": "Ends in '-ous' (full of) — 'curi' + '-ous'.",
+    "image": "/images/level10/curious.webp"
+  },
+  {
+    "id": "lvl10-276",
+    "level": 10,
+    "order": 276,
+    "word": "monstrous",
+    "pronunciation": "/ˈmɒnstrəs/",
+    "banglaPronunciation": "মনস্ট্রাস",
+    "meaning": "Extremely large, ugly, or shocking.",
+    "banglaMeaning": "ভয়ঙ্কর বিশাল",
+    "syllables": [
+      "mon",
+      "strous"
+    ],
+    "example": "A monstrous wave rose from the sea.",
+    "hint": "Ends in '-ous' (full of) — 'monstr' + '-ous'.",
+    "image": "/images/level10/monstrous.webp"
+  },
+  {
+    "id": "lvl10-277",
+    "level": 10,
+    "order": 277,
+    "word": "nervous",
+    "pronunciation": "/ˈnɜːrvəs/",
+    "banglaPronunciation": "নার্ভাস",
+    "meaning": "Feeling worried or anxious.",
+    "banglaMeaning": "নার্ভাস",
+    "syllables": [
+      "ner",
+      "vous"
+    ],
+    "example": "She was nervous before the exam.",
+    "hint": "Ends in '-ous' (full of) — 'nerv' + '-ous'.",
+    "image": "/images/level10/nervous.webp"
+  },
+  {
+    "id": "lvl10-278",
+    "level": 10,
+    "order": 278,
+    "word": "generous",
+    "pronunciation": "/ˈdʒɛnərəs/",
+    "banglaPronunciation": "জেনারাস",
+    "meaning": "Willing to give freely.",
+    "banglaMeaning": "উদার",
+    "syllables": [
+      "gen",
+      "er",
+      "ous"
+    ],
+    "example": "He is generous with his time and money.",
+    "hint": "Ends in '-ous' (full of) — 'gener' + '-ous'.",
+    "image": "/images/level10/generous.webp"
+  },
+  {
+    "id": "lvl10-279",
+    "level": 10,
+    "order": 279,
+    "word": "serious",
+    "pronunciation": "/ˈsɪriəs/",
+    "banglaPronunciation": "সিরিয়াস",
+    "meaning": "Not joking; important.",
+    "banglaMeaning": "গুরুতর",
+    "syllables": [
+      "se",
+      "ri",
+      "ous"
+    ],
+    "example": "This is a serious matter to discuss.",
+    "hint": "Ends in '-ous' (full of) — 'seri' + '-ous'.",
+    "image": "/images/level10/serious.webp"
+  },
+  {
+    "id": "lvl10-280",
+    "level": 10,
+    "order": 280,
+    "word": "victorious",
+    "pronunciation": "/vɪkˈtɔːriəs/",
+    "banglaPronunciation": "ভিক্টোরিয়াস",
+    "meaning": "Having won a victory.",
+    "banglaMeaning": "বিজয়ী",
+    "syllables": [
+      "vic",
+      "to",
+      "ri",
+      "ous"
+    ],
+    "example": "The victorious team lifted the trophy.",
+    "hint": "Ends in '-ous' (full of) — 'victori' + '-ous'.",
+    "image": "/images/level10/victorious.webp"
+  },
+  {
+    "id": "lvl10-281",
+    "level": 10,
+    "order": 281,
+    "word": "spacious",
+    "pronunciation": "/ˈspeɪʃəs/",
+    "banglaPronunciation": "স্পেশাস",
+    "meaning": "Having a lot of room.",
+    "banglaMeaning": "প্রশস্ত",
+    "syllables": [
+      "spa",
+      "cious"
+    ],
+    "example": "The new apartment felt very spacious.",
+    "hint": "Ends in '-ous' (full of) — a place full of space.",
+    "image": "/images/level10/spacious.webp"
+  },
+  {
+    "id": "lvl10-282",
+    "level": 10,
+    "order": 282,
+    "word": "gorgeous",
+    "pronunciation": "/ˈɡɔːrdʒəs/",
+    "banglaPronunciation": "গর্জাস",
+    "meaning": "Extremely beautiful.",
+    "banglaMeaning": "অতি সুন্দর",
+    "syllables": [
+      "gor",
+      "geous"
+    ],
+    "example": "The sunset was absolutely gorgeous.",
+    "hint": "Ends in '-ous' (full of) — 'gorge' + '-ous'.",
+    "image": "/images/level10/gorgeous.webp"
+  },
+  {
+    "id": "lvl10-283",
+    "level": 10,
+    "order": 283,
+    "word": "enormous",
+    "pronunciation": "/ɪˈnɔːrməs/",
+    "banglaPronunciation": "এনরমাস",
+    "meaning": "Very large in size.",
+    "banglaMeaning": "বিশাল",
+    "syllables": [
+      "e",
+      "nor",
+      "mous"
+    ],
+    "example": "An enormous wave crashed on the shore.",
+    "hint": "Ends in '-ous' (full of) — 'enorm' + '-ous'.",
+    "image": "/images/level10/enormous.webp"
+  },
+  {
+    "id": "lvl10-284",
+    "level": 10,
+    "order": 284,
+    "word": "marvelous",
+    "pronunciation": "/ˈmɑːrvələs/",
+    "banglaPronunciation": "মার্ভেলাস",
+    "meaning": "Wonderful; amazing.",
+    "banglaMeaning": "চমৎকার",
+    "syllables": [
+      "mar",
+      "vel",
+      "ous"
+    ],
+    "example": "We had a marvelous time at the fair.",
+    "hint": "Ends in '-ous' (full of) — 'marvel' + '-ous'.",
+    "image": "/images/level10/marvelous.webp"
+  },
+  {
+    "id": "lvl10-285",
+    "level": 10,
+    "order": 285,
+    "word": "hazardous",
+    "pronunciation": "/ˈhæzərdəs/",
+    "banglaPronunciation": "হ্যাজারডাস",
+    "meaning": "Risky or dangerous.",
+    "banglaMeaning": "ঝুঁকিপূর্ণ",
+    "syllables": [
+      "haz",
+      "ard",
+      "ous"
+    ],
+    "example": "The wet floor was hazardous to walk on.",
+    "hint": "Ends in '-ous' (full of) — 'hazard' + '-ous'.",
+    "image": "/images/level10/hazardous.webp"
+  },
+  {
+    "id": "lvl10-286",
+    "level": 10,
+    "order": 286,
+    "word": "tremendous",
+    "pronunciation": "/trɪˈmɛndəs/",
+    "banglaPronunciation": "ট্রিমেন্ডাস",
+    "meaning": "Very great in amount or degree.",
+    "banglaMeaning": "প্রচণ্ড",
+    "syllables": [
+      "tre",
+      "men",
+      "dous"
+    ],
+    "example": "The team put in tremendous effort.",
+    "hint": "Ends in '-ous' (full of) — 'tremend' + '-ous'.",
+    "image": "/images/level10/tremendous.webp"
+  },
+  {
+    "id": "lvl10-287",
+    "level": 10,
+    "order": 287,
+    "word": "adventurous",
+    "pronunciation": "/ədˈvɛntʃərəs/",
+    "banglaPronunciation": "অ্যাডভেঞ্চারাস",
+    "meaning": "Willing to try new and exciting things.",
+    "banglaMeaning": "দুঃসাহসী",
+    "syllables": [
+      "ad",
+      "ven",
+      "tur",
+      "ous"
+    ],
+    "example": "She has always been an adventurous traveler.",
+    "hint": "Ends in '-ous' (full of) — 'adventur' + '-ous'.",
+    "image": "/images/level10/adventurous.webp"
+  },
+  {
+    "id": "lvl10-288",
+    "level": 10,
+    "order": 288,
+    "word": "poisonous",
+    "pronunciation": "/ˈpɔɪzənəs/",
+    "banglaPronunciation": "পয়জনাস",
+    "meaning": "Containing poison; harmful if eaten or touched.",
+    "banglaMeaning": "বিষাক্ত",
+    "syllables": [
+      "poi",
+      "son",
+      "ous"
+    ],
+    "example": "Some frogs in the rainforest are poisonous.",
+    "hint": "Ends in '-ous' (full of) — 'poison' + '-ous'.",
+    "image": "/images/level10/poisonous.webp"
+  },
+  {
+    "id": "lvl10-289",
+    "level": 10,
+    "order": 289,
+    "word": "active",
+    "pronunciation": "/ˈæktɪv/",
+    "banglaPronunciation": "অ্যাক্টিভ",
+    "meaning": "Full of energy and activity.",
+    "banglaMeaning": "সক্রিয়",
+    "syllables": [
+      "ac",
+      "tive"
+    ],
+    "example": "She leads a very active lifestyle.",
+    "hint": "Ends in '-ive' (tending to) — 'act' + '-ive'.",
+    "image": "/images/level10/active.webp"
+  },
+  {
+    "id": "lvl10-290",
+    "level": 10,
+    "order": 290,
+    "word": "creative",
+    "pronunciation": "/kriˈeɪtɪv/",
+    "banglaPronunciation": "ক্রিয়েটিভ",
+    "meaning": "Having original and imaginative ideas.",
+    "banglaMeaning": "সৃজনশীল",
+    "syllables": [
+      "cre",
+      "a",
+      "tive"
+    ],
+    "example": "He found a creative way to solve it.",
+    "hint": "Ends in '-ive' (tending to) — 'creat' + '-ive'.",
+    "image": "/images/level10/creative.webp"
+  },
+  {
+    "id": "lvl10-291",
+    "level": 10,
+    "order": 291,
+    "word": "positive",
+    "pronunciation": "/ˈpɒzətɪv/",
+    "banglaPronunciation": "পজিটিভ",
+    "meaning": "Good, hopeful, or confident.",
+    "banglaMeaning": "ইতিবাচক",
+    "syllables": [
+      "pos",
+      "i",
+      "tive"
+    ],
+    "example": "She always has a positive attitude.",
+    "hint": "Ends in '-ive' (tending to) — 'posit' + '-ive'.",
+    "image": "/images/level10/positive.webp"
+  },
+  {
+    "id": "lvl10-292",
+    "level": 10,
+    "order": 292,
+    "word": "negative",
+    "pronunciation": "/ˈnɛɡətɪv/",
+    "banglaPronunciation": "নেগেটিভ",
+    "meaning": "Not good, hopeful, or wanted.",
+    "banglaMeaning": "নেতিবাচক",
+    "syllables": [
+      "neg",
+      "a",
+      "tive"
+    ],
+    "example": "Try not to focus on negative thoughts.",
+    "hint": "Ends in '-ive' (tending to) — 'negat' + '-ive'.",
+    "image": "/images/level10/negative.webp"
+  },
+  {
+    "id": "lvl10-293",
+    "level": 10,
+    "order": 293,
+    "word": "expensive",
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "banglaPronunciation": "এক্সপেনসিভ",
+    "meaning": "Costing a lot of money.",
+    "banglaMeaning": "ব্যয়বহুল",
+    "syllables": [
+      "ex",
+      "pen",
+      "sive"
+    ],
+    "example": "That new phone looks quite expensive.",
+    "hint": "Ends in '-ive' (tending to) — 'expens' + '-ive'.",
+    "image": "/images/level10/expensive.webp"
+  },
+  {
+    "id": "lvl10-294",
+    "level": 10,
+    "order": 294,
+    "word": "effective",
+    "pronunciation": "/ɪˈfɛktɪv/",
+    "banglaPronunciation": "ইফেক্টিভ",
+    "meaning": "Producing the intended result well.",
+    "banglaMeaning": "কার্যকর",
+    "syllables": [
+      "ef",
+      "fec",
+      "tive"
+    ],
+    "example": "This medicine is very effective.",
+    "hint": "Ends in '-ive' (tending to) — 'effect' + '-ive'.",
+    "image": "/images/level10/effective.webp"
+  },
+  {
+    "id": "lvl10-295",
+    "level": 10,
+    "order": 295,
+    "word": "attractive",
+    "pronunciation": "/əˈtræktɪv/",
+    "banglaPronunciation": "অ্যাট্রাক্টিভ",
+    "meaning": "Pleasing or appealing to look at.",
+    "banglaMeaning": "আকর্ষণীয়",
+    "syllables": [
+      "at",
+      "trac",
+      "tive"
+    ],
+    "example": "The store window display was attractive.",
+    "hint": "Ends in '-ive' (tending to) — 'attract' + '-ive'.",
+    "image": "/images/level10/attractive.webp"
+  },
+  {
+    "id": "lvl10-296",
+    "level": 10,
+    "order": 296,
+    "word": "protective",
+    "pronunciation": "/prəˈtɛktɪv/",
+    "banglaPronunciation": "প্রোটেক্টিভ",
+    "meaning": "Providing protection; wanting to keep safe.",
+    "banglaMeaning": "সুরক্ষামূলক",
+    "syllables": [
+      "pro",
+      "tec",
+      "tive"
+    ],
+    "example": "She is very protective of her little brother.",
+    "hint": "Ends in '-ive' (tending to) — 'protect' + '-ive'.",
+    "image": "/images/level10/protective.webp"
+  },
+  {
+    "id": "lvl10-297",
+    "level": 10,
+    "order": 297,
+    "word": "competitive",
+    "pronunciation": "/kəmˈpɛtɪtɪv/",
+    "banglaPronunciation": "কমপেটিটিভ",
+    "meaning": "Wanting strongly to win or succeed.",
+    "banglaMeaning": "প্রতিযোগিতামূলক",
+    "syllables": [
+      "com",
+      "pet",
+      "i",
+      "tive"
+    ],
+    "example": "He has always been a competitive player.",
+    "hint": "Ends in '-ive' (tending to) — 'competit' + '-ive'.",
+    "image": "/images/level10/competitive.webp"
+  },
+  {
+    "id": "lvl10-298",
+    "level": 10,
+    "order": 298,
+    "word": "imaginative",
+    "pronunciation": "/ɪˈmædʒɪnətɪv/",
+    "banglaPronunciation": "ইমাজিনেটিভ",
+    "meaning": "Having or showing creativity.",
+    "banglaMeaning": "কল্পনাপ্রবণ",
+    "syllables": [
+      "i",
+      "mag",
+      "i",
+      "na",
+      "tive"
+    ],
+    "example": "The story had a very imaginative plot.",
+    "hint": "Ends in '-ive' (tending to) — 'imaginat' + '-ive'.",
+    "image": "/images/level10/imaginative.webp"
+  },
+  {
+    "id": "lvl10-299",
+    "level": 10,
+    "order": 299,
+    "word": "supportive",
+    "pronunciation": "/səˈpɔːrtɪv/",
+    "banglaPronunciation": "সাপোর্টিভ",
+    "meaning": "Providing help or encouragement.",
+    "banglaMeaning": "সহায়ক",
+    "syllables": [
+      "sup",
+      "por",
+      "tive"
+    ],
+    "example": "My parents are always supportive of me.",
+    "hint": "Ends in '-ive' (tending to) — 'support' + '-ive'.",
+    "image": "/images/level10/supportive.webp"
+  },
+  {
+    "id": "lvl10-300",
+    "level": 10,
+    "order": 300,
+    "word": "decisive",
+    "pronunciation": "/dɪˈsaɪsɪv/",
+    "banglaPronunciation": "ডিসাইসিভ",
+    "meaning": "Able to make decisions quickly and firmly.",
+    "banglaMeaning": "সিদ্ধান্তমূলক",
+    "syllables": [
+      "de",
+      "ci",
+      "sive"
+    ],
+    "example": "A good leader must be decisive.",
+    "hint": "Ends in '-ive' (tending to) — 'decis' + '-ive'.",
+    "image": "/images/level10/decisive.webp"
+  },
+  {
+    "id": "lvl10-301",
+    "level": 10,
+    "order": 301,
+    "word": "sensitive",
+    "pronunciation": "/ˈsɛnsətɪv/",
+    "banglaPronunciation": "সেনসিটিভ",
+    "meaning": "Easily affected or hurt by things.",
+    "banglaMeaning": "সংবেদনশীল",
+    "syllables": [
+      "sen",
+      "si",
+      "tive"
+    ],
+    "example": "He is quite sensitive about his height.",
+    "hint": "Ends in '-ive' (tending to) — 'sensit' + '-ive'.",
+    "image": "/images/level10/sensitive.webp"
+  },
+  {
+    "id": "lvl10-302",
+    "level": 10,
+    "order": 302,
+    "word": "productive",
+    "pronunciation": "/prəˈdʌktɪv/",
+    "banglaPronunciation": "প্রোডাক্টিভ",
+    "meaning": "Producing a lot; effective at work.",
+    "banglaMeaning": "উৎপাদনশীল",
+    "syllables": [
+      "pro",
+      "duc",
+      "tive"
+    ],
+    "example": "She had a very productive morning.",
+    "hint": "Ends in '-ive' (tending to) — 'product' + '-ive'.",
+    "image": "/images/level10/productive.webp"
+  },
+  {
+    "id": "lvl10-303",
+    "level": 10,
+    "order": 303,
+    "word": "realize",
+    "pronunciation": "/ˈriːəlaɪz/",
+    "banglaPronunciation": "রিয়ালাইজ",
+    "meaning": "To become fully aware of something.",
+    "banglaMeaning": "উপলব্ধি করা",
+    "syllables": [
+      "re",
+      "al",
+      "ize"
+    ],
+    "example": "I didn't realize how late it was.",
+    "hint": "Prefix 're-' means again — 're' + 'alize'.",
+    "image": "/images/level10/realize.webp"
+  },
+  {
+    "id": "lvl10-304",
+    "level": 10,
+    "order": 304,
+    "word": "organize",
+    "pronunciation": "/ˈɔːrɡənaɪz/",
+    "banglaPronunciation": "অর্গানাইজ",
+    "meaning": "To arrange things in order.",
+    "banglaMeaning": "সংগঠিত করা",
+    "syllables": [
+      "or",
+      "gan",
+      "ize"
+    ],
+    "example": "Help me organize these files by date.",
+    "hint": "Ends in '-ize' (to make or become) — 'organ' + '-ize'.",
+    "image": "/images/level10/organize.webp"
+  },
+  {
+    "id": "lvl10-305",
+    "level": 10,
+    "order": 305,
+    "word": "authorize",
+    "pronunciation": "/ˈɔːθəraɪz/",
+    "banglaPronunciation": "অথরাইজ",
+    "meaning": "To give official permission for something.",
+    "banglaMeaning": "অনুমোদন দেওয়া",
+    "syllables": [
+      "au",
+      "thor",
+      "ize"
+    ],
+    "example": "Only a manager can authorize a refund.",
+    "hint": "Ends in '-ize' (to make or become) — 'author' + '-ize'.",
+    "image": "/images/level10/authorize.webp"
+  },
+  {
+    "id": "lvl10-306",
+    "level": 10,
+    "order": 306,
+    "word": "apologize",
+    "pronunciation": "/əˈpɒlədʒaɪz/",
+    "banglaPronunciation": "অ্যাপোলজাইজ",
+    "meaning": "To say sorry for something.",
+    "banglaMeaning": "ক্ষমা চাওয়া",
+    "syllables": [
+      "a",
+      "pol",
+      "o",
+      "gize"
+    ],
+    "example": "He apologized for being late.",
+    "hint": "Ends in '-ize' (to make or become) — 'apolog' + '-ize'.",
+    "image": "/images/level10/apologize.webp"
+  },
+  {
+    "id": "lvl10-307",
+    "level": 10,
+    "order": 307,
+    "word": "memorize",
+    "pronunciation": "/ˈmɛməraɪz/",
+    "banglaPronunciation": "মেমোরাইজ",
+    "meaning": "To learn something so you remember it exactly.",
+    "banglaMeaning": "মুখস্থ করা",
+    "syllables": [
+      "mem",
+      "o",
+      "rize"
+    ],
+    "example": "She had to memorize the poem for class.",
+    "hint": "Ends in '-ize' (to make or become) — 'memor' + '-ize'.",
+    "image": "/images/level10/memorize.webp"
+  },
+  {
+    "id": "lvl10-308",
+    "level": 10,
+    "order": 308,
+    "word": "criticize",
+    "pronunciation": "/ˈkrɪtɪsaɪz/",
+    "banglaPronunciation": "ক্রিটিসাইজ",
+    "meaning": "To point out faults in something.",
+    "banglaMeaning": "সমালোচনা করা",
+    "syllables": [
+      "crit",
+      "i",
+      "cize"
+    ],
+    "example": "It's easy to criticize, but harder to help.",
+    "hint": "Ends in '-ize' (to make or become) — 'critic' + '-ize'.",
+    "image": "/images/level10/criticize.webp"
+  },
+  {
+    "id": "lvl10-309",
+    "level": 10,
+    "order": 309,
+    "word": "summarize",
+    "pronunciation": "/ˈsʌməraɪz/",
+    "banglaPronunciation": "সামারাইজ",
+    "meaning": "To give a short account of the main points.",
+    "banglaMeaning": "সংক্ষেপ করা",
+    "syllables": [
+      "sum",
+      "ma",
+      "rize"
+    ],
+    "example": "Please summarize the chapter in two lines.",
+    "hint": "Ends in '-ize' (to make or become) — 'summar' + '-ize'.",
+    "image": "/images/level10/summarize.webp"
+  },
+  {
+    "id": "lvl10-310",
+    "level": 10,
+    "order": 310,
+    "word": "capitalize",
+    "pronunciation": "/ˈkæpɪtəlaɪz/",
+    "banglaPronunciation": "ক্যাপিটালাইজ",
+    "meaning": "To write with a capital letter, or take advantage of.",
+    "banglaMeaning": "বড় হাতের অক্ষরে লেখা",
+    "syllables": [
+      "cap",
+      "i",
+      "tal",
+      "ize"
+    ],
+    "example": "Remember to capitalize the first letter.",
+    "hint": "Ends in '-ize' (to make or become) — 'capital' + '-ize'.",
+    "image": "/images/level10/capitalize.webp"
+  },
+  {
+    "id": "lvl10-311",
+    "level": 10,
+    "order": 311,
+    "word": "symbolize",
+    "pronunciation": "/ˈsɪmbəlaɪz/",
+    "banglaPronunciation": "সিম্বোলাইজ",
+    "meaning": "To represent an idea using a symbol.",
+    "banglaMeaning": "প্রতীকায়িত করা",
+    "syllables": [
+      "sym",
+      "bol",
+      "ize"
+    ],
+    "example": "A dove can symbolize peace.",
+    "hint": "Ends in '-ize' (to make or become) — 'symbol' + '-ize'.",
+    "image": "/images/level10/symbolize.webp"
+  },
+  {
+    "id": "lvl10-312",
+    "level": 10,
+    "order": 312,
+    "word": "energize",
+    "pronunciation": "/ˈɛnərdʒaɪz/",
+    "banglaPronunciation": "এনার্জাইজ",
+    "meaning": "To give energy to someone or something.",
+    "banglaMeaning": "শক্তি জোগানো",
+    "syllables": [
+      "en",
+      "er",
+      "gize"
+    ],
+    "example": "A short walk can energize your morning.",
+    "hint": "Ends in '-ize' (to make or become) — 'energ' + '-ize'.",
+    "image": "/images/level10/energize.webp"
+  },
+  {
+    "id": "lvl10-313",
+    "level": 10,
+    "order": 313,
+    "word": "familiarize",
+    "pronunciation": "/fəˈmɪljəraɪz/",
+    "banglaPronunciation": "ফ্যামিলিয়ারাইজ",
+    "meaning": "To make yourself or someone else know something well.",
+    "banglaMeaning": "পরিচিত করা",
+    "syllables": [
+      "fa",
+      "mil",
+      "iar",
+      "ize"
+    ],
+    "example": "Take time to familiarize yourself with the rules.",
+    "hint": "Ends in '-ize' (to make or become) — 'familiar' + '-ize'.",
+    "image": "/images/level10/familiarize.webp"
+  },
+  {
+    "id": "lvl10-314",
+    "level": 10,
+    "order": 314,
+    "word": "modernize",
+    "pronunciation": "/ˈmɒdərnaɪz/",
+    "banglaPronunciation": "মডার্নাইজ",
+    "meaning": "To make something more modern.",
+    "banglaMeaning": "আধুনিকীকরণ করা",
+    "syllables": [
+      "mod",
+      "ern",
+      "ize"
+    ],
+    "example": "The old factory needs to modernize its machines.",
+    "hint": "Ends in '-ize' (to make or become) — 'modern' + '-ize'.",
+    "image": "/images/level10/modernize.webp"
+  },
+  {
+    "id": "lvl10-315",
+    "level": 10,
+    "order": 315,
+    "word": "specialize",
+    "pronunciation": "/ˈspɛʃəlaɪz/",
+    "banglaPronunciation": "স্পেশালাইজ",
+    "meaning": "To focus on and become an expert in one area.",
+    "banglaMeaning": "বিশেষায়িত করা",
+    "syllables": [
+      "spe",
+      "cial",
+      "ize"
+    ],
+    "example": "She plans to specialize in eye surgery.",
+    "hint": "Ends in '-ize' (to make or become) — 'special' + '-ize'.",
+    "image": "/images/level10/specialize.webp"
+  },
+  {
+    "id": "lvl10-316",
+    "level": 10,
+    "order": 316,
+    "word": "visualize",
+    "pronunciation": "/ˈvɪʒuəlaɪz/",
+    "banglaPronunciation": "ভিজুয়ালাইজ",
+    "meaning": "To form a picture of something in your mind.",
+    "banglaMeaning": "কল্পনায় দেখা",
+    "syllables": [
+      "vi",
+      "su",
+      "al",
+      "ize"
+    ],
+    "example": "Try to visualize your goal before you start.",
+    "hint": "Ends in '-ize' (to make or become) — 'visual' + '-ize'.",
+    "image": "/images/level10/visualize.webp"
+  },
+  {
+    "id": "lvl10-317",
+    "level": 10,
+    "order": 317,
+    "word": "knack",
+    "pronunciation": "/næk/",
+    "banglaPronunciation": "ন্যাক",
+    "meaning": "A special skill for doing something well.",
+    "banglaMeaning": "বিশেষ দক্ষতা",
+    "syllables": [
+      "knack"
+    ],
+    "example": "She has a real knack for painting.",
+    "hint": "Silent K at the start — pronounced 'nack'.",
+    "image": "/images/level10/knack.webp"
+  },
+  {
+    "id": "lvl10-318",
+    "level": 10,
+    "order": 318,
+    "word": "knead",
+    "pronunciation": "/niːd/",
+    "banglaPronunciation": "নিড",
+    "meaning": "To press and squeeze dough with the hands.",
+    "banglaMeaning": "মাখা (ময়দা)",
+    "syllables": [
+      "knead"
+    ],
+    "example": "She began to knead the bread dough.",
+    "hint": "Silent K at the start — pronounced 'need'.",
+    "image": "/images/level10/knead.webp"
+  },
+  {
+    "id": "lvl10-319",
+    "level": 10,
+    "order": 319,
+    "word": "knapweed",
+    "pronunciation": "/ˈnæpwiːd/",
+    "banglaPronunciation": "ন্যাপউইড",
+    "meaning": "A wild plant with purple, thistle-like flowers.",
+    "banglaMeaning": "বন্য ফুলগাছ",
+    "syllables": [
+      "knap",
+      "weed"
+    ],
+    "example": "Purple knapweed grew along the trail.",
+    "hint": "Silent K at the start — pronounced 'nap-weed'.",
+    "image": "/images/level10/knapweed.webp"
+  },
+  {
+    "id": "lvl10-320",
+    "level": 10,
+    "order": 320,
+    "word": "knockout",
+    "pronunciation": "/ˈnɒkaʊt/",
+    "banglaPronunciation": "নকআউট",
+    "meaning": "A powerful blow that ends a fight, or a big success.",
+    "banglaMeaning": "নকআউট (কুস্তি/প্রতিযোগিতা)",
+    "syllables": [
+      "knock",
+      "out"
+    ],
+    "example": "The boxer won by a knockout.",
+    "hint": "Silent K at the start — pronounced 'nock-out'.",
+    "image": "/images/level10/knockout.webp"
+  },
+  {
+    "id": "lvl10-321",
+    "level": 10,
+    "order": 321,
+    "word": "knotweed",
+    "pronunciation": "/ˈnɒtwiːd/",
+    "banglaPronunciation": "নটউইড",
+    "meaning": "A fast-growing weed with jointed stems.",
+    "banglaMeaning": "একধরনের আগাছা",
+    "syllables": [
+      "knot",
+      "weed"
+    ],
+    "example": "The garden was overrun with knotweed.",
+    "hint": "Silent K at the start — pronounced 'not-weed'.",
+    "image": "/images/level10/knotweed.webp"
+  },
+  {
+    "id": "lvl10-322",
+    "level": 10,
+    "order": 322,
+    "word": "kneel",
+    "pronunciation": "/niːl/",
+    "banglaPronunciation": "নিল",
+    "meaning": "To go down on one or both knees.",
+    "banglaMeaning": "হাঁটু গেড়ে বসা",
+    "syllables": [
+      "kneel"
+    ],
+    "example": "The knight began to kneel before the king.",
+    "hint": "Silent K at the start — pronounced 'neel'.",
+    "image": "/images/level10/kneel.webp"
+  },
+  {
+    "id": "lvl10-323",
+    "level": 10,
+    "order": 323,
+    "word": "knuckle",
+    "pronunciation": "/ˈnʌkəl/",
+    "banglaPronunciation": "নাকল",
+    "meaning": "A joint of the finger.",
+    "banglaMeaning": "আঙুলের গিঁট",
+    "syllables": [
+      "knuck",
+      "le"
+    ],
+    "example": "He knocked with his knuckle on the door.",
+    "hint": "Silent K at the start — pronounced 'nuckle'.",
+    "image": "/images/level10/knuckle.webp"
+  },
+  {
+    "id": "lvl10-324",
+    "level": 10,
+    "order": 324,
+    "word": "knowledgeable",
+    "pronunciation": "/ˈnɒlɪdʒəbəl/",
+    "banglaPronunciation": "নলেজেবল",
+    "meaning": "Having a lot of knowledge about something.",
+    "banglaMeaning": "জ্ঞানী",
+    "syllables": [
+      "knowl",
+      "edge",
+      "a",
+      "ble"
+    ],
+    "example": "The librarian was very knowledgeable about history.",
+    "hint": "Silent K at the start — pronounced 'nolledge-able'.",
+    "image": "/images/level10/knowledgeable.webp"
+  },
+  {
+    "id": "lvl10-325",
+    "level": 10,
+    "order": 325,
+    "word": "knob",
+    "pronunciation": "/nɒb/",
+    "banglaPronunciation": "নব",
+    "meaning": "A round handle on a door or drawer.",
+    "banglaMeaning": "গোলাকার হাতল",
+    "syllables": [
+      "knob"
+    ],
+    "example": "Turn the knob to open the door.",
+    "hint": "Silent K at the start — pronounced 'nob'.",
+    "image": "/images/level10/knob.webp"
+  },
+  {
+    "id": "lvl10-326",
+    "level": 10,
+    "order": 326,
+    "word": "knapsack",
+    "pronunciation": "/ˈnæpsæk/",
+    "banglaPronunciation": "ন্যাপস্যাক",
+    "meaning": "A bag carried on the back.",
+    "banglaMeaning": "পিঠে বহনযোগ্য ব্যাগ",
+    "syllables": [
+      "knap",
+      "sack"
+    ],
+    "example": "He packed his knapsack for the hike.",
+    "hint": "Silent K at the start — pronounced 'nap-sack'.",
+    "image": "/images/level10/knapsack.webp"
+  },
+  {
+    "id": "lvl10-327",
+    "level": 10,
+    "order": 327,
+    "word": "knifepoint",
+    "pronunciation": "/ˈnaɪfpɔɪnt/",
+    "banglaPronunciation": "নাইফপয়েন্ট",
+    "meaning": "The sharp tip of a knife.",
+    "banglaMeaning": "ছুরির ধারালো অগ্রভাগ",
+    "syllables": [
+      "knife",
+      "point"
+    ],
+    "example": "He robbed the store at knifepoint.",
+    "hint": "Silent K at the start — pronounced 'nife-point'.",
+    "image": "/images/level10/knifepoint.webp"
+  },
+  {
+    "id": "lvl10-328",
+    "level": 10,
+    "order": 328,
+    "word": "knothole",
+    "pronunciation": "/ˈnɒthoʊl/",
+    "banglaPronunciation": "নটহোল",
+    "meaning": "A hole in wood where a knot has fallen out.",
+    "banglaMeaning": "কাঠের গিঁটের গর্ত",
+    "syllables": [
+      "knot",
+      "hole"
+    ],
+    "example": "Light shone through the knothole in the fence.",
+    "hint": "Silent K at the start — pronounced 'not-hole'.",
+    "image": "/images/level10/knothole.webp"
+  },
+  {
+    "id": "lvl10-329",
+    "level": 10,
+    "order": 329,
+    "word": "wristwatch",
+    "pronunciation": "/ˈrɪstwɒtʃ/",
+    "banglaPronunciation": "রিস্টওয়াচ",
+    "meaning": "A watch worn on the wrist.",
+    "banglaMeaning": "হাতঘড়ি",
+    "syllables": [
+      "wrist",
+      "watch"
+    ],
+    "example": "He checked the time on his wristwatch.",
+    "hint": "Silent W at the start — pronounced 'rist-watch'.",
+    "image": "/images/level10/wristwatch.webp"
+  },
+  {
+    "id": "lvl10-330",
+    "level": 10,
+    "order": 330,
+    "word": "wrapper",
+    "pronunciation": "/ˈræpər/",
+    "banglaPronunciation": "র‍্যাপার",
+    "meaning": "The paper or plastic covering something.",
+    "banglaMeaning": "মোড়ক",
+    "syllables": [
+      "wrap",
+      "per"
+    ],
+    "example": "She threw the candy wrapper in the bin.",
+    "hint": "Silent W at the start — pronounced 'rapper'.",
+    "image": "/images/level10/wrapper.webp"
+  },
+  {
+    "id": "lvl10-331",
+    "level": 10,
+    "order": 331,
+    "word": "wreckage",
+    "pronunciation": "/ˈrɛkɪdʒ/",
+    "banglaPronunciation": "রেকেজ",
+    "meaning": "The broken remains of something destroyed.",
+    "banglaMeaning": "ধ্বংসাবশেষ",
+    "syllables": [
+      "wreck",
+      "age"
+    ],
+    "example": "Rescuers searched through the wreckage.",
+    "hint": "Silent W at the start — pronounced 'reck-age'.",
+    "image": "/images/level10/wreckage.webp"
+  },
+  {
+    "id": "lvl10-332",
+    "level": 10,
+    "order": 332,
+    "word": "writhe",
+    "pronunciation": "/raɪð/",
+    "banglaPronunciation": "রাইদ",
+    "meaning": "To twist the body due to pain.",
+    "banglaMeaning": "যন্ত্রণায় ছটফট করা",
+    "syllables": [
+      "writhe"
+    ],
+    "example": "The injured player began to writhe in pain.",
+    "hint": "Silent W at the start — pronounced 'rithe'.",
+    "image": "/images/level10/writhe.webp"
+  },
+  {
+    "id": "lvl10-333",
+    "level": 10,
+    "order": 333,
+    "word": "wrongdoer",
+    "pronunciation": "/ˈrɒŋduːər/",
+    "banglaPronunciation": "রংডুয়ার",
+    "meaning": "A person who does something wrong or illegal.",
+    "banglaMeaning": "অপরাধী",
+    "syllables": [
+      "wrong",
+      "do",
+      "er"
+    ],
+    "example": "The wrongdoer was finally caught.",
+    "hint": "Silent W at the start — pronounced 'rong-doo-er'.",
+    "image": "/images/level10/wrongdoer.webp"
+  },
+  {
+    "id": "lvl10-334",
+    "level": 10,
+    "order": 334,
+    "word": "answerable",
+    "pronunciation": "/ˈænsərəbəl/",
+    "banglaPronunciation": "আনসারেবল",
+    "meaning": "Required to explain or justify one’s actions.",
+    "banglaMeaning": "জবাবদিহিমূলক",
+    "syllables": [
+      "an",
+      "swer",
+      "a",
+      "ble"
+    ],
+    "example": "Leaders are answerable to the public.",
+    "hint": "Silent W in the middle — pronounced 'anser-able'.",
+    "image": "/images/level10/answerable.webp"
+  },
+  {
+    "id": "lvl10-335",
+    "level": 10,
+    "order": 335,
+    "word": "swordplay",
+    "pronunciation": "/ˈsɔːrdpleɪ/",
+    "banglaPronunciation": "সোর্ডপ্লে",
+    "meaning": "Fighting or fencing with swords.",
+    "banglaMeaning": "তরবারি যুদ্ধ",
+    "syllables": [
+      "sword",
+      "play"
+    ],
+    "example": "The movie had an exciting swordplay scene.",
+    "hint": "Silent W in 'sword' — pronounced 'sord-play'.",
+    "image": "/images/level10/swordplay.webp"
+  },
+  {
+    "id": "lvl10-336",
+    "level": 10,
+    "order": 336,
+    "word": "wrestle",
+    "pronunciation": "/ˈrɛsəl/",
+    "banglaPronunciation": "রেসল",
+    "meaning": "To fight by holding and trying to throw someone down.",
+    "banglaMeaning": "কুস্তি করা",
+    "syllables": [
+      "wres",
+      "tle"
+    ],
+    "example": "The boys began to wrestle on the mat.",
+    "hint": "Silent W at the start — pronounced 'ressle'.",
+    "image": "/images/level10/wrestle.webp"
+  },
+  {
+    "id": "lvl10-337",
+    "level": 10,
+    "order": 337,
+    "word": "wrongly",
+    "pronunciation": "/ˈrɒŋli/",
+    "banglaPronunciation": "রংলি",
+    "meaning": "In an incorrect way.",
+    "banglaMeaning": "ভুলভাবে",
+    "syllables": [
+      "wrong",
+      "ly"
+    ],
+    "example": "He was wrongly blamed for the mistake.",
+    "hint": "Silent W at the start — pronounced 'rong-ly'.",
+    "image": "/images/level10/wrongly.webp"
+  },
+  {
+    "id": "lvl10-338",
+    "level": 10,
+    "order": 338,
+    "word": "sword",
+    "pronunciation": "/sɔːrd/",
+    "banglaPronunciation": "সোর্ড",
+    "meaning": "A weapon with a long, sharp blade.",
+    "banglaMeaning": "তরবারি",
+    "syllables": [
+      "sword"
+    ],
+    "example": "The hero carried a shining sword.",
+    "hint": "Silent W in the middle — pronounced 'sord'.",
+    "image": "/images/level10/sword.webp"
+  },
+  {
+    "id": "lvl10-339",
+    "level": 10,
+    "order": 339,
+    "word": "answer",
+    "pronunciation": "/ˈænsər/",
+    "banglaPronunciation": "আনসার",
+    "meaning": "A reply to a question.",
+    "banglaMeaning": "উত্তর",
+    "syllables": [
+      "an",
+      "swer"
+    ],
+    "example": "Do you know the answer to this riddle?",
+    "hint": "Silent W in the middle — pronounced 'anser'.",
+    "image": "/images/level10/answer.webp"
+  },
+  {
+    "id": "lvl10-340",
+    "level": 10,
+    "order": 340,
+    "word": "wrongful",
+    "pronunciation": "/ˈrɒŋfəl/",
+    "banglaPronunciation": "রংফুল",
+    "meaning": "Not fair, just, or legal.",
+    "banglaMeaning": "অন্যায্য",
+    "syllables": [
+      "wrong",
+      "ful"
+    ],
+    "example": "She sued the company for wrongful dismissal.",
+    "hint": "Silent W at the start — pronounced 'rong-ful'.",
+    "image": "/images/level10/wrongful.webp"
+  },
+  {
+    "id": "lvl10-341",
+    "level": 10,
+    "order": 341,
+    "word": "thumbtack",
+    "pronunciation": "/ˈθʌmtæk/",
+    "banglaPronunciation": "থামট্যাক",
+    "meaning": "A short pin with a flat head, pressed in with the thumb.",
+    "banglaMeaning": "পিন",
+    "syllables": [
+      "thumb",
+      "tack"
+    ],
+    "example": "She pinned the note with a thumbtack.",
+    "hint": "Silent B in 'thumb' — pronounced 'thum-tack'.",
+    "image": "/images/level10/thumbtack.webp"
+  },
+  {
+    "id": "lvl10-342",
+    "level": 10,
+    "order": 342,
+    "word": "climber",
+    "pronunciation": "/ˈklaɪmər/",
+    "banglaPronunciation": "ক্লাইমার",
+    "meaning": "A person who climbs, especially mountains.",
+    "banglaMeaning": "আরোহণকারী",
+    "syllables": [
+      "climb",
+      "er"
+    ],
+    "example": "The climber reached the summit at noon.",
+    "hint": "Silent B in 'climb' — pronounced 'clime-er'.",
+    "image": "/images/level10/climber.webp"
+  },
+  {
+    "id": "lvl10-343",
+    "level": 10,
+    "order": 343,
+    "word": "doubtful",
+    "pronunciation": "/ˈdaʊtfəl/",
+    "banglaPronunciation": "ডাউটফুল",
+    "meaning": "Feeling unsure or full of doubt.",
+    "banglaMeaning": "সন্দিহান",
+    "syllables": [
+      "doubt",
+      "ful"
+    ],
+    "example": "She looked doubtful about the plan.",
+    "hint": "Silent B in 'doubt' — pronounced 'dowt-ful'.",
+    "image": "/images/level10/doubtful.webp"
+  },
+  {
+    "id": "lvl10-344",
+    "level": 10,
+    "order": 344,
+    "word": "indebted",
+    "pronunciation": "/ɪnˈdɛtɪd/",
+    "banglaPronunciation": "ইনডেটেড",
+    "meaning": "Owing money or gratitude to someone.",
+    "banglaMeaning": "ঋণী",
+    "syllables": [
+      "in",
+      "debt",
+      "ed"
+    ],
+    "example": "He felt indebted to his teacher for her help.",
+    "hint": "Silent B in 'debt' — pronounced 'in-det-ed'.",
+    "image": "/images/level10/indebted.webp"
+  },
+  {
+    "id": "lvl10-345",
+    "level": 10,
+    "order": 345,
+    "word": "crumb",
+    "pronunciation": "/krʌm/",
+    "banglaPronunciation": "ক্রাম",
+    "meaning": "A tiny piece of bread or cake.",
+    "banglaMeaning": "গুঁড়ো টুকরা",
+    "syllables": [
+      "crumb"
+    ],
+    "example": "A single crumb fell on the floor.",
+    "hint": "Silent B at the end — pronounced 'crum'.",
+    "image": "/images/level10/crumb.webp"
+  },
+  {
+    "id": "lvl10-346",
+    "level": 10,
+    "order": 346,
+    "word": "bomb",
+    "pronunciation": "/bɒm/",
+    "banglaPronunciation": "বম",
+    "meaning": "A weapon that explodes.",
+    "banglaMeaning": "বোমা",
+    "syllables": [
+      "bomb"
+    ],
+    "example": "The old bomb was carefully removed.",
+    "hint": "Silent B at the end — pronounced 'bom'.",
+    "image": "/images/level10/bomb.webp"
+  },
+  {
+    "id": "lvl10-347",
+    "level": 10,
+    "order": 347,
+    "word": "crumble",
+    "pronunciation": "/ˈkrʌmbəl/",
+    "banglaPronunciation": "ক্রামবল",
+    "meaning": "To break into small pieces.",
+    "banglaMeaning": "গুঁড়ো হয়ে যাওয়া",
+    "syllables": [
+      "crum",
+      "ble"
+    ],
+    "example": "The old wall began to crumble.",
+    "hint": "Silent B in the middle — pronounced 'crum-bl'.",
+    "image": "/images/level10/crumble.webp"
+  },
+  {
+    "id": "lvl10-348",
+    "level": 10,
+    "order": 348,
+    "word": "bombard",
+    "pronunciation": "/bɒmˈbɑːrd/",
+    "banglaPronunciation": "বমবার্ড",
+    "meaning": "To attack with many weapons, or ask many questions at once.",
+    "banglaMeaning": "বোমাবর্ষণ করা",
+    "syllables": [
+      "bom",
+      "bard"
+    ],
+    "example": "Reporters began to bombard her with questions.",
+    "hint": "Silent B in 'bomb' — pronounced 'bom-bard'.",
+    "image": "/images/level10/bombard.webp"
+  },
+  {
+    "id": "lvl10-349",
+    "level": 10,
+    "order": 349,
+    "word": "numb",
+    "pronunciation": "/nʌm/",
+    "banglaPronunciation": "নাম",
+    "meaning": "Unable to feel anything.",
+    "banglaMeaning": "অসাড়",
+    "syllables": [
+      "numb"
+    ],
+    "example": "My fingers felt numb in the cold.",
+    "hint": "Silent B at the end — pronounced 'num'.",
+    "image": "/images/level10/numb.webp"
+  },
+  {
+    "id": "lvl10-350",
+    "level": 10,
+    "order": 350,
+    "word": "plumber",
+    "pronunciation": "/ˈplʌmər/",
+    "banglaPronunciation": "প্লামার",
+    "meaning": "A person who repairs water pipes.",
+    "banglaMeaning": "পাইপ মেরামতকারী",
+    "syllables": [
+      "plumb",
+      "er"
+    ],
+    "example": "We called a plumber to fix the leak.",
+    "hint": "Silent B in the middle — pronounced 'plummer'.",
+    "image": "/images/level10/plumber.webp"
+  },
+  {
+    "id": "lvl10-351",
+    "level": 10,
+    "order": 351,
+    "word": "limbless",
+    "pronunciation": "/ˈlɪmləs/",
+    "banglaPronunciation": "লিমলেস",
+    "meaning": "Having no arms or legs.",
+    "banglaMeaning": "অঙ্গহীন",
+    "syllables": [
+      "limb",
+      "less"
+    ],
+    "example": "The snake is a limbless reptile.",
+    "hint": "Silent B in 'limb' — pronounced 'lim-less'.",
+    "image": "/images/level10/limbless.webp"
+  },
+  {
+    "id": "lvl10-352",
+    "level": 10,
+    "order": 352,
+    "word": "numbness",
+    "pronunciation": "/ˈnʌmnəs/",
+    "banglaPronunciation": "নামনেস",
+    "meaning": "A lack of feeling in part of the body.",
+    "banglaMeaning": "অসাড়তা",
+    "syllables": [
+      "numb",
+      "ness"
+    ],
+    "example": "The cold caused numbness in her fingers.",
+    "hint": "Silent B in 'numb' — pronounced 'num-ness'.",
+    "image": "/images/level10/numbness.webp"
+  },
+  {
+    "id": "lvl10-353",
+    "level": 10,
+    "order": 353,
+    "word": "gnome",
+    "pronunciation": "/noʊm/",
+    "banglaPronunciation": "নৌম",
+    "meaning": "A small mythical creature that lives underground.",
+    "banglaMeaning": "বামন প্রাণী",
+    "syllables": [
+      "gnome"
+    ],
+    "example": "A garden gnome stood by the flowers.",
+    "hint": "Silent G at the start — pronounced 'nome'.",
+    "image": "/images/level10/gnome.webp"
+  },
+  {
+    "id": "lvl10-354",
+    "level": 10,
+    "order": 354,
+    "word": "sign",
+    "pronunciation": "/saɪn/",
+    "banglaPronunciation": "সাইন",
+    "meaning": "A board or symbol that gives information.",
+    "banglaMeaning": "চিহ্ন",
+    "syllables": [
+      "sign"
+    ],
+    "example": "The sign pointed toward the exit.",
+    "hint": "Silent G at the end — pronounced 'sine'.",
+    "image": "/images/level10/sign.webp"
+  },
+  {
+    "id": "lvl10-355",
+    "level": 10,
+    "order": 355,
+    "word": "design",
+    "pronunciation": "/dɪˈzaɪn/",
+    "banglaPronunciation": "ডিজাইন",
+    "meaning": "A plan or drawing for how something will look.",
+    "banglaMeaning": "নকশা",
+    "syllables": [
+      "de",
+      "sign"
+    ],
+    "example": "She created a new design for the poster.",
+    "hint": "Silent G at the end — pronounced 'de-zine'.",
+    "image": "/images/level10/design.webp"
+  },
+  {
+    "id": "lvl10-356",
+    "level": 10,
+    "order": 356,
+    "word": "campaign",
+    "pronunciation": "/kæmˈpeɪn/",
+    "banglaPronunciation": "ক্যাম্পেইন",
+    "meaning": "An organized effort to achieve a goal.",
+    "banglaMeaning": "প্রচারাভিযান",
+    "syllables": [
+      "cam",
+      "paign"
+    ],
+    "example": "The school ran a recycling campaign.",
+    "hint": "Silent G at the end — pronounced 'cam-pain'.",
+    "image": "/images/level10/campaign.webp"
+  },
+  {
+    "id": "lvl10-357",
+    "level": 10,
+    "order": 357,
+    "word": "gnat",
+    "pronunciation": "/næt/",
+    "banglaPronunciation": "ন্যাট",
+    "meaning": "A tiny flying insect.",
+    "banglaMeaning": "ছোট মাছি",
+    "syllables": [
+      "gnat"
+    ],
+    "example": "A gnat buzzed near his ear.",
+    "hint": "Silent G at the start — pronounced 'nat'.",
+    "image": "/images/level10/gnat.webp"
+  },
+  {
+    "id": "lvl10-358",
+    "level": 10,
+    "order": 358,
+    "word": "gnaw",
+    "pronunciation": "/nɔː/",
+    "banglaPronunciation": "নও",
+    "meaning": "To bite something repeatedly.",
+    "banglaMeaning": "কামড়ানো",
+    "syllables": [
+      "gnaw"
+    ],
+    "example": "The dog began to gnaw on the bone.",
+    "hint": "Silent G at the start — pronounced 'naw'.",
+    "image": "/images/level10/gnaw.webp"
+  },
+  {
+    "id": "lvl10-359",
+    "level": 10,
+    "order": 359,
+    "word": "resign",
+    "pronunciation": "/rɪˈzaɪn/",
+    "banglaPronunciation": "রিজাইন",
+    "meaning": "To formally give up a job or position.",
+    "banglaMeaning": "পদত্যাগ করা",
+    "syllables": [
+      "re",
+      "sign"
+    ],
+    "example": "The manager decided to resign.",
+    "hint": "Silent G at the end — pronounced 're-zine'.",
+    "image": "/images/level10/resign.webp"
+  },
+  {
+    "id": "lvl10-360",
+    "level": 10,
+    "order": 360,
+    "word": "assign",
+    "pronunciation": "/əˈsaɪn/",
+    "banglaPronunciation": "অ্যাসাইন",
+    "meaning": "To give someone a task.",
+    "banglaMeaning": "দায়িত্ব দেওয়া",
+    "syllables": [
+      "as",
+      "sign"
+    ],
+    "example": "The teacher will assign new homework.",
+    "hint": "Silent G at the end — pronounced 'a-sine'.",
+    "image": "/images/level10/assign.webp"
+  },
+  {
+    "id": "lvl10-361",
+    "level": 10,
+    "order": 361,
+    "word": "champagne",
+    "pronunciation": "/ʃæmˈpeɪn/",
+    "banglaPronunciation": "শ্যাম্পেইন",
+    "meaning": "A sparkling wine from France.",
+    "banglaMeaning": "শ্যাম্পেইন",
+    "syllables": [
+      "cham",
+      "pagne"
+    ],
+    "example": "They celebrated with a glass of champagne.",
+    "hint": "Silent G in 'pagne' — pronounced 'sham-pain'.",
+    "image": "/images/level10/champagne.webp"
+  },
+  {
+    "id": "lvl10-362",
+    "level": 10,
+    "order": 362,
+    "word": "cologne",
+    "pronunciation": "/kəˈloʊn/",
+    "banglaPronunciation": "কলৌন",
+    "meaning": "A light perfume for men.",
+    "banglaMeaning": "সুগন্ধি",
+    "syllables": [
+      "co",
+      "logne"
+    ],
+    "example": "He wore a fresh cologne to the party.",
+    "hint": "Silent G in 'logne' — pronounced 'co-loan'.",
+    "image": "/images/level10/cologne.webp"
+  },
+  {
+    "id": "lvl10-363",
+    "level": 10,
+    "order": 363,
+    "word": "gnarl",
+    "pronunciation": "/nɑːrl/",
+    "banglaPronunciation": "নার্ল",
+    "meaning": "A hard, twisted lump on a tree.",
+    "banglaMeaning": "গাছের গিঁটযুক্ত অংশ",
+    "syllables": [
+      "gnarl"
+    ],
+    "example": "The old tree had a thick gnarl in its trunk.",
+    "hint": "Silent G at the start — pronounced 'narl'.",
+    "image": "/images/level10/gnarl.webp"
+  },
+  {
+    "id": "lvl10-364",
+    "level": 10,
+    "order": 364,
+    "word": "gnash",
+    "pronunciation": "/næʃ/",
+    "banglaPronunciation": "ন্যাশ",
+    "meaning": "To grind the teeth together.",
+    "banglaMeaning": "দাঁত কিড়মিড় করা",
+    "syllables": [
+      "gnash"
+    ],
+    "example": "He began to gnash his teeth in anger.",
+    "hint": "Silent G at the start — pronounced 'nash'.",
+    "image": "/images/level10/gnash.webp"
+  },
+  {
+    "id": "lvl10-365",
+    "level": 10,
+    "order": 365,
+    "word": "half",
+    "pronunciation": "/hæf/",
+    "banglaPronunciation": "হ্যাফ",
+    "meaning": "One of two equal parts.",
+    "banglaMeaning": "অর্ধেক",
+    "syllables": [
+      "half"
+    ],
+    "example": "She ate half of the sandwich.",
+    "hint": "Silent L in the middle — pronounced 'haf'.",
+    "image": "/images/level10/half.webp"
+  },
+  {
+    "id": "lvl10-366",
+    "level": 10,
+    "order": 366,
+    "word": "walker",
+    "pronunciation": "/ˈwɔːkər/",
+    "banglaPronunciation": "ওয়াকার",
+    "meaning": "A person who walks, or a frame for support while walking.",
+    "banglaMeaning": "পথচারী",
+    "syllables": [
+      "walk",
+      "er"
+    ],
+    "example": "The early morning walker waved hello.",
+    "hint": "Silent L in 'walk' — pronounced 'wawk-er'.",
+    "image": "/images/level10/walker.webp"
+  },
+  {
+    "id": "lvl10-367",
+    "level": 10,
+    "order": 367,
+    "word": "chalky",
+    "pronunciation": "/ˈtʃɔːki/",
+    "banglaPronunciation": "চকি",
+    "meaning": "Like chalk in taste or texture.",
+    "banglaMeaning": "চকের মতো",
+    "syllables": [
+      "chalk",
+      "y"
+    ],
+    "example": "The medicine had a chalky taste.",
+    "hint": "Silent L in 'chalk' — pronounced 'chawk-y'.",
+    "image": "/images/level10/chalky.webp"
+  },
+  {
+    "id": "lvl10-368",
+    "level": 10,
+    "order": 368,
+    "word": "calmness",
+    "pronunciation": "/ˈkɑːmnəs/",
+    "banglaPronunciation": "কামনেস",
+    "meaning": "The state of being calm.",
+    "banglaMeaning": "প্রশান্তি",
+    "syllables": [
+      "calm",
+      "ness"
+    ],
+    "example": "A sense of calmness filled the room.",
+    "hint": "Silent L in 'calm' — pronounced 'cahm-ness'.",
+    "image": "/images/level10/calmness.webp"
+  },
+  {
+    "id": "lvl10-369",
+    "level": 10,
+    "order": 369,
+    "word": "folklore",
+    "pronunciation": "/ˈfoʊklɔːr/",
+    "banglaPronunciation": "ফৌকলোর",
+    "meaning": "Traditional stories and beliefs of a community.",
+    "banglaMeaning": "লোককথা",
+    "syllables": [
+      "folk",
+      "lore"
+    ],
+    "example": "The old tale is part of local folklore.",
+    "hint": "Silent L in 'folk' — pronounced 'foke-lore'.",
+    "image": "/images/level10/folklore.webp"
+  },
+  {
+    "id": "lvl10-370",
+    "level": 10,
+    "order": 370,
+    "word": "palm",
+    "pronunciation": "/pɑːm/",
+    "banglaPronunciation": "পাম",
+    "meaning": "The inside surface of the hand.",
+    "banglaMeaning": "হাতের তালু",
+    "syllables": [
+      "palm"
+    ],
+    "example": "He held the coin in his palm.",
+    "hint": "Silent L in the middle — pronounced 'pahm'.",
+    "image": "/images/level10/palm.webp"
+  },
+  {
+    "id": "lvl10-371",
+    "level": 10,
+    "order": 371,
+    "word": "folk",
+    "pronunciation": "/foʊk/",
+    "banglaPronunciation": "ফৌক",
+    "meaning": "People in general, or traditional culture.",
+    "banglaMeaning": "লোকজন",
+    "syllables": [
+      "folk"
+    ],
+    "example": "They enjoyed listening to folk music.",
+    "hint": "Silent L in the middle — pronounced 'foke'.",
+    "image": "/images/level10/folk.webp"
+  },
+  {
+    "id": "lvl10-372",
+    "level": 10,
+    "order": 372,
+    "word": "palmistry",
+    "pronunciation": "/ˈpɑːmɪstri/",
+    "banglaPronunciation": "পামিস্ট্রি",
+    "meaning": "The practice of reading a person’s palm to predict the future.",
+    "banglaMeaning": "হস্তরেখাবিদ্যা",
+    "syllables": [
+      "palm",
+      "is",
+      "try"
+    ],
+    "example": "She was curious to learn about palmistry.",
+    "hint": "Silent L in 'palm' — pronounced 'pahm-is-try'.",
+    "image": "/images/level10/palmistry.webp"
+  },
+  {
+    "id": "lvl10-373",
+    "level": 10,
+    "order": 373,
+    "word": "could",
+    "pronunciation": "/kʊd/",
+    "banglaPronunciation": "কুড",
+    "meaning": "Past tense of can, showing ability.",
+    "banglaMeaning": "পারতো",
+    "syllables": [
+      "could"
+    ],
+    "example": "She could swim before she could walk.",
+    "hint": "Silent L in the middle — pronounced 'cood'.",
+    "image": "/images/level10/could.webp"
+  },
+  {
+    "id": "lvl10-374",
+    "level": 10,
+    "order": 374,
+    "word": "should",
+    "pronunciation": "/ʃʊd/",
+    "banglaPronunciation": "শুড",
+    "meaning": "Used to say what is the right thing to do.",
+    "banglaMeaning": "উচিত",
+    "syllables": [
+      "should"
+    ],
+    "example": "You should finish your homework first.",
+    "hint": "Silent L in the middle — pronounced 'shood'.",
+    "image": "/images/level10/should.webp"
+  },
+  {
+    "id": "lvl10-375",
+    "level": 10,
+    "order": 375,
+    "word": "salmon",
+    "pronunciation": "/ˈsæmən/",
+    "banglaPronunciation": "স্যামন",
+    "meaning": "A pink fish that swims upstream to lay eggs.",
+    "banglaMeaning": "স্যামন মাছ",
+    "syllables": [
+      "sal",
+      "mon"
+    ],
+    "example": "We had grilled salmon for dinner.",
+    "hint": "Silent L in the middle — pronounced 'sam-un'.",
+    "image": "/images/level10/salmon.webp"
+  },
+  {
+    "id": "lvl10-376",
+    "level": 10,
+    "order": 376,
+    "word": "talkative",
+    "pronunciation": "/ˈtɔːkətɪv/",
+    "banglaPronunciation": "টকেটিভ",
+    "meaning": "Talking a lot; fond of chatting.",
+    "banglaMeaning": "বাচাল",
+    "syllables": [
+      "talk",
+      "a",
+      "tive"
+    ],
+    "example": "My little cousin is very talkative.",
+    "hint": "Silent L in 'talk' — pronounced 'tawk-a-tiv'.",
+    "image": "/images/level10/talkative.webp"
+  },
+  {
+    "id": "lvl10-377",
+    "level": 10,
+    "order": 377,
+    "word": "castle",
+    "pronunciation": "/ˈkæsəl/",
+    "banglaPronunciation": "ক্যাসল",
+    "meaning": "A large building built for defense in the past.",
+    "banglaMeaning": "দুর্গ",
+    "syllables": [
+      "cas",
+      "tle"
+    ],
+    "example": "The old castle stood on the hill.",
+    "hint": "Silent T in the middle — pronounced 'cassel'.",
+    "image": "/images/level10/castle.webp"
+  },
+  {
+    "id": "lvl10-378",
+    "level": 10,
+    "order": 378,
+    "word": "listener",
+    "pronunciation": "/ˈlɪsənər/",
+    "banglaPronunciation": "লিসেনার",
+    "meaning": "A person who listens.",
+    "banglaMeaning": "শ্রোতা",
+    "syllables": [
+      "lis",
+      "ten",
+      "er"
+    ],
+    "example": "The radio host thanked every listener.",
+    "hint": "Silent T in 'listen' — pronounced 'lissen-er'.",
+    "image": "/images/level10/listener.webp"
+  },
+  {
+    "id": "lvl10-379",
+    "level": 10,
+    "order": 379,
+    "word": "whistling",
+    "pronunciation": "/ˈwɪsəlɪŋ/",
+    "banglaPronunciation": "হুইসলিং",
+    "meaning": "Making a whistle sound.",
+    "banglaMeaning": "শিস দেওয়া",
+    "syllables": [
+      "whis",
+      "tling"
+    ],
+    "example": "He walked home whistling a tune.",
+    "hint": "Silent T in 'whistle' — pronounced 'wissel-ing'.",
+    "image": "/images/level10/whistling.webp"
+  },
+  {
+    "id": "lvl10-380",
+    "level": 10,
+    "order": 380,
+    "word": "hustle",
+    "pronunciation": "/ˈhʌsəl/",
+    "banglaPronunciation": "হাসল",
+    "meaning": "To move quickly or push roughly.",
+    "banglaMeaning": "তাড়াহুড়া করা",
+    "syllables": [
+      "hus",
+      "tle"
+    ],
+    "example": "We had to hustle to catch the train.",
+    "hint": "Silent T in the middle — pronounced 'hussel'.",
+    "image": "/images/level10/hustle.webp"
+  },
+  {
+    "id": "lvl10-381",
+    "level": 10,
+    "order": 381,
+    "word": "bustle",
+    "pronunciation": "/ˈbʌsəl/",
+    "banglaPronunciation": "বাসল",
+    "meaning": "Busy, noisy activity and movement.",
+    "banglaMeaning": "কর্মব্যস্ততা",
+    "syllables": [
+      "bus",
+      "tle"
+    ],
+    "example": "The market was full of hustle and bustle.",
+    "hint": "Silent T in the middle — pronounced 'bussel'.",
+    "image": "/images/level10/bustle.webp"
+  },
+  {
+    "id": "lvl10-382",
+    "level": 10,
+    "order": 382,
+    "word": "glisten",
+    "pronunciation": "/ˈɡlɪsən/",
+    "banglaPronunciation": "গ্লিসেন",
+    "meaning": "To shine with a soft, sparkling light.",
+    "banglaMeaning": "চকচক করা",
+    "syllables": [
+      "glis",
+      "ten"
+    ],
+    "example": "The dew made the grass glisten.",
+    "hint": "Silent T in the middle — pronounced 'glissen'.",
+    "image": "/images/level10/glisten.webp"
+  },
+  {
+    "id": "lvl10-383",
+    "level": 10,
+    "order": 383,
+    "word": "fasten",
+    "pronunciation": "/ˈfæsən/",
+    "banglaPronunciation": "ফ্যাসেন",
+    "meaning": "To close or attach something firmly.",
+    "banglaMeaning": "বাঁধা",
+    "syllables": [
+      "fas",
+      "ten"
+    ],
+    "example": "Please fasten your seatbelt.",
+    "hint": "Silent T in the middle — pronounced 'fassen'.",
+    "image": "/images/level10/fasten.webp"
+  },
+  {
+    "id": "lvl10-384",
+    "level": 10,
+    "order": 384,
+    "word": "soften",
+    "pronunciation": "/ˈsɒfən/",
+    "banglaPronunciation": "সফেন",
+    "meaning": "To make or become softer.",
+    "banglaMeaning": "নরম করা",
+    "syllables": [
+      "sof",
+      "ten"
+    ],
+    "example": "Warm water will soften the clay.",
+    "hint": "Silent T in the middle — pronounced 'soffen'.",
+    "image": "/images/level10/soften.webp"
+  },
+  {
+    "id": "lvl10-385",
+    "level": 10,
+    "order": 385,
+    "word": "often",
+    "pronunciation": "/ˈɒfən/",
+    "banglaPronunciation": "অফেন",
+    "meaning": "Happening many times; frequently.",
+    "banglaMeaning": "প্রায়ই",
+    "syllables": [
+      "of",
+      "ten"
+    ],
+    "example": "We often walk to school together.",
+    "hint": "Silent T in the middle — pronounced 'offen'.",
+    "image": "/images/level10/often.webp"
+  },
+  {
+    "id": "lvl10-386",
+    "level": 10,
+    "order": 386,
+    "word": "fastener",
+    "pronunciation": "/ˈfæsənər/",
+    "banglaPronunciation": "ফ্যাসেনার",
+    "meaning": "A device used to join or close things.",
+    "banglaMeaning": "আটকানোর যন্ত্র",
+    "syllables": [
+      "fas",
+      "ten",
+      "er"
+    ],
+    "example": "The bag has a metal fastener.",
+    "hint": "Silent T in 'fasten' — pronounced 'fassen-er'.",
+    "image": "/images/level10/fastener.webp"
+  },
+  {
+    "id": "lvl10-387",
+    "level": 10,
+    "order": 387,
+    "word": "thistle",
+    "pronunciation": "/ˈθɪsəl/",
+    "banglaPronunciation": "থিসল",
+    "meaning": "A prickly wild plant with purple flowers.",
+    "banglaMeaning": "কাঁটাযুক্ত ফুলগাছ",
+    "syllables": [
+      "this",
+      "tle"
+    ],
+    "example": "A thistle grew beside the old fence.",
+    "hint": "Silent T in the middle — pronounced 'thissel'.",
+    "image": "/images/level10/thistle.webp"
+  },
+  {
+    "id": "lvl10-388",
+    "level": 10,
+    "order": 388,
+    "word": "rustle",
+    "pronunciation": "/ˈrʌsəl/",
+    "banglaPronunciation": "রাসল",
+    "meaning": "A soft, dry sound like leaves moving.",
+    "banglaMeaning": "মৃদু খসখস শব্দ",
+    "syllables": [
+      "rus",
+      "tle"
+    ],
+    "example": "The wind made the leaves rustle.",
+    "hint": "Silent T in the middle — pronounced 'russel'.",
+    "image": "/images/level10/rustle.webp"
+  },
+  {
+    "id": "lvl10-389",
+    "level": 10,
+    "order": 389,
+    "word": "herbal",
+    "pronunciation": "/ˈɜːrbəl/",
+    "banglaPronunciation": "আরবাল",
+    "meaning": "Made from or relating to herbs.",
+    "banglaMeaning": "ভেষজ",
+    "syllables": [
+      "herb",
+      "al"
+    ],
+    "example": "She drank a cup of herbal tea.",
+    "hint": "Silent H in 'herb' — pronounced 'urb-al'.",
+    "image": "/images/level10/herbal.webp"
+  },
+  {
+    "id": "lvl10-390",
+    "level": 10,
+    "order": 390,
+    "word": "ghostly",
+    "pronunciation": "/ˈɡoʊstli/",
+    "banglaPronunciation": "গৌস্টলি",
+    "meaning": "Like a ghost; pale and strange.",
+    "banglaMeaning": "ভুতুড়ে",
+    "syllables": [
+      "ghost",
+      "ly"
+    ],
+    "example": "A ghostly figure appeared in the mist.",
+    "hint": "Silent H after G — pronounced 'gost-ly'.",
+    "image": "/images/level10/ghostly.webp"
+  },
+  {
+    "id": "lvl10-391",
+    "level": 10,
+    "order": 391,
+    "word": "honor",
+    "pronunciation": "/ˈɒnər/",
+    "banglaPronunciation": "অনার",
+    "meaning": "Great respect, or to show respect.",
+    "banglaMeaning": "সম্মান",
+    "syllables": [
+      "hon",
+      "or"
+    ],
+    "example": "It was an honor to meet the mayor.",
+    "hint": "Silent H at the start — pronounced 'on-or'.",
+    "image": "/images/level10/honor.webp"
+  },
+  {
+    "id": "lvl10-392",
+    "level": 10,
+    "order": 392,
+    "word": "heir",
+    "pronunciation": "/ɛr/",
+    "banglaPronunciation": "এয়ার",
+    "meaning": "A person who will inherit property or a title.",
+    "banglaMeaning": "উত্তরাধিকারী",
+    "syllables": [
+      "heir"
+    ],
+    "example": "The prince is the heir to the throne.",
+    "hint": "Silent H at the start — pronounced 'air'.",
+    "image": "/images/level10/heir.webp"
+  },
+  {
+    "id": "lvl10-393",
+    "level": 10,
+    "order": 393,
+    "word": "herb",
+    "pronunciation": "/ɜːrb/",
+    "banglaPronunciation": "আর্ব",
+    "meaning": "A plant used for flavor or medicine.",
+    "banglaMeaning": "ভেষজ উদ্ভিদ",
+    "syllables": [
+      "herb"
+    ],
+    "example": "She grows fresh herb in her garden.",
+    "hint": "Silent H at the start — pronounced 'urb'.",
+    "image": "/images/level10/herb.webp"
+  },
+  {
+    "id": "lvl10-394",
+    "level": 10,
+    "order": 394,
+    "word": "ghost",
+    "pronunciation": "/ɡoʊst/",
+    "banglaPronunciation": "গৌস্ট",
+    "meaning": "The spirit of a dead person.",
+    "banglaMeaning": "ভূত",
+    "syllables": [
+      "ghost"
+    ],
+    "example": "The old house was said to have a ghost.",
+    "hint": "Silent H after G — pronounced 'gost'.",
+    "image": "/images/level10/ghost.webp"
+  },
+  {
+    "id": "lvl10-395",
+    "level": 10,
+    "order": 395,
+    "word": "vehicular",
+    "pronunciation": "/vɪˈhɪkjʊlər/",
+    "banglaPronunciation": "ভিহিকিউলার",
+    "meaning": "Relating to vehicles.",
+    "banglaMeaning": "যানবাহন সংক্রান্ত",
+    "syllables": [
+      "ve",
+      "hic",
+      "u",
+      "lar"
+    ],
+    "example": "The sign warned of heavy vehicular traffic.",
+    "hint": "Silent H in 'vehicle' — pronounced 'vee-hic-u-lar'.",
+    "image": "/images/level10/vehicular.webp"
+  },
+  {
+    "id": "lvl10-396",
+    "level": 10,
+    "order": 396,
+    "word": "exhale",
+    "pronunciation": "/ɪksˈheɪl/",
+    "banglaPronunciation": "এক্সহেইল",
+    "meaning": "To breathe out.",
+    "banglaMeaning": "নিঃশ্বাস ছাড়া",
+    "syllables": [
+      "ex",
+      "hale"
+    ],
+    "example": "She took a deep breath and began to exhale.",
+    "hint": "Silent H in the middle — pronounced 'ex-hale'.",
+    "image": "/images/level10/exhale.webp"
+  },
+  {
+    "id": "lvl10-397",
+    "level": 10,
+    "order": 397,
+    "word": "honestly",
+    "pronunciation": "/ˈɒnɪstli/",
+    "banglaPronunciation": "অনেস্টলি",
+    "meaning": "In a truthful and sincere way.",
+    "banglaMeaning": "সততার সাথে",
+    "syllables": [
+      "hon",
+      "est",
+      "ly"
+    ],
+    "example": "She honestly answered every question.",
+    "hint": "Silent H in 'honest' — pronounced 'on-est-ly'.",
+    "image": "/images/level10/honestly.webp"
+  },
+  {
+    "id": "lvl10-398",
+    "level": 10,
+    "order": 398,
+    "word": "vehicle",
+    "pronunciation": "/ˈviːɪkəl/",
+    "banglaPronunciation": "ভিহিকল",
+    "meaning": "A machine used to transport people or goods.",
+    "banglaMeaning": "যানবাহন",
+    "syllables": [
+      "ve",
+      "hi",
+      "cle"
+    ],
+    "example": "The vehicle drove slowly down the street.",
+    "hint": "Silent H in the middle — pronounced 'vee-i-cle'.",
+    "image": "/images/level10/vehicle.webp"
+  },
+  {
+    "id": "lvl10-399",
+    "level": 10,
+    "order": 399,
+    "word": "hourly",
+    "pronunciation": "/ˈaʊərli/",
+    "banglaPronunciation": "আওয়ারলি",
+    "meaning": "Happening every hour.",
+    "banglaMeaning": "প্রতি ঘণ্টায়",
+    "syllables": [
+      "hour",
+      "ly"
+    ],
+    "example": "He checked his phone hourly.",
+    "hint": "Silent H at the start of 'hour' — pronounced 'our-ly'.",
+    "image": "/images/level10/hourly.webp"
+  },
+  {
+    "id": "lvl10-400",
+    "level": 10,
+    "order": 400,
+    "word": "honorary",
+    "pronunciation": "/ˈɒnəreri/",
+    "banglaPronunciation": "অনারারি",
+    "meaning": "Given as an honor, without the usual requirements.",
+    "banglaMeaning": "সম্মানসূচক",
+    "syllables": [
+      "hon",
+      "or",
+      "ar",
+      "y"
+    ],
+    "example": "She received an honorary degree.",
+    "hint": "Silent H at the start of 'honor' — pronounced 'on-er-ary'.",
+    "image": "/images/level10/honorary.webp"
+  }
+]

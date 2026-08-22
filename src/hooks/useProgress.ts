@@ -23,11 +23,14 @@ export function useProgress() {
   const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
+    // localStorage is only available client-side, so this can't be a lazy
+    // useState initializer — it would throw during server-side rendering.
     const stored = localStorage.getItem('beeProgress');
     if (stored) {
       try {
+        // eslint-disable-next-line react-hooks/set-state-in-effect
         setProgress({ ...defaultProgress, ...JSON.parse(stored) });
-      } catch (e) {
+      } catch {
         console.error("Failed to parse progress");
       }
     }

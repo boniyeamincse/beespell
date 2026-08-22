@@ -22,7 +22,7 @@ export async function GET(request: Request, { params }: { params: Promise<{ leve
     }
     
     return NextResponse.json({ error: 'Level data not found' }, { status: 404 });
-  } catch (error) {
+  } catch {
     return NextResponse.json({ error: 'Failed to load data' }, { status: 500 });
   }
 }

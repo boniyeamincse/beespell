@@ -348,7 +348,7 @@
       "not"
     ],
     "example": "This is not correct.",
-    "hint": "Rhymes with \"hot\".",
+    "hint": "Starts with N, rhymes with \"hot\".",
     "image": "/images/level1/not.webp"
   },
   {
@@ -364,7 +364,7 @@
       "all"
     ],
     "example": "All the students are here.",
-    "hint": "Rhymes with \"ball\".",
+    "hint": "Starts with A, rhymes with \"ball\".",
     "image": "/images/level1/all.webp"
   },
   {
@@ -748,7 +748,7 @@
       "pot"
     ],
     "example": "Mom cooked rice in a pot.",
-    "hint": "Rhymes with \"hot\".",
+    "hint": "Starts with P, rhymes with \"hot\".",
     "image": "/images/level1/pot.webp"
   },
   {
@@ -988,7 +988,7 @@
       "tree"
     ],
     "example": "The bird sat on the tree.",
-    "hint": "Double \"e\" makes the long \"ee\" sound.",
+    "hint": "Starts with TR, double \"e\" makes the long \"ee\" sound.",
     "image": "/images/level1/tree.webp"
   },
   {
@@ -1004,7 +1004,7 @@
       "wall"
     ],
     "example": "The picture hangs on the wall.",
-    "hint": "Rhymes with \"ball\".",
+    "hint": "Starts with W, rhymes with \"ball\".",
     "image": "/images/level1/wall.webp"
   },
   {
@@ -1164,7 +1164,7 @@
       "leaf"
     ],
     "example": "The leaf fell from the tree.",
-    "hint": "Double \"e\" makes the long \"ee\" sound.",
+    "hint": "Starts with L, double \"e\" makes the long \"ee\" sound.",
     "image": "/images/level1/leaf.webp"
   },
   {

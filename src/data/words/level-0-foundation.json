@@ -604,7 +604,7 @@
       "fan"
     ],
     "example": "Turn on the fan, it is hot.",
-    "hint": "Rhymes with \"can\".",
+    "hint": "Starts with F, rhymes with \"can\".",
     "image": "/images/level0/fan.webp"
   },
   {
@@ -652,7 +652,7 @@
       "mug"
     ],
     "example": "He drank tea from a mug.",
-    "hint": "Rhymes with \"bug\".",
+    "hint": "Starts with M, rhymes with \"bug\".",
     "image": "/images/level0/mug.webp"
   },
   {
@@ -716,7 +716,7 @@
       "rug"
     ],
     "example": "The cat sleeps on the rug.",
-    "hint": "Rhymes with \"bug\".",
+    "hint": "Starts with R, rhymes with \"bug\".",
     "image": "/images/level0/rug.webp"
   },
   {
@@ -732,7 +732,7 @@
       "van"
     ],
     "example": "The van delivered the boxes.",
-    "hint": "Rhymes with \"can\".",
+    "hint": "Starts with V, rhymes with \"can\".",
     "image": "/images/level0/van.webp"
   },
   {

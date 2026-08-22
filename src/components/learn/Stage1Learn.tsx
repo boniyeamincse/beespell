@@ -1,32 +1,26 @@
 'use client';
 
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef } from 'react';
+import type { WordData } from '@/types';
 
 interface Stage1Props {
-  currentWord: any;
+  currentWord: WordData;
   isLastWord: boolean;
   onComplete: () => void;
   onPrevious?: () => void;
   hasPrevious: boolean;
+  onMarkDifficult: (wordId: string) => void;
 }
 
-export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPrevious, hasPrevious }: Stage1Props) {
+export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPrevious, hasPrevious, onMarkDifficult }: Stage1Props) {
   const [showHint, setShowHint] = useState(false);
   const [isSpellingPhase, setIsSpellingPhase] = useState(false);
   const [spellInput, setSpellInput] = useState('');
   const [isCorrect, setIsCorrect] = useState(false);
   const [errorMsg, setErrorMsg] = useState('');
+  const [difficultMsg, setDifficultMsg] = useState('');
 
   const inputRef = useRef<HTMLInputElement>(null);
-
-  // Reset state when word changes
-  useEffect(() => {
-    setShowHint(false);
-    setIsSpellingPhase(false);
-    setSpellInput('');
-    setIsCorrect(false);
-    setErrorMsg('');
-  }, [currentWord]);
 
   const speakWord = () => {
     const utterance = new SpeechSynthesisUtterance(currentWord.word);
@@ -53,16 +47,9 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
   };
 
   const markDifficult = () => {
-    const stored = localStorage.getItem('beeProgress');
-    if (stored) {
-      const progress = JSON.parse(stored);
-      if (!progress.wrongWords) progress.wrongWords = [];
-      if (!progress.wrongWords.includes(currentWord.id)) {
-        progress.wrongWords.push(currentWord.id);
-        localStorage.setItem('beeProgress', JSON.stringify(progress));
-      }
-    }
-    alert("Marked as difficult!");
+    onMarkDifficult(currentWord.id);
+    setDifficultMsg('Marked as difficult — added to your review list.');
+    setTimeout(() => setDifficultMsg(''), 2000);
   };
 
   return (
@@ -122,6 +109,8 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
               ⚠️ Mark Difficult
             </button>
           </div>
+
+          {difficultMsg && <p className="text-muted mt-2" style={{ marginTop: 10 }}>{difficultMsg}</p>}
 
           <div className="card-actions mt-4">
             <button onClick={startSpellingPhase} className="btn btn-primary next-btn">

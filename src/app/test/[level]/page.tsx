@@ -3,15 +3,20 @@
 import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useProgress } from '@/hooks/useProgress';
+import levelsData from '@/data/levels.json';
+import type { WordData, LevelMeta } from '@/types';
 import './test.css';
+
+const levels = levelsData as LevelMeta[];
 
 export default function TestPage() {
   const params = useParams();
   const router = useRouter();
   const levelParam = parseInt(params.level as string, 10);
-  
+  const levelMeta = levels.find((l) => l.level === levelParam);
+
   const { completeLevel, isLoaded } = useProgress();
-  const [words, setWords] = useState<any[]>([]);
+  const [words, setWords] = useState<WordData[]>([]);
   const [isLoadingWords, setIsLoadingWords] = useState(true);
   const [error, setError] = useState('');
 
@@ -22,11 +27,11 @@ export default function TestPage() {
         if (!res.ok) {
           throw new Error('Failed to load words for this level.');
         }
-        const data = await res.json();
-        const sorted = data.sort((a: any, b: any) => a.order - b.order);
+        const data: WordData[] = await res.json();
+        const sorted = data.sort((a, b) => a.order - b.order);
         setWords(sorted);
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err) {
+        setError(err instanceof Error ? err.message : 'Something went wrong.');
       } finally {
         setIsLoadingWords(false);
       }
@@ -59,13 +64,8 @@ export default function TestPage() {
   };
 
   const handleFinishLevel = () => {
-    // Grant 100% score, 50 XP, and PASS the level
-    completeLevel(levelParam, 100, 50, true);
-    
-    // Fun alert
-    alert(`🎉 Congratulations! You have completed Level ${levelParam}! 50 XP Earned!`);
-    
-    // Go back to levels map
+    const xpReward = levelMeta?.xpReward ?? 0;
+    completeLevel(levelParam, 100, xpReward, true);
     router.push('/levels');
   };
 

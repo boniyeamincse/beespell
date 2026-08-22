@@ -4,15 +4,16 @@ import { useState, useEffect } from 'react';
 import { useParams, useRouter } from 'next/navigation';
 import { useProgress } from '@/hooks/useProgress';
 import Stage1Learn from '@/components/learn/Stage1Learn';
+import type { WordData } from '@/types';
 import './learn.css';
 
 export default function LearnPage() {
   const params = useParams();
   const router = useRouter();
   const levelParam = parseInt(params.level as string, 10);
-  
-  const { markWordLearned, isLoaded } = useProgress();
-  const [words, setWords] = useState<any[]>([]);
+
+  const { markWordLearned, addWrongWords, isLoaded } = useProgress();
+  const [words, setWords] = useState<WordData[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLoadingWords, setIsLoadingWords] = useState(true);
   const [error, setError] = useState('');
@@ -24,11 +25,11 @@ export default function LearnPage() {
         if (!res.ok) {
           throw new Error('Failed to load words for this level.');
         }
-        const data = await res.json();
-        const sorted = data.sort((a: any, b: any) => a.order - b.order);
+        const data: WordData[] = await res.json();
+        const sorted = data.sort((a, b) => a.order - b.order);
         setWords(sorted);
-      } catch (err: any) {
-        setError(err.message);
+      } catch (err) {
+        setError(err instanceof Error ? err.message : 'Something went wrong.');
       } finally {
         setIsLoadingWords(false);
       }
@@ -89,12 +90,14 @@ export default function LearnPage() {
       </div>
 
       <div className="flashcard glass-panel">
-        <Stage1Learn 
-          currentWord={currentWord} 
-          isLastWord={isLastWord} 
+        <Stage1Learn
+          key={currentWord.id}
+          currentWord={currentWord}
+          isLastWord={isLastWord}
           hasPrevious={currentIndex > 0}
           onPrevious={handlePreviousWord}
-          onComplete={handleNextWord} 
+          onComplete={handleNextWord}
+          onMarkDifficult={(wordId) => addWrongWords([wordId])}
         />
       </div>
     </div>

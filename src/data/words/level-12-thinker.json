@@ -1,0 +1,3218 @@
+[
+  {
+    "id": "lvl12-001",
+    "level": 12,
+    "order": 1,
+    "word": "bare",
+    "pronunciation": "/bɛr/",
+    "banglaPronunciation": "বেয়ার",
+    "meaning": "Without covering; naked.",
+    "banglaMeaning": "অনাবৃত",
+    "syllables": [
+      "bare"
+    ],
+    "example": "She walked on the bare floor.",
+    "hint": "Sounds like 'bear' the animal, but means uncovered.",
+    "image": "/images/level12/bare.webp"
+  },
+  {
+    "id": "lvl12-002",
+    "level": 12,
+    "order": 2,
+    "word": "sea",
+    "pronunciation": "/siː/",
+    "banglaPronunciation": "সি",
+    "meaning": "A large body of salt water.",
+    "banglaMeaning": "সমুদ্র",
+    "syllables": [
+      "sea"
+    ],
+    "example": "The ship sailed across the sea.",
+    "hint": "Sounds like the letter 'C', not 'see' (to look).",
+    "image": "/images/level12/sea.webp"
+  },
+  {
+    "id": "lvl12-003",
+    "level": 12,
+    "order": 3,
+    "word": "male",
+    "pronunciation": "/meɪl/",
+    "banglaPronunciation": "মেইল",
+    "meaning": "Of the sex that does not bear young.",
+    "banglaMeaning": "পুরুষ",
+    "syllables": [
+      "male"
+    ],
+    "example": "The male lion has a mane.",
+    "hint": "Sounds like 'mail' but describes gender.",
+    "image": "/images/level12/male.webp"
+  },
+  {
+    "id": "lvl12-004",
+    "level": 12,
+    "order": 4,
+    "word": "flee",
+    "pronunciation": "/fliː/",
+    "banglaPronunciation": "ফ্লি",
+    "meaning": "To run away from danger.",
+    "banglaMeaning": "পালানো",
+    "syllables": [
+      "flee"
+    ],
+    "example": "The villagers had to flee the fire.",
+    "hint": "Sounds like 'flea' the insect, but means to escape.",
+    "image": "/images/level12/flee.webp"
+  },
+  {
+    "id": "lvl12-005",
+    "level": 12,
+    "order": 5,
+    "word": "flea",
+    "pronunciation": "/fliː/",
+    "banglaPronunciation": "ফ্লি",
+    "meaning": "A tiny jumping insect that bites.",
+    "banglaMeaning": "মাছি জাতীয় পোকা",
+    "syllables": [
+      "flea"
+    ],
+    "example": "The dog scratched because of a flea.",
+    "hint": "Sounds like 'flee' but is a tiny insect.",
+    "image": "/images/level12/flea.webp"
+  },
+  {
+    "id": "lvl12-006",
+    "level": 12,
+    "order": 6,
+    "word": "beech",
+    "pronunciation": "/biːtʃ/",
+    "banglaPronunciation": "বিচ",
+    "meaning": "A type of tree with smooth grey bark.",
+    "banglaMeaning": "বিচ গাছ",
+    "syllables": [
+      "beech"
+    ],
+    "example": "We sat under the old beech tree.",
+    "hint": "Sounds like 'beach' but is a type of tree.",
+    "image": "/images/level12/beech.webp"
+  },
+  {
+    "id": "lvl12-007",
+    "level": 12,
+    "order": 7,
+    "word": "sow",
+    "pronunciation": "/soʊ/",
+    "banglaPronunciation": "সো",
+    "meaning": "To plant seeds in the ground.",
+    "banglaMeaning": "বীজ বোনা",
+    "syllables": [
+      "sow"
+    ],
+    "example": "Farmers sow seeds in spring.",
+    "hint": "Sounds like 'so' but means planting seeds.",
+    "image": "/images/level12/sow.webp"
+  },
+  {
+    "id": "lvl12-008",
+    "level": 12,
+    "order": 8,
+    "word": "blew",
+    "pronunciation": "/bluː/",
+    "banglaPronunciation": "ব্লু",
+    "meaning": "Past tense of 'blow'.",
+    "banglaMeaning": "প্রবাহিত হয়েছিল",
+    "syllables": [
+      "blew"
+    ],
+    "example": "The wind blew all night.",
+    "hint": "Sounds like 'blue' but means air moved.",
+    "image": "/images/level12/blew.webp"
+  },
+  {
+    "id": "lvl12-009",
+    "level": 12,
+    "order": 9,
+    "word": "flew",
+    "pronunciation": "/fluː/",
+    "banglaPronunciation": "ফ্লু",
+    "meaning": "Past tense of 'fly'.",
+    "banglaMeaning": "উড়েছিল",
+    "syllables": [
+      "flew"
+    ],
+    "example": "The bird flew over the lake.",
+    "hint": "Sounds like 'flu' but means moved through the air.",
+    "image": "/images/level12/flew.webp"
+  },
+  {
+    "id": "lvl12-010",
+    "level": 12,
+    "order": 10,
+    "word": "genes",
+    "pronunciation": "/dʒiːnz/",
+    "banglaPronunciation": "জিনস",
+    "meaning": "Units in the body that carry traits from parents.",
+    "banglaMeaning": "জিন",
+    "syllables": [
+      "genes"
+    ],
+    "example": "She has her mother's genes.",
+    "hint": "Sounds like 'jeans' but means hereditary units.",
+    "image": "/images/level12/genes.webp"
+  },
+  {
+    "id": "lvl12-011",
+    "level": 12,
+    "order": 11,
+    "word": "jeans",
+    "pronunciation": "/dʒiːnz/",
+    "banglaPronunciation": "জিনস",
+    "meaning": "Trousers made of strong cotton denim.",
+    "banglaMeaning": "জিন্স",
+    "syllables": [
+      "jeans"
+    ],
+    "example": "He wore blue jeans to school.",
+    "hint": "Sounds like 'genes' but is a type of trousers.",
+    "image": "/images/level12/jeans.webp"
+  },
+  {
+    "id": "lvl12-012",
+    "level": 12,
+    "order": 12,
+    "word": "maize",
+    "pronunciation": "/meɪz/",
+    "banglaPronunciation": "মেইজ",
+    "meaning": "Another word for corn.",
+    "banglaMeaning": "ভুট্টা",
+    "syllables": [
+      "maize"
+    ],
+    "example": "Maize grows tall in the field.",
+    "hint": "Sounds like 'maze' but is a type of corn.",
+    "image": "/images/level12/maize.webp"
+  },
+  {
+    "id": "lvl12-013",
+    "level": 12,
+    "order": 13,
+    "word": "maze",
+    "pronunciation": "/meɪz/",
+    "banglaPronunciation": "মেইজ",
+    "meaning": "A confusing set of paths, hard to find your way through.",
+    "banglaMeaning": "গোলকধাঁধা",
+    "syllables": [
+      "maze"
+    ],
+    "example": "We got lost in the maze.",
+    "hint": "Sounds like 'maize' but means a puzzle of paths.",
+    "image": "/images/level12/maze.webp"
+  },
+  {
+    "id": "lvl12-014",
+    "level": 12,
+    "order": 14,
+    "word": "bridal",
+    "pronunciation": "/ˈbraɪ.dəl/",
+    "banglaPronunciation": "ব্রাইডাল",
+    "meaning": "Relating to a bride or wedding.",
+    "banglaMeaning": "বিয়ের সংক্রান্ত",
+    "syllables": [
+      "bridal"
+    ],
+    "example": "She wore a beautiful bridal gown.",
+    "hint": "Sounds like 'bridle' but relates to weddings.",
+    "image": "/images/level12/bridal.webp"
+  },
+  {
+    "id": "lvl12-015",
+    "level": 12,
+    "order": 15,
+    "word": "bridle",
+    "pronunciation": "/ˈbraɪ.dəl/",
+    "banglaPronunciation": "ব্রাইডল",
+    "meaning": "Straps put on a horse's head to control it.",
+    "banglaMeaning": "লাগাম",
+    "syllables": [
+      "bridle"
+    ],
+    "example": "He put the bridle on the horse.",
+    "hint": "Sounds like 'bridal' but is horse gear.",
+    "image": "/images/level12/bridle.webp"
+  },
+  {
+    "id": "lvl12-016",
+    "level": 12,
+    "order": 16,
+    "word": "draught",
+    "pronunciation": "/dræft/",
+    "banglaPronunciation": "ড্রাফট",
+    "meaning": "A current of cool air in a room.",
+    "banglaMeaning": "হাওয়া",
+    "syllables": [
+      "draught"
+    ],
+    "example": "There was a cold draught by the window.",
+    "hint": "Spelled oddly but sounds like 'draft'.",
+    "image": "/images/level12/draught.webp"
+  },
+  {
+    "id": "lvl12-017",
+    "level": 12,
+    "order": 17,
+    "word": "foul",
+    "pronunciation": "/faʊl/",
+    "banglaPronunciation": "ফাউল",
+    "meaning": "Very unpleasant, or breaking the rules in a game.",
+    "banglaMeaning": "অন্যায়",
+    "syllables": [
+      "foul"
+    ],
+    "example": "The referee called a foul.",
+    "hint": "Sounds like 'fowl' but means unfair or unpleasant.",
+    "image": "/images/level12/foul.webp"
+  },
+  {
+    "id": "lvl12-018",
+    "level": 12,
+    "order": 18,
+    "word": "fowl",
+    "pronunciation": "/faʊl/",
+    "banglaPronunciation": "ফাউল",
+    "meaning": "A bird kept for eggs or meat, like a chicken.",
+    "banglaMeaning": "পাখি",
+    "syllables": [
+      "fowl"
+    ],
+    "example": "The farmer raised fowl for eggs.",
+    "hint": "Sounds like 'foul' but means a farm bird.",
+    "image": "/images/level12/fowl.webp"
+  },
+  {
+    "id": "lvl12-019",
+    "level": 12,
+    "order": 19,
+    "word": "loan",
+    "pronunciation": "/loʊn/",
+    "banglaPronunciation": "লোন",
+    "meaning": "Money borrowed that must be paid back.",
+    "banglaMeaning": "ঋণ",
+    "syllables": [
+      "loan"
+    ],
+    "example": "He took a loan to buy a car.",
+    "hint": "Sounds like 'lone' but means borrowed money.",
+    "image": "/images/level12/loan.webp"
+  },
+  {
+    "id": "lvl12-020",
+    "level": 12,
+    "order": 20,
+    "word": "lone",
+    "pronunciation": "/loʊn/",
+    "banglaPronunciation": "লোন",
+    "meaning": "Alone; without others.",
+    "banglaMeaning": "একাকী",
+    "syllables": [
+      "lone"
+    ],
+    "example": "A lone tree stood on the hill.",
+    "hint": "Sounds like 'loan' but means solitary.",
+    "image": "/images/level12/lone.webp"
+  },
+  {
+    "id": "lvl12-021",
+    "level": 12,
+    "order": 21,
+    "word": "manor",
+    "pronunciation": "/ˈmæn.ər/",
+    "banglaPronunciation": "ম্যানার",
+    "meaning": "A large country house with land.",
+    "banglaMeaning": "জমিদার বাড়ি",
+    "syllables": [
+      "manor"
+    ],
+    "example": "The family lived in an old manor.",
+    "hint": "Sounds like 'manner' but means a big estate house.",
+    "image": "/images/level12/manor.webp"
+  },
+  {
+    "id": "lvl12-022",
+    "level": 12,
+    "order": 22,
+    "word": "naval",
+    "pronunciation": "/ˈneɪ.vəl/",
+    "banglaPronunciation": "নেভাল",
+    "meaning": "Relating to a navy.",
+    "banglaMeaning": "নৌবাহিনী সংক্রান্ত",
+    "syllables": [
+      "naval"
+    ],
+    "example": "The naval fleet sailed at dawn.",
+    "hint": "Sounds like 'navel' but relates to ships and the navy.",
+    "image": "/images/level12/naval.webp"
+  },
+  {
+    "id": "lvl12-023",
+    "level": 12,
+    "order": 23,
+    "word": "navel",
+    "pronunciation": "/ˈneɪ.vəl/",
+    "banglaPronunciation": "নেভেল",
+    "meaning": "The small hollow in the middle of the belly.",
+    "banglaMeaning": "নাভি",
+    "syllables": [
+      "navel"
+    ],
+    "example": "The baby's navel healed quickly.",
+    "hint": "Sounds like 'naval' but is a body part.",
+    "image": "/images/level12/navel.webp"
+  },
+  {
+    "id": "lvl12-024",
+    "level": 12,
+    "order": 24,
+    "word": "pause",
+    "pronunciation": "/pɔːz/",
+    "banglaPronunciation": "পজ",
+    "meaning": "A short stop or rest.",
+    "banglaMeaning": "বিরতি",
+    "syllables": [
+      "pause"
+    ],
+    "example": "She took a pause before answering.",
+    "hint": "Sounds like 'paws' but means a short stop.",
+    "image": "/images/level12/pause.webp"
+  },
+  {
+    "id": "lvl12-025",
+    "level": 12,
+    "order": 25,
+    "word": "paws",
+    "pronunciation": "/pɔːz/",
+    "banglaPronunciation": "পজ",
+    "meaning": "The feet of an animal with claws.",
+    "banglaMeaning": "থাবা",
+    "syllables": [
+      "paws"
+    ],
+    "example": "The dog wiped its muddy paws.",
+    "hint": "Sounds like 'pause' but means animal feet.",
+    "image": "/images/level12/paws.webp"
+  },
+  {
+    "id": "lvl12-026",
+    "level": 12,
+    "order": 26,
+    "word": "plait",
+    "pronunciation": "/pleɪt/",
+    "banglaPronunciation": "প্লেইট",
+    "meaning": "A braid of hair or rope.",
+    "banglaMeaning": "বেণী",
+    "syllables": [
+      "plait"
+    ],
+    "example": "She wore her hair in a plait.",
+    "hint": "Sounds like 'plate' but means a braid.",
+    "image": "/images/level12/plait.webp"
+  },
+  {
+    "id": "lvl12-027",
+    "level": 12,
+    "order": 27,
+    "word": "raze",
+    "pronunciation": "/reɪz/",
+    "banglaPronunciation": "রেইজ",
+    "meaning": "To completely destroy a building.",
+    "banglaMeaning": "ধ্বংস করা",
+    "syllables": [
+      "raze"
+    ],
+    "example": "Workers began to raze the old house.",
+    "hint": "Sounds like 'raise'/'rays' but means to tear down.",
+    "image": "/images/level12/raze.webp"
+  },
+  {
+    "id": "lvl12-028",
+    "level": 12,
+    "order": 28,
+    "word": "scene",
+    "pronunciation": "/siːn/",
+    "banglaPronunciation": "সিন",
+    "meaning": "A place where an event happens, or part of a play.",
+    "banglaMeaning": "দৃশ্য",
+    "syllables": [
+      "scene"
+    ],
+    "example": "The crash scene was very busy.",
+    "hint": "Sounds like 'seen' but means a place/view.",
+    "image": "/images/level12/scene.webp"
+  },
+  {
+    "id": "lvl12-029",
+    "level": 12,
+    "order": 29,
+    "word": "throes",
+    "pronunciation": "/θroʊz/",
+    "banglaPronunciation": "থ্রোজ",
+    "meaning": "A struggle or intense pain, as in 'in the throes of'.",
+    "banglaMeaning": "তীব্র যন্ত্রণা",
+    "syllables": [
+      "throes"
+    ],
+    "example": "The nation was in the throes of change.",
+    "hint": "Sounds like 'throws' but means intense struggle.",
+    "image": "/images/level12/throes.webp"
+  },
+  {
+    "id": "lvl12-030",
+    "level": 12,
+    "order": 30,
+    "word": "throws",
+    "pronunciation": "/θroʊz/",
+    "banglaPronunciation": "থ্রোজ",
+    "meaning": "Present tense of 'throw'.",
+    "banglaMeaning": "ছোঁড়ে",
+    "syllables": [
+      "throws"
+    ],
+    "example": "He throws the ball every day.",
+    "hint": "Sounds like 'throes' but means tosses something.",
+    "image": "/images/level12/throws.webp"
+  },
+  {
+    "id": "lvl12-031",
+    "level": 12,
+    "order": 31,
+    "word": "towed",
+    "pronunciation": "/toʊd/",
+    "banglaPronunciation": "টৌড",
+    "meaning": "Past tense of 'tow', pulled by a rope or chain.",
+    "banglaMeaning": "টেনে নেওয়া হয়েছিল",
+    "syllables": [
+      "towed"
+    ],
+    "example": "The broken car was towed away.",
+    "hint": "Sounds like 'toad' but means pulled along.",
+    "image": "/images/level12/towed.webp"
+  },
+  {
+    "id": "lvl12-032",
+    "level": 12,
+    "order": 32,
+    "word": "troop",
+    "pronunciation": "/truːp/",
+    "banglaPronunciation": "ট্রুপ",
+    "meaning": "A group of soldiers or people.",
+    "banglaMeaning": "সৈন্যদল",
+    "syllables": [
+      "troop"
+    ],
+    "example": "A troop of soldiers marched by.",
+    "hint": "Sounds like 'troupe' but means a group of soldiers.",
+    "image": "/images/level12/troop.webp"
+  },
+  {
+    "id": "lvl12-033",
+    "level": 12,
+    "order": 33,
+    "word": "troupe",
+    "pronunciation": "/truːp/",
+    "banglaPronunciation": "ট্রুপ",
+    "meaning": "A group of actors, dancers, or performers.",
+    "banglaMeaning": "শিল্পীদল",
+    "syllables": [
+      "troupe"
+    ],
+    "example": "The dance troupe performed on stage.",
+    "hint": "Sounds like 'troop' but means a group of performers.",
+    "image": "/images/level12/troupe.webp"
+  },
+  {
+    "id": "lvl12-034",
+    "level": 12,
+    "order": 34,
+    "word": "ware",
+    "pronunciation": "/wɛr/",
+    "banglaPronunciation": "ওয়্যার",
+    "meaning": "Manufactured goods, as in 'kitchenware'.",
+    "banglaMeaning": "পণ্যদ্রব্য",
+    "syllables": [
+      "ware"
+    ],
+    "example": "The shop sold fine glassware.",
+    "hint": "Sounds like 'wear'/'where' but means goods/products.",
+    "image": "/images/level12/ware.webp"
+  },
+  {
+    "id": "lvl12-035",
+    "level": 12,
+    "order": 35,
+    "word": "weave",
+    "pronunciation": "/wiːv/",
+    "banglaPronunciation": "উইভ",
+    "meaning": "To make cloth by crossing threads together.",
+    "banglaMeaning": "বোনা",
+    "syllables": [
+      "weave"
+    ],
+    "example": "She learned to weave on a loom.",
+    "hint": "Sounds like 'we've' but means to make cloth.",
+    "image": "/images/level12/weave.webp"
+  },
+  {
+    "id": "lvl12-036",
+    "level": 12,
+    "order": 36,
+    "word": "we've",
+    "pronunciation": "/wiːv/",
+    "banglaPronunciation": "উইভ",
+    "meaning": "Contraction of 'we have'.",
+    "banglaMeaning": "আমরা করেছি (সংক্ষেপ)",
+    "syllables": [
+      "we've"
+    ],
+    "example": "We've finished all our homework.",
+    "hint": "Sounds like 'weave' but is short for 'we have'.",
+    "image": "/images/level12/we've.webp"
+  },
+  {
+    "id": "lvl12-037",
+    "level": 12,
+    "order": 37,
+    "word": "whet",
+    "pronunciation": "/wɛt/",
+    "banglaPronunciation": "ওয়েট",
+    "meaning": "To sharpen a blade, or to increase desire.",
+    "banglaMeaning": "ধারালো করা",
+    "syllables": [
+      "whet"
+    ],
+    "example": "The smell whet his appetite.",
+    "hint": "Sounds like 'wet' but means to sharpen.",
+    "image": "/images/level12/whet.webp"
+  },
+  {
+    "id": "lvl12-038",
+    "level": 12,
+    "order": 38,
+    "word": "whirled",
+    "pronunciation": "/wɜːrld/",
+    "banglaPronunciation": "হোয়ার্ল্ড",
+    "meaning": "Turned around quickly, spun.",
+    "banglaMeaning": "ঘুরে গিয়েছিল",
+    "syllables": [
+      "whirled"
+    ],
+    "example": "The dancer whirled across the stage.",
+    "hint": "Sounds like 'world' but means spun around.",
+    "image": "/images/level12/whirled.webp"
+  },
+  {
+    "id": "lvl12-039",
+    "level": 12,
+    "order": 39,
+    "word": "billed",
+    "pronunciation": "/bɪld/",
+    "banglaPronunciation": "বিল্ড",
+    "meaning": "Charged for goods or services.",
+    "banglaMeaning": "বিল করা হয়েছিল",
+    "syllables": [
+      "billed"
+    ],
+    "example": "The customer was billed for the repair.",
+    "hint": "Sounds like 'build' but means charged money.",
+    "image": "/images/level12/billed.webp"
+  },
+  {
+    "id": "lvl12-040",
+    "level": 12,
+    "order": 40,
+    "word": "bough",
+    "pronunciation": "/baʊ/",
+    "banglaPronunciation": "বাউ",
+    "meaning": "A large branch of a tree.",
+    "banglaMeaning": "গাছের ডাল",
+    "syllables": [
+      "bough"
+    ],
+    "example": "A bird sat on the bough.",
+    "hint": "Sounds like 'bow' (to bend) but means a tree branch.",
+    "image": "/images/level12/bough.webp"
+  },
+  {
+    "id": "lvl12-041",
+    "level": 12,
+    "order": 41,
+    "word": "sealing",
+    "pronunciation": "/ˈsiː.lɪŋ/",
+    "banglaPronunciation": "সিলিং",
+    "meaning": "Closing something tightly.",
+    "banglaMeaning": "সিল করা",
+    "syllables": [
+      "sealing"
+    ],
+    "example": "She was sealing the envelope.",
+    "hint": "Sounds like 'ceiling' but means closing tightly.",
+    "image": "/images/level12/sealing.webp"
+  },
+  {
+    "id": "lvl12-042",
+    "level": 12,
+    "order": 42,
+    "word": "clime",
+    "pronunciation": "/klaɪm/",
+    "banglaPronunciation": "ক্লাইম",
+    "meaning": "A region viewed in terms of its climate.",
+    "banglaMeaning": "জলবায়ু অঞ্চল",
+    "syllables": [
+      "clime"
+    ],
+    "example": "They moved to a warmer clime.",
+    "hint": "Sounds like 'climb' but means a climate region.",
+    "image": "/images/level12/clime.webp"
+  },
+  {
+    "id": "lvl12-043",
+    "level": 12,
+    "order": 43,
+    "word": "colonel",
+    "pronunciation": "/ˈkɜːr.nəl/",
+    "banglaPronunciation": "কর্নেল",
+    "meaning": "A senior officer in the army.",
+    "banglaMeaning": "সামরিক কর্মকর্তা",
+    "syllables": [
+      "colonel"
+    ],
+    "example": "The colonel led his troops bravely.",
+    "hint": "Spelled oddly but sounds like 'kernel'.",
+    "image": "/images/level12/colonel.webp"
+  },
+  {
+    "id": "lvl12-044",
+    "level": 12,
+    "order": 44,
+    "word": "crews",
+    "pronunciation": "/kruːz/",
+    "banglaPronunciation": "ক্রুজ",
+    "meaning": "Groups of people who work together on a ship or project.",
+    "banglaMeaning": "কর্মীদল",
+    "syllables": [
+      "crews"
+    ],
+    "example": "The film crews arrived early.",
+    "hint": "Sounds like 'cruise' but means groups of workers.",
+    "image": "/images/level12/crews.webp"
+  },
+  {
+    "id": "lvl12-045",
+    "level": 12,
+    "order": 45,
+    "word": "cruise",
+    "pronunciation": "/kruːz/",
+    "banglaPronunciation": "ক্রুজ",
+    "meaning": "A voyage on a ship for pleasure.",
+    "banglaMeaning": "সমুদ্রযাত্রা",
+    "syllables": [
+      "cruise"
+    ],
+    "example": "They went on a cruise last summer.",
+    "hint": "Sounds like 'crews' but means a pleasure voyage.",
+    "image": "/images/level12/cruise.webp"
+  },
+  {
+    "id": "lvl12-046",
+    "level": 12,
+    "order": 46,
+    "word": "kerb",
+    "pronunciation": "/kɜːrb/",
+    "banglaPronunciation": "কার্ব",
+    "meaning": "The edge of a raised pavement (British spelling of curb).",
+    "banglaMeaning": "ফুটপাতের ধার",
+    "syllables": [
+      "kerb"
+    ],
+    "example": "He parked close to the kerb.",
+    "hint": "Sounds like 'curb' but is the British spelling.",
+    "image": "/images/level12/kerb.webp"
+  },
+  {
+    "id": "lvl12-047",
+    "level": 12,
+    "order": 47,
+    "word": "damn",
+    "pronunciation": "/dæm/",
+    "banglaPronunciation": "ড্যাম",
+    "meaning": "A mild curse word expressing anger.",
+    "banglaMeaning": "অভিশাপ",
+    "syllables": [
+      "damn"
+    ],
+    "example": "He whispered a damn under his breath.",
+    "hint": "Silent N — sounds like 'dam' but is an exclamation.",
+    "image": "/images/level12/damn.webp"
+  },
+  {
+    "id": "lvl12-048",
+    "level": 12,
+    "order": 48,
+    "word": "daze",
+    "pronunciation": "/deɪz/",
+    "banglaPronunciation": "ডেইজ",
+    "meaning": "A state of confusion or shock.",
+    "banglaMeaning": "হতভম্ব অবস্থা",
+    "syllables": [
+      "daze"
+    ],
+    "example": "She walked around in a daze.",
+    "hint": "Sounds like 'days' but means confusion.",
+    "image": "/images/level12/daze.webp"
+  },
+  {
+    "id": "lvl12-049",
+    "level": 12,
+    "order": 49,
+    "word": "dough",
+    "pronunciation": "/doʊ/",
+    "banglaPronunciation": "ডো",
+    "meaning": "A soft mixture of flour and water, used for baking.",
+    "banglaMeaning": "খামি",
+    "syllables": [
+      "dough"
+    ],
+    "example": "She kneaded the dough for bread.",
+    "hint": "Sounds like 'doe' but is baking mixture.",
+    "image": "/images/level12/dough.webp"
+  },
+  {
+    "id": "lvl12-050",
+    "level": 12,
+    "order": 50,
+    "word": "urn",
+    "pronunciation": "/ɜːrn/",
+    "banglaPronunciation": "আর্ন",
+    "meaning": "A large vase, often used for ashes or liquid.",
+    "banglaMeaning": "কলসী",
+    "syllables": [
+      "urn"
+    ],
+    "example": "The tea was kept in a large urn.",
+    "hint": "Sounds like 'earn' but is a container.",
+    "image": "/images/level12/urn.webp"
+  },
+  {
+    "id": "lvl12-051",
+    "level": 12,
+    "order": 51,
+    "word": "gild",
+    "pronunciation": "/ɡɪld/",
+    "banglaPronunciation": "গিল্ড",
+    "meaning": "To cover something with a thin layer of gold.",
+    "banglaMeaning": "স্বর্ণমণ্ডিত করা",
+    "syllables": [
+      "gild"
+    ],
+    "example": "They gild the picture frame.",
+    "hint": "Sounds like 'guild' but means to cover with gold.",
+    "image": "/images/level12/gild.webp"
+  },
+  {
+    "id": "lvl12-052",
+    "level": 12,
+    "order": 52,
+    "word": "guild",
+    "pronunciation": "/ɡɪld/",
+    "banglaPronunciation": "গিল্ড",
+    "meaning": "An organization of people with a shared trade or interest.",
+    "banglaMeaning": "সংঘ",
+    "syllables": [
+      "guild"
+    ],
+    "example": "He joined the writers' guild.",
+    "hint": "Sounds like 'gild' but means a trade group.",
+    "image": "/images/level12/guild.webp"
+  },
+  {
+    "id": "lvl12-053",
+    "level": 12,
+    "order": 53,
+    "word": "wholly",
+    "pronunciation": "/ˈhoʊl.li/",
+    "banglaPronunciation": "হোলি",
+    "meaning": "Entirely; completely.",
+    "banglaMeaning": "সম্পূর্ণরূপে",
+    "syllables": [
+      "wholly"
+    ],
+    "example": "He was wholly responsible for the mistake.",
+    "hint": "Sounds like 'holy' but means completely.",
+    "image": "/images/level12/wholly.webp"
+  },
+  {
+    "id": "lvl12-054",
+    "level": 12,
+    "order": 54,
+    "word": "holey",
+    "pronunciation": "/ˈhoʊl.i/",
+    "banglaPronunciation": "হোলি",
+    "meaning": "Full of holes.",
+    "banglaMeaning": "ছিদ্রযুক্ত",
+    "syllables": [
+      "holey"
+    ],
+    "example": "His old socks were holey.",
+    "hint": "Sounds like 'holy'/'wholly' but means full of holes.",
+    "image": "/images/level12/holey.webp"
+  },
+  {
+    "id": "lvl12-055",
+    "level": 12,
+    "order": 55,
+    "word": "hostel",
+    "pronunciation": "/ˈhɒs.təl/",
+    "banglaPronunciation": "হোস্টেল",
+    "meaning": "A cheap place for travelers to stay.",
+    "banglaMeaning": "আবাসস্থল",
+    "syllables": [
+      "hostel"
+    ],
+    "example": "We stayed in a youth hostel.",
+    "hint": "Sounds like 'hostile' but is a lodging place.",
+    "image": "/images/level12/hostel.webp"
+  },
+  {
+    "id": "lvl12-056",
+    "level": 12,
+    "order": 56,
+    "word": "hostile",
+    "pronunciation": "/ˈhɒs.taɪl/",
+    "banglaPronunciation": "হোস্টাইল",
+    "meaning": "Unfriendly or aggressive.",
+    "banglaMeaning": "শত্রুভাবাপন্ন",
+    "syllables": [
+      "hostile"
+    ],
+    "example": "The crowd grew hostile.",
+    "hint": "Sounds like 'hostel' but means unfriendly.",
+    "image": "/images/level12/hostile.webp"
+  },
+  {
+    "id": "lvl12-057",
+    "level": 12,
+    "order": 57,
+    "word": "knead",
+    "pronunciation": "/niːd/",
+    "banglaPronunciation": "নিড",
+    "meaning": "To press and squeeze dough with your hands.",
+    "banglaMeaning": "মথা",
+    "syllables": [
+      "knead"
+    ],
+    "example": "She began to knead the dough.",
+    "hint": "Silent K — sounds like 'need' but means to press dough.",
+    "image": "/images/level12/knead.webp"
+  },
+  {
+    "id": "lvl12-058",
+    "level": 12,
+    "order": 58,
+    "word": "knows",
+    "pronunciation": "/noʊz/",
+    "banglaPronunciation": "নোজ",
+    "meaning": "Present tense of 'know'; has knowledge of.",
+    "banglaMeaning": "জানে",
+    "syllables": [
+      "knows"
+    ],
+    "example": "She knows the answer.",
+    "hint": "Silent K — sounds like 'nose' but means has knowledge of.",
+    "image": "/images/level12/knows.webp"
+  },
+  {
+    "id": "lvl12-059",
+    "level": 12,
+    "order": 59,
+    "word": "lead",
+    "pronunciation": "/lɛd/",
+    "banglaPronunciation": "লেড",
+    "meaning": "A soft heavy grey metal (pronounced like 'led').",
+    "banglaMeaning": "সীসা",
+    "syllables": [
+      "lead"
+    ],
+    "example": "The pipe was made of lead.",
+    "hint": "Same spelling as the verb 'lead' but this means the metal.",
+    "image": "/images/level12/lead.webp"
+  },
+  {
+    "id": "lvl12-060",
+    "level": 12,
+    "order": 60,
+    "word": "led",
+    "pronunciation": "/lɛd/",
+    "banglaPronunciation": "লেড",
+    "meaning": "Past tense of 'lead' (to guide).",
+    "banglaMeaning": "পরিচালনা করেছিল",
+    "syllables": [
+      "led"
+    ],
+    "example": "She led the team to victory.",
+    "hint": "Sounds like the metal 'lead' but means guided.",
+    "image": "/images/level12/led.webp"
+  },
+  {
+    "id": "lvl12-061",
+    "level": 12,
+    "order": 61,
+    "word": "leased",
+    "pronunciation": "/liːst/",
+    "banglaPronunciation": "লিস্ট",
+    "meaning": "Rented under a formal agreement.",
+    "banglaMeaning": "ইজারা দেওয়া হয়েছিল",
+    "syllables": [
+      "leased"
+    ],
+    "example": "The office space was leased for a year.",
+    "hint": "Sounds like 'least' but means rented.",
+    "image": "/images/level12/leased.webp"
+  },
+  {
+    "id": "lvl12-062",
+    "level": 12,
+    "order": 62,
+    "word": "least",
+    "pronunciation": "/liːst/",
+    "banglaPronunciation": "লিস্ট",
+    "meaning": "The smallest amount.",
+    "banglaMeaning": "সর্বনিম্ন",
+    "syllables": [
+      "least"
+    ],
+    "example": "He ate the least of all of us.",
+    "hint": "Sounds like 'leased' but means the smallest amount.",
+    "image": "/images/level12/least.webp"
+  },
+  {
+    "id": "lvl12-063",
+    "level": 12,
+    "order": 63,
+    "word": "levee",
+    "pronunciation": "/ˈlev.i/",
+    "banglaPronunciation": "লেভি",
+    "meaning": "A wall built to stop a river from flooding.",
+    "banglaMeaning": "বাঁধ",
+    "syllables": [
+      "levee"
+    ],
+    "example": "The levee held back the rising water.",
+    "hint": "Sounds like 'levy' but is a flood-prevention wall.",
+    "image": "/images/level12/levee.webp"
+  },
+  {
+    "id": "lvl12-064",
+    "level": 12,
+    "order": 64,
+    "word": "levy",
+    "pronunciation": "/ˈlev.i/",
+    "banglaPronunciation": "লেভি",
+    "meaning": "A tax or fee that must be paid.",
+    "banglaMeaning": "কর",
+    "syllables": [
+      "levy"
+    ],
+    "example": "The government imposed a new levy.",
+    "hint": "Sounds like 'levee' but means a tax.",
+    "image": "/images/level12/levy.webp"
+  },
+  {
+    "id": "lvl12-065",
+    "level": 12,
+    "order": 65,
+    "word": "lyre",
+    "pronunciation": "/laɪər/",
+    "banglaPronunciation": "লায়ার",
+    "meaning": "An ancient stringed musical instrument.",
+    "banglaMeaning": "বীণা জাতীয় বাদ্যযন্ত্র",
+    "syllables": [
+      "lyre"
+    ],
+    "example": "The musician played the lyre.",
+    "hint": "Sounds like 'liar' but is a musical instrument.",
+    "image": "/images/level12/lyre.webp"
+  },
+  {
+    "id": "lvl12-066",
+    "level": 12,
+    "order": 66,
+    "word": "links",
+    "pronunciation": "/lɪŋks/",
+    "banglaPronunciation": "লিংকস",
+    "meaning": "Rings of a chain, or connections.",
+    "banglaMeaning": "সংযোগ",
+    "syllables": [
+      "links"
+    ],
+    "example": "The bracelet had gold links.",
+    "hint": "Sounds like 'lynx' but means connections or chain rings.",
+    "image": "/images/level12/links.webp"
+  },
+  {
+    "id": "lvl12-067",
+    "level": 12,
+    "order": 67,
+    "word": "lynx",
+    "pronunciation": "/lɪŋks/",
+    "banglaPronunciation": "লিংকস",
+    "meaning": "A wild cat with tufted ears.",
+    "banglaMeaning": "বন্য বিড়াল",
+    "syllables": [
+      "lynx"
+    ],
+    "example": "A lynx was spotted in the forest.",
+    "hint": "Sounds like 'links' but is a wild cat.",
+    "image": "/images/level12/lynx.webp"
+  },
+  {
+    "id": "lvl12-068",
+    "level": 12,
+    "order": 68,
+    "word": "loch",
+    "pronunciation": "/lɒx/",
+    "banglaPronunciation": "লখ",
+    "meaning": "A Scottish word for a lake.",
+    "banglaMeaning": "স্কটিশ হ্রদ",
+    "syllables": [
+      "loch"
+    ],
+    "example": "The loch was calm and misty.",
+    "hint": "Sounds like 'lock' but means a Scottish lake.",
+    "image": "/images/level12/loch.webp"
+  },
+  {
+    "id": "lvl12-069",
+    "level": 12,
+    "order": 69,
+    "word": "marshal",
+    "pronunciation": "/ˈmɑːr.ʃəl/",
+    "banglaPronunciation": "মার্শাল",
+    "meaning": "A high-ranking military or law officer.",
+    "banglaMeaning": "সেনাপ্রধান",
+    "syllables": [
+      "marshal"
+    ],
+    "example": "The marshal organized the parade.",
+    "hint": "Sounds like 'martial' but means an officer.",
+    "image": "/images/level12/marshal.webp"
+  },
+  {
+    "id": "lvl12-070",
+    "level": 12,
+    "order": 70,
+    "word": "martial",
+    "pronunciation": "/ˈmɑːr.ʃəl/",
+    "banglaPronunciation": "মার্শাল",
+    "meaning": "Relating to war or fighting, as in 'martial arts'.",
+    "banglaMeaning": "সামরিক",
+    "syllables": [
+      "martial"
+    ],
+    "example": "He studies martial arts.",
+    "hint": "Sounds like 'marshal' but means related to fighting.",
+    "image": "/images/level12/martial.webp"
+  },
+  {
+    "id": "lvl12-071",
+    "level": 12,
+    "order": 71,
+    "word": "massed",
+    "pronunciation": "/mæst/",
+    "banglaPronunciation": "ম্যাস্ট",
+    "meaning": "Gathered together in a large group.",
+    "banglaMeaning": "একত্রিত হয়েছিল",
+    "syllables": [
+      "massed"
+    ],
+    "example": "Troops massed at the border.",
+    "hint": "Sounds like 'mast' but means gathered in numbers.",
+    "image": "/images/level12/massed.webp"
+  },
+  {
+    "id": "lvl12-072",
+    "level": 12,
+    "order": 72,
+    "word": "mast",
+    "pronunciation": "/mæst/",
+    "banglaPronunciation": "ম্যাস্ট",
+    "meaning": "A tall pole that holds a ship's sails.",
+    "banglaMeaning": "মাস্তুল",
+    "syllables": [
+      "mast"
+    ],
+    "example": "The flag flew from the ship's mast.",
+    "hint": "Sounds like 'massed' but is a ship's pole.",
+    "image": "/images/level12/mast.webp"
+  },
+  {
+    "id": "lvl12-073",
+    "level": 12,
+    "order": 73,
+    "word": "mettle",
+    "pronunciation": "/ˈmet.əl/",
+    "banglaPronunciation": "মেটল",
+    "meaning": "Courage and strength of character.",
+    "banglaMeaning": "সাহস",
+    "syllables": [
+      "mettle"
+    ],
+    "example": "She showed real mettle under pressure.",
+    "hint": "Sounds like 'metal' but means courage.",
+    "image": "/images/level12/mettle.webp"
+  },
+  {
+    "id": "lvl12-074",
+    "level": 12,
+    "order": 74,
+    "word": "mined",
+    "pronunciation": "/maɪnd/",
+    "banglaPronunciation": "মাইন্ড",
+    "meaning": "Dug from the earth, or laid with explosives.",
+    "banglaMeaning": "খনন করা হয়েছিল",
+    "syllables": [
+      "mined"
+    ],
+    "example": "Coal was mined from the hillside.",
+    "hint": "Sounds like 'mind' but means dug up or laid with mines.",
+    "image": "/images/level12/mined.webp"
+  },
+  {
+    "id": "lvl12-075",
+    "level": 12,
+    "order": 75,
+    "word": "won",
+    "pronunciation": "/wʌn/",
+    "banglaPronunciation": "ওয়ান",
+    "meaning": "Past tense of 'win'.",
+    "banglaMeaning": "জিতেছিল",
+    "syllables": [
+      "won"
+    ],
+    "example": "Our team won the match.",
+    "hint": "Sounds like 'one' but means was victorious.",
+    "image": "/images/level12/won.webp"
+  },
+  {
+    "id": "lvl12-076",
+    "level": 12,
+    "order": 76,
+    "word": "pact",
+    "pronunciation": "/pækt/",
+    "banglaPronunciation": "প্যাক্ট",
+    "meaning": "A formal agreement between people or nations.",
+    "banglaMeaning": "চুক্তি",
+    "syllables": [
+      "pact"
+    ],
+    "example": "The two nations signed a peace pact.",
+    "hint": "Sounds like 'packed' but means a formal agreement.",
+    "image": "/images/level12/pact.webp"
+  },
+  {
+    "id": "lvl12-077",
+    "level": 12,
+    "order": 77,
+    "word": "packed",
+    "pronunciation": "/pækt/",
+    "banglaPronunciation": "প্যাক্ট",
+    "meaning": "Filled tightly, or put into a container for travel.",
+    "banglaMeaning": "প্যাক করা হয়েছিল",
+    "syllables": [
+      "packed"
+    ],
+    "example": "She packed her suitcase for the trip.",
+    "hint": "Sounds like 'pact' but means filled or prepared for travel.",
+    "image": "/images/level12/packed.webp"
+  },
+  {
+    "id": "lvl12-078",
+    "level": 12,
+    "order": 78,
+    "word": "pedal",
+    "pronunciation": "/ˈped.əl/",
+    "banglaPronunciation": "পেডাল",
+    "meaning": "A lever pressed by foot to operate a machine.",
+    "banglaMeaning": "প্যাডেল",
+    "syllables": [
+      "pedal"
+    ],
+    "example": "He pushed the bicycle pedal hard.",
+    "hint": "Sounds like 'peddle' but is a foot lever.",
+    "image": "/images/level12/pedal.webp"
+  },
+  {
+    "id": "lvl12-079",
+    "level": 12,
+    "order": 79,
+    "word": "peddle",
+    "pronunciation": "/ˈped.əl/",
+    "banglaPronunciation": "পেডল",
+    "meaning": "To sell goods, often by going door to door.",
+    "banglaMeaning": "ফেরি করা",
+    "syllables": [
+      "peddle"
+    ],
+    "example": "The old man used to peddle vegetables.",
+    "hint": "Sounds like 'pedal' but means to sell goods.",
+    "image": "/images/level12/peddle.webp"
+  },
+  {
+    "id": "lvl12-080",
+    "level": 12,
+    "order": 80,
+    "word": "poll",
+    "pronunciation": "/poʊl/",
+    "banglaPronunciation": "পোল",
+    "meaning": "A survey of people's opinions, or voting.",
+    "banglaMeaning": "জরিপ",
+    "syllables": [
+      "poll"
+    ],
+    "example": "The poll showed most people agreed.",
+    "hint": "Sounds like 'pole' but means a survey or vote.",
+    "image": "/images/level12/poll.webp"
+  },
+  {
+    "id": "lvl12-081",
+    "level": 12,
+    "order": 81,
+    "word": "quartz",
+    "pronunciation": "/kwɔːrts/",
+    "banglaPronunciation": "কোয়ার্টজ",
+    "meaning": "A hard, common mineral crystal.",
+    "banglaMeaning": "কোয়ার্টজ পাথর",
+    "syllables": [
+      "quartz"
+    ],
+    "example": "The necklace was made of pink quartz.",
+    "hint": "Sounds like 'quarts' but is a mineral crystal.",
+    "image": "/images/level12/quartz.webp"
+  },
+  {
+    "id": "lvl12-082",
+    "level": 12,
+    "order": 82,
+    "word": "residence",
+    "pronunciation": "/ˈrez.ɪ.dəns/",
+    "banglaPronunciation": "রেসিডেন্স",
+    "meaning": "A place where someone lives.",
+    "banglaMeaning": "বাসস্থান",
+    "syllables": [
+      "residence"
+    ],
+    "example": "The mayor's residence is downtown.",
+    "hint": "Sounds like 'residents' but means a home.",
+    "image": "/images/level12/residence.webp"
+  },
+  {
+    "id": "lvl12-083",
+    "level": 12,
+    "order": 83,
+    "word": "residents",
+    "pronunciation": "/ˈrez.ɪ.dənts/",
+    "banglaPronunciation": "রেসিডেন্টস",
+    "meaning": "People who live in a particular place.",
+    "banglaMeaning": "বাসিন্দা",
+    "syllables": [
+      "residents"
+    ],
+    "example": "The residents complained about the noise.",
+    "hint": "Sounds like 'residence' but means the people who live there.",
+    "image": "/images/level12/residents.webp"
+  },
+  {
+    "id": "lvl12-084",
+    "level": 12,
+    "order": 84,
+    "word": "revue",
+    "pronunciation": "/rɪˈvjuː/",
+    "banglaPronunciation": "রিভিউ",
+    "meaning": "A light theatrical show with music and comedy.",
+    "banglaMeaning": "হাস্যরসাত্মক নাট্য অনুষ্ঠান",
+    "syllables": [
+      "revue"
+    ],
+    "example": "The comedy revue made the crowd laugh.",
+    "hint": "Sounds like 'review' but is a stage show.",
+    "image": "/images/level12/revue.webp"
+  },
+  {
+    "id": "lvl12-085",
+    "level": 12,
+    "order": 85,
+    "word": "wright",
+    "pronunciation": "/raɪt/",
+    "banglaPronunciation": "রাইট",
+    "meaning": "A person who builds or makes something, as in 'playwright'.",
+    "banglaMeaning": "নির্মাতা",
+    "syllables": [
+      "wright"
+    ],
+    "example": "The playwright wrote a new drama.",
+    "hint": "Silent W — sounds like 'right'/'write' but means a builder.",
+    "image": "/images/level12/wright.webp"
+  },
+  {
+    "id": "lvl12-086",
+    "level": 12,
+    "order": 86,
+    "word": "role",
+    "pronunciation": "/roʊl/",
+    "banglaPronunciation": "রোল",
+    "meaning": "A part played by an actor, or a function.",
+    "banglaMeaning": "ভূমিকা",
+    "syllables": [
+      "role"
+    ],
+    "example": "She played the lead role in the play.",
+    "hint": "Sounds like 'roll' but means a part or function.",
+    "image": "/images/level12/role.webp"
+  },
+  {
+    "id": "lvl12-087",
+    "level": 12,
+    "order": 87,
+    "word": "sacks",
+    "pronunciation": "/sæks/",
+    "banglaPronunciation": "স্যাক্স",
+    "meaning": "Large bags made of strong cloth.",
+    "banglaMeaning": "বস্তা",
+    "syllables": [
+      "sacks"
+    ],
+    "example": "They filled sacks with rice.",
+    "hint": "Sounds like 'sax' but means large bags.",
+    "image": "/images/level12/sacks.webp"
+  },
+  {
+    "id": "lvl12-088",
+    "level": 12,
+    "order": 88,
+    "word": "sax",
+    "pronunciation": "/sæks/",
+    "banglaPronunciation": "স্যাক্স",
+    "meaning": "Short for saxophone, a musical instrument.",
+    "banglaMeaning": "স্যাক্সোফোন",
+    "syllables": [
+      "sax"
+    ],
+    "example": "He played the sax in the school band.",
+    "hint": "Sounds like 'sacks' but is a musical instrument.",
+    "image": "/images/level12/sax.webp"
+  },
+  {
+    "id": "lvl12-089",
+    "level": 12,
+    "order": 89,
+    "word": "shear",
+    "pronunciation": "/ʃɪr/",
+    "banglaPronunciation": "শিয়ার",
+    "meaning": "To cut wool or hair off with scissors or clippers.",
+    "banglaMeaning": "কাঁচি দিয়ে কাটা",
+    "syllables": [
+      "shear"
+    ],
+    "example": "Farmers shear the sheep every spring.",
+    "hint": "Sounds like 'sheer' but means to cut off wool.",
+    "image": "/images/level12/shear.webp"
+  },
+  {
+    "id": "lvl12-090",
+    "level": 12,
+    "order": 90,
+    "word": "sheer",
+    "pronunciation": "/ʃɪr/",
+    "banglaPronunciation": "শিয়ার",
+    "meaning": "Complete and total, or very thin and light.",
+    "banglaMeaning": "সম্পূর্ণ",
+    "syllables": [
+      "sheer"
+    ],
+    "example": "It was sheer luck that she won.",
+    "hint": "Sounds like 'shear' but means total or very thin.",
+    "image": "/images/level12/sheer.webp"
+  },
+  {
+    "id": "lvl12-091",
+    "level": 12,
+    "order": 91,
+    "word": "shoo",
+    "pronunciation": "/ʃuː/",
+    "banglaPronunciation": "শু",
+    "meaning": "A word or gesture to drive away an animal.",
+    "banglaMeaning": "তাড়ানো",
+    "syllables": [
+      "shoo"
+    ],
+    "example": "She said 'shoo' to the cat.",
+    "hint": "Sounds like 'shoe' but means to drive something away.",
+    "image": "/images/level12/shoo.webp"
+  },
+  {
+    "id": "lvl12-092",
+    "level": 12,
+    "order": 92,
+    "word": "sighed",
+    "pronunciation": "/saɪd/",
+    "banglaPronunciation": "সাইড",
+    "meaning": "Made a long, deep breath showing sadness or relief.",
+    "banglaMeaning": "দীর্ঘশ্বাস ফেলেছিল",
+    "syllables": [
+      "sighed"
+    ],
+    "example": "He sighed with relief.",
+    "hint": "Sounds like 'side' but means breathed out slowly.",
+    "image": "/images/level12/sighed.webp"
+  },
+  {
+    "id": "lvl12-093",
+    "level": 12,
+    "order": 93,
+    "word": "sine",
+    "pronunciation": "/saɪn/",
+    "banglaPronunciation": "সাইন",
+    "meaning": "A mathematical ratio used in trigonometry.",
+    "banglaMeaning": "ত্রিকোণমিতিক অনুপাত",
+    "syllables": [
+      "sine"
+    ],
+    "example": "She calculated the sine of the angle.",
+    "hint": "Sounds like 'sign' but is a math term.",
+    "image": "/images/level12/sine.webp"
+  },
+  {
+    "id": "lvl12-094",
+    "level": 12,
+    "order": 94,
+    "word": "sleigh",
+    "pronunciation": "/sleɪ/",
+    "banglaPronunciation": "স্লেই",
+    "meaning": "A vehicle on runners, pulled over snow.",
+    "banglaMeaning": "তুষারযান",
+    "syllables": [
+      "sleigh"
+    ],
+    "example": "The sleigh glided over the snow.",
+    "hint": "Sounds like 'slay' but means a snow vehicle.",
+    "image": "/images/level12/sleigh.webp"
+  },
+  {
+    "id": "lvl12-095",
+    "level": 12,
+    "order": 95,
+    "word": "slay",
+    "pronunciation": "/sleɪ/",
+    "banglaPronunciation": "স্লেই",
+    "meaning": "To kill in a violent way.",
+    "banglaMeaning": "হত্যা করা",
+    "syllables": [
+      "slay"
+    ],
+    "example": "The knight set out to slay the dragon.",
+    "hint": "Sounds like 'sleigh' but means to kill.",
+    "image": "/images/level12/slay.webp"
+  },
+  {
+    "id": "lvl12-096",
+    "level": 12,
+    "order": 96,
+    "word": "staid",
+    "pronunciation": "/steɪd/",
+    "banglaPronunciation": "স্টেইড",
+    "meaning": "Serious and unadventurous.",
+    "banglaMeaning": "গম্ভীর",
+    "syllables": [
+      "staid"
+    ],
+    "example": "He led a rather staid life.",
+    "hint": "Sounds like 'stayed' but means overly serious.",
+    "image": "/images/level12/staid.webp"
+  },
+  {
+    "id": "lvl12-097",
+    "level": 12,
+    "order": 97,
+    "word": "stayed",
+    "pronunciation": "/steɪd/",
+    "banglaPronunciation": "স্টেইড",
+    "meaning": "Past tense of 'stay'; remained in a place.",
+    "banglaMeaning": "থেকেছিল",
+    "syllables": [
+      "stayed"
+    ],
+    "example": "We stayed at a small hotel.",
+    "hint": "Sounds like 'staid' but means remained somewhere.",
+    "image": "/images/level12/stayed.webp"
+  },
+  {
+    "id": "lvl12-098",
+    "level": 12,
+    "order": 98,
+    "word": "steak",
+    "pronunciation": "/steɪk/",
+    "banglaPronunciation": "স্টেইক",
+    "meaning": "A thick slice of meat.",
+    "banglaMeaning": "গরুর মাংসের টুকরা",
+    "syllables": [
+      "steak"
+    ],
+    "example": "He grilled a steak for dinner.",
+    "hint": "Sounds like 'stake' but means a slice of meat.",
+    "image": "/images/level12/steak.webp"
+  },
+  {
+    "id": "lvl12-099",
+    "level": 12,
+    "order": 99,
+    "word": "summary",
+    "pronunciation": "/ˈsʌm.ər.i/",
+    "banglaPronunciation": "সামারি",
+    "meaning": "A short statement giving the main points.",
+    "banglaMeaning": "সারাংশ",
+    "syllables": [
+      "summary"
+    ],
+    "example": "She wrote a summary of the book.",
+    "hint": "Sounds like 'summery' but means a short overview.",
+    "image": "/images/level12/summary.webp"
+  },
+  {
+    "id": "lvl12-100",
+    "level": 12,
+    "order": 100,
+    "word": "summery",
+    "pronunciation": "/ˈsʌm.ər.i/",
+    "banglaPronunciation": "সামারি",
+    "meaning": "Typical of summer.",
+    "banglaMeaning": "গ্রীষ্মকালীন",
+    "syllables": [
+      "summery"
+    ],
+    "example": "She wore a light, summery dress.",
+    "hint": "Sounds like 'summary' but means like summer.",
+    "image": "/images/level12/summery.webp"
+  },
+  {
+    "id": "lvl12-101",
+    "level": 12,
+    "order": 101,
+    "word": "sundae",
+    "pronunciation": "/ˈsʌn.deɪ/",
+    "banglaPronunciation": "সানডে",
+    "meaning": "A dessert of ice cream with toppings.",
+    "banglaMeaning": "আইসক্রিম মিষ্টান্ন",
+    "syllables": [
+      "sundae"
+    ],
+    "example": "He ordered a chocolate sundae.",
+    "hint": "Sounds like 'Sunday' but is a dessert.",
+    "image": "/images/level12/sundae.webp"
+  },
+  {
+    "id": "lvl12-102",
+    "level": 12,
+    "order": 102,
+    "word": "taut",
+    "pronunciation": "/tɔːt/",
+    "banglaPronunciation": "টট",
+    "meaning": "Stretched tight; not slack.",
+    "banglaMeaning": "টানটান",
+    "syllables": [
+      "taut"
+    ],
+    "example": "The rope was pulled taut.",
+    "hint": "Sounds like 'taught' but means stretched tight.",
+    "image": "/images/level12/taut.webp"
+  },
+  {
+    "id": "lvl12-103",
+    "level": 12,
+    "order": 103,
+    "word": "tier",
+    "pronunciation": "/tɪr/",
+    "banglaPronunciation": "টিয়ার",
+    "meaning": "One of several layers or levels.",
+    "banglaMeaning": "স্তর",
+    "syllables": [
+      "tier"
+    ],
+    "example": "The wedding cake had three tiers.",
+    "hint": "Sounds like 'tear' (drop from eye) but means a layer.",
+    "image": "/images/level12/tier.webp"
+  },
+  {
+    "id": "lvl12-104",
+    "level": 12,
+    "order": 104,
+    "word": "thyme",
+    "pronunciation": "/taɪm/",
+    "banglaPronunciation": "টাইম",
+    "meaning": "A small herb used in cooking.",
+    "banglaMeaning": "থাইম (একটি ভেষজ)",
+    "syllables": [
+      "thyme"
+    ],
+    "example": "She added thyme to the soup.",
+    "hint": "Silent H — sounds like 'time' but is a cooking herb.",
+    "image": "/images/level12/thyme.webp"
+  },
+  {
+    "id": "lvl12-105",
+    "level": 12,
+    "order": 105,
+    "word": "wail",
+    "pronunciation": "/weɪl/",
+    "banglaPronunciation": "ওয়েইল",
+    "meaning": "A long, loud cry of pain or sadness.",
+    "banglaMeaning": "আর্তনাদ",
+    "syllables": [
+      "wail"
+    ],
+    "example": "A wail rose from the crowd.",
+    "hint": "Sounds like 'whale' but means a loud cry.",
+    "image": "/images/level12/wail.webp"
+  },
+  {
+    "id": "lvl12-106",
+    "level": 12,
+    "order": 106,
+    "word": "wale",
+    "pronunciation": "/weɪl/",
+    "banglaPronunciation": "ওয়েইল",
+    "meaning": "A ridge on the surface of woven fabric.",
+    "banglaMeaning": "কাপড়ের ভাঁজ",
+    "syllables": [
+      "wale"
+    ],
+    "example": "The corduroy jacket had a fine wale.",
+    "hint": "Sounds like 'whale'/'wail' but describes fabric texture.",
+    "image": "/images/level12/wale.webp"
+  },
+  {
+    "id": "lvl12-107",
+    "level": 12,
+    "order": 107,
+    "word": "whey",
+    "pronunciation": "/weɪ/",
+    "banglaPronunciation": "ওয়ে",
+    "meaning": "The watery liquid left after milk turns to curds.",
+    "banglaMeaning": "ঘোল",
+    "syllables": [
+      "whey"
+    ],
+    "example": "Whey is used to make some cheeses.",
+    "hint": "Sounds like 'way'/'weigh' but is a milk byproduct.",
+    "image": "/images/level12/whey.webp"
+  },
+  {
+    "id": "lvl12-108",
+    "level": 12,
+    "order": 108,
+    "word": "yacht",
+    "pronunciation": "/jɒt/",
+    "banglaPronunciation": "ইয়ট",
+    "meaning": "A boat used for pleasure trips or racing.",
+    "banglaMeaning": "প্রমোদতরী",
+    "syllables": [
+      "yacht"
+    ],
+    "example": "They sailed on a private yacht.",
+    "hint": "Spelled oddly but sounds like 'yot'.",
+    "image": "/images/level12/yacht.webp"
+  },
+  {
+    "id": "lvl12-109",
+    "level": 12,
+    "order": 109,
+    "word": "quay",
+    "pronunciation": "/kiː/",
+    "banglaPronunciation": "কি",
+    "meaning": "A stone platform where boats load and unload.",
+    "banglaMeaning": "জাহাজঘাট",
+    "syllables": [
+      "quay"
+    ],
+    "example": "The ship docked at the quay.",
+    "hint": "Spelled oddly but sounds like 'key'.",
+    "image": "/images/level12/quay.webp"
+  },
+  {
+    "id": "lvl12-110",
+    "level": 12,
+    "order": 110,
+    "word": "chorus",
+    "pronunciation": "/ˈkɔːr.əs/",
+    "banglaPronunciation": "কোরাস",
+    "meaning": "A group of singers, or a song's repeated part.",
+    "banglaMeaning": "কোরাস",
+    "syllables": [
+      "chorus"
+    ],
+    "example": "The choir sang the chorus together.",
+    "hint": "The CH sounds like a K here — think 'korus'.",
+    "image": "/images/level12/chorus.webp"
+  },
+  {
+    "id": "lvl12-111",
+    "level": 12,
+    "order": 111,
+    "word": "choir",
+    "pronunciation": "/kwaɪər/",
+    "banglaPronunciation": "কোয়ার",
+    "meaning": "A group of singers, especially in a church.",
+    "banglaMeaning": "গায়কদল",
+    "syllables": [
+      "choir"
+    ],
+    "example": "The choir practiced every Sunday.",
+    "hint": "The CH sounds like a K — sounds like 'kwire'.",
+    "image": "/images/level12/choir.webp"
+  },
+  {
+    "id": "lvl12-112",
+    "level": 12,
+    "order": 112,
+    "word": "chaos",
+    "pronunciation": "/ˈkeɪ.ɒs/",
+    "banglaPronunciation": "কেওস",
+    "meaning": "Complete disorder and confusion.",
+    "banglaMeaning": "বিশৃঙ্খলা",
+    "syllables": [
+      "chaos"
+    ],
+    "example": "The storm caused total chaos.",
+    "hint": "The CH sounds like a K here — think 'kay-os'.",
+    "image": "/images/level12/chaos.webp"
+  },
+  {
+    "id": "lvl12-113",
+    "level": 12,
+    "order": 113,
+    "word": "chef",
+    "pronunciation": "/ʃɛf/",
+    "banglaPronunciation": "শেফ",
+    "meaning": "A professional cook, especially the head cook.",
+    "banglaMeaning": "প্রধান রাঁধুনি",
+    "syllables": [
+      "chef"
+    ],
+    "example": "The chef prepared a delicious meal.",
+    "hint": "The CH sounds like SH — think 'shef'.",
+    "image": "/images/level12/chef.webp"
+  },
+  {
+    "id": "lvl12-114",
+    "level": 12,
+    "order": 114,
+    "word": "chic",
+    "pronunciation": "/ʃiːk/",
+    "banglaPronunciation": "শিক",
+    "meaning": "Stylish and fashionable.",
+    "banglaMeaning": "আধুনিক ও রুচিশীল",
+    "syllables": [
+      "chic"
+    ],
+    "example": "She wore a very chic outfit.",
+    "hint": "The CH sounds like SH — think 'sheek'.",
+    "image": "/images/level12/chic.webp"
+  },
+  {
+    "id": "lvl12-115",
+    "level": 12,
+    "order": 115,
+    "word": "machine",
+    "pronunciation": "/məˈʃiːn/",
+    "banglaPronunciation": "মেশিন",
+    "meaning": "A device with moving parts that does a job.",
+    "banglaMeaning": "যন্ত্র",
+    "syllables": [
+      "machine"
+    ],
+    "example": "The washing machine was very loud.",
+    "hint": "The CH sounds like SH — think 'ma-sheen'.",
+    "image": "/images/level12/machine.webp"
+  },
+  {
+    "id": "lvl12-116",
+    "level": 12,
+    "order": 116,
+    "word": "chute",
+    "pronunciation": "/ʃuːt/",
+    "banglaPronunciation": "শুট",
+    "meaning": "A sloped channel for moving things down, or a parachute.",
+    "banglaMeaning": "ঢালু পথ",
+    "syllables": [
+      "chute"
+    ],
+    "example": "The laundry went down the chute.",
+    "hint": "The CH sounds like SH — think 'shoot'.",
+    "image": "/images/level12/chute.webp"
+  },
+  {
+    "id": "lvl12-117",
+    "level": 12,
+    "order": 117,
+    "word": "moustache",
+    "pronunciation": "/ˈmʌs.tæʃ/",
+    "banglaPronunciation": "মোস্টাশ",
+    "meaning": "Hair growing on a man's upper lip.",
+    "banglaMeaning": "গোঁফ",
+    "syllables": [
+      "moustache"
+    ],
+    "example": "He grew a thick moustache.",
+    "hint": "The middle sounds like 'tash', not 'take'.",
+    "image": "/images/level12/moustache.webp"
+  },
+  {
+    "id": "lvl12-118",
+    "level": 12,
+    "order": 118,
+    "word": "gnome",
+    "pronunciation": "/noʊm/",
+    "banglaPronunciation": "নোম",
+    "meaning": "A small legendary creature that lives underground.",
+    "banglaMeaning": "পাতালবাসী কল্পিত প্রাণী",
+    "syllables": [
+      "gnome"
+    ],
+    "example": "A garden gnome stood by the flowers.",
+    "hint": "Silent G — sounds like 'nome'.",
+    "image": "/images/level12/gnome.webp"
+  },
+  {
+    "id": "lvl12-119",
+    "level": 12,
+    "order": 119,
+    "word": "gnaw",
+    "pronunciation": "/nɔː/",
+    "banglaPronunciation": "নও",
+    "meaning": "To bite something repeatedly.",
+    "banglaMeaning": "কামড়ানো",
+    "syllables": [
+      "gnaw"
+    ],
+    "example": "The mouse began to gnaw the wood.",
+    "hint": "Silent G — sounds like 'naw'.",
+    "image": "/images/level12/gnaw.webp"
+  },
+  {
+    "id": "lvl12-120",
+    "level": 12,
+    "order": 120,
+    "word": "gnat",
+    "pronunciation": "/næt/",
+    "banglaPronunciation": "ন্যাট",
+    "meaning": "A tiny flying insect.",
+    "banglaMeaning": "ক্ষুদ্র মাছি",
+    "syllables": [
+      "gnat"
+    ],
+    "example": "A gnat buzzed near her ear.",
+    "hint": "Silent G — sounds like 'nat'.",
+    "image": "/images/level12/gnat.webp"
+  },
+  {
+    "id": "lvl12-121",
+    "level": 12,
+    "order": 121,
+    "word": "design",
+    "pronunciation": "/dɪˈzaɪn/",
+    "banglaPronunciation": "ডিজাইন",
+    "meaning": "A plan or drawing showing how something will look.",
+    "banglaMeaning": "নকশা",
+    "syllables": [
+      "design"
+    ],
+    "example": "She created a new dress design.",
+    "hint": "Silent G — sounds like 'de-zine'.",
+    "image": "/images/level12/design.webp"
+  },
+  {
+    "id": "lvl12-122",
+    "level": 12,
+    "order": 122,
+    "word": "resign",
+    "pronunciation": "/rɪˈzaɪn/",
+    "banglaPronunciation": "রিজাইন",
+    "meaning": "To formally give up a job or position.",
+    "banglaMeaning": "পদত্যাগ করা",
+    "syllables": [
+      "resign"
+    ],
+    "example": "He decided to resign from his job.",
+    "hint": "Silent G — sounds like 're-zine'.",
+    "image": "/images/level12/resign.webp"
+  },
+  {
+    "id": "lvl12-123",
+    "level": 12,
+    "order": 123,
+    "word": "campaign",
+    "pronunciation": "/kæmˈpeɪn/",
+    "banglaPronunciation": "ক্যাম্পেইন",
+    "meaning": "A planned series of actions to achieve a goal.",
+    "banglaMeaning": "প্রচারাভিযান",
+    "syllables": [
+      "campaign"
+    ],
+    "example": "They launched a campaign to plant trees.",
+    "hint": "Silent G — sounds like 'kam-pain'.",
+    "image": "/images/level12/campaign.webp"
+  },
+  {
+    "id": "lvl12-124",
+    "level": 12,
+    "order": 124,
+    "word": "benign",
+    "pronunciation": "/bɪˈnaɪn/",
+    "banglaPronunciation": "বিনাইন",
+    "meaning": "Gentle and kind; not harmful.",
+    "banglaMeaning": "নিরীহ",
+    "syllables": [
+      "benign"
+    ],
+    "example": "The tumor was found to be benign.",
+    "hint": "Silent G — sounds like 'be-nine'.",
+    "image": "/images/level12/benign.webp"
+  },
+  {
+    "id": "lvl12-125",
+    "level": 12,
+    "order": 125,
+    "word": "align",
+    "pronunciation": "/əˈlaɪn/",
+    "banglaPronunciation": "অ্যালাইন",
+    "meaning": "To arrange things in a straight line.",
+    "banglaMeaning": "সারিবদ্ধ করা",
+    "syllables": [
+      "align"
+    ],
+    "example": "Please align the boxes neatly.",
+    "hint": "Silent G — sounds like 'a-line'.",
+    "image": "/images/level12/align.webp"
+  },
+  {
+    "id": "lvl12-126",
+    "level": 12,
+    "order": 126,
+    "word": "malign",
+    "pronunciation": "/məˈlaɪn/",
+    "banglaPronunciation": "ম্যালাইন",
+    "meaning": "To speak badly about someone unfairly.",
+    "banglaMeaning": "কুৎসা রটানো",
+    "syllables": [
+      "malign"
+    ],
+    "example": "It's wrong to malign someone falsely.",
+    "hint": "Silent G — sounds like 'ma-line'.",
+    "image": "/images/level12/malign.webp"
+  },
+  {
+    "id": "lvl12-127",
+    "level": 12,
+    "order": 127,
+    "word": "indict",
+    "pronunciation": "/ɪnˈdaɪt/",
+    "banglaPronunciation": "ইনডাইট",
+    "meaning": "To formally accuse someone of a crime.",
+    "banglaMeaning": "অভিযুক্ত করা",
+    "syllables": [
+      "indict"
+    ],
+    "example": "The court chose to indict the suspect.",
+    "hint": "Silent C — sounds like 'in-dite'.",
+    "image": "/images/level12/indict.webp"
+  },
+  {
+    "id": "lvl12-128",
+    "level": 12,
+    "order": 128,
+    "word": "subtle",
+    "pronunciation": "/ˈsʌt.əl/",
+    "banglaPronunciation": "সাটল",
+    "meaning": "Not obvious; delicate or hard to notice.",
+    "banglaMeaning": "সূক্ষ্ম",
+    "syllables": [
+      "subtle"
+    ],
+    "example": "There was a subtle change in his voice.",
+    "hint": "Silent B — sounds like 'suttle'.",
+    "image": "/images/level12/subtle.webp"
+  },
+  {
+    "id": "lvl12-129",
+    "level": 12,
+    "order": 129,
+    "word": "bomb",
+    "pronunciation": "/bɒm/",
+    "banglaPronunciation": "বম",
+    "meaning": "A weapon designed to explode.",
+    "banglaMeaning": "বোমা",
+    "syllables": [
+      "bomb"
+    ],
+    "example": "The soldiers found an unexploded bomb.",
+    "hint": "Silent B — sounds like 'bom'.",
+    "image": "/images/level12/bomb.webp"
+  },
+  {
+    "id": "lvl12-130",
+    "level": 12,
+    "order": 130,
+    "word": "numb",
+    "pronunciation": "/nʌm/",
+    "banglaPronunciation": "নাম",
+    "meaning": "Unable to feel anything.",
+    "banglaMeaning": "অসাড়",
+    "syllables": [
+      "numb"
+    ],
+    "example": "Her fingers felt numb in the cold.",
+    "hint": "Silent B — sounds like 'num'.",
+    "image": "/images/level12/numb.webp"
+  },
+  {
+    "id": "lvl12-131",
+    "level": 12,
+    "order": 131,
+    "word": "crumb",
+    "pronunciation": "/krʌm/",
+    "banglaPronunciation": "ক্রাম",
+    "meaning": "A tiny piece of bread or cake.",
+    "banglaMeaning": "গুঁড়ো টুকরা",
+    "syllables": [
+      "crumb"
+    ],
+    "example": "A crumb fell from the cookie.",
+    "hint": "Silent B — sounds like 'krum'.",
+    "image": "/images/level12/crumb.webp"
+  },
+  {
+    "id": "lvl12-132",
+    "level": 12,
+    "order": 132,
+    "word": "succumb",
+    "pronunciation": "/səˈkʌm/",
+    "banglaPronunciation": "সাকাম",
+    "meaning": "To fail to resist pressure or illness.",
+    "banglaMeaning": "পরাজিত হওয়া",
+    "syllables": [
+      "succumb"
+    ],
+    "example": "He finally succumbed to his cold.",
+    "hint": "Silent B — sounds like 'suh-kum'.",
+    "image": "/images/level12/succumb.webp"
+  },
+  {
+    "id": "lvl12-133",
+    "level": 12,
+    "order": 133,
+    "word": "hymn",
+    "pronunciation": "/hɪm/",
+    "banglaPronunciation": "হিম",
+    "meaning": "A religious song of praise.",
+    "banglaMeaning": "স্তোত্র",
+    "syllables": [
+      "hymn"
+    ],
+    "example": "The choir sang a beautiful hymn.",
+    "hint": "Silent N — sounds like 'him'.",
+    "image": "/images/level12/hymn.webp"
+  },
+  {
+    "id": "lvl12-134",
+    "level": 12,
+    "order": 134,
+    "word": "solemn",
+    "pronunciation": "/ˈsɒl.əm/",
+    "banglaPronunciation": "সলেম",
+    "meaning": "Very serious and formal.",
+    "banglaMeaning": "গম্ভীর",
+    "syllables": [
+      "solemn"
+    ],
+    "example": "They held a solemn ceremony.",
+    "hint": "Silent N — sounds like 'sol-um'.",
+    "image": "/images/level12/solemn.webp"
+  },
+  {
+    "id": "lvl12-135",
+    "level": 12,
+    "order": 135,
+    "word": "condemn",
+    "pronunciation": "/kənˈdem/",
+    "banglaPronunciation": "কনডেম",
+    "meaning": "To strongly criticize as wrong.",
+    "banglaMeaning": "নিন্দা করা",
+    "syllables": [
+      "condemn"
+    ],
+    "example": "Leaders condemned the violence.",
+    "hint": "Silent N — sounds like 'kon-dem'.",
+    "image": "/images/level12/condemn.webp"
+  },
+  {
+    "id": "lvl12-136",
+    "level": 12,
+    "order": 136,
+    "word": "sword",
+    "pronunciation": "/sɔːrd/",
+    "banglaPronunciation": "সোর্ড",
+    "meaning": "A weapon with a long, sharp blade.",
+    "banglaMeaning": "তরবারি",
+    "syllables": [
+      "sword"
+    ],
+    "example": "The knight raised his sword.",
+    "hint": "Silent W — sounds like 'sord'.",
+    "image": "/images/level12/sword.webp"
+  },
+  {
+    "id": "lvl12-137",
+    "level": 12,
+    "order": 137,
+    "word": "answer",
+    "pronunciation": "/ˈæn.sər/",
+    "banglaPronunciation": "আনসার",
+    "meaning": "A reply to a question.",
+    "banglaMeaning": "উত্তর",
+    "syllables": [
+      "answer"
+    ],
+    "example": "She knew the correct answer.",
+    "hint": "Silent W — sounds like 'an-ser'.",
+    "image": "/images/level12/answer.webp"
+  },
+  {
+    "id": "lvl12-138",
+    "level": 12,
+    "order": 138,
+    "word": "fasten",
+    "pronunciation": "/ˈfæs.ən/",
+    "banglaPronunciation": "ফাসেন",
+    "meaning": "To close or attach firmly.",
+    "banglaMeaning": "বাঁধা",
+    "syllables": [
+      "fasten"
+    ],
+    "example": "Please fasten your seatbelt.",
+    "hint": "Silent T — sounds like 'fassen'.",
+    "image": "/images/level12/fasten.webp"
+  },
+  {
+    "id": "lvl12-139",
+    "level": 12,
+    "order": 139,
+    "word": "castle",
+    "pronunciation": "/ˈkæs.əl/",
+    "banglaPronunciation": "ক্যাসল",
+    "meaning": "A large fortified building, often for royalty.",
+    "banglaMeaning": "দুর্গ",
+    "syllables": [
+      "castle"
+    ],
+    "example": "The king lived in a stone castle.",
+    "hint": "Silent T — sounds like 'kassel'.",
+    "image": "/images/level12/castle.webp"
+  },
+  {
+    "id": "lvl12-140",
+    "level": 12,
+    "order": 140,
+    "word": "hustle",
+    "pronunciation": "/ˈhʌs.əl/",
+    "banglaPronunciation": "হাসল",
+    "meaning": "To move or work quickly and energetically.",
+    "banglaMeaning": "দ্রুত কাজ করা",
+    "syllables": [
+      "hustle"
+    ],
+    "example": "The workers began to hustle to finish.",
+    "hint": "Silent T — sounds like 'hussel'.",
+    "image": "/images/level12/hustle.webp"
+  },
+  {
+    "id": "lvl12-141",
+    "level": 12,
+    "order": 141,
+    "word": "wrestle",
+    "pronunciation": "/ˈres.əl/",
+    "banglaPronunciation": "রেসল",
+    "meaning": "To fight by holding and trying to throw down an opponent.",
+    "banglaMeaning": "কুস্তি করা",
+    "syllables": [
+      "wrestle"
+    ],
+    "example": "The boys began to wrestle in the yard.",
+    "hint": "Silent W — sounds like 'ressel'.",
+    "image": "/images/level12/wrestle.webp"
+  },
+  {
+    "id": "lvl12-142",
+    "level": 12,
+    "order": 142,
+    "word": "gnash",
+    "pronunciation": "/næʃ/",
+    "banglaPronunciation": "ন্যাশ",
+    "meaning": "To grind the teeth together in anger.",
+    "banglaMeaning": "দাঁত কিড়মিড় করা",
+    "syllables": [
+      "gnash"
+    ],
+    "example": "He began to gnash his teeth in frustration.",
+    "hint": "Silent G — sounds like 'nash'.",
+    "image": "/images/level12/gnash.webp"
+  },
+  {
+    "id": "lvl12-143",
+    "level": 12,
+    "order": 143,
+    "word": "wreath",
+    "pronunciation": "/riːθ/",
+    "banglaPronunciation": "রিথ",
+    "meaning": "A ring of flowers or leaves.",
+    "banglaMeaning": "পুষ্পমাল্য",
+    "syllables": [
+      "wreath"
+    ],
+    "example": "They hung a wreath on the door.",
+    "hint": "Silent W — sounds like 'reeth'.",
+    "image": "/images/level12/wreath.webp"
+  },
+  {
+    "id": "lvl12-144",
+    "level": 12,
+    "order": 144,
+    "word": "knit",
+    "pronunciation": "/nɪt/",
+    "banglaPronunciation": "নিট",
+    "meaning": "To make fabric by looping yarn together.",
+    "banglaMeaning": "বোনা",
+    "syllables": [
+      "knit"
+    ],
+    "example": "Grandma likes to knit sweaters.",
+    "hint": "Silent K — sounds like 'nit'.",
+    "image": "/images/level12/knit.webp"
+  },
+  {
+    "id": "lvl12-145",
+    "level": 12,
+    "order": 145,
+    "word": "knuckle",
+    "pronunciation": "/ˈnʌk.əl/",
+    "banglaPronunciation": "নাকল",
+    "meaning": "A joint of the finger.",
+    "banglaMeaning": "আঙুলের গাঁট",
+    "syllables": [
+      "knuckle"
+    ],
+    "example": "He knocked with his knuckle.",
+    "hint": "Silent K — sounds like 'nuk-el'.",
+    "image": "/images/level12/knuckle.webp"
+  },
+  {
+    "id": "lvl12-146",
+    "level": 12,
+    "order": 146,
+    "word": "honor",
+    "pronunciation": "/ˈɒn.ər/",
+    "banglaPronunciation": "অনার",
+    "meaning": "Great respect, or to show respect.",
+    "banglaMeaning": "সম্মান",
+    "syllables": [
+      "honor"
+    ],
+    "example": "He was given a medal of honor.",
+    "hint": "Silent H — sounds like 'on-er'.",
+    "image": "/images/level12/honor.webp"
+  },
+  {
+    "id": "lvl12-147",
+    "level": 12,
+    "order": 147,
+    "word": "heir",
+    "pronunciation": "/ɛr/",
+    "banglaPronunciation": "এয়ার",
+    "meaning": "A person who will inherit property or a title.",
+    "banglaMeaning": "উত্তরাধিকারী",
+    "syllables": [
+      "heir"
+    ],
+    "example": "The prince is the heir to the throne.",
+    "hint": "Silent H — sounds just like 'air'.",
+    "image": "/images/level12/heir.webp"
+  },
+  {
+    "id": "lvl12-148",
+    "level": 12,
+    "order": 148,
+    "word": "exhibit",
+    "pronunciation": "/ɪɡˈzɪb.ɪt/",
+    "banglaPronunciation": "এক্সজিবিট",
+    "meaning": "To publicly display something, or a display itself.",
+    "banglaMeaning": "প্রদর্শন করা",
+    "syllables": [
+      "exhibit"
+    ],
+    "example": "The museum will exhibit ancient pottery.",
+    "hint": "The H is silent — sounds like 'eg-zib-it'.",
+    "image": "/images/level12/exhibit.webp"
+  },
+  {
+    "id": "lvl12-149",
+    "level": 12,
+    "order": 149,
+    "word": "ghost",
+    "pronunciation": "/ɡoʊst/",
+    "banglaPronunciation": "ঘোস্ট",
+    "meaning": "The spirit of a dead person.",
+    "banglaMeaning": "ভূত",
+    "syllables": [
+      "ghost"
+    ],
+    "example": "The old house was said to have a ghost.",
+    "hint": "Silent H — sounds like 'goast'.",
+    "image": "/images/level12/ghost.webp"
+  },
+  {
+    "id": "lvl12-150",
+    "level": 12,
+    "order": 150,
+    "word": "spaghetti",
+    "pronunciation": "/spəˈɡet.i/",
+    "banglaPronunciation": "স্প্যাগেটি",
+    "meaning": "Long, thin strands of pasta.",
+    "banglaMeaning": "স্প্যাগেটি",
+    "syllables": [
+      "spaghetti"
+    ],
+    "example": "We ate spaghetti with tomato sauce.",
+    "hint": "The GH sounds like a hard G — 'spa-get-tee'.",
+    "image": "/images/level12/spaghetti.webp"
+  },
+  {
+    "id": "lvl12-151",
+    "level": 12,
+    "order": 151,
+    "word": "suede",
+    "pronunciation": "/sweɪd/",
+    "banglaPronunciation": "সুয়েড",
+    "meaning": "A soft leather with a napped surface.",
+    "banglaMeaning": "সোয়েড চামড়া",
+    "syllables": [
+      "suede"
+    ],
+    "example": "He wore a pair of suede shoes.",
+    "hint": "Sounds like 'swayed' — soft leather.",
+    "image": "/images/level12/suede.webp"
+  },
+  {
+    "id": "lvl12-152",
+    "level": 12,
+    "order": 152,
+    "word": "guide",
+    "pronunciation": "/ɡaɪd/",
+    "banglaPronunciation": "গাইড",
+    "meaning": "A person or book that shows the way.",
+    "banglaMeaning": "গাইড",
+    "syllables": [
+      "guide"
+    ],
+    "example": "The guide led us through the museum.",
+    "hint": "U is silent after G — sounds like 'gide'.",
+    "image": "/images/level12/guide.webp"
+  },
+  {
+    "id": "lvl12-153",
+    "level": 12,
+    "order": 153,
+    "word": "guitar",
+    "pronunciation": "/ɡɪˈtɑːr/",
+    "banglaPronunciation": "গিটার",
+    "meaning": "A stringed musical instrument played by plucking.",
+    "banglaMeaning": "গিটার",
+    "syllables": [
+      "guitar"
+    ],
+    "example": "He played the guitar at the party.",
+    "hint": "U is silent after G — sounds like 'gi-tar'.",
+    "image": "/images/level12/guitar.webp"
+  },
+  {
+    "id": "lvl12-154",
+    "level": 12,
+    "order": 154,
+    "word": "guilty",
+    "pronunciation": "/ˈɡɪl.ti/",
+    "banglaPronunciation": "গিল্টি",
+    "meaning": "Having done something wrong.",
+    "banglaMeaning": "দোষী",
+    "syllables": [
+      "guilty"
+    ],
+    "example": "The jury found him guilty.",
+    "hint": "U is silent after G — sounds like 'gil-tee'.",
+    "image": "/images/level12/guilty.webp"
+  },
+  {
+    "id": "lvl12-155",
+    "level": 12,
+    "order": 155,
+    "word": "tongue",
+    "pronunciation": "/tʌŋ/",
+    "banglaPronunciation": "টাং",
+    "meaning": "The muscle inside the mouth used for tasting and speaking.",
+    "banglaMeaning": "জিহ্বা",
+    "syllables": [
+      "tongue"
+    ],
+    "example": "He burned his tongue on the hot soup.",
+    "hint": "Ends in silent UE — sounds like 'tung'.",
+    "image": "/images/level12/tongue.webp"
+  },
+  {
+    "id": "lvl12-156",
+    "level": 12,
+    "order": 156,
+    "word": "league",
+    "pronunciation": "/liːɡ/",
+    "banglaPronunciation": "লিগ",
+    "meaning": "A group of teams or countries joined for a common purpose.",
+    "banglaMeaning": "লিগ",
+    "syllables": [
+      "league"
+    ],
+    "example": "The team plays in the top league.",
+    "hint": "Ends in silent UE — sounds like 'leeg'.",
+    "image": "/images/level12/league.webp"
+  },
+  {
+    "id": "lvl12-157",
+    "level": 12,
+    "order": 157,
+    "word": "plague",
+    "pronunciation": "/pleɪɡ/",
+    "banglaPronunciation": "প্লেগ",
+    "meaning": "A dangerous, widespread disease.",
+    "banglaMeaning": "মহামারী",
+    "syllables": [
+      "plague"
+    ],
+    "example": "The plague spread quickly in the past.",
+    "hint": "Ends in silent UE — sounds like 'playg'.",
+    "image": "/images/level12/plague.webp"
+  },
+  {
+    "id": "lvl12-158",
+    "level": 12,
+    "order": 158,
+    "word": "vague",
+    "pronunciation": "/veɪɡ/",
+    "banglaPronunciation": "ভেইগ",
+    "meaning": "Not clear or precise.",
+    "banglaMeaning": "অস্পষ্ট",
+    "syllables": [
+      "vague"
+    ],
+    "example": "His answer was vague and confusing.",
+    "hint": "Ends in silent UE — sounds like 'vayg'.",
+    "image": "/images/level12/vague.webp"
+  },
+  {
+    "id": "lvl12-159",
+    "level": 12,
+    "order": 159,
+    "word": "vogue",
+    "pronunciation": "/voʊɡ/",
+    "banglaPronunciation": "ভোগ",
+    "meaning": "The popular style at a particular time.",
+    "banglaMeaning": "জনপ্রিয় ধারা",
+    "syllables": [
+      "vogue"
+    ],
+    "example": "Bright colors are in vogue this year.",
+    "hint": "Ends in silent UE — sounds like 'vohg'.",
+    "image": "/images/level12/vogue.webp"
+  },
+  {
+    "id": "lvl12-160",
+    "level": 12,
+    "order": 160,
+    "word": "dialogue",
+    "pronunciation": "/ˈdaɪ.ə.lɒɡ/",
+    "banglaPronunciation": "ডায়ালগ",
+    "meaning": "A conversation between two or more people.",
+    "banglaMeaning": "সংলাপ",
+    "syllables": [
+      "dialogue"
+    ],
+    "example": "The movie had witty dialogue.",
+    "hint": "Ends in silent UE — sounds like 'dye-a-log'.",
+    "image": "/images/level12/dialogue.webp"
+  },
+  {
+    "id": "lvl12-161",
+    "level": 12,
+    "order": 161,
+    "word": "catalogue",
+    "pronunciation": "/ˈkæt.ə.lɒɡ/",
+    "banglaPronunciation": "ক্যাটালগ",
+    "meaning": "A list of items, often for sale.",
+    "banglaMeaning": "তালিকা",
+    "syllables": [
+      "catalogue"
+    ],
+    "example": "She browsed the shopping catalogue.",
+    "hint": "Ends in silent UE — sounds like 'kat-a-log'.",
+    "image": "/images/level12/catalogue.webp"
+  },
+  {
+    "id": "lvl12-162",
+    "level": 12,
+    "order": 162,
+    "word": "monologue",
+    "pronunciation": "/ˈmɒn.ə.lɒɡ/",
+    "banglaPronunciation": "মনোলগ",
+    "meaning": "A long speech given by one person.",
+    "banglaMeaning": "একক বক্তব্য",
+    "syllables": [
+      "monologue"
+    ],
+    "example": "The actor delivered a powerful monologue.",
+    "hint": "Ends in silent UE — sounds like 'mon-o-log'.",
+    "image": "/images/level12/monologue.webp"
+  },
+  {
+    "id": "lvl12-163",
+    "level": 12,
+    "order": 163,
+    "word": "physique",
+    "pronunciation": "/fɪˈziːk/",
+    "banglaPronunciation": "ফিজিক",
+    "meaning": "The shape and size of a person's body.",
+    "banglaMeaning": "শারীরিক গঠন",
+    "syllables": [
+      "physique"
+    ],
+    "example": "He has an athletic physique.",
+    "hint": "Ends like 'seek', not like 'ike'.",
+    "image": "/images/level12/physique.webp"
+  },
+  {
+    "id": "lvl12-164",
+    "level": 12,
+    "order": 164,
+    "word": "unique",
+    "pronunciation": "/juˈniːk/",
+    "banglaPronunciation": "ইউনিক",
+    "meaning": "Being the only one of its kind.",
+    "banglaMeaning": "অনন্য",
+    "syllables": [
+      "unique"
+    ],
+    "example": "Each snowflake is unique.",
+    "hint": "Ends like 'seek', not like 'ike'.",
+    "image": "/images/level12/unique.webp"
+  },
+  {
+    "id": "lvl12-165",
+    "level": 12,
+    "order": 165,
+    "word": "mosquito",
+    "pronunciation": "/məˈskiː.toʊ/",
+    "banglaPronunciation": "মসকিটো",
+    "meaning": "A small flying insect that bites and sucks blood.",
+    "banglaMeaning": "মশা",
+    "syllables": [
+      "mosquito"
+    ],
+    "example": "A mosquito buzzed around his ear.",
+    "hint": "The middle sounds like 'skee', not 'sko'.",
+    "image": "/images/level12/mosquito.webp"
+  },
+  {
+    "id": "lvl12-166",
+    "level": 12,
+    "order": 166,
+    "word": "bouquet",
+    "pronunciation": "/buˈkeɪ/",
+    "banglaPronunciation": "বুকে",
+    "meaning": "A bunch of flowers arranged together.",
+    "banglaMeaning": "ফুলের তোড়া",
+    "syllables": [
+      "bouquet"
+    ],
+    "example": "She received a lovely bouquet.",
+    "hint": "Ends silently — sounds like 'boo-kay'.",
+    "image": "/images/level12/bouquet.webp"
+  },
+  {
+    "id": "lvl12-167",
+    "level": 12,
+    "order": 167,
+    "word": "gourmet",
+    "pronunciation": "/ˈɡʊr.meɪ/",
+    "banglaPronunciation": "গুরমেট",
+    "meaning": "Relating to high-quality food and cooking.",
+    "banglaMeaning": "উচ্চমানের রন্ধনশৈলী",
+    "syllables": [
+      "gourmet"
+    ],
+    "example": "They enjoyed a gourmet meal.",
+    "hint": "Ends silently — sounds like 'goor-may'.",
+    "image": "/images/level12/gourmet.webp"
+  },
+  {
+    "id": "lvl12-168",
+    "level": 12,
+    "order": 168,
+    "word": "ballet",
+    "pronunciation": "/bæˈleɪ/",
+    "banglaPronunciation": "ব্যালে",
+    "meaning": "A form of artistic dance.",
+    "banglaMeaning": "ব্যালে নৃত্য",
+    "syllables": [
+      "ballet"
+    ],
+    "example": "She has studied ballet for years.",
+    "hint": "Ends silently — sounds like 'ba-lay'.",
+    "image": "/images/level12/ballet.webp"
+  },
+  {
+    "id": "lvl12-169",
+    "level": 12,
+    "order": 169,
+    "word": "buffet",
+    "pronunciation": "/bəˈfeɪ/",
+    "banglaPronunciation": "বুফে",
+    "meaning": "A meal where guests serve themselves from a spread of dishes.",
+    "banglaMeaning": "বুফে",
+    "syllables": [
+      "buffet"
+    ],
+    "example": "We had lunch at a buffet.",
+    "hint": "Ends silently — sounds like 'buh-fay'.",
+    "image": "/images/level12/buffet.webp"
+  },
+  {
+    "id": "lvl12-170",
+    "level": 12,
+    "order": 170,
+    "word": "croquet",
+    "pronunciation": "/kroʊˈkeɪ/",
+    "banglaPronunciation": "ক্রোকে",
+    "meaning": "A lawn game played with mallets and balls.",
+    "banglaMeaning": "ক্রোকে খেলা",
+    "syllables": [
+      "croquet"
+    ],
+    "example": "They played croquet on the lawn.",
+    "hint": "Ends silently — sounds like 'kro-kay'.",
+    "image": "/images/level12/croquet.webp"
+  },
+  {
+    "id": "lvl12-171",
+    "level": 12,
+    "order": 171,
+    "word": "valet",
+    "pronunciation": "/ˈvæl.eɪ/",
+    "banglaPronunciation": "ভ্যালে",
+    "meaning": "A person who parks cars or attends to clothes.",
+    "banglaMeaning": "গাড়ি রাখার কর্মী",
+    "syllables": [
+      "valet"
+    ],
+    "example": "The valet parked our car.",
+    "hint": "Ends silently — sounds like 'val-ay'.",
+    "image": "/images/level12/valet.webp"
+  },
+  {
+    "id": "lvl12-172",
+    "level": 12,
+    "order": 172,
+    "word": "beret",
+    "pronunciation": "/bəˈreɪ/",
+    "banglaPronunciation": "বেরে",
+    "meaning": "A soft, flat round cap.",
+    "banglaMeaning": "গোলাকার টুপি",
+    "syllables": [
+      "beret"
+    ],
+    "example": "The artist wore a black beret.",
+    "hint": "Ends silently — sounds like 'buh-ray'.",
+    "image": "/images/level12/beret.webp"
+  },
+  {
+    "id": "lvl12-173",
+    "level": 12,
+    "order": 173,
+    "word": "cliche",
+    "pronunciation": "/kliːˈʃeɪ/",
+    "banglaPronunciation": "ক্লিশে",
+    "meaning": "An overused idea or phrase.",
+    "banglaMeaning": "গতানুগতিক ধারণা",
+    "syllables": [
+      "cliche"
+    ],
+    "example": "The movie plot was a total cliche.",
+    "hint": "Ends silently — sounds like 'klee-shay'.",
+    "image": "/images/level12/cliche.webp"
+  },
+  {
+    "id": "lvl12-174",
+    "level": 12,
+    "order": 174,
+    "word": "debris",
+    "pronunciation": "/dəˈbriː/",
+    "banglaPronunciation": "ডেব্রি",
+    "meaning": "Scattered pieces of broken material.",
+    "banglaMeaning": "ধ্বংসাবশেষ",
+    "syllables": [
+      "debris"
+    ],
+    "example": "Debris covered the street after the storm.",
+    "hint": "The S is silent — sounds like 'duh-bree'.",
+    "image": "/images/level12/debris.webp"
+  },
+  {
+    "id": "lvl12-175",
+    "level": 12,
+    "order": 175,
+    "word": "corps",
+    "pronunciation": "/kɔːr/",
+    "banglaPronunciation": "কোর",
+    "meaning": "A group of people organized for a purpose, often military.",
+    "banglaMeaning": "বাহিনী",
+    "syllables": [
+      "corps"
+    ],
+    "example": "He joined the medical corps.",
+    "hint": "The letters PS are silent — sounds like 'core'.",
+    "image": "/images/level12/corps.webp"
+  },
+  {
+    "id": "lvl12-176",
+    "level": 12,
+    "order": 176,
+    "word": "depot",
+    "pronunciation": "/ˈdiː.poʊ/",
+    "banglaPronunciation": "ডিপো",
+    "meaning": "A place where goods or vehicles are stored.",
+    "banglaMeaning": "গুদাম",
+    "syllables": [
+      "depot"
+    ],
+    "example": "The buses parked at the depot.",
+    "hint": "The T is silent — sounds like 'dee-poh'.",
+    "image": "/images/level12/depot.webp"
+  },
+  {
+    "id": "lvl12-177",
+    "level": 12,
+    "order": 177,
+    "word": "facade",
+    "pronunciation": "/fəˈsɑːd/",
+    "banglaPronunciation": "ফাসাদ",
+    "meaning": "The front of a building, or a false appearance.",
+    "banglaMeaning": "সম্মুখভাগ",
+    "syllables": [
+      "facade"
+    ],
+    "example": "The old building had a grand facade.",
+    "hint": "Sounds like 'fuh-sahd'.",
+    "image": "/images/level12/facade.webp"
+  },
+  {
+    "id": "lvl12-178",
+    "level": 12,
+    "order": 178,
+    "word": "genre",
+    "pronunciation": "/ˈʒɒn.rə/",
+    "banglaPronunciation": "জনরে",
+    "meaning": "A category of art, music, or writing.",
+    "banglaMeaning": "শৈলী",
+    "syllables": [
+      "genre"
+    ],
+    "example": "Mystery is her favorite book genre.",
+    "hint": "A tricky French-style pronunciation — 'zhon-ruh'.",
+    "image": "/images/level12/genre.webp"
+  },
+  {
+    "id": "lvl12-179",
+    "level": 12,
+    "order": 179,
+    "word": "cache",
+    "pronunciation": "/kæʃ/",
+    "banglaPronunciation": "ক্যাশ",
+    "meaning": "A hidden store of things, or temporary computer memory.",
+    "banglaMeaning": "গুপ্তভাণ্ডার",
+    "syllables": [
+      "cache"
+    ],
+    "example": "They found a cache of old coins.",
+    "hint": "Sounds exactly like 'cash'.",
+    "image": "/images/level12/cache.webp"
+  },
+  {
+    "id": "lvl12-180",
+    "level": 12,
+    "order": 180,
+    "word": "niche",
+    "pronunciation": "/nɪtʃ/",
+    "banglaPronunciation": "নিচ",
+    "meaning": "A specialized area or small hollow space.",
+    "banglaMeaning": "কুলুঙ্গি",
+    "syllables": [
+      "niche"
+    ],
+    "example": "The shop found its niche selling handmade soap.",
+    "hint": "Sounds like 'nitch'.",
+    "image": "/images/level12/niche.webp"
+  },
+  {
+    "id": "lvl12-181",
+    "level": 12,
+    "order": 181,
+    "word": "debut",
+    "pronunciation": "/deɪˈbjuː/",
+    "banglaPronunciation": "ডেবিউ",
+    "meaning": "A first public appearance.",
+    "banglaMeaning": "প্রথম উপস্থিতি",
+    "syllables": [
+      "debut"
+    ],
+    "example": "The young singer made her debut last night.",
+    "hint": "The T is silent — sounds like 'day-byoo'.",
+    "image": "/images/level12/debut.webp"
+  },
+  {
+    "id": "lvl12-182",
+    "level": 12,
+    "order": 182,
+    "word": "fiancé",
+    "pronunciation": "/fiˌɑːnˈseɪ/",
+    "banglaPronunciation": "ফিয়াঁসে",
+    "meaning": "A man engaged to be married.",
+    "banglaMeaning": "বাগদত্ত",
+    "syllables": [
+      "fiancé"
+    ],
+    "example": "She introduced her fiancé to the family.",
+    "hint": "Ends silently — sounds like 'fee-on-say'.",
+    "image": "/images/level12/fiancé.webp"
+  },
+  {
+    "id": "lvl12-183",
+    "level": 12,
+    "order": 183,
+    "word": "cuisine",
+    "pronunciation": "/kwɪˈziːn/",
+    "banglaPronunciation": "কুইজিন",
+    "meaning": "A style of cooking.",
+    "banglaMeaning": "রন্ধনশৈলী",
+    "syllables": [
+      "cuisine"
+    ],
+    "example": "The restaurant serves French cuisine.",
+    "hint": "Sounds like 'kwi-zeen'.",
+    "image": "/images/level12/cuisine.webp"
+  },
+  {
+    "id": "lvl12-184",
+    "level": 12,
+    "order": 184,
+    "word": "silhouette",
+    "pronunciation": "/ˌsɪl.uˈet/",
+    "banglaPronunciation": "সিলুয়েট",
+    "meaning": "The dark outline of someone or something against light.",
+    "banglaMeaning": "ছায়াকৃতি",
+    "syllables": [
+      "silhouette"
+    ],
+    "example": "We saw his silhouette against the sunset.",
+    "hint": "Ends silently — sounds like 'sil-oo-et'.",
+    "image": "/images/level12/silhouette.webp"
+  },
+  {
+    "id": "lvl12-185",
+    "level": 12,
+    "order": 185,
+    "word": "ricochet",
+    "pronunciation": "/ˈrɪk.ə.ʃeɪ/",
+    "banglaPronunciation": "রিকোশে",
+    "meaning": "To bounce off a surface at an angle.",
+    "banglaMeaning": "প্রতিফলিত হওয়া",
+    "syllables": [
+      "ricochet"
+    ],
+    "example": "The bullet ricocheted off the wall.",
+    "hint": "Ends silently — sounds like 'rik-uh-shay'.",
+    "image": "/images/level12/ricochet.webp"
+  },
+  {
+    "id": "lvl12-186",
+    "level": 12,
+    "order": 186,
+    "word": "feign",
+    "pronunciation": "/feɪn/",
+    "banglaPronunciation": "ফেইন",
+    "meaning": "To pretend to feel or be something.",
+    "banglaMeaning": "ভান করা",
+    "syllables": [
+      "feign"
+    ],
+    "example": "He tried to feign surprise.",
+    "hint": "Silent G — sounds like 'fain'.",
+    "image": "/images/level12/feign.webp"
+  },
+  {
+    "id": "lvl12-187",
+    "level": 12,
+    "order": 187,
+    "word": "deign",
+    "pronunciation": "/deɪn/",
+    "banglaPronunciation": "ডেইন",
+    "meaning": "To do something one feels is beneath oneself.",
+    "banglaMeaning": "অনুগ্রহ করে করা",
+    "syllables": [
+      "deign"
+    ],
+    "example": "She did not deign to reply.",
+    "hint": "Silent G — sounds like 'dain'.",
+    "image": "/images/level12/deign.webp"
+  },
+  {
+    "id": "lvl12-188",
+    "level": 12,
+    "order": 188,
+    "word": "sovereign",
+    "pronunciation": "/ˈsɒv.rɪn/",
+    "banglaPronunciation": "সভরিন",
+    "meaning": "A supreme ruler, like a king or queen.",
+    "banglaMeaning": "সার্বভৌম শাসক",
+    "syllables": [
+      "sovereign"
+    ],
+    "example": "The sovereign ruled the kingdom wisely.",
+    "hint": "Silent G — sounds like 'sov-rin'.",
+    "image": "/images/level12/sovereign.webp"
+  },
+  {
+    "id": "lvl12-189",
+    "level": 12,
+    "order": 189,
+    "word": "freight",
+    "pronunciation": "/freɪt/",
+    "banglaPronunciation": "ফ্রেইট",
+    "meaning": "Goods transported by ship, train, or truck.",
+    "banglaMeaning": "পণ্য পরিবহন",
+    "syllables": [
+      "freight"
+    ],
+    "example": "The freight train carried heavy cargo.",
+    "hint": "Silent GH — sounds like 'frayt'.",
+    "image": "/images/level12/freight.webp"
+  },
+  {
+    "id": "lvl12-190",
+    "level": 12,
+    "order": 190,
+    "word": "ought",
+    "pronunciation": "/ɔːt/",
+    "banglaPronunciation": "ওট",
+    "meaning": "Should; expresses duty or advice.",
+    "banglaMeaning": "উচিত",
+    "syllables": [
+      "ought"
+    ],
+    "example": "You ought to apologize.",
+    "hint": "Silent GH — sounds like 'awt'.",
+    "image": "/images/level12/ought.webp"
+  },
+  {
+    "id": "lvl12-191",
+    "level": 12,
+    "order": 191,
+    "word": "wrought",
+    "pronunciation": "/rɔːt/",
+    "banglaPronunciation": "রট",
+    "meaning": "Made or shaped, especially metal (old past tense of 'work').",
+    "banglaMeaning": "গঠিত",
+    "syllables": [
+      "wrought"
+    ],
+    "example": "The gate was made of wrought iron.",
+    "hint": "Silent W and GH — sounds like 'rawt'.",
+    "image": "/images/level12/wrought.webp"
+  },
+  {
+    "id": "lvl12-192",
+    "level": 12,
+    "order": 192,
+    "word": "subtlety",
+    "pronunciation": "/ˈsʌt.əl.ti/",
+    "banglaPronunciation": "সাটলটি",
+    "meaning": "A fine, delicate distinction.",
+    "banglaMeaning": "সূক্ষ্মতা",
+    "syllables": [
+      "subtlety"
+    ],
+    "example": "The joke had a clever subtlety.",
+    "hint": "Silent B — sounds like 'suttlety'.",
+    "image": "/images/level12/subtlety.webp"
+  },
+  {
+    "id": "lvl12-193",
+    "level": 12,
+    "order": 193,
+    "word": "tsunami",
+    "pronunciation": "/tsuˈnɑː.mi/",
+    "banglaPronunciation": "সুনামি",
+    "meaning": "A huge ocean wave caused by an earthquake.",
+    "banglaMeaning": "সুনামি",
+    "syllables": [
+      "tsunami"
+    ],
+    "example": "The tsunami struck the coastal town.",
+    "hint": "The T is barely pronounced — 'soo-nah-mee'.",
+    "image": "/images/level12/tsunami.webp"
+  },
+  {
+    "id": "lvl12-194",
+    "level": 12,
+    "order": 194,
+    "word": "psalm",
+    "pronunciation": "/sɑːm/",
+    "banglaPronunciation": "সাম",
+    "meaning": "A sacred song or poem, especially from the Bible.",
+    "banglaMeaning": "স্তোত্র",
+    "syllables": [
+      "psalm"
+    ],
+    "example": "The choir sang a beautiful psalm.",
+    "hint": "Silent P — sounds like 'sahm'.",
+    "image": "/images/level12/psalm.webp"
+  },
+  {
+    "id": "lvl12-195",
+    "level": 12,
+    "order": 195,
+    "word": "pterodactyl",
+    "pronunciation": "/ˌter.əˈdæk.tɪl/",
+    "banglaPronunciation": "টেরোড্যাকটিল",
+    "meaning": "A flying reptile from the age of dinosaurs.",
+    "banglaMeaning": "উড়ন্ত সরীসৃপ",
+    "syllables": [
+      "pterodactyl"
+    ],
+    "example": "The museum displayed a pterodactyl fossil.",
+    "hint": "Silent P — sounds like 'terra-dactyl'.",
+    "image": "/images/level12/pterodactyl.webp"
+  },
+  {
+    "id": "lvl12-196",
+    "level": 12,
+    "order": 196,
+    "word": "czar",
+    "pronunciation": "/zɑːr/",
+    "banglaPronunciation": "জার",
+    "meaning": "A former emperor of Russia, or a person with great authority.",
+    "banglaMeaning": "জার (রুশ সম্রাট)",
+    "syllables": [
+      "czar"
+    ],
+    "example": "The czar ruled Russia for decades.",
+    "hint": "Silent C — sounds like 'zar'.",
+    "image": "/images/level12/czar.webp"
+  },
+  {
+    "id": "lvl12-197",
+    "level": 12,
+    "order": 197,
+    "word": "mnemonic",
+    "pronunciation": "/nɪˈmɒn.ɪk/",
+    "banglaPronunciation": "নিমনিক",
+    "meaning": "A pattern that helps you remember something.",
+    "banglaMeaning": "স্মৃতিসহায়ক কৌশল",
+    "syllables": [
+      "mnemonic"
+    ],
+    "example": "She used a mnemonic to remember the list.",
+    "hint": "Silent M — sounds like 'ni-mon-ik'.",
+    "image": "/images/level12/mnemonic.webp"
+  },
+  {
+    "id": "lvl12-198",
+    "level": 12,
+    "order": 198,
+    "word": "rendezvous",
+    "pronunciation": "/ˈrɒn.deɪ.vuː/",
+    "banglaPronunciation": "রঁদেভু",
+    "meaning": "A planned meeting, especially at a set time and place.",
+    "banglaMeaning": "পূর্বনির্ধারিত সাক্ষাৎ",
+    "syllables": [
+      "rendezvous"
+    ],
+    "example": "They set up a rendezvous at noon.",
+    "hint": "A French word — sounds like 'ron-day-voo'.",
+    "image": "/images/level12/rendezvous.webp"
+  },
+  {
+    "id": "lvl12-199",
+    "level": 12,
+    "order": 199,
+    "word": "entrepreneur",
+    "pronunciation": "/ˌɒn.trə.prəˈnɜːr/",
+    "banglaPronunciation": "আঁত্রপ্রেনার",
+    "meaning": "A person who starts and runs a business.",
+    "banglaMeaning": "উদ্যোক্তা",
+    "syllables": [
+      "entrepreneur"
+    ],
+    "example": "She became a successful entrepreneur.",
+    "hint": "A tricky French borrowing — 'on-truh-pruh-nur'.",
+    "image": "/images/level12/entrepreneur.webp"
+  },
+  {
+    "id": "lvl12-200",
+    "level": 12,
+    "order": 200,
+    "word": "intrigue",
+    "pronunciation": "/ɪnˈtriːɡ/",
+    "banglaPronunciation": "ইন্ট্রিগ",
+    "meaning": "Something that arouses curiosity, or secret plotting.",
+    "banglaMeaning": "কৌতূহল জাগানো",
+    "syllables": [
+      "intrigue"
+    ],
+    "example": "The mystery filled her with intrigue.",
+    "hint": "Ends in silent UE — sounds like 'in-treeg'.",
+    "image": "/images/level12/intrigue.webp"
+  },
+  {
+    "id": "lvl12-201",
+    "level": 12,
+    "order": 201,
+    "word": "fatigue",
+    "pronunciation": "/fəˈtiːɡ/",
+    "banglaPronunciation": "ফাটিগ",
+    "meaning": "Extreme tiredness.",
+    "banglaMeaning": "ক্লান্তি",
+    "syllables": [
+      "fatigue"
+    ],
+    "example": "He felt fatigue after the long journey.",
+    "hint": "Ends in silent UE — sounds like 'fuh-teeg'.",
+    "image": "/images/level12/fatigue.webp"
+  }
+]

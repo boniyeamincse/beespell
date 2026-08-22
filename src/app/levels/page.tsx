@@ -1,12 +1,21 @@
+'use client';
+
 import Link from 'next/link';
+import { useProgress } from '@/hooks/useProgress';
 import './levels.css';
 
 export default function LevelsPage() {
+  const { progress, isLoaded } = useProgress();
+
+  if (!isLoaded) {
+    return <div className="levels-wrapper"><div className="loading">Loading your journey...</div></div>;
+  }
+
   // Generate 50 levels for the map
   const levels = Array.from({ length: 50 }, (_, i) => ({
     level: i,
     title: i === 0 ? "Foundation" : `Level ${i}`,
-    locked: i !== 0 // Initially only 0 is unlocked
+    locked: !progress.unlockedLevels.includes(i)
   }));
 
   return (

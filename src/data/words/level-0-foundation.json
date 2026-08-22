@@ -3,22 +3,422 @@
     "id": "lvl0-001",
     "level": 0,
     "order": 1,
-    "word": "cat",
-    "pronunciation": "/kæt/",
-    "banglaPronunciation": "ক্যাট",
-    "meaning": "A small domesticated animal kept as a pet.",
-    "banglaMeaning": "বিড়াল",
+    "word": "a",
+    "pronunciation": "/eɪ/",
+    "banglaPronunciation": "এ",
+    "meaning": "The letter \"A\" — the 1st letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার প্রথম অক্ষর",
     "syllables": [
-      "cat"
+      "a"
     ],
-    "example": "The cat is sleeping.",
-    "hint": "Starts with C and ends with T.",
-    "image": "/images/level0/cat.webp"
+    "example": "A is for Apple.",
+    "hint": "The very first letter of the alphabet.",
+    "image": "/images/level0/a.webp"
   },
   {
     "id": "lvl0-002",
     "level": 0,
     "order": 2,
+    "word": "b",
+    "pronunciation": "/biː/",
+    "banglaPronunciation": "বি",
+    "meaning": "The letter \"B\" — the 2nd letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার দ্বিতীয় অক্ষর",
+    "syllables": [
+      "b"
+    ],
+    "example": "B is for Ball.",
+    "hint": "Has two round bumps on the right side.",
+    "image": "/images/level0/b.webp"
+  },
+  {
+    "id": "lvl0-003",
+    "level": 0,
+    "order": 3,
+    "word": "c",
+    "pronunciation": "/siː/",
+    "banglaPronunciation": "সি",
+    "meaning": "The letter \"C\" — the 3rd letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার তৃতীয় অক্ষর",
+    "syllables": [
+      "c"
+    ],
+    "example": "C is for Cat.",
+    "hint": "Shaped like a crescent moon, open on the right.",
+    "image": "/images/level0/c.webp"
+  },
+  {
+    "id": "lvl0-004",
+    "level": 0,
+    "order": 4,
+    "word": "d",
+    "pronunciation": "/diː/",
+    "banglaPronunciation": "ডি",
+    "meaning": "The letter \"D\" — the 4th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার চতুর্থ অক্ষর",
+    "syllables": [
+      "d"
+    ],
+    "example": "D is for Dog.",
+    "hint": "A straight line with one curve on the right.",
+    "image": "/images/level0/d.webp"
+  },
+  {
+    "id": "lvl0-005",
+    "level": 0,
+    "order": 5,
+    "word": "e",
+    "pronunciation": "/iː/",
+    "banglaPronunciation": "ই",
+    "meaning": "The letter \"E\" — the 5th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার পঞ্চম অক্ষর",
+    "syllables": [
+      "e"
+    ],
+    "example": "E is for Egg.",
+    "hint": "Has three horizontal lines.",
+    "image": "/images/level0/e.webp"
+  },
+  {
+    "id": "lvl0-006",
+    "level": 0,
+    "order": 6,
+    "word": "f",
+    "pronunciation": "/ɛf/",
+    "banglaPronunciation": "এফ",
+    "meaning": "The letter \"F\" — the 6th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার ষষ্ঠ অক্ষর",
+    "syllables": [
+      "f"
+    ],
+    "example": "F is for Fan.",
+    "hint": "Looks like \"E\" without the bottom line.",
+    "image": "/images/level0/f.webp"
+  },
+  {
+    "id": "lvl0-007",
+    "level": 0,
+    "order": 7,
+    "word": "g",
+    "pronunciation": "/dʒiː/",
+    "banglaPronunciation": "জি",
+    "meaning": "The letter \"G\" — the 7th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার সপ্তম অক্ষর",
+    "syllables": [
+      "g"
+    ],
+    "example": "G is for Goat.",
+    "hint": "Round like \"C\" with a small hook.",
+    "image": "/images/level0/g.webp"
+  },
+  {
+    "id": "lvl0-008",
+    "level": 0,
+    "order": 8,
+    "word": "h",
+    "pronunciation": "/eɪtʃ/",
+    "banglaPronunciation": "এইচ",
+    "meaning": "The letter \"H\" — the 8th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার অষ্টম অক্ষর",
+    "syllables": [
+      "h"
+    ],
+    "example": "H is for Hat.",
+    "hint": "Two straight lines joined by a bar in the middle.",
+    "image": "/images/level0/h.webp"
+  },
+  {
+    "id": "lvl0-009",
+    "level": 0,
+    "order": 9,
+    "word": "i",
+    "pronunciation": "/aɪ/",
+    "banglaPronunciation": "আই",
+    "meaning": "The letter \"I\" — the 9th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার নবম অক্ষর",
+    "syllables": [
+      "i"
+    ],
+    "example": "I is for Ice.",
+    "hint": "The shortest letter, just a line with a dot.",
+    "image": "/images/level0/i.webp"
+  },
+  {
+    "id": "lvl0-010",
+    "level": 0,
+    "order": 10,
+    "word": "j",
+    "pronunciation": "/dʒeɪ/",
+    "banglaPronunciation": "জে",
+    "meaning": "The letter \"J\" — the 10th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার দশম অক্ষর",
+    "syllables": [
+      "j"
+    ],
+    "example": "J is for Jar.",
+    "hint": "Has a hook at the bottom, like a fishing hook.",
+    "image": "/images/level0/j.webp"
+  },
+  {
+    "id": "lvl0-011",
+    "level": 0,
+    "order": 11,
+    "word": "k",
+    "pronunciation": "/keɪ/",
+    "banglaPronunciation": "কে",
+    "meaning": "The letter \"K\" — the 11th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার একাদশ অক্ষর",
+    "syllables": [
+      "k"
+    ],
+    "example": "K is for Kite.",
+    "hint": "Two diagonal lines meeting a straight one.",
+    "image": "/images/level0/k.webp"
+  },
+  {
+    "id": "lvl0-012",
+    "level": 0,
+    "order": 12,
+    "word": "l",
+    "pronunciation": "/ɛl/",
+    "banglaPronunciation": "এল",
+    "meaning": "The letter \"L\" — the 12th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার দ্বাদশ অক্ষর",
+    "syllables": [
+      "l"
+    ],
+    "example": "L is for Leaf.",
+    "hint": "A simple straight line with a foot.",
+    "image": "/images/level0/l.webp"
+  },
+  {
+    "id": "lvl0-013",
+    "level": 0,
+    "order": 13,
+    "word": "m",
+    "pronunciation": "/ɛm/",
+    "banglaPronunciation": "এম",
+    "meaning": "The letter \"M\" — the 13th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার ত্রয়োদশ অক্ষর",
+    "syllables": [
+      "m"
+    ],
+    "example": "M is for Moon.",
+    "hint": "Has two peaks, like mountains.",
+    "image": "/images/level0/m.webp"
+  },
+  {
+    "id": "lvl0-014",
+    "level": 0,
+    "order": 14,
+    "word": "n",
+    "pronunciation": "/ɛn/",
+    "banglaPronunciation": "এন",
+    "meaning": "The letter \"N\" — the 14th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার চতুর্দশ অক্ষর",
+    "syllables": [
+      "n"
+    ],
+    "example": "N is for Net.",
+    "hint": "Has one peak in the middle.",
+    "image": "/images/level0/n.webp"
+  },
+  {
+    "id": "lvl0-015",
+    "level": 0,
+    "order": 15,
+    "word": "o",
+    "pronunciation": "/oʊ/",
+    "banglaPronunciation": "ও",
+    "meaning": "The letter \"O\" — the 15th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার পঞ্চদশ অক্ষর",
+    "syllables": [
+      "o"
+    ],
+    "example": "O is for Owl.",
+    "hint": "Perfectly round, like a circle.",
+    "image": "/images/level0/o.webp"
+  },
+  {
+    "id": "lvl0-016",
+    "level": 0,
+    "order": 16,
+    "word": "p",
+    "pronunciation": "/piː/",
+    "banglaPronunciation": "পি",
+    "meaning": "The letter \"P\" — the 16th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার ষোড়শ অক্ষর",
+    "syllables": [
+      "p"
+    ],
+    "example": "P is for Pig.",
+    "hint": "A straight line with a loop on top.",
+    "image": "/images/level0/p.webp"
+  },
+  {
+    "id": "lvl0-017",
+    "level": 0,
+    "order": 17,
+    "word": "q",
+    "pronunciation": "/kjuː/",
+    "banglaPronunciation": "কিউ",
+    "meaning": "The letter \"Q\" — the 17th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার সপ্তদশ অক্ষর",
+    "syllables": [
+      "q"
+    ],
+    "example": "Q is for Queen.",
+    "hint": "Looks like \"O\" with a little tail.",
+    "image": "/images/level0/q.webp"
+  },
+  {
+    "id": "lvl0-018",
+    "level": 0,
+    "order": 18,
+    "word": "r",
+    "pronunciation": "/ɑːr/",
+    "banglaPronunciation": "আর",
+    "meaning": "The letter \"R\" — the 18th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার অষ্টাদশ অক্ষর",
+    "syllables": [
+      "r"
+    ],
+    "example": "R is for Rug.",
+    "hint": "Looks like \"P\" with a little leg.",
+    "image": "/images/level0/r.webp"
+  },
+  {
+    "id": "lvl0-019",
+    "level": 0,
+    "order": 19,
+    "word": "s",
+    "pronunciation": "/ɛs/",
+    "banglaPronunciation": "এস",
+    "meaning": "The letter \"S\" — the 19th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার ঊনবিংশ অক্ষর",
+    "syllables": [
+      "s"
+    ],
+    "example": "S is for Sun.",
+    "hint": "Curvy, like a snake.",
+    "image": "/images/level0/s.webp"
+  },
+  {
+    "id": "lvl0-020",
+    "level": 0,
+    "order": 20,
+    "word": "t",
+    "pronunciation": "/tiː/",
+    "banglaPronunciation": "টি",
+    "meaning": "The letter \"T\" — the 20th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার বিংশ অক্ষর",
+    "syllables": [
+      "t"
+    ],
+    "example": "T is for Tree.",
+    "hint": "A straight line crossed at the top.",
+    "image": "/images/level0/t.webp"
+  },
+  {
+    "id": "lvl0-021",
+    "level": 0,
+    "order": 21,
+    "word": "u",
+    "pronunciation": "/juː/",
+    "banglaPronunciation": "ইউ",
+    "meaning": "The letter \"U\" — the 21st letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার একবিংশ অক্ষর",
+    "syllables": [
+      "u"
+    ],
+    "example": "U is for Umbrella.",
+    "hint": "Shaped like a cup that holds water.",
+    "image": "/images/level0/u.webp"
+  },
+  {
+    "id": "lvl0-022",
+    "level": 0,
+    "order": 22,
+    "word": "v",
+    "pronunciation": "/viː/",
+    "banglaPronunciation": "ভি",
+    "meaning": "The letter \"V\" — the 22nd letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার দ্বাবিংশ অক্ষর",
+    "syllables": [
+      "v"
+    ],
+    "example": "V is for Van.",
+    "hint": "Two lines meeting at a point, like a checkmark.",
+    "image": "/images/level0/v.webp"
+  },
+  {
+    "id": "lvl0-023",
+    "level": 0,
+    "order": 23,
+    "word": "w",
+    "pronunciation": "/ˈdʌb.əl.juː/",
+    "banglaPronunciation": "ডাবলিউ",
+    "meaning": "The letter \"W\" — the 23rd letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার ত্রয়োবিংশ অক্ষর",
+    "syllables": [
+      "w"
+    ],
+    "example": "W is for Web.",
+    "hint": "Looks like two \"V\"s joined together.",
+    "image": "/images/level0/w.webp"
+  },
+  {
+    "id": "lvl0-024",
+    "level": 0,
+    "order": 24,
+    "word": "x",
+    "pronunciation": "/ɛks/",
+    "banglaPronunciation": "এক্স",
+    "meaning": "The letter \"X\" — the 24th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার চতুর্বিংশ অক্ষর",
+    "syllables": [
+      "x"
+    ],
+    "example": "X is for Xylophone.",
+    "hint": "Two lines crossing each other.",
+    "image": "/images/level0/x.webp"
+  },
+  {
+    "id": "lvl0-025",
+    "level": 0,
+    "order": 25,
+    "word": "y",
+    "pronunciation": "/waɪ/",
+    "banglaPronunciation": "ওয়াই",
+    "meaning": "The letter \"Y\" — the 25th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার পঞ্চবিংশ অক্ষর",
+    "syllables": [
+      "y"
+    ],
+    "example": "Y is for Yo-yo.",
+    "hint": "Looks like a slingshot.",
+    "image": "/images/level0/y.webp"
+  },
+  {
+    "id": "lvl0-026",
+    "level": 0,
+    "order": 26,
+    "word": "z",
+    "pronunciation": "/zɛd/",
+    "banglaPronunciation": "জেড",
+    "meaning": "The letter \"Z\" — the 26th letter of the English alphabet.",
+    "banglaMeaning": "ইংরেজি বর্ণমালার ষড়বিংশ অক্ষর",
+    "syllables": [
+      "z"
+    ],
+    "example": "Z is for Zoo.",
+    "hint": "The last letter of the alphabet, sounds like \"zzz\".",
+    "image": "/images/level0/z.webp"
+  },
+  {
+    "id": "lvl0-027",
+    "level": 0,
+    "order": 27,
     "word": "dog",
     "pronunciation": "/dɒɡ/",
     "banglaPronunciation": "ডগ",
@@ -32,9 +432,25 @@
     "image": "/images/level0/dog.webp"
   },
   {
-    "id": "lvl0-003",
+    "id": "lvl0-028",
     "level": 0,
-    "order": 3,
+    "order": 28,
+    "word": "cat",
+    "pronunciation": "/kæt/",
+    "banglaPronunciation": "ক্যাট",
+    "meaning": "A small domesticated animal kept as a pet.",
+    "banglaMeaning": "বিড়াল",
+    "syllables": [
+      "cat"
+    ],
+    "example": "The cat is sleeping.",
+    "hint": "Starts with C and ends with T.",
+    "image": "/images/level0/cat.webp"
+  },
+  {
+    "id": "lvl0-029",
+    "level": 0,
+    "order": 29,
     "word": "cow",
     "pronunciation": "/kaʊ/",
     "banglaPronunciation": "কাউ",
@@ -48,13 +464,13 @@
     "image": "/images/level0/cow.webp"
   },
   {
-    "id": "lvl0-004",
+    "id": "lvl0-030",
     "level": 0,
-    "order": 4,
+    "order": 30,
     "word": "pig",
     "pronunciation": "/pɪɡ/",
     "banglaPronunciation": "পিগ",
-    "meaning": "A farm animal with a curly tail, raised for meat.",
+    "meaning": "A farm animal with a curly tail.",
     "banglaMeaning": "শূকর",
     "syllables": [
       "pig"
@@ -64,9 +480,9 @@
     "image": "/images/level0/pig.webp"
   },
   {
-    "id": "lvl0-005",
+    "id": "lvl0-031",
     "level": 0,
-    "order": 5,
+    "order": 31,
     "word": "hen",
     "pronunciation": "/hɛn/",
     "banglaPronunciation": "হেন",
@@ -80,25 +496,185 @@
     "image": "/images/level0/hen.webp"
   },
   {
-    "id": "lvl0-006",
+    "id": "lvl0-032",
     "level": 0,
-    "order": 6,
-    "word": "fox",
-    "pronunciation": "/fɒks/",
-    "banglaPronunciation": "ফক্স",
-    "meaning": "A wild animal with a bushy tail, known for cleverness.",
-    "banglaMeaning": "শিয়াল",
+    "order": 32,
+    "word": "egg",
+    "pronunciation": "/ɛɡ/",
+    "banglaPronunciation": "এগ",
+    "meaning": "An oval object laid by birds, eaten as food.",
+    "banglaMeaning": "ডিম",
     "syllables": [
-      "fox"
+      "egg"
     ],
-    "example": "The fox ran into the forest.",
-    "hint": "Ends with \"-ox\" like \"box\".",
-    "image": "/images/level0/fox.webp"
+    "example": "I ate an egg for breakfast.",
+    "hint": "Rhymes with \"leg\".",
+    "image": "/images/level0/egg.webp"
   },
   {
-    "id": "lvl0-007",
+    "id": "lvl0-033",
     "level": 0,
-    "order": 7,
+    "order": 33,
+    "word": "bag",
+    "pronunciation": "/bæɡ/",
+    "banglaPronunciation": "ব্যাগ",
+    "meaning": "A container used to carry things.",
+    "banglaMeaning": "ব্যাগ",
+    "syllables": [
+      "bag"
+    ],
+    "example": "She packed her books in a bag.",
+    "hint": "Rhymes with \"tag\".",
+    "image": "/images/level0/bag.webp"
+  },
+  {
+    "id": "lvl0-034",
+    "level": 0,
+    "order": 34,
+    "word": "bed",
+    "pronunciation": "/bɛd/",
+    "banglaPronunciation": "বেড",
+    "meaning": "A piece of furniture for sleeping.",
+    "banglaMeaning": "বিছানা",
+    "syllables": [
+      "bed"
+    ],
+    "example": "I sleep on my bed.",
+    "hint": "Rhymes with \"red\".",
+    "image": "/images/level0/bed.webp"
+  },
+  {
+    "id": "lvl0-035",
+    "level": 0,
+    "order": 35,
+    "word": "bus",
+    "pronunciation": "/bʌs/",
+    "banglaPronunciation": "বাস",
+    "meaning": "A large vehicle that carries many people.",
+    "banglaMeaning": "বাস",
+    "syllables": [
+      "bus"
+    ],
+    "example": "We went to school by bus.",
+    "hint": "Rhymes with \"plus\".",
+    "image": "/images/level0/bus.webp"
+  },
+  {
+    "id": "lvl0-036",
+    "level": 0,
+    "order": 36,
+    "word": "car",
+    "pronunciation": "/kɑːr/",
+    "banglaPronunciation": "কার",
+    "meaning": "A vehicle with four wheels.",
+    "banglaMeaning": "গাড়ি",
+    "syllables": [
+      "car"
+    ],
+    "example": "Dad drives the car to work.",
+    "hint": "Rhymes with \"star\".",
+    "image": "/images/level0/car.webp"
+  },
+  {
+    "id": "lvl0-037",
+    "level": 0,
+    "order": 37,
+    "word": "cap",
+    "pronunciation": "/kæp/",
+    "banglaPronunciation": "ক্যাপ",
+    "meaning": "A soft covering worn on the head.",
+    "banglaMeaning": "ক্যাপ / টুপি",
+    "syllables": [
+      "cap"
+    ],
+    "example": "He wore a blue cap.",
+    "hint": "Rhymes with \"map\".",
+    "image": "/images/level0/cap.webp"
+  },
+  {
+    "id": "lvl0-038",
+    "level": 0,
+    "order": 38,
+    "word": "fan",
+    "pronunciation": "/fæn/",
+    "banglaPronunciation": "ফ্যান",
+    "meaning": "A device that moves air to cool a room.",
+    "banglaMeaning": "পাখা",
+    "syllables": [
+      "fan"
+    ],
+    "example": "Turn on the fan, it is hot.",
+    "hint": "Rhymes with \"can\".",
+    "image": "/images/level0/fan.webp"
+  },
+  {
+    "id": "lvl0-039",
+    "level": 0,
+    "order": 39,
+    "word": "jar",
+    "pronunciation": "/dʒɑːr/",
+    "banglaPronunciation": "জার",
+    "meaning": "A glass container for storing food.",
+    "banglaMeaning": "বয়াম",
+    "syllables": [
+      "jar"
+    ],
+    "example": "The jar is full of honey.",
+    "hint": "Rhymes with \"car\".",
+    "image": "/images/level0/jar.webp"
+  },
+  {
+    "id": "lvl0-040",
+    "level": 0,
+    "order": 40,
+    "word": "log",
+    "pronunciation": "/lɒɡ/",
+    "banglaPronunciation": "লগ",
+    "meaning": "A thick piece of wood from a tree.",
+    "banglaMeaning": "কাঠের গুঁড়ি",
+    "syllables": [
+      "log"
+    ],
+    "example": "The log floated on the river.",
+    "hint": "Rhymes with \"dog\".",
+    "image": "/images/level0/log.webp"
+  },
+  {
+    "id": "lvl0-041",
+    "level": 0,
+    "order": 41,
+    "word": "mug",
+    "pronunciation": "/mʌɡ/",
+    "banglaPronunciation": "মাগ",
+    "meaning": "A large cup used for hot drinks.",
+    "banglaMeaning": "মগ",
+    "syllables": [
+      "mug"
+    ],
+    "example": "He drank tea from a mug.",
+    "hint": "Rhymes with \"bug\".",
+    "image": "/images/level0/mug.webp"
+  },
+  {
+    "id": "lvl0-042",
+    "level": 0,
+    "order": 42,
+    "word": "net",
+    "pronunciation": "/nɛt/",
+    "banglaPronunciation": "নেট",
+    "meaning": "A material made of crossed threads with open spaces.",
+    "banglaMeaning": "জাল",
+    "syllables": [
+      "net"
+    ],
+    "example": "The fisherman used a net.",
+    "hint": "Rhymes with \"pet\".",
+    "image": "/images/level0/net.webp"
+  },
+  {
+    "id": "lvl0-043",
+    "level": 0,
+    "order": 43,
     "word": "owl",
     "pronunciation": "/aʊl/",
     "banglaPronunciation": "আউল",
@@ -112,706 +688,115 @@
     "image": "/images/level0/owl.webp"
   },
   {
-    "id": "lvl0-008",
-    "level": 0,
-    "order": 8,
-    "word": "ant",
-    "pronunciation": "/ænt/",
-    "banglaPronunciation": "অ্যান্ট",
-    "meaning": "A tiny insect that lives in colonies.",
-    "banglaMeaning": "পিঁপড়া",
-    "syllables": [
-      "ant"
-    ],
-    "example": "The ant carried a leaf.",
-    "hint": "Rhymes with \"pant\".",
-    "image": "/images/level0/ant.webp"
-  },
-  {
-    "id": "lvl0-009",
-    "level": 0,
-    "order": 9,
-    "word": "bat",
-    "pronunciation": "/bæt/",
-    "banglaPronunciation": "ব্যাট",
-    "meaning": "A flying mammal active at night.",
-    "banglaMeaning": "বাদুড়",
-    "syllables": [
-      "bat"
-    ],
-    "example": "The bat flew out of the cave.",
-    "hint": "Rhymes with \"cat\".",
-    "image": "/images/level0/bat.webp"
-  },
-  {
-    "id": "lvl0-010",
-    "level": 0,
-    "order": 10,
-    "word": "bee",
-    "pronunciation": "/biː/",
-    "banglaPronunciation": "বি",
-    "meaning": "An insect that makes honey.",
-    "banglaMeaning": "মৌমাছি",
-    "syllables": [
-      "bee"
-    ],
-    "example": "The bee buzzed around the flower.",
-    "hint": "Sounds like the letter \"B\".",
-    "image": "/images/level0/bee.webp"
-  },
-  {
-    "id": "lvl0-011",
-    "level": 0,
-    "order": 11,
-    "word": "rat",
-    "pronunciation": "/ræt/",
-    "banglaPronunciation": "র‍্যাট",
-    "meaning": "A small rodent with a long tail.",
-    "banglaMeaning": "ইঁদুর",
-    "syllables": [
-      "rat"
-    ],
-    "example": "The rat hid in the hole.",
-    "hint": "Rhymes with \"cat\".",
-    "image": "/images/level0/rat.webp"
-  },
-  {
-    "id": "lvl0-012",
-    "level": 0,
-    "order": 12,
-    "word": "fish",
-    "pronunciation": "/fɪʃ/",
-    "banglaPronunciation": "ফিশ",
-    "meaning": "An animal that lives and breathes in water.",
-    "banglaMeaning": "মাছ",
-    "syllables": [
-      "fish"
-    ],
-    "example": "The fish swims in the pond.",
-    "hint": "Ends with \"-ish\".",
-    "image": "/images/level0/fish.webp"
-  },
-  {
-    "id": "lvl0-013",
-    "level": 0,
-    "order": 13,
-    "word": "frog",
-    "pronunciation": "/frɒɡ/",
-    "banglaPronunciation": "ফ্রগ",
-    "meaning": "A small jumping amphibian.",
-    "banglaMeaning": "ব্যাঙ",
-    "syllables": [
-      "frog"
-    ],
-    "example": "The frog jumped into the water.",
-    "hint": "Rhymes with \"dog\".",
-    "image": "/images/level0/frog.webp"
-  },
-  {
-    "id": "lvl0-014",
-    "level": 0,
-    "order": 14,
-    "word": "duck",
-    "pronunciation": "/dʌk/",
-    "banglaPronunciation": "ডাক",
-    "meaning": "A water bird with webbed feet.",
-    "banglaMeaning": "হাঁস",
-    "syllables": [
-      "duck"
-    ],
-    "example": "The duck swims in the pond.",
-    "hint": "Rhymes with \"luck\".",
-    "image": "/images/level0/duck.webp"
-  },
-  {
-    "id": "lvl0-015",
-    "level": 0,
-    "order": 15,
-    "word": "goat",
-    "pronunciation": "/ɡoʊt/",
-    "banglaPronunciation": "গোট",
-    "meaning": "A farm animal with horns, raised for milk and meat.",
-    "banglaMeaning": "ছাগল",
-    "syllables": [
-      "goat"
-    ],
-    "example": "The goat ate the grass.",
-    "hint": "Rhymes with \"boat\".",
-    "image": "/images/level0/goat.webp"
-  },
-  {
-    "id": "lvl0-016",
-    "level": 0,
-    "order": 16,
-    "word": "lion",
-    "pronunciation": "/ˈlaɪ.ən/",
-    "banglaPronunciation": "লায়ন",
-    "meaning": "A large wild cat known as the king of the jungle.",
-    "banglaMeaning": "সিংহ",
-    "syllables": [
-      "li",
-      "on"
-    ],
-    "example": "The lion roared loudly.",
-    "hint": "Starts with \"li-\" like \"light\".",
-    "image": "/images/level0/lion.webp"
-  },
-  {
-    "id": "lvl0-017",
-    "level": 0,
-    "order": 17,
-    "word": "bear",
-    "pronunciation": "/bɛr/",
-    "banglaPronunciation": "বেয়ার",
-    "meaning": "A large, strong wild animal with thick fur.",
-    "banglaMeaning": "ভালুক",
-    "syllables": [
-      "bear"
-    ],
-    "example": "The bear caught a fish.",
-    "hint": "Sounds like \"bare\".",
-    "image": "/images/level0/bear.webp"
-  },
-  {
-    "id": "lvl0-018",
-    "level": 0,
-    "order": 18,
-    "word": "deer",
-    "pronunciation": "/dɪr/",
-    "banglaPronunciation": "ডিয়ার",
-    "meaning": "A graceful wild animal with antlers.",
-    "banglaMeaning": "হরিণ",
-    "syllables": [
-      "deer"
-    ],
-    "example": "The deer ran through the forest.",
-    "hint": "Sounds like \"dear\".",
-    "image": "/images/level0/deer.webp"
-  },
-  {
-    "id": "lvl0-019",
-    "level": 0,
-    "order": 19,
-    "word": "wolf",
-    "pronunciation": "/wʊlf/",
-    "banglaPronunciation": "উলফ",
-    "meaning": "A wild animal related to dogs that hunts in packs.",
-    "banglaMeaning": "নেকড়ে",
-    "syllables": [
-      "wolf"
-    ],
-    "example": "The wolf howled at the moon.",
-    "hint": "Remember the spelling order: w-o-l-f.",
-    "image": "/images/level0/wolf.webp"
-  },
-  {
-    "id": "lvl0-020",
-    "level": 0,
-    "order": 20,
-    "word": "seal",
-    "pronunciation": "/siːl/",
-    "banglaPronunciation": "সিল",
-    "meaning": "A sea mammal with flippers.",
-    "banglaMeaning": "সীল মাছ",
-    "syllables": [
-      "seal"
-    ],
-    "example": "The seal clapped its flippers.",
-    "hint": "Sounds like \"seel\".",
-    "image": "/images/level0/seal.webp"
-  },
-  {
-    "id": "lvl0-021",
-    "level": 0,
-    "order": 21,
-    "word": "crab",
-    "pronunciation": "/kræb/",
-    "banglaPronunciation": "ক্র্যাব",
-    "meaning": "A sea creature with a hard shell and claws.",
-    "banglaMeaning": "কাঁকড়া",
-    "syllables": [
-      "crab"
-    ],
-    "example": "The crab walked sideways on the beach.",
-    "hint": "Rhymes with \"cab\".",
-    "image": "/images/level0/crab.webp"
-  },
-  {
-    "id": "lvl0-022",
-    "level": 0,
-    "order": 22,
-    "word": "worm",
-    "pronunciation": "/wɜːrm/",
-    "banglaPronunciation": "ওয়ার্ম",
-    "meaning": "A small, long creature that lives in soil.",
-    "banglaMeaning": "কেঁচো",
-    "syllables": [
-      "worm"
-    ],
-    "example": "The worm crawled through the soil.",
-    "hint": "Rhymes with \"term\".",
-    "image": "/images/level0/worm.webp"
-  },
-  {
-    "id": "lvl0-023",
-    "level": 0,
-    "order": 23,
-    "word": "moth",
-    "pronunciation": "/mɒθ/",
-    "banglaPronunciation": "মথ",
-    "meaning": "An insect similar to a butterfly, active at night.",
-    "banglaMeaning": "মথ পোকা",
-    "syllables": [
-      "moth"
-    ],
-    "example": "The moth flew toward the light.",
-    "hint": "Rhymes with \"cloth\".",
-    "image": "/images/level0/moth.webp"
-  },
-  {
-    "id": "lvl0-024",
-    "level": 0,
-    "order": 24,
-    "word": "swan",
-    "pronunciation": "/swɒn/",
-    "banglaPronunciation": "সোয়ান",
-    "meaning": "A large white water bird with a long neck.",
-    "banglaMeaning": "রাজহাঁস",
-    "syllables": [
-      "swan"
-    ],
-    "example": "The swan glided across the lake.",
-    "hint": "Rhymes with \"on\".",
-    "image": "/images/level0/swan.webp"
-  },
-  {
-    "id": "lvl0-025",
-    "level": 0,
-    "order": 25,
-    "word": "mule",
-    "pronunciation": "/mjuːl/",
-    "banglaPronunciation": "মিউল",
-    "meaning": "An animal that is a mix of a horse and a donkey.",
-    "banglaMeaning": "খচ্চর",
-    "syllables": [
-      "mule"
-    ],
-    "example": "The mule carried heavy bags.",
-    "hint": "Rhymes with \"rule\".",
-    "image": "/images/level0/mule.webp"
-  },
-  {
-    "id": "lvl0-026",
-    "level": 0,
-    "order": 26,
-    "word": "mole",
-    "pronunciation": "/moʊl/",
-    "banglaPronunciation": "মোল",
-    "meaning": "A small animal that digs tunnels underground.",
-    "banglaMeaning": "গর্তখেঁকো ইঁদুর",
-    "syllables": [
-      "mole"
-    ],
-    "example": "The mole dug a tunnel underground.",
-    "hint": "Rhymes with \"hole\".",
-    "image": "/images/level0/mole.webp"
-  },
-  {
-    "id": "lvl0-027",
-    "level": 0,
-    "order": 27,
-    "word": "hawk",
-    "pronunciation": "/hɔːk/",
-    "banglaPronunciation": "হক",
-    "meaning": "A sharp-eyed bird of prey.",
-    "banglaMeaning": "বাজপাখি",
-    "syllables": [
-      "hawk"
-    ],
-    "example": "The hawk circled high in the sky.",
-    "hint": "Rhymes with \"walk\".",
-    "image": "/images/level0/hawk.webp"
-  },
-  {
-    "id": "lvl0-028",
-    "level": 0,
-    "order": 28,
-    "word": "crow",
-    "pronunciation": "/kroʊ/",
-    "banglaPronunciation": "ক্রো",
-    "meaning": "A large black bird known for its loud call.",
-    "banglaMeaning": "কাক",
-    "syllables": [
-      "crow"
-    ],
-    "example": "The crow sat on the fence.",
-    "hint": "Rhymes with \"grow\".",
-    "image": "/images/level0/crow.webp"
-  },
-  {
-    "id": "lvl0-029",
-    "level": 0,
-    "order": 29,
-    "word": "dove",
-    "pronunciation": "/dʌv/",
-    "banglaPronunciation": "ডাভ",
-    "meaning": "A small white bird, a symbol of peace.",
-    "banglaMeaning": "ঘুঘু",
-    "syllables": [
-      "dove"
-    ],
-    "example": "The dove flew above the roof.",
-    "hint": "Rhymes with \"love\", not \"cove\".",
-    "image": "/images/level0/dove.webp"
-  },
-  {
-    "id": "lvl0-030",
-    "level": 0,
-    "order": 30,
-    "word": "wasp",
-    "pronunciation": "/wɒsp/",
-    "banglaPronunciation": "ওয়াস্প",
-    "meaning": "A flying insect with a painful sting.",
-    "banglaMeaning": "বোলতা",
-    "syllables": [
-      "wasp"
-    ],
-    "example": "The wasp stung the boy.",
-    "hint": "Starts with \"wa-\" but sounds like \"wosp\".",
-    "image": "/images/level0/wasp.webp"
-  },
-  {
-    "id": "lvl0-031",
-    "level": 0,
-    "order": 31,
-    "word": "toad",
-    "pronunciation": "/toʊd/",
-    "banglaPronunciation": "টোড",
-    "meaning": "An amphibian similar to a frog with dry skin.",
-    "banglaMeaning": "ভেক",
-    "syllables": [
-      "toad"
-    ],
-    "example": "The toad sat near the pond.",
-    "hint": "Rhymes with \"road\".",
-    "image": "/images/level0/toad.webp"
-  },
-  {
-    "id": "lvl0-032",
-    "level": 0,
-    "order": 32,
-    "word": "goose",
-    "pronunciation": "/ɡuːs/",
-    "banglaPronunciation": "গুজ",
-    "meaning": "A large water bird bigger than a duck.",
-    "banglaMeaning": "হংস",
-    "syllables": [
-      "goose"
-    ],
-    "example": "The goose honked loudly.",
-    "hint": "Rhymes with \"moose\".",
-    "image": "/images/level0/goose.webp"
-  },
-  {
-    "id": "lvl0-033",
-    "level": 0,
-    "order": 33,
-    "word": "sheep",
-    "pronunciation": "/ʃiːp/",
-    "banglaPronunciation": "শিপ",
-    "meaning": "A farm animal raised for wool.",
-    "banglaMeaning": "ভেড়া",
-    "syllables": [
-      "sheep"
-    ],
-    "example": "The sheep grazed on the hill.",
-    "hint": "Double \"e\" makes the long \"ee\" sound.",
-    "image": "/images/level0/sheep.webp"
-  },
-  {
-    "id": "lvl0-034",
-    "level": 0,
-    "order": 34,
-    "word": "horse",
-    "pronunciation": "/hɔːrs/",
-    "banglaPronunciation": "হর্স",
-    "meaning": "A large animal used for riding.",
-    "banglaMeaning": "ঘোড়া",
-    "syllables": [
-      "horse"
-    ],
-    "example": "The horse galloped across the field.",
-    "hint": "Ends with a silent \"e\".",
-    "image": "/images/level0/horse.webp"
-  },
-  {
-    "id": "lvl0-035",
-    "level": 0,
-    "order": 35,
-    "word": "mouse",
-    "pronunciation": "/maʊs/",
-    "banglaPronunciation": "মাউস",
-    "meaning": "A very small rodent.",
-    "banglaMeaning": "নেংটি ইঁদুর",
-    "syllables": [
-      "mouse"
-    ],
-    "example": "The mouse squeaked in the corner.",
-    "hint": "Rhymes with \"house\".",
-    "image": "/images/level0/mouse.webp"
-  },
-  {
-    "id": "lvl0-036",
-    "level": 0,
-    "order": 36,
-    "word": "camel",
-    "pronunciation": "/ˈkæm.əl/",
-    "banglaPronunciation": "ক্যামেল",
-    "meaning": "A desert animal with humps on its back.",
-    "banglaMeaning": "উট",
-    "syllables": [
-      "ca",
-      "mel"
-    ],
-    "example": "The camel walked across the desert.",
-    "hint": "Starts with \"ca-\", ends with \"-el\".",
-    "image": "/images/level0/camel.webp"
-  },
-  {
-    "id": "lvl0-037",
-    "level": 0,
-    "order": 37,
-    "word": "tiger",
-    "pronunciation": "/ˈtaɪ.ɡər/",
-    "banglaPronunciation": "টাইগার",
-    "meaning": "A large wild cat with orange and black stripes.",
-    "banglaMeaning": "বাঘ",
-    "syllables": [
-      "ti",
-      "ger"
-    ],
-    "example": "The tiger has orange and black stripes.",
-    "hint": "Starts with \"ti-\" like \"time\".",
-    "image": "/images/level0/tiger.webp"
-  },
-  {
-    "id": "lvl0-038",
-    "level": 0,
-    "order": 38,
-    "word": "zebra",
-    "pronunciation": "/ˈziː.brə/",
-    "banglaPronunciation": "জেব্রা",
-    "meaning": "A wild animal like a horse with black and white stripes.",
-    "banglaMeaning": "জেব্রা",
-    "syllables": [
-      "ze",
-      "bra"
-    ],
-    "example": "The zebra has black and white stripes.",
-    "hint": "Starts with the letter \"Z\".",
-    "image": "/images/level0/zebra.webp"
-  },
-  {
-    "id": "lvl0-039",
-    "level": 0,
-    "order": 39,
-    "word": "snake",
-    "pronunciation": "/sneɪk/",
-    "banglaPronunciation": "স্নেক",
-    "meaning": "A long reptile with no legs.",
-    "banglaMeaning": "সাপ",
-    "syllables": [
-      "snake"
-    ],
-    "example": "The snake slithered through the grass.",
-    "hint": "Silent \"e\" makes the \"a\" long.",
-    "image": "/images/level0/snake.webp"
-  },
-  {
-    "id": "lvl0-040",
-    "level": 0,
-    "order": 40,
-    "word": "shark",
-    "pronunciation": "/ʃɑːrk/",
-    "banglaPronunciation": "শার্ক",
-    "meaning": "A large, sharp-toothed fish in the ocean.",
-    "banglaMeaning": "হাঙর",
-    "syllables": [
-      "shark"
-    ],
-    "example": "The shark swam near the boat.",
-    "hint": "Rhymes with \"park\".",
-    "image": "/images/level0/shark.webp"
-  },
-  {
-    "id": "lvl0-041",
-    "level": 0,
-    "order": 41,
-    "word": "whale",
-    "pronunciation": "/weɪl/",
-    "banglaPronunciation": "হোয়েল",
-    "meaning": "The largest animal living in the ocean.",
-    "banglaMeaning": "তিমি",
-    "syllables": [
-      "whale"
-    ],
-    "example": "The whale is the biggest animal in the ocean.",
-    "hint": "Silent \"h\" after \"w\".",
-    "image": "/images/level0/whale.webp"
-  },
-  {
-    "id": "lvl0-042",
-    "level": 0,
-    "order": 42,
-    "word": "eagle",
-    "pronunciation": "/ˈiː.ɡəl/",
-    "banglaPronunciation": "ঈগল",
-    "meaning": "A large, powerful bird of prey.",
-    "banglaMeaning": "ঈগল",
-    "syllables": [
-      "ea",
-      "gle"
-    ],
-    "example": "The eagle soared over the mountains.",
-    "hint": "Starts with \"ea-\" like \"eat\".",
-    "image": "/images/level0/eagle.webp"
-  },
-  {
-    "id": "lvl0-043",
-    "level": 0,
-    "order": 43,
-    "word": "spider",
-    "pronunciation": "/ˈspaɪ.dər/",
-    "banglaPronunciation": "স্পাইডার",
-    "meaning": "A small creature with eight legs that spins webs.",
-    "banglaMeaning": "মাকড়সা",
-    "syllables": [
-      "spi",
-      "der"
-    ],
-    "example": "The spider spun a web in the corner.",
-    "hint": "Starts with \"spi-\" like \"spin\".",
-    "image": "/images/level0/spider.webp"
-  },
-  {
     "id": "lvl0-044",
     "level": 0,
     "order": 44,
-    "word": "rabbit",
-    "pronunciation": "/ˈræb.ɪt/",
-    "banglaPronunciation": "র‍্যাবিট",
-    "meaning": "A small animal with long ears that hops.",
-    "banglaMeaning": "খরগোশ",
+    "word": "pan",
+    "pronunciation": "/pæn/",
+    "banglaPronunciation": "প্যান",
+    "meaning": "A flat metal container used for cooking.",
+    "banglaMeaning": "কড়াই / প্যান",
     "syllables": [
-      "rab",
-      "bit"
+      "pan"
     ],
-    "example": "The rabbit hopped across the yard.",
-    "hint": "Has a double \"b\" in the middle.",
-    "image": "/images/level0/rabbit.webp"
+    "example": "Mom fried the eggs in a pan.",
+    "hint": "Rhymes with \"man\".",
+    "image": "/images/level0/pan.webp"
   },
   {
     "id": "lvl0-045",
     "level": 0,
     "order": 45,
-    "word": "monkey",
-    "pronunciation": "/ˈmʌŋ.ki/",
-    "banglaPronunciation": "মাঙ্কি",
-    "meaning": "A playful animal that lives in trees.",
-    "banglaMeaning": "বানর",
+    "word": "rug",
+    "pronunciation": "/rʌɡ/",
+    "banglaPronunciation": "রাগ",
+    "meaning": "A small carpet that covers part of a floor.",
+    "banglaMeaning": "গালিচা",
     "syllables": [
-      "mon",
-      "key"
+      "rug"
     ],
-    "example": "The monkey swung from the tree.",
-    "hint": "Ends with \"-ey\", not \"-y\".",
-    "image": "/images/level0/monkey.webp"
+    "example": "The cat sleeps on the rug.",
+    "hint": "Rhymes with \"bug\".",
+    "image": "/images/level0/rug.webp"
   },
   {
     "id": "lvl0-046",
     "level": 0,
     "order": 46,
-    "word": "turtle",
-    "pronunciation": "/ˈtɜːr.tl̩/",
-    "banglaPronunciation": "টার্টল",
-    "meaning": "A slow-moving reptile with a hard shell.",
-    "banglaMeaning": "কচ্ছপ",
+    "word": "van",
+    "pronunciation": "/væn/",
+    "banglaPronunciation": "ভ্যান",
+    "meaning": "A covered vehicle used to carry goods or people.",
+    "banglaMeaning": "ভ্যান",
     "syllables": [
-      "tur",
-      "tle"
+      "van"
     ],
-    "example": "The turtle moved slowly across the sand.",
-    "hint": "Ends with \"-tle\" like \"little\".",
-    "image": "/images/level0/turtle.webp"
+    "example": "The van delivered the boxes.",
+    "hint": "Rhymes with \"can\".",
+    "image": "/images/level0/van.webp"
   },
   {
     "id": "lvl0-047",
     "level": 0,
     "order": 47,
-    "word": "dolphin",
-    "pronunciation": "/ˈdɒl.fɪn/",
-    "banglaPronunciation": "ডলফিন",
-    "meaning": "A smart, friendly sea mammal.",
-    "banglaMeaning": "ডলফিন",
+    "word": "web",
+    "pronunciation": "/wɛb/",
+    "banglaPronunciation": "ওয়েব",
+    "meaning": "A net of thin threads made by a spider.",
+    "banglaMeaning": "মাকড়সার জাল",
     "syllables": [
-      "dol",
-      "phin"
+      "web"
     ],
-    "example": "The dolphin jumped out of the water.",
-    "hint": "The \"ph\" makes an \"f\" sound.",
-    "image": "/images/level0/dolphin.webp"
+    "example": "The spider made a web.",
+    "hint": "Rhymes with \"red\", starts like \"we\".",
+    "image": "/images/level0/web.webp"
   },
   {
     "id": "lvl0-048",
     "level": 0,
     "order": 48,
-    "word": "elephant",
-    "pronunciation": "/ˈel.ɪ.fənt/",
-    "banglaPronunciation": "এলিফ্যান্ট",
-    "meaning": "A very large animal with a long trunk.",
-    "banglaMeaning": "হাতি",
+    "word": "zip",
+    "pronunciation": "/zɪp/",
+    "banglaPronunciation": "জিপ",
+    "meaning": "A fastener with two rows of teeth that lock together.",
+    "banglaMeaning": "জিপার",
     "syllables": [
-      "el",
-      "e",
-      "phant"
+      "zip"
     ],
-    "example": "The elephant is a large animal.",
-    "hint": "Starts with \"ele\" and ends with \"phant\".",
-    "image": "/images/level0/elephant.webp"
+    "example": "Please zip up your jacket.",
+    "hint": "Rhymes with \"lip\".",
+    "image": "/images/level0/zip.webp"
   },
   {
     "id": "lvl0-049",
     "level": 0,
     "order": 49,
-    "word": "giraffe",
-    "pronunciation": "/dʒɪˈræf/",
-    "banglaPronunciation": "জিরাফ",
-    "meaning": "The tallest animal, known for its long neck.",
-    "banglaMeaning": "জিরাফ",
+    "word": "ice",
+    "pronunciation": "/aɪs/",
+    "banglaPronunciation": "আইস",
+    "meaning": "Frozen water.",
+    "banglaMeaning": "বরফ",
     "syllables": [
-      "gi",
-      "raffe"
+      "ice"
     ],
-    "example": "The giraffe eats leaves from tall trees.",
-    "hint": "Has a double \"f\" before the final \"e\".",
-    "image": "/images/level0/giraffe.webp"
+    "example": "I like ice in my drink.",
+    "hint": "Silent \"e\" makes the \"i\" long.",
+    "image": "/images/level0/ice.webp"
   },
   {
     "id": "lvl0-050",
     "level": 0,
     "order": 50,
-    "word": "kangaroo",
-    "pronunciation": "/ˌkæŋ.ɡəˈruː/",
-    "banglaPronunciation": "ক্যাঙ্গারু",
-    "meaning": "An animal that hops and carries its baby in a pouch.",
-    "banglaMeaning": "ক্যাঙ্গারু",
+    "word": "zoo",
+    "pronunciation": "/zuː/",
+    "banglaPronunciation": "জু",
+    "meaning": "A place where wild animals are kept for people to see.",
+    "banglaMeaning": "চিড়িয়াখানা",
     "syllables": [
-      "kan",
-      "ga",
-      "roo"
+      "zoo"
     ],
-    "example": "The kangaroo jumped across the field.",
-    "hint": "Ends with a double \"o\" sound.",
-    "image": "/images/level0/kangaroo.webp"
+    "example": "We saw a lion at the zoo.",
+    "hint": "Double \"o\" makes the long \"oo\" sound.",
+    "image": "/images/level0/zoo.webp"
   }
 ]

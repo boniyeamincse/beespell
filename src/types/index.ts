@@ -1,14 +1,5 @@
-export interface Category {
-  id: string;
-  name: string;
-  icon: string;
-  description: string;
-  totalWords: number;
-}
-
 export interface WordData {
   id: string;
-  category: string;
   level: number;
   order: number;
   word: string;
@@ -20,4 +11,14 @@ export interface WordData {
   example: string;
   hint: string;
   image?: string;
+}
+
+export interface LevelMeta {
+  level: number;
+  name: string;
+  totalWords: number;
+  passScore: number;
+  xpReward: number;
+  badge: string;
+  reviewStreakRequired?: boolean;
 }

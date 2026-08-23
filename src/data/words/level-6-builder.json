@@ -13,7 +13,9 @@
     ],
     "example": "The two boys started a fight.",
     "hint": "Part of the '-ight' family — starts with F.",
-    "image": "/images/level6/fight.webp"
+    "image": "/images/level6/fight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-002",
@@ -29,7 +31,9 @@
     ],
     "example": "With all his might, he pushed the door.",
     "hint": "Part of the '-ight' family — starts with M.",
-    "image": "/images/level6/might.webp"
+    "image": "/images/level6/might.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-003",
@@ -45,7 +49,9 @@
     ],
     "example": "There was a slight change in the plan.",
     "hint": "Part of the '-ight' family — starts with SL.",
-    "image": "/images/level6/slight.webp"
+    "image": "/images/level6/slight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-004",
@@ -61,7 +67,9 @@
     ],
     "example": "The charity helped the plight of the poor.",
     "hint": "Part of the '-ight' family — starts with PL.",
-    "image": "/images/level6/plight.webp"
+    "image": "/images/level6/plight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-005",
@@ -78,7 +86,9 @@
     ],
     "example": "The children squealed with delight.",
     "hint": "Made of 'de-' + the '-ight' family.",
-    "image": "/images/level6/delight.webp"
+    "image": "/images/level6/delight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-006",
@@ -95,7 +105,9 @@
     ],
     "example": "The sunlight streamed through the window.",
     "hint": "Made of 'sun' + the '-ight' family.",
-    "image": "/images/level6/sunlight.webp"
+    "image": "/images/level6/sunlight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-007",
@@ -111,7 +123,9 @@
     ],
     "example": "A snake slithered through the grass.",
     "hint": "Part of the '-ake' family — starts with SN.",
-    "image": "/images/level6/snake.webp"
+    "image": "/images/level6/snake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-008",
@@ -127,7 +141,9 @@
     ],
     "example": "He used a rake to gather leaves.",
     "hint": "Part of the '-ake' family — starts with R.",
-    "image": "/images/level6/rake.webp"
+    "image": "/images/level6/rake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-009",
@@ -143,7 +159,9 @@
     ],
     "example": "The farmer drove a stake into the ground.",
     "hint": "Part of the '-ake' family — starts with ST.",
-    "image": "/images/level6/stake.webp"
+    "image": "/images/level6/stake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-010",
@@ -159,7 +177,9 @@
     ],
     "example": "The drake swam beside the duck.",
     "hint": "Part of the '-ake' family — starts with DR.",
-    "image": "/images/level6/drake.webp"
+    "image": "/images/level6/drake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-011",
@@ -175,7 +195,9 @@
     ],
     "example": "A snowflake landed on her nose.",
     "hint": "Part of the '-ake' family — starts with FL.",
-    "image": "/images/level6/flake.webp"
+    "image": "/images/level6/flake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-012",
@@ -192,7 +214,9 @@
     ],
     "example": "Drink plenty of water for your daily intake.",
     "hint": "Made of 'in-' + the '-ake' family.",
-    "image": "/images/level6/intake.webp"
+    "image": "/images/level6/intake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-013",
@@ -209,7 +233,9 @@
     ],
     "example": "It was an honest mistake.",
     "hint": "Made of 'mis-' + the '-ake' family.",
-    "image": "/images/level6/mistake.webp"
+    "image": "/images/level6/mistake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-014",
@@ -225,7 +251,9 @@
     ],
     "example": "I heard a strange sound.",
     "hint": "Part of the '-ound' family — starts with S.",
-    "image": "/images/level6/sound.webp"
+    "image": "/images/level6/sound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-015",
@@ -241,7 +269,9 @@
     ],
     "example": "The table is round.",
     "hint": "Part of the '-ound' family — starts with R.",
-    "image": "/images/level6/round.webp"
+    "image": "/images/level6/round.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-016",
@@ -257,7 +287,9 @@
     ],
     "example": "She found her lost keys.",
     "hint": "Part of the '-ound' family — starts with F.",
-    "image": "/images/level6/found.webp"
+    "image": "/images/level6/found.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-017",
@@ -273,7 +305,9 @@
     ],
     "example": "The apple fell to the ground.",
     "hint": "Part of the '-ound' family — starts with GR.",
-    "image": "/images/level6/ground.webp"
+    "image": "/images/level6/ground.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-018",
@@ -289,7 +323,9 @@
     ],
     "example": "The boxer landed a heavy pound.",
     "hint": "Part of the '-ound' family — starts with P.",
-    "image": "/images/level6/pound.webp"
+    "image": "/images/level6/pound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-019",
@@ -305,7 +341,9 @@
     ],
     "example": "The hound chased the fox.",
     "hint": "Part of the '-ound' family — starts with H.",
-    "image": "/images/level6/hound.webp"
+    "image": "/images/level6/hound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-020",
@@ -321,7 +359,9 @@
     ],
     "example": "There was a mound of dirt by the road.",
     "hint": "Part of the '-ound' family — starts with M.",
-    "image": "/images/level6/mound.webp"
+    "image": "/images/level6/mound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-021",
@@ -337,7 +377,9 @@
     ],
     "example": "The rabbit is bound for the forest.",
     "hint": "Part of the '-ound' family — starts with B.",
-    "image": "/images/level6/bound.webp"
+    "image": "/images/level6/bound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-022",
@@ -354,7 +396,9 @@
     ],
     "example": "The magic trick will astound you.",
     "hint": "Made of 'a-' + the '-stound' sound.",
-    "image": "/images/level6/astound.webp"
+    "image": "/images/level6/astound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-023",
@@ -371,7 +415,9 @@
     ],
     "example": "The mountains form the background of the photo.",
     "hint": "Made of 'back' + the '-ground' family.",
-    "image": "/images/level6/background.webp"
+    "image": "/images/level6/background.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-024",
@@ -388,7 +434,9 @@
     ],
     "example": "The children played at the playground.",
     "hint": "Made of 'play' + the '-ground' family.",
-    "image": "/images/level6/playground.webp"
+    "image": "/images/level6/playground.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-025",
@@ -404,7 +452,9 @@
     ],
     "example": "She carried the tray of food.",
     "hint": "Part of the '-ay' family — starts with TR.",
-    "image": "/images/level6/tray.webp"
+    "image": "/images/level6/tray.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-026",
@@ -420,7 +470,9 @@
     ],
     "example": "A stray cat followed us home.",
     "hint": "Part of the '-ay' family — starts with STR.",
-    "image": "/images/level6/stray.webp"
+    "image": "/images/level6/stray.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-027",
@@ -436,7 +488,9 @@
     ],
     "example": "The children made pots from clay.",
     "hint": "Part of the '-ay' family — starts with CL.",
-    "image": "/images/level6/clay.webp"
+    "image": "/images/level6/clay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-028",
@@ -452,7 +506,9 @@
     ],
     "example": "The gardener used a spray to water the plants.",
     "hint": "Part of the '-ay' family — starts with SPR.",
-    "image": "/images/level6/spray.webp"
+    "image": "/images/level6/spray.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-029",
@@ -468,7 +524,9 @@
     ],
     "example": "They pray before every meal.",
     "hint": "Part of the '-ay' family — starts with PR.",
-    "image": "/images/level6/pray.webp"
+    "image": "/images/level6/pray.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-030",
@@ -485,7 +543,9 @@
     ],
     "example": "There was an array of colors on display.",
     "hint": "Made of 'ar-' + the '-ay' family.",
-    "image": "/images/level6/array.webp"
+    "image": "/images/level6/array.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-031",
@@ -502,7 +562,9 @@
     ],
     "example": "Sugar can cause tooth decay.",
     "hint": "Made of 'de-' + the '-ay' family.",
-    "image": "/images/level6/decay.webp"
+    "image": "/images/level6/decay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-032",
@@ -519,7 +581,9 @@
     ],
     "example": "The flight was delayed by an hour.",
     "hint": "Made of 'de-' + the '-lay' sound.",
-    "image": "/images/level6/delay.webp"
+    "image": "/images/level6/delay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-033",
@@ -536,7 +600,9 @@
     ],
     "example": "She wrote an essay about her summer trip.",
     "hint": "Made of 'es-' + the '-ay' family.",
-    "image": "/images/level6/essay.webp"
+    "image": "/images/level6/essay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-034",
@@ -553,7 +619,9 @@
     ],
     "example": "A true friend will never betray you.",
     "hint": "Made of 'be-' + the '-tray' sound.",
-    "image": "/images/level6/betray.webp"
+    "image": "/images/level6/betray.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-035",
@@ -569,7 +637,9 @@
     ],
     "example": "The bird spread its wing.",
     "hint": "Part of the '-ing' family — starts with W.",
-    "image": "/images/level6/wing.webp"
+    "image": "/images/level6/wing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-036",
@@ -585,7 +655,9 @@
     ],
     "example": "What is that thing on the table?",
     "hint": "Part of the '-ing' family — starts with TH.",
-    "image": "/images/level6/thing.webp"
+    "image": "/images/level6/thing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-037",
@@ -601,7 +673,9 @@
     ],
     "example": "The wet shirt began to cling to his skin.",
     "hint": "Part of the '-ing' family — starts with CL.",
-    "image": "/images/level6/cling.webp"
+    "image": "/images/level6/cling.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-038",
@@ -617,7 +691,9 @@
     ],
     "example": "She gave the ball a fling.",
     "hint": "Part of the '-ing' family — starts with FL.",
-    "image": "/images/level6/fling.webp"
+    "image": "/images/level6/fling.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-039",
@@ -633,7 +709,9 @@
     ],
     "example": "A bee sting can be painful.",
     "hint": "Part of the '-ing' family — starts with ST.",
-    "image": "/images/level6/sting.webp"
+    "image": "/images/level6/sting.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-040",
@@ -649,7 +727,9 @@
     ],
     "example": "His arm was in a sling after the fall.",
     "hint": "Part of the '-ing' family — starts with SL.",
-    "image": "/images/level6/sling.webp"
+    "image": "/images/level6/sling.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-041",
@@ -665,7 +745,9 @@
     ],
     "example": "The lemon added a zing to the drink.",
     "hint": "Part of the '-ing' family — starts with Z.",
-    "image": "/images/level6/zing.webp"
+    "image": "/images/level6/zing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-042",
@@ -681,7 +763,9 @@
     ],
     "example": "The phone made a ping sound.",
     "hint": "Part of the '-ing' family — starts with P.",
-    "image": "/images/level6/ping.webp"
+    "image": "/images/level6/ping.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-043",
@@ -697,7 +781,9 @@
     ],
     "example": "She had to wring out the wet towel.",
     "hint": "Part of the '-ing' family — starts with WR (silent W).",
-    "image": "/images/level6/wring.webp"
+    "image": "/images/level6/wring.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-044",
@@ -713,7 +799,9 @@
     ],
     "example": "Please call me tonight.",
     "hint": "Part of the '-all' family — starts with C.",
-    "image": "/images/level6/call.webp"
+    "image": "/images/level6/call.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-045",
@@ -729,7 +817,9 @@
     ],
     "example": "Leaves fall in autumn.",
     "hint": "Part of the '-all' family — starts with F.",
-    "image": "/images/level6/fall.webp"
+    "image": "/images/level6/fall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-046",
@@ -745,7 +835,9 @@
     ],
     "example": "We waited in the hall.",
     "hint": "Part of the '-all' family — starts with H.",
-    "image": "/images/level6/hall.webp"
+    "image": "/images/level6/hall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-047",
@@ -761,7 +853,9 @@
     ],
     "example": "They went shopping at the mall.",
     "hint": "Part of the '-all' family — starts with M.",
-    "image": "/images/level6/mall.webp"
+    "image": "/images/level6/mall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-048",
@@ -777,7 +871,9 @@
     ],
     "example": "The kitten is very small.",
     "hint": "Part of the '-all' family — starts with SM.",
-    "image": "/images/level6/small.webp"
+    "image": "/images/level6/small.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-049",
@@ -793,7 +889,9 @@
     ],
     "example": "He set up a stall at the market.",
     "hint": "Part of the '-all' family — starts with ST.",
-    "image": "/images/level6/stall.webp"
+    "image": "/images/level6/stall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-050",
@@ -810,7 +908,9 @@
     ],
     "example": "Dad will install the new software.",
     "hint": "Made of 'in-' + the '-stall' sound.",
-    "image": "/images/level6/install.webp"
+    "image": "/images/level6/install.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-051",
@@ -827,7 +927,9 @@
     ],
     "example": "I can't recall her name.",
     "hint": "Made of 're-' + the '-call' sound.",
-    "image": "/images/level6/recall.webp"
+    "image": "/images/level6/recall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-052",
@@ -845,7 +947,9 @@
     ],
     "example": "The overall result was excellent.",
     "hint": "Made of 'over-' + the '-all' family.",
-    "image": "/images/level6/overall.webp"
+    "image": "/images/level6/overall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-053",
@@ -862,7 +966,9 @@
     ],
     "example": "He hit the baseball over the fence.",
     "hint": "Made of 'base' + the '-ball' sound.",
-    "image": "/images/level6/baseball.webp"
+    "image": "/images/level6/baseball.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-054",
@@ -878,7 +984,9 @@
     ],
     "example": "You can keep the extra pencil.",
     "hint": "Part of the '-eep' family — starts with K.",
-    "image": "/images/level6/keep.webp"
+    "image": "/images/level6/keep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-055",
@@ -894,7 +1002,9 @@
     ],
     "example": "The ocean is very deep.",
     "hint": "Part of the '-eep' family — starts with D.",
-    "image": "/images/level6/deep.webp"
+    "image": "/images/level6/deep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-056",
@@ -910,7 +1020,9 @@
     ],
     "example": "Please sweep the floor.",
     "hint": "Part of the '-eep' family — starts with SW.",
-    "image": "/images/level6/sweep.webp"
+    "image": "/images/level6/sweep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-057",
@@ -926,7 +1038,9 @@
     ],
     "example": "The cat began to creep toward the mouse.",
     "hint": "Part of the '-eep' family — starts with CR.",
-    "image": "/images/level6/creep.webp"
+    "image": "/images/level6/creep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-058",
@@ -942,7 +1056,9 @@
     ],
     "example": "The hill was very steep.",
     "hint": "Part of the '-eep' family — starts with ST.",
-    "image": "/images/level6/steep.webp"
+    "image": "/images/level6/steep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-059",
@@ -958,7 +1074,9 @@
     ],
     "example": "She began to weep with joy.",
     "hint": "Part of the '-eep' family — starts with W.",
-    "image": "/images/level6/weep.webp"
+    "image": "/images/level6/weep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-060",
@@ -974,7 +1092,9 @@
     ],
     "example": "We rode in an old jeep.",
     "hint": "Part of the '-eep' family — starts with J.",
-    "image": "/images/level6/jeep.webp"
+    "image": "/images/level6/jeep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-061",
@@ -990,7 +1110,9 @@
     ],
     "example": "He took a peep through the window.",
     "hint": "Part of the '-eep' family — starts with P.",
-    "image": "/images/level6/peep.webp"
+    "image": "/images/level6/peep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-062",
@@ -1006,7 +1128,9 @@
     ],
     "example": "The alarm let out a loud beep.",
     "hint": "Part of the '-eep' family — starts with B.",
-    "image": "/images/level6/beep.webp"
+    "image": "/images/level6/beep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-063",
@@ -1023,7 +1147,9 @@
     ],
     "example": "The baby is finally asleep.",
     "hint": "Made of 'a-' + the '-sleep' sound.",
-    "image": "/images/level6/asleep.webp"
+    "image": "/images/level6/asleep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-064",
@@ -1039,7 +1165,9 @@
     ],
     "example": "Water began to seep through the crack.",
     "hint": "Part of the '-eep' family — starts with S.",
-    "image": "/images/level6/seep.webp"
+    "image": "/images/level6/seep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-065",
@@ -1055,7 +1183,9 @@
     ],
     "example": "They live in a small town.",
     "hint": "Part of the '-own' family — starts with T.",
-    "image": "/images/level6/town.webp"
+    "image": "/images/level6/town.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-066",
@@ -1071,7 +1201,9 @@
     ],
     "example": "The cat jumped down from the tree.",
     "hint": "Part of the '-own' family — starts with D.",
-    "image": "/images/level6/down.webp"
+    "image": "/images/level6/down.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-067",
@@ -1087,7 +1219,9 @@
     ],
     "example": "Don't frown, everything will be fine.",
     "hint": "Part of the '-own' family — starts with FR.",
-    "image": "/images/level6/frown.webp"
+    "image": "/images/level6/frown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-068",
@@ -1103,7 +1237,9 @@
     ],
     "example": "She wore a beautiful gown to the ball.",
     "hint": "Part of the '-own' family — starts with G.",
-    "image": "/images/level6/gown.webp"
+    "image": "/images/level6/gown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-069",
@@ -1119,7 +1255,9 @@
     ],
     "example": "The clown made everyone laugh.",
     "hint": "Part of the '-own' family — starts with CL.",
-    "image": "/images/level6/clown.webp"
+    "image": "/images/level6/clown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-070",
@@ -1135,7 +1273,9 @@
     ],
     "example": "Always wear a life jacket so you don't drown.",
     "hint": "Part of the '-own' family — starts with DR.",
-    "image": "/images/level6/drown.webp"
+    "image": "/images/level6/drown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-071",
@@ -1152,7 +1292,9 @@
     ],
     "example": "The scientist gained international renown.",
     "hint": "Made of 're-' + the '-nown' sound.",
-    "image": "/images/level6/renown.webp"
+    "image": "/images/level6/renown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-072",
@@ -1169,7 +1311,9 @@
     ],
     "example": "We took the bus uptown.",
     "hint": "Made of 'up' + the '-town' sound.",
-    "image": "/images/level6/uptown.webp"
+    "image": "/images/level6/uptown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-073",
@@ -1186,7 +1330,9 @@
     ],
     "example": "The office is located downtown.",
     "hint": "Made of 'down' + the '-town' sound.",
-    "image": "/images/level6/downtown.webp"
+    "image": "/images/level6/downtown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-074",
@@ -1203,7 +1349,9 @@
     ],
     "example": "We watched the sky change color at sundown.",
     "hint": "Made of 'sun' + the '-down' sound.",
-    "image": "/images/level6/sundown.webp"
+    "image": "/images/level6/sundown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-075",
@@ -1219,7 +1367,9 @@
     ],
     "example": "The dog began to lick its paw.",
     "hint": "Part of the '-ick' family — starts with L.",
-    "image": "/images/level6/lick.webp"
+    "image": "/images/level6/lick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-076",
@@ -1235,7 +1385,9 @@
     ],
     "example": "Please pick a color you like.",
     "hint": "Part of the '-ick' family — starts with P.",
-    "image": "/images/level6/pick.webp"
+    "image": "/images/level6/pick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-077",
@@ -1251,7 +1403,9 @@
     ],
     "example": "I could hear the clock tick.",
     "hint": "Part of the '-ick' family — starts with T.",
-    "image": "/images/level6/tick.webp"
+    "image": "/images/level6/tick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-078",
@@ -1267,7 +1421,9 @@
     ],
     "example": "The magician performed a clever trick.",
     "hint": "Part of the '-ick' family — starts with TR.",
-    "image": "/images/level6/trick.webp"
+    "image": "/images/level6/trick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-079",
@@ -1283,7 +1439,9 @@
     ],
     "example": "The house is made of brick.",
     "hint": "Part of the '-ick' family — starts with BR.",
-    "image": "/images/level6/brick.webp"
+    "image": "/images/level6/brick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-080",
@@ -1299,7 +1457,9 @@
     ],
     "example": "The chick hatched from its egg.",
     "hint": "Part of the '-ick' family — starts with CH.",
-    "image": "/images/level6/chick.webp"
+    "image": "/images/level6/chick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-081",
@@ -1315,7 +1475,9 @@
     ],
     "example": "The dog fetched the stick.",
     "hint": "Part of the '-ick' family — starts with ST.",
-    "image": "/images/level6/stick.webp"
+    "image": "/images/level6/stick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-082",
@@ -1331,7 +1493,9 @@
     ],
     "example": "With a flick of her wrist, she threw the ball.",
     "hint": "Part of the '-ick' family — starts with FL.",
-    "image": "/images/level6/flick.webp"
+    "image": "/images/level6/flick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-083",
@@ -1347,7 +1511,9 @@
     ],
     "example": "Click the button to continue.",
     "hint": "Part of the '-ick' family — starts with CL.",
-    "image": "/images/level6/click.webp"
+    "image": "/images/level6/click.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-084",
@@ -1363,7 +1529,9 @@
     ],
     "example": "The road was slick with ice.",
     "hint": "Part of the '-ick' family — starts with SL.",
-    "image": "/images/level6/slick.webp"
+    "image": "/images/level6/slick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-085",
@@ -1379,7 +1547,9 @@
     ],
     "example": "The boat is tied to the dock.",
     "hint": "Part of the '-ock' family — starts with D.",
-    "image": "/images/level6/dock.webp"
+    "image": "/images/level6/dock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-086",
@@ -1395,7 +1565,9 @@
     ],
     "example": "A block of ice sat on the table.",
     "hint": "Part of the '-ock' family — starts with BL.",
-    "image": "/images/level6/block.webp"
+    "image": "/images/level6/block.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-087",
@@ -1411,7 +1583,9 @@
     ],
     "example": "The news came as a shock.",
     "hint": "Part of the '-ock' family — starts with SH.",
-    "image": "/images/level6/shock.webp"
+    "image": "/images/level6/shock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-088",
@@ -1427,7 +1601,9 @@
     ],
     "example": "The store restocked its stock of pencils.",
     "hint": "Part of the '-ock' family — starts with ST.",
-    "image": "/images/level6/stock.webp"
+    "image": "/images/level6/stock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-089",
@@ -1443,7 +1619,9 @@
     ],
     "example": "A flock of birds flew overhead.",
     "hint": "Part of the '-ock' family — starts with FL.",
-    "image": "/images/level6/flock.webp"
+    "image": "/images/level6/flock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-090",
@@ -1459,7 +1637,9 @@
     ],
     "example": "The girl wore a pretty frock.",
     "hint": "Part of the '-ock' family — starts with FR.",
-    "image": "/images/level6/frock.webp"
+    "image": "/images/level6/frock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-091",
@@ -1476,7 +1656,9 @@
     ],
     "example": "He secured the gate with a padlock.",
     "hint": "Made of 'pad' + the '-lock' sound.",
-    "image": "/images/level6/padlock.webp"
+    "image": "/images/level6/padlock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-092",
@@ -1493,7 +1675,9 @@
     ],
     "example": "The peacock spread its colorful feathers.",
     "hint": "Made of 'pea' + the '-cock' sound.",
-    "image": "/images/level6/peacock.webp"
+    "image": "/images/level6/peacock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-093",
@@ -1509,7 +1693,9 @@
     ],
     "example": "A bug crawled across the table.",
     "hint": "Part of the '-ug' family — starts with B.",
-    "image": "/images/level6/bug.webp"
+    "image": "/images/level6/bug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-094",
@@ -1525,7 +1711,9 @@
     ],
     "example": "Fill the jug with water.",
     "hint": "Part of the '-ug' family — starts with J.",
-    "image": "/images/level6/jug.webp"
+    "image": "/images/level6/jug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-095",
@@ -1541,7 +1729,9 @@
     ],
     "example": "He gave the rope a strong tug.",
     "hint": "Part of the '-ug' family — starts with T.",
-    "image": "/images/level6/tug.webp"
+    "image": "/images/level6/tug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-096",
@@ -1557,7 +1747,9 @@
     ],
     "example": "The dog dug a hole in the yard.",
     "hint": "Part of the '-ug' family — starts with D.",
-    "image": "/images/level6/dug.webp"
+    "image": "/images/level6/dug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-097",
@@ -1573,7 +1765,9 @@
     ],
     "example": "Please plug in the lamp.",
     "hint": "Part of the '-ug' family — starts with PL.",
-    "image": "/images/level6/plug.webp"
+    "image": "/images/level6/plug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-098",
@@ -1589,7 +1783,9 @@
     ],
     "example": "The doctor prescribed a new drug.",
     "hint": "Part of the '-ug' family — starts with DR.",
-    "image": "/images/level6/drug.webp"
+    "image": "/images/level6/drug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-099",
@@ -1605,7 +1801,9 @@
     ],
     "example": "He gave a shrug when asked.",
     "hint": "Part of the '-ug' family — starts with SHR.",
-    "image": "/images/level6/shrug.webp"
+    "image": "/images/level6/shrug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-100",
@@ -1621,7 +1819,9 @@
     ],
     "example": "A slug crawled across the leaf.",
     "hint": "Part of the '-ug' family — starts with SL.",
-    "image": "/images/level6/slug.webp"
+    "image": "/images/level6/slug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-101",
@@ -1637,7 +1837,9 @@
     ],
     "example": "The blanket felt warm and snug.",
     "hint": "Part of the '-ug' family — starts with SN.",
-    "image": "/images/level6/snug.webp"
+    "image": "/images/level6/snug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-102",
@@ -1653,7 +1855,9 @@
     ],
     "example": "The thug ran from the police.",
     "hint": "Part of the '-ug' family — starts with TH.",
-    "image": "/images/level6/thug.webp"
+    "image": "/images/level6/thug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-103",
@@ -1669,7 +1873,9 @@
     ],
     "example": "What is your name?",
     "hint": "Part of the '-ame' family — starts with N.",
-    "image": "/images/level6/name.webp"
+    "image": "/images/level6/name.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-104",
@@ -1685,7 +1891,9 @@
     ],
     "example": "We wore the same shirt.",
     "hint": "Part of the '-ame' family — starts with S.",
-    "image": "/images/level6/same.webp"
+    "image": "/images/level6/same.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-105",
@@ -1701,7 +1909,9 @@
     ],
     "example": "She came home late.",
     "hint": "Part of the '-ame' family — starts with C.",
-    "image": "/images/level6/came.webp"
+    "image": "/images/level6/came.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-106",
@@ -1717,7 +1927,9 @@
     ],
     "example": "The singer rose to fame quickly.",
     "hint": "Part of the '-ame' family — starts with F.",
-    "image": "/images/level6/fame.webp"
+    "image": "/images/level6/fame.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-107",
@@ -1733,7 +1945,9 @@
     ],
     "example": "The zoo has a tame lion.",
     "hint": "Part of the '-ame' family — starts with T.",
-    "image": "/images/level6/tame.webp"
+    "image": "/images/level6/tame.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-108",
@@ -1749,7 +1963,9 @@
     ],
     "example": "Don't blame yourself for the mistake.",
     "hint": "Part of the '-ame' family — starts with BL.",
-    "image": "/images/level6/blame.webp"
+    "image": "/images/level6/blame.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-109",
@@ -1765,7 +1981,9 @@
     ],
     "example": "The candle's flame flickered.",
     "hint": "Part of the '-ame' family — starts with FL.",
-    "image": "/images/level6/flame.webp"
+    "image": "/images/level6/flame.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-110",
@@ -1781,7 +1999,9 @@
     ],
     "example": "He hung the photo in a frame.",
     "hint": "Part of the '-ame' family — starts with FR.",
-    "image": "/images/level6/frame.webp"
+    "image": "/images/level6/frame.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-111",
@@ -1797,7 +2017,9 @@
     ],
     "example": "It's a shame you missed the party.",
     "hint": "Part of the '-ame' family — starts with SH.",
-    "image": "/images/level6/shame.webp"
+    "image": "/images/level6/shame.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-112",
@@ -1814,7 +2036,9 @@
     ],
     "example": "He became a doctor after years of study.",
     "hint": "Made of 'be-' + the '-came' sound.",
-    "image": "/images/level6/became.webp"
+    "image": "/images/level6/became.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-113",
@@ -1831,7 +2055,9 @@
     ],
     "example": "Let's reframe the question.",
     "hint": "Made of 're-' + the '-frame' sound.",
-    "image": "/images/level6/reframe.webp"
+    "image": "/images/level6/reframe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-114",
@@ -1847,7 +2073,9 @@
     ],
     "example": "The weather is fine today.",
     "hint": "Part of the '-ine' family — starts with F.",
-    "image": "/images/level6/fine.webp"
+    "image": "/images/level6/fine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-115",
@@ -1863,7 +2091,9 @@
     ],
     "example": "Stand in a straight line.",
     "hint": "Part of the '-ine' family — starts with L.",
-    "image": "/images/level6/line.webp"
+    "image": "/images/level6/line.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-116",
@@ -1879,7 +2109,9 @@
     ],
     "example": "This book is mine.",
     "hint": "Part of the '-ine' family — starts with M.",
-    "image": "/images/level6/mine.webp"
+    "image": "/images/level6/mine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-117",
@@ -1895,7 +2127,9 @@
     ],
     "example": "The clock struck nine.",
     "hint": "Part of the '-ine' family — starts with N.",
-    "image": "/images/level6/nine.webp"
+    "image": "/images/level6/nine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-118",
@@ -1911,7 +2145,9 @@
     ],
     "example": "A tall pine tree stood in the yard.",
     "hint": "Part of the '-ine' family — starts with P.",
-    "image": "/images/level6/pine.webp"
+    "image": "/images/level6/pine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-119",
@@ -1927,7 +2163,9 @@
     ],
     "example": "The book's spine was cracked.",
     "hint": "Part of the '-ine' family — starts with SP.",
-    "image": "/images/level6/spine.webp"
+    "image": "/images/level6/spine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-120",
@@ -1943,7 +2181,9 @@
     ],
     "example": "He tied the box with twine.",
     "hint": "Part of the '-ine' family — starts with TW.",
-    "image": "/images/level6/twine.webp"
+    "image": "/images/level6/twine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-121",
@@ -1959,7 +2199,9 @@
     ],
     "example": "Grapes grow on a vine.",
     "hint": "Part of the '-ine' family — starts with V.",
-    "image": "/images/level6/vine.webp"
+    "image": "/images/level6/vine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-122",
@@ -1975,7 +2217,9 @@
     ],
     "example": "They served wine at the dinner.",
     "hint": "Part of the '-ine' family — starts with W.",
-    "image": "/images/level6/wine.webp"
+    "image": "/images/level6/wine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-123",
@@ -1992,7 +2236,9 @@
     ],
     "example": "Sales began to decline last year.",
     "hint": "Made of 'de-' + the '-cline' sound.",
-    "image": "/images/level6/decline.webp"
+    "image": "/images/level6/decline.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-124",
@@ -2008,7 +2254,9 @@
     ],
     "example": "The school bell rang.",
     "hint": "Part of the '-ell' family — starts with B.",
-    "image": "/images/level6/bell.webp"
+    "image": "/images/level6/bell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-125",
@@ -2024,7 +2272,9 @@
     ],
     "example": "Please tell me the truth.",
     "hint": "Part of the '-ell' family — starts with T.",
-    "image": "/images/level6/tell.webp"
+    "image": "/images/level6/tell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-126",
@@ -2040,7 +2290,9 @@
     ],
     "example": "She felt well after resting.",
     "hint": "Part of the '-ell' family — starts with W.",
-    "image": "/images/level6/well.webp"
+    "image": "/images/level6/well.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-127",
@@ -2056,7 +2308,9 @@
     ],
     "example": "The turtle hid in its shell.",
     "hint": "Part of the '-ell' family — starts with SH.",
-    "image": "/images/level6/shell.webp"
+    "image": "/images/level6/shell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-128",
@@ -2072,7 +2326,9 @@
     ],
     "example": "Her ankle began to swell.",
     "hint": "Part of the '-ell' family — starts with SW.",
-    "image": "/images/level6/swell.webp"
+    "image": "/images/level6/swell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-129",
@@ -2088,7 +2344,9 @@
     ],
     "example": "They dwell in a small village.",
     "hint": "Part of the '-ell' family — starts with DW.",
-    "image": "/images/level6/dwell.webp"
+    "image": "/images/level6/dwell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-130",
@@ -2105,7 +2363,9 @@
     ],
     "example": "We said our farewell at the station.",
     "hint": "Made of 'fare' + the '-well' sound.",
-    "image": "/images/level6/farewell.webp"
+    "image": "/images/level6/farewell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-131",
@@ -2122,7 +2382,9 @@
     ],
     "example": "Can you retell the story?",
     "hint": "Made of 're-' + the '-tell' sound.",
-    "image": "/images/level6/retell.webp"
+    "image": "/images/level6/retell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-132",
@@ -2139,7 +2401,9 @@
     ],
     "example": "Try not to misspell any words.",
     "hint": "Made of 'mis-' + the '-spell' sound.",
-    "image": "/images/level6/misspell.webp"
+    "image": "/images/level6/misspell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-133",
@@ -2155,7 +2419,9 @@
     ],
     "example": "My heart began to beat faster.",
     "hint": "Part of the '-eat' family — starts with B.",
-    "image": "/images/level6/beat.webp"
+    "image": "/images/level6/beat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-134",
@@ -2171,7 +2437,9 @@
     ],
     "example": "The heat outside was intense.",
     "hint": "Part of the '-eat' family — starts with H.",
-    "image": "/images/level6/heat.webp"
+    "image": "/images/level6/heat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-135",
@@ -2187,7 +2455,9 @@
     ],
     "example": "We had meat for dinner.",
     "hint": "Part of the '-eat' family — starts with M.",
-    "image": "/images/level6/meat.webp"
+    "image": "/images/level6/meat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-136",
@@ -2203,7 +2473,9 @@
     ],
     "example": "Keep your room neat.",
     "hint": "Part of the '-eat' family — starts with N.",
-    "image": "/images/level6/neat.webp"
+    "image": "/images/level6/neat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-137",
@@ -2219,7 +2491,9 @@
     ],
     "example": "Please take a seat.",
     "hint": "Part of the '-eat' family — starts with S.",
-    "image": "/images/level6/seat.webp"
+    "image": "/images/level6/seat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-138",
@@ -2235,7 +2509,9 @@
     ],
     "example": "The dog got a treat for behaving.",
     "hint": "Part of the '-eat' family — starts with TR.",
-    "image": "/images/level6/treat.webp"
+    "image": "/images/level6/treat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-139",
@@ -2251,7 +2527,9 @@
     ],
     "example": "It is wrong to cheat on a test.",
     "hint": "Part of the '-eat' family — starts with CH.",
-    "image": "/images/level6/cheat.webp"
+    "image": "/images/level6/cheat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-140",
@@ -2268,7 +2546,9 @@
     ],
     "example": "Please repeat the question.",
     "hint": "Made of 're-' + the '-peat' sound.",
-    "image": "/images/level6/repeat.webp"
+    "image": "/images/level6/repeat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-141",
@@ -2285,7 +2565,9 @@
     ],
     "example": "The team suffered a defeat.",
     "hint": "Made of 'de-' + the '-feat' sound.",
-    "image": "/images/level6/defeat.webp"
+    "image": "/images/level6/defeat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-142",
@@ -2302,7 +2584,9 @@
     ],
     "example": "The soldiers began to retreat.",
     "hint": "Made of 're-' + the '-treat' sound.",
-    "image": "/images/level6/retreat.webp"
+    "image": "/images/level6/retreat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-143",
@@ -2318,7 +2602,9 @@
     ],
     "example": "Let me show you how it works.",
     "hint": "Part of the long '-ow' family — starts with SH.",
-    "image": "/images/level6/show.webp"
+    "image": "/images/level6/show.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-144",
@@ -2334,7 +2620,9 @@
     ],
     "example": "The wind began to blow hard.",
     "hint": "Part of the long '-ow' family — starts with BL.",
-    "image": "/images/level6/blow.webp"
+    "image": "/images/level6/blow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-145",
@@ -2350,7 +2638,9 @@
     ],
     "example": "Water began to flow through the pipe.",
     "hint": "Part of the long '-ow' family — starts with FL.",
-    "image": "/images/level6/flow.webp"
+    "image": "/images/level6/flow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-146",
@@ -2366,7 +2656,9 @@
     ],
     "example": "The fireflies glow at night.",
     "hint": "Part of the long '-ow' family — starts with GL.",
-    "image": "/images/level6/glow.webp"
+    "image": "/images/level6/glow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-147",
@@ -2383,7 +2675,9 @@
     ],
     "example": "The valley lies below the mountain.",
     "hint": "Made of 'be-' + the long '-ow' family.",
-    "image": "/images/level6/below.webp"
+    "image": "/images/level6/below.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-148",
@@ -2400,7 +2694,9 @@
     ],
     "example": "She bent her elbow to wave.",
     "hint": "Made of 'el-' + the long '-ow' family.",
-    "image": "/images/level6/elbow.webp"
+    "image": "/images/level6/elbow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-149",
@@ -2417,7 +2713,9 @@
     ],
     "example": "The path was long and narrow.",
     "hint": "Made of 'narr-' + the long '-ow' family.",
-    "image": "/images/level6/narrow.webp"
+    "image": "/images/level6/narrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-150",
@@ -2434,7 +2732,9 @@
     ],
     "example": "She felt deep sorrow at the news.",
     "hint": "Made of 'sorr-' + the long '-ow' family.",
-    "image": "/images/level6/sorrow.webp"
+    "image": "/images/level6/sorrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-151",
@@ -2450,7 +2750,9 @@
     ],
     "example": "He paid in cash.",
     "hint": "Part of the '-ash' family — starts with C.",
-    "image": "/images/level6/cash.webp"
+    "image": "/images/level6/cash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-152",
@@ -2466,7 +2768,9 @@
     ],
     "example": "She made a dash for the bus.",
     "hint": "Part of the '-ash' family — starts with D.",
-    "image": "/images/level6/dash.webp"
+    "image": "/images/level6/dash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-153",
@@ -2482,7 +2786,9 @@
     ],
     "example": "The kids love to splash in the pool.",
     "hint": "Part of the '-ash' family — starts with SPL.",
-    "image": "/images/level6/splash.webp"
+    "image": "/images/level6/splash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-154",
@@ -2498,7 +2804,9 @@
     ],
     "example": "Please take out the trash.",
     "hint": "Part of the '-ash' family — starts with TR.",
-    "image": "/images/level6/trash.webp"
+    "image": "/images/level6/trash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-155",
@@ -2514,7 +2822,9 @@
     ],
     "example": "The vase fell and began to smash.",
     "hint": "Part of the '-ash' family — starts with SM.",
-    "image": "/images/level6/smash.webp"
+    "image": "/images/level6/smash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-156",
@@ -2530,7 +2840,9 @@
     ],
     "example": "The two teams had a clash on the field.",
     "hint": "Part of the '-ash' family — starts with CL.",
-    "image": "/images/level6/clash.webp"
+    "image": "/images/level6/clash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-157",
@@ -2546,7 +2858,9 @@
     ],
     "example": "He used a knife to slash the rope.",
     "hint": "Part of the '-ash' family — starts with SL.",
-    "image": "/images/level6/slash.webp"
+    "image": "/images/level6/slash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-158",
@@ -2562,7 +2876,9 @@
     ],
     "example": "The rash appeared on her arm.",
     "hint": "Part of the '-ash' family — starts with R.",
-    "image": "/images/level6/rash.webp"
+    "image": "/images/level6/rash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-159",
@@ -2578,7 +2894,9 @@
     ],
     "example": "He got a deep gash on his leg.",
     "hint": "Part of the '-ash' family — starts with G.",
-    "image": "/images/level6/gash.webp"
+    "image": "/images/level6/gash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-160",
@@ -2594,7 +2912,9 @@
     ],
     "example": "We eat lunch at noon.",
     "hint": "Part of the '-unch' family — starts with L.",
-    "image": "/images/level6/lunch.webp"
+    "image": "/images/level6/lunch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-161",
@@ -2610,7 +2930,9 @@
     ],
     "example": "She bought a bunch of bananas.",
     "hint": "Part of the '-unch' family — starts with B.",
-    "image": "/images/level6/bunch.webp"
+    "image": "/images/level6/bunch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-162",
@@ -2626,7 +2948,9 @@
     ],
     "example": "The rabbit began to munch on carrots.",
     "hint": "Part of the '-unch' family — starts with M.",
-    "image": "/images/level6/munch.webp"
+    "image": "/images/level6/munch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-163",
@@ -2642,7 +2966,9 @@
     ],
     "example": "I love the crunch of fresh chips.",
     "hint": "Part of the '-unch' family — starts with CR.",
-    "image": "/images/level6/crunch.webp"
+    "image": "/images/level6/crunch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-164",
@@ -2658,7 +2984,9 @@
     ],
     "example": "I had a hunch it would rain.",
     "hint": "Part of the '-unch' family — starts with H.",
-    "image": "/images/level6/hunch.webp"
+    "image": "/images/level6/hunch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-165",
@@ -2674,7 +3002,9 @@
     ],
     "example": "We went out for brunch on Sunday.",
     "hint": "Part of the '-unch' family — starts with BR.",
-    "image": "/images/level6/brunch.webp"
+    "image": "/images/level6/brunch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-166",
@@ -2690,7 +3020,9 @@
     ],
     "example": "He told a funny joke.",
     "hint": "Part of the '-oke' family — starts with J.",
-    "image": "/images/level6/joke.webp"
+    "image": "/images/level6/joke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-167",
@@ -2706,7 +3038,9 @@
     ],
     "example": "Smoke rose from the chimney.",
     "hint": "Part of the '-oke' family — starts with SM.",
-    "image": "/images/level6/smoke.webp"
+    "image": "/images/level6/smoke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-168",
@@ -2722,7 +3056,9 @@
     ],
     "example": "She spoke softly to the baby.",
     "hint": "Part of the '-oke' family — starts with SP.",
-    "image": "/images/level6/spoke.webp"
+    "image": "/images/level6/spoke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-169",
@@ -2738,7 +3074,9 @@
     ],
     "example": "The glass broke when it fell.",
     "hint": "Part of the '-oke' family — starts with BR.",
-    "image": "/images/level6/broke.webp"
+    "image": "/images/level6/broke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-170",
@@ -2754,7 +3092,9 @@
     ],
     "example": "Chew your food slowly so you don't choke.",
     "hint": "Part of the '-oke' family — starts with CH.",
-    "image": "/images/level6/choke.webp"
+    "image": "/images/level6/choke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-171",
@@ -2770,7 +3110,9 @@
     ],
     "example": "Don't poke your sister.",
     "hint": "Part of the '-oke' family — starts with P.",
-    "image": "/images/level6/poke.webp"
+    "image": "/images/level6/poke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-172",
@@ -2786,7 +3128,9 @@
     ],
     "example": "The height of the tower is amazing.",
     "hint": "Part of the '-ight' family — starts with H.",
-    "image": "/images/level6/height.webp"
+    "image": "/images/level6/height.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-173",
@@ -2803,7 +3147,9 @@
     ],
     "example": "The clock struck midnight.",
     "hint": "Made of 'mid-' + the '-ight' family.",
-    "image": "/images/level6/midnight.webp"
+    "image": "/images/level6/midnight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-174",
@@ -2820,7 +3166,9 @@
     ],
     "example": "The twilight sky was painted pink.",
     "hint": "Made of 'twi-' + the '-ight' family.",
-    "image": "/images/level6/twilight.webp"
+    "image": "/images/level6/twilight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-175",
@@ -2837,7 +3185,9 @@
     ],
     "example": "We will watch a movie tonight.",
     "hint": "Made of 'to-' + the '-ight' family.",
-    "image": "/images/level6/tonight.webp"
+    "image": "/images/level6/tonight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-176",
@@ -2854,7 +3204,9 @@
     ],
     "example": "This backpack is lightweight.",
     "hint": "Made of 'light' + the '-eight' sound.",
-    "image": "/images/level6/lightweight.webp"
+    "image": "/images/level6/lightweight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-177",
@@ -2870,7 +3222,9 @@
     ],
     "example": "The ground began to quake.",
     "hint": "Part of the '-ake' family — starts with QU.",
-    "image": "/images/level6/quake.webp"
+    "image": "/images/level6/quake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-178",
@@ -2887,7 +3241,9 @@
     ],
     "example": "The earthquake damaged many buildings.",
     "hint": "Made of 'earth' + the '-ake' family.",
-    "image": "/images/level6/earthquake.webp"
+    "image": "/images/level6/earthquake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-179",
@@ -2904,7 +3260,9 @@
     ],
     "example": "They exchanged a firm handshake.",
     "hint": "Made of 'hand' + the '-ake' family.",
-    "image": "/images/level6/handshake.webp"
+    "image": "/images/level6/handshake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-180",
@@ -2921,7 +3279,9 @@
     ],
     "example": "The baby is still awake.",
     "hint": "Made of 'a-' + the '-ake' family.",
-    "image": "/images/level6/awake.webp"
+    "image": "/images/level6/awake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-181",
@@ -2937,7 +3297,9 @@
     ],
     "example": "Don't mock your little brother.",
     "hint": "Part of the '-ock' family — starts with M.",
-    "image": "/images/level6/mock.webp"
+    "image": "/images/level6/mock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-182",
@@ -2954,7 +3316,9 @@
     ],
     "example": "Use this key to unlock the door.",
     "hint": "Made of 'un-' + the '-ock' family.",
-    "image": "/images/level6/unlock.webp"
+    "image": "/images/level6/unlock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-183",
@@ -2971,7 +3335,9 @@
     ],
     "example": "He napped in the hammock.",
     "hint": "Made of 'ham-' + the '-ock' family.",
-    "image": "/images/level6/hammock.webp"
+    "image": "/images/level6/hammock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-184",
@@ -2987,7 +3353,9 @@
     ],
     "example": "The mailman delivered the mail.",
     "hint": "Part of the '-ail' family — starts with M.",
-    "image": "/images/level6/mail.webp"
+    "image": "/images/level6/mail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-185",
@@ -3003,7 +3371,9 @@
     ],
     "example": "We followed the trail through the woods.",
     "hint": "Part of the '-ail' family — starts with TR.",
-    "image": "/images/level6/trail.webp"
+    "image": "/images/level6/trail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-186",
@@ -3019,7 +3389,9 @@
     ],
     "example": "The goat ate the grass.",
     "hint": "Part of the '-oat' family — starts with G.",
-    "image": "/images/level6/goat.webp"
+    "image": "/images/level6/goat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-187",
@@ -3035,7 +3407,9 @@
     ],
     "example": "Wear your coat, it's cold.",
     "hint": "Part of the '-oat' family — starts with C.",
-    "image": "/images/level6/coat.webp"
+    "image": "/images/level6/coat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-188",
@@ -3051,7 +3425,9 @@
     ],
     "example": "He gave the door a bash.",
     "hint": "Part of the '-ash' family — starts with B.",
-    "image": "/images/level6/bash.webp"
+    "image": "/images/level6/bash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-189",
@@ -3067,7 +3443,9 @@
     ],
     "example": "Type the hash symbol on your phone.",
     "hint": "Part of the '-ash' family — starts with H.",
-    "image": "/images/level6/hash.webp"
+    "image": "/images/level6/hash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-190",
@@ -3083,7 +3461,9 @@
     ],
     "example": "The farmer fed hay to the cows.",
     "hint": "Part of the '-ay' family — starts with H.",
-    "image": "/images/level6/hay.webp"
+    "image": "/images/level6/hay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-191",
@@ -3099,7 +3479,9 @@
     ],
     "example": "The pug slept on the sofa.",
     "hint": "Part of the '-ug' family — starts with P.",
-    "image": "/images/level6/pug.webp"
+    "image": "/images/level6/pug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-192",
@@ -3115,7 +3497,9 @@
     ],
     "example": "She scrunched up the paper.",
     "hint": "Part of the '-unch' family — starts with SCR.",
-    "image": "/images/level6/scrunch.webp"
+    "image": "/images/level6/scrunch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-193",
@@ -3131,7 +3515,9 @@
     ],
     "example": "Pilgrims visit the ancient shrine.",
     "hint": "Part of the '-ine' family — starts with SHR.",
-    "image": "/images/level6/shrine.webp"
+    "image": "/images/level6/shrine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-194",
@@ -3147,7 +3533,9 @@
     ],
     "example": "Light the wick of the candle.",
     "hint": "Part of the '-ick' family — starts with W.",
-    "image": "/images/level6/wick.webp"
+    "image": "/images/level6/wick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-195",
@@ -3163,7 +3551,9 @@
     ],
     "example": "That was a great movie.",
     "hint": "Part of the '-eat' family — starts with GR.",
-    "image": "/images/level6/great.webp"
+    "image": "/images/level6/great.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-196",
@@ -3179,7 +3569,9 @@
     ],
     "example": "Plants grow with water and sunlight.",
     "hint": "Part of the long '-ow' family — starts with GR.",
-    "image": "/images/level6/grow.webp"
+    "image": "/images/level6/grow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-197",
@@ -3196,7 +3588,9 @@
     ],
     "example": "The arrow hit the target.",
     "hint": "Made of 'arr-' + the long '-ow' family.",
-    "image": "/images/level6/arrow.webp"
+    "image": "/images/level6/arrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-198",
@@ -3213,7 +3607,9 @@
     ],
     "example": "Can I borrow your pen?",
     "hint": "Made of 'borr-' + the long '-ow' family.",
-    "image": "/images/level6/borrow.webp"
+    "image": "/images/level6/borrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-199",
@@ -3230,7 +3626,9 @@
     ],
     "example": "The children watched a cartoon.",
     "hint": "Made of 'car-' + the '-toon' sound.",
-    "image": "/images/level6/cartoon.webp"
+    "image": "/images/level6/cartoon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl6-200",
@@ -3247,6 +3645,8 @@
     ],
     "example": "The eyeball is protected by the eyelid.",
     "hint": "Made of 'eye' + the '-ball' sound.",
-    "image": "/images/level6/eyeball.webp"
+    "image": "/images/level6/eyeball.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

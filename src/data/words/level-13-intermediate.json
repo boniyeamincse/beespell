@@ -13,7 +13,9 @@
     ],
     "example": "In biology class, we studied cell.",
     "hint": "Biology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-002",
@@ -30,7 +32,9 @@
     ],
     "example": "In biology class, we studied tissue.",
     "hint": "Biology word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-003",
@@ -47,7 +51,9 @@
     ],
     "example": "In biology class, we studied organ.",
     "hint": "Biology word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-004",
@@ -65,7 +71,9 @@
     ],
     "example": "In biology class, we studied organism.",
     "hint": "Biology word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-005",
@@ -82,7 +90,9 @@
     ],
     "example": "In biology class, we studied nucleus.",
     "hint": "Biology word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-006",
@@ -100,7 +110,9 @@
     ],
     "example": "In biology class, we studied cytoplasm.",
     "hint": "Biology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-007",
@@ -118,7 +130,9 @@
     ],
     "example": "In biology class, we studied membrane.",
     "hint": "Biology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-008",
@@ -136,7 +150,9 @@
     ],
     "example": "In biology class, we studied vacuole.",
     "hint": "Biology word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-009",
@@ -154,7 +170,9 @@
     ],
     "example": "In biology class, we studied chlorophyll.",
     "hint": "Biology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-010",
@@ -174,7 +192,9 @@
     ],
     "example": "In biology class, we studied photosynthesis.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-011",
@@ -193,7 +213,9 @@
     ],
     "example": "In biology class, we studied respiration.",
     "hint": "Biology word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-012",
@@ -211,7 +233,9 @@
     ],
     "example": "In biology class, we studied digestion.",
     "hint": "Biology word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-013",
@@ -230,7 +254,9 @@
     ],
     "example": "In biology class, we studied circulation.",
     "hint": "Biology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-014",
@@ -248,7 +274,9 @@
     ],
     "example": "In biology class, we studied skeleton.",
     "hint": "Biology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-015",
@@ -265,7 +293,9 @@
     ],
     "example": "In biology class, we studied muscle.",
     "hint": "Biology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-016",
@@ -282,7 +312,9 @@
     ],
     "example": "In biology class, we studied neuron.",
     "hint": "Biology word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-017",
@@ -299,7 +331,9 @@
     ],
     "example": "In biology class, we studied gene.",
     "hint": "Biology word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-018",
@@ -315,7 +349,9 @@
     ],
     "example": "In biology class, we studied dna.",
     "hint": "Biology word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-019",
@@ -332,7 +368,9 @@
     ],
     "example": "In biology class, we studied protein.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-020",
@@ -350,7 +388,9 @@
     ],
     "example": "In biology class, we studied enzyme.",
     "hint": "Biology word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-021",
@@ -368,7 +408,9 @@
     ],
     "example": "In biology class, we studied bacteria.",
     "hint": "Biology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-022",
@@ -385,7 +427,9 @@
     ],
     "example": "In biology class, we studied fungus.",
     "hint": "Biology word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-023",
@@ -402,7 +446,9 @@
     ],
     "example": "In biology class, we studied algae.",
     "hint": "Biology word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-024",
@@ -419,7 +465,9 @@
     ],
     "example": "In biology class, we studied mammal.",
     "hint": "Biology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-025",
@@ -437,7 +485,9 @@
     ],
     "example": "In biology class, we studied reptile.",
     "hint": "Biology word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-026",
@@ -455,7 +505,9 @@
     ],
     "example": "In biology class, we studied amphibian.",
     "hint": "Biology word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-027",
@@ -472,7 +524,9 @@
     ],
     "example": "In biology class, we studied insect.",
     "hint": "Biology word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-028",
@@ -490,7 +544,9 @@
     ],
     "example": "In biology class, we studied habitat.",
     "hint": "Biology word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-029",
@@ -509,7 +565,9 @@
     ],
     "example": "In biology class, we studied ecosystem.",
     "hint": "Biology word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-030",
@@ -526,7 +584,9 @@
     ],
     "example": "In biology class, we studied biome.",
     "hint": "Biology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-031",
@@ -545,7 +605,9 @@
     ],
     "example": "In biology class, we studied pollination.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-032",
@@ -564,7 +626,9 @@
     ],
     "example": "In biology class, we studied germination.",
     "hint": "Biology word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-033",
@@ -581,7 +645,9 @@
     ],
     "example": "In biology class, we studied seedling.",
     "hint": "Biology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-034",
@@ -600,7 +666,9 @@
     ],
     "example": "In biology class, we studied heredity.",
     "hint": "Biology word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-035",
@@ -619,7 +687,9 @@
     ],
     "example": "In biology class, we studied adaptation.",
     "hint": "Biology word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-036",
@@ -638,7 +708,9 @@
     ],
     "example": "In biology class, we studied evolution.",
     "hint": "Biology word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-037",
@@ -656,7 +728,9 @@
     ],
     "example": "In biology class, we studied predator.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-038",
@@ -672,7 +746,9 @@
     ],
     "example": "In biology class, we studied prey.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-039",
@@ -691,7 +767,9 @@
     ],
     "example": "In biology class, we studied parasite.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-040",
@@ -709,7 +787,9 @@
     ],
     "example": "In biology class, we studied symbiosis.",
     "hint": "Biology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-041",
@@ -728,7 +808,9 @@
     ],
     "example": "In biology class, we studied vertebrate.",
     "hint": "Biology word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-042",
@@ -748,7 +830,9 @@
     ],
     "example": "In biology class, we studied invertebrate.",
     "hint": "Biology word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-043",
@@ -766,7 +850,9 @@
     ],
     "example": "In biology class, we studied mitosis.",
     "hint": "Biology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-044",
@@ -783,7 +869,9 @@
     ],
     "example": "In biology class, we studied meiosis.",
     "hint": "Biology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-045",
@@ -800,7 +888,9 @@
     ],
     "example": "In biology class, we studied embryo.",
     "hint": "Biology word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-046",
@@ -817,7 +907,9 @@
     ],
     "example": "In biology class, we studied spore.",
     "hint": "Biology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-047",
@@ -834,7 +926,9 @@
     ],
     "example": "In biology class, we studied species.",
     "hint": "Biology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-048",
@@ -853,7 +947,9 @@
     ],
     "example": "In biology class, we studied population.",
     "hint": "Biology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-049",
@@ -872,7 +968,9 @@
     ],
     "example": "In biology class, we studied community.",
     "hint": "Biology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-050",
@@ -892,7 +990,9 @@
     ],
     "example": "In biology class, we studied biodiversity.",
     "hint": "Biology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-051",
@@ -909,7 +1009,9 @@
     ],
     "example": "The chemistry lesson introduced atom.",
     "hint": "Chemistry word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-052",
@@ -927,7 +1029,9 @@
     ],
     "example": "The chemistry lesson introduced element.",
     "hint": "Chemistry word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-053",
@@ -944,7 +1048,9 @@
     ],
     "example": "The chemistry lesson introduced compound.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-054",
@@ -963,7 +1069,9 @@
     ],
     "example": "The chemistry lesson introduced molecule.",
     "hint": "Chemistry word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-055",
@@ -981,7 +1089,9 @@
     ],
     "example": "The chemistry lesson introduced mixture.",
     "hint": "Chemistry word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-056",
@@ -999,7 +1109,9 @@
     ],
     "example": "The chemistry lesson introduced solution.",
     "hint": "Chemistry word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-057",
@@ -1017,7 +1129,9 @@
     ],
     "example": "The chemistry lesson introduced solute.",
     "hint": "Chemistry word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-058",
@@ -1034,7 +1148,9 @@
     ],
     "example": "The chemistry lesson introduced solvent.",
     "hint": "Chemistry word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-059",
@@ -1051,7 +1167,9 @@
     ],
     "example": "The chemistry lesson introduced acid.",
     "hint": "Chemistry word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-060",
@@ -1068,7 +1186,9 @@
     ],
     "example": "The chemistry lesson introduced base.",
     "hint": "Chemistry word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-061",
@@ -1084,7 +1204,9 @@
     ],
     "example": "The chemistry lesson introduced salt.",
     "hint": "Chemistry word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-062",
@@ -1101,7 +1223,9 @@
     ],
     "example": "The chemistry lesson introduced reaction.",
     "hint": "Chemistry word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-063",
@@ -1119,7 +1243,9 @@
     ],
     "example": "The chemistry lesson introduced catalyst.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-064",
@@ -1136,7 +1262,9 @@
     ],
     "example": "The chemistry lesson introduced metal.",
     "hint": "Chemistry word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-065",
@@ -1154,7 +1282,9 @@
     ],
     "example": "The chemistry lesson introduced nonmetal.",
     "hint": "Chemistry word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-066",
@@ -1170,7 +1300,9 @@
     ],
     "example": "The chemistry lesson introduced gas.",
     "hint": "Chemistry word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-067",
@@ -1187,7 +1319,9 @@
     ],
     "example": "The chemistry lesson introduced liquid.",
     "hint": "Chemistry word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-068",
@@ -1204,7 +1338,9 @@
     ],
     "example": "The chemistry lesson introduced solid.",
     "hint": "Chemistry word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-069",
@@ -1221,7 +1357,9 @@
     ],
     "example": "The chemistry lesson introduced plasma.",
     "hint": "Chemistry word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-070",
@@ -1241,7 +1379,9 @@
     ],
     "example": "The chemistry lesson introduced evaporation.",
     "hint": "Chemistry word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-071",
@@ -1260,7 +1400,9 @@
     ],
     "example": "The chemistry lesson introduced condensation.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-072",
@@ -1280,7 +1422,9 @@
     ],
     "example": "The chemistry lesson introduced precipitation.",
     "hint": "Chemistry word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-073",
@@ -1299,7 +1443,9 @@
     ],
     "example": "The chemistry lesson introduced oxidation.",
     "hint": "Chemistry word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-074",
@@ -1317,7 +1463,9 @@
     ],
     "example": "The chemistry lesson introduced combustion.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-075",
@@ -1337,7 +1485,9 @@
     ],
     "example": "The chemistry lesson introduced neutralization.",
     "hint": "Chemistry word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-076",
@@ -1356,7 +1506,9 @@
     ],
     "example": "The chemistry lesson introduced isotope.",
     "hint": "Chemistry word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-077",
@@ -1374,7 +1526,9 @@
     ],
     "example": "The chemistry lesson introduced electron.",
     "hint": "Chemistry word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-078",
@@ -1391,7 +1545,9 @@
     ],
     "example": "The chemistry lesson introduced proton.",
     "hint": "Chemistry word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-079",
@@ -1408,7 +1564,9 @@
     ],
     "example": "The chemistry lesson introduced neutron.",
     "hint": "Chemistry word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-080",
@@ -1424,7 +1582,9 @@
     ],
     "example": "The chemistry lesson introduced bond.",
     "hint": "Chemistry word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-081",
@@ -1441,7 +1601,9 @@
     ],
     "example": "The chemistry lesson introduced ionic.",
     "hint": "Chemistry word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-082",
@@ -1459,7 +1621,9 @@
     ],
     "example": "The chemistry lesson introduced covalent.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-083",
@@ -1477,7 +1641,9 @@
     ],
     "example": "The chemistry lesson introduced formula.",
     "hint": "Chemistry word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-084",
@@ -1494,7 +1660,9 @@
     ],
     "example": "The chemistry lesson introduced beaker.",
     "hint": "Chemistry word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-085",
@@ -1510,7 +1678,9 @@
     ],
     "example": "The chemistry lesson introduced flask.",
     "hint": "Chemistry word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-086",
@@ -1528,7 +1698,9 @@
     ],
     "example": "The chemistry lesson introduced testtube.",
     "hint": "Chemistry word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-087",
@@ -1545,7 +1717,9 @@
     ],
     "example": "The chemistry lesson introduced burner.",
     "hint": "Chemistry word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-088",
@@ -1564,7 +1738,9 @@
     ],
     "example": "The chemistry lesson introduced indicator.",
     "hint": "Chemistry word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-089",
@@ -1581,7 +1757,9 @@
     ],
     "example": "The chemistry lesson introduced crystal.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-090",
@@ -1599,7 +1777,9 @@
     ],
     "example": "The chemistry lesson introduced density.",
     "hint": "Chemistry word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-091",
@@ -1617,7 +1797,9 @@
     ],
     "example": "The chemistry lesson introduced volume.",
     "hint": "Chemistry word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-092",
@@ -1633,7 +1815,9 @@
     ],
     "example": "The chemistry lesson introduced mass.",
     "hint": "Chemistry word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-093",
@@ -1653,7 +1837,9 @@
     ],
     "example": "The chemistry lesson introduced temperature.",
     "hint": "Chemistry word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-094",
@@ -1671,7 +1857,9 @@
     ],
     "example": "The chemistry lesson introduced pressure.",
     "hint": "Chemistry word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-095",
@@ -1688,7 +1876,9 @@
     ],
     "example": "The chemistry lesson introduced carbon.",
     "hint": "Chemistry word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-096",
@@ -1706,7 +1896,9 @@
     ],
     "example": "The chemistry lesson introduced oxygen.",
     "hint": "Chemistry word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-097",
@@ -1724,7 +1916,9 @@
     ],
     "example": "The chemistry lesson introduced hydrogen.",
     "hint": "Chemistry word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-098",
@@ -1741,7 +1935,9 @@
     ],
     "example": "The chemistry lesson introduced helium.",
     "hint": "Chemistry word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-099",
@@ -1759,7 +1955,9 @@
     ],
     "example": "The chemistry lesson introduced nitrogen.",
     "hint": "Chemistry word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-100",
@@ -1780,7 +1978,9 @@
     ],
     "example": "The chemistry lesson introduced laboratoryglass.",
     "hint": "Chemistry word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-101",
@@ -1797,7 +1997,9 @@
     ],
     "example": "We discussed force in physics class.",
     "hint": "Physics word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-102",
@@ -1814,7 +2016,9 @@
     ],
     "example": "We discussed motion in physics class.",
     "hint": "Physics word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-103",
@@ -1832,7 +2036,9 @@
     ],
     "example": "We discussed energy in physics class.",
     "hint": "Physics word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-104",
@@ -1850,7 +2056,9 @@
     ],
     "example": "We discussed gravity in physics class.",
     "hint": "Physics word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-105",
@@ -1867,7 +2075,9 @@
     ],
     "example": "We discussed friction in physics class.",
     "hint": "Physics word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-106",
@@ -1886,7 +2096,9 @@
     ],
     "example": "We discussed velocity in physics class.",
     "hint": "Physics word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-107",
@@ -1906,7 +2118,9 @@
     ],
     "example": "We discussed acceleration in physics class.",
     "hint": "Physics word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-108",
@@ -1924,7 +2138,9 @@
     ],
     "example": "We discussed momentum in physics class.",
     "hint": "Physics word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-109",
@@ -1942,7 +2158,9 @@
     ],
     "example": "We discussed inertia in physics class.",
     "hint": "Physics word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-110",
@@ -1958,7 +2176,9 @@
     ],
     "example": "We discussed work in physics class.",
     "hint": "Physics word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-111",
@@ -1975,7 +2195,9 @@
     ],
     "example": "We discussed power in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-112",
@@ -1992,7 +2214,9 @@
     ],
     "example": "We discussed magnet in physics class.",
     "hint": "Physics word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-113",
@@ -2009,7 +2233,9 @@
     ],
     "example": "We discussed current in physics class.",
     "hint": "Physics word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-114",
@@ -2026,7 +2252,9 @@
     ],
     "example": "We discussed circuit in physics class.",
     "hint": "Physics word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-115",
@@ -2044,7 +2272,9 @@
     ],
     "example": "We discussed voltage in physics class.",
     "hint": "Physics word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-116",
@@ -2063,7 +2293,9 @@
     ],
     "example": "We discussed resistance in physics class.",
     "hint": "Physics word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-117",
@@ -2079,7 +2311,9 @@
     ],
     "example": "We discussed light in physics class.",
     "hint": "Physics word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-118",
@@ -2095,7 +2329,9 @@
     ],
     "example": "We discussed sound in physics class.",
     "hint": "Physics word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-119",
@@ -2112,7 +2348,9 @@
     ],
     "example": "We discussed wave in physics class.",
     "hint": "Physics word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-120",
@@ -2130,7 +2368,9 @@
     ],
     "example": "We discussed frequency in physics class.",
     "hint": "Physics word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-121",
@@ -2149,7 +2389,9 @@
     ],
     "example": "We discussed amplitude in physics class.",
     "hint": "Physics word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-122",
@@ -2167,7 +2409,9 @@
     ],
     "example": "We discussed reflection in physics class.",
     "hint": "Physics word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-123",
@@ -2185,7 +2429,9 @@
     ],
     "example": "We discussed refraction in physics class.",
     "hint": "Physics word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-124",
@@ -2201,7 +2447,9 @@
     ],
     "example": "We discussed lens in physics class.",
     "hint": "Physics word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-125",
@@ -2218,7 +2466,9 @@
     ],
     "example": "We discussed mirror in physics class.",
     "hint": "Physics word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-126",
@@ -2234,7 +2484,9 @@
     ],
     "example": "We discussed prism in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-127",
@@ -2250,7 +2502,9 @@
     ],
     "example": "We discussed heat in physics class.",
     "hint": "Physics word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-128",
@@ -2269,7 +2523,9 @@
     ],
     "example": "We discussed thermometer in physics class.",
     "hint": "Physics word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-129",
@@ -2286,7 +2542,9 @@
     ],
     "example": "We discussed matter in physics class.",
     "hint": "Physics word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-130",
@@ -2304,7 +2562,9 @@
     ],
     "example": "We discussed particle in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-131",
@@ -2322,7 +2582,9 @@
     ],
     "example": "We discussed pendulum in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-132",
@@ -2339,7 +2601,9 @@
     ],
     "example": "We discussed pulley in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-133",
@@ -2356,7 +2620,9 @@
     ],
     "example": "We discussed lever in physics class.",
     "hint": "Physics word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-134",
@@ -2372,7 +2638,9 @@
     ],
     "example": "We discussed gear in physics class.",
     "hint": "Physics word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-135",
@@ -2390,7 +2658,9 @@
     ],
     "example": "We discussed engine in physics class.",
     "hint": "Physics word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-136",
@@ -2408,7 +2678,9 @@
     ],
     "example": "We discussed turbine in physics class.",
     "hint": "Physics word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-137",
@@ -2425,7 +2697,9 @@
     ],
     "example": "We discussed solar in physics class.",
     "hint": "Physics word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-138",
@@ -2443,7 +2717,9 @@
     ],
     "example": "We discussed kinetic in physics class.",
     "hint": "Physics word starting with K.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-139",
@@ -2461,7 +2737,9 @@
     ],
     "example": "We discussed potential in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-140",
@@ -2481,7 +2759,9 @@
     ],
     "example": "We discussed elasticity in physics class.",
     "hint": "Physics word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-141",
@@ -2498,7 +2778,9 @@
     ],
     "example": "We discussed torque in physics class.",
     "hint": "Physics word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-142",
@@ -2515,7 +2797,9 @@
     ],
     "example": "We discussed orbit in physics class.",
     "hint": "Physics word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-143",
@@ -2534,7 +2818,9 @@
     ],
     "example": "We discussed trajectory in physics class.",
     "hint": "Physics word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-144",
@@ -2550,7 +2836,9 @@
     ],
     "example": "We discussed beam in physics class.",
     "hint": "Physics word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-145",
@@ -2567,7 +2855,9 @@
     ],
     "example": "We discussed radar in physics class.",
     "hint": "Physics word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-146",
@@ -2584,7 +2874,9 @@
     ],
     "example": "We discussed laser in physics class.",
     "hint": "Physics word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-147",
@@ -2601,7 +2893,9 @@
     ],
     "example": "We discussed photon in physics class.",
     "hint": "Physics word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-148",
@@ -2618,7 +2912,9 @@
     ],
     "example": "We discussed spectrum in physics class.",
     "hint": "Physics word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-149",
@@ -2637,7 +2933,9 @@
     ],
     "example": "We discussed equilibrium in physics class.",
     "hint": "Physics word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-150",
@@ -2655,7 +2953,9 @@
     ],
     "example": "We discussed mechanics in physics class.",
     "hint": "Physics word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-151",
@@ -2671,7 +2971,9 @@
     ],
     "example": "Our earth-science chapter covered rock.",
     "hint": "Earth-science word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-152",
@@ -2689,7 +2991,9 @@
     ],
     "example": "Our earth-science chapter covered mineral.",
     "hint": "Earth-science word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-153",
@@ -2705,7 +3009,9 @@
     ],
     "example": "Our earth-science chapter covered crust.",
     "hint": "Earth-science word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-154",
@@ -2722,7 +3028,9 @@
     ],
     "example": "Our earth-science chapter covered mantle.",
     "hint": "Earth-science word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-155",
@@ -2739,7 +3047,9 @@
     ],
     "example": "Our earth-science chapter covered core.",
     "hint": "Earth-science word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-156",
@@ -2757,7 +3067,9 @@
     ],
     "example": "Our earth-science chapter covered volcano.",
     "hint": "Earth-science word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-157",
@@ -2775,7 +3087,9 @@
     ],
     "example": "Our earth-science chapter covered earthquake.",
     "hint": "Earth-science word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-158",
@@ -2791,7 +3105,9 @@
     ],
     "example": "Our earth-science chapter covered fault.",
     "hint": "Earth-science word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-159",
@@ -2809,7 +3125,9 @@
     ],
     "example": "Our earth-science chapter covered erosion.",
     "hint": "Earth-science word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-160",
@@ -2827,7 +3145,9 @@
     ],
     "example": "Our earth-science chapter covered weathering.",
     "hint": "Earth-science word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-161",
@@ -2845,7 +3165,9 @@
     ],
     "example": "Our earth-science chapter covered sediment.",
     "hint": "Earth-science word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-162",
@@ -2861,7 +3183,9 @@
     ],
     "example": "Our earth-science chapter covered soil.",
     "hint": "Earth-science word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-163",
@@ -2878,7 +3202,9 @@
     ],
     "example": "Our earth-science chapter covered fossil.",
     "hint": "Earth-science word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-164",
@@ -2895,7 +3221,9 @@
     ],
     "example": "Our earth-science chapter covered glacier.",
     "hint": "Earth-science word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-165",
@@ -2912,7 +3240,9 @@
     ],
     "example": "Our earth-science chapter covered river.",
     "hint": "Earth-science word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-166",
@@ -2929,7 +3259,9 @@
     ],
     "example": "Our earth-science chapter covered delta.",
     "hint": "Earth-science word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-167",
@@ -2946,7 +3278,9 @@
     ],
     "example": "Our earth-science chapter covered valley.",
     "hint": "Earth-science word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-168",
@@ -2963,7 +3297,9 @@
     ],
     "example": "Our earth-science chapter covered plateau.",
     "hint": "Earth-science word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-169",
@@ -2980,7 +3316,9 @@
     ],
     "example": "Our earth-science chapter covered canyon.",
     "hint": "Earth-science word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-170",
@@ -2997,7 +3335,9 @@
     ],
     "example": "Our earth-science chapter covered desert.",
     "hint": "Earth-science word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-171",
@@ -3014,7 +3354,9 @@
     ],
     "example": "Our earth-science chapter covered forest.",
     "hint": "Earth-science word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-172",
@@ -3031,7 +3373,9 @@
     ],
     "example": "Our earth-science chapter covered tundra.",
     "hint": "Earth-science word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-173",
@@ -3048,7 +3392,9 @@
     ],
     "example": "Our earth-science chapter covered ocean.",
     "hint": "Earth-science word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-174",
@@ -3065,7 +3411,9 @@
     ],
     "example": "Our earth-science chapter covered monsoon.",
     "hint": "Earth-science word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-175",
@@ -3083,7 +3431,9 @@
     ],
     "example": "Our earth-science chapter covered climate.",
     "hint": "Earth-science word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-176",
@@ -3100,7 +3450,9 @@
     ],
     "example": "Our earth-science chapter covered weather.",
     "hint": "Earth-science word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-177",
@@ -3119,7 +3471,9 @@
     ],
     "example": "Our earth-science chapter covered humidity.",
     "hint": "Earth-science word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-178",
@@ -3138,7 +3492,9 @@
     ],
     "example": "Our earth-science chapter covered atmosphere.",
     "hint": "Earth-science word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-179",
@@ -3157,7 +3513,9 @@
     ],
     "example": "Our earth-science chapter covered troposphere.",
     "hint": "Earth-science word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-180",
@@ -3176,7 +3534,9 @@
     ],
     "example": "Our earth-science chapter covered stratosphere.",
     "hint": "Earth-science word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-181",
@@ -3192,7 +3552,9 @@
     ],
     "example": "Our earth-science chapter covered cloud.",
     "hint": "Earth-science word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-182",
@@ -3208,7 +3570,9 @@
     ],
     "example": "Our earth-science chapter covered storm.",
     "hint": "Earth-science word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-183",
@@ -3225,7 +3589,9 @@
     ],
     "example": "Our earth-science chapter covered thunder.",
     "hint": "Earth-science word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-184",
@@ -3242,7 +3608,9 @@
     ],
     "example": "Our earth-science chapter covered lightning.",
     "hint": "Earth-science word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-185",
@@ -3259,7 +3627,9 @@
     ],
     "example": "Our earth-science chapter covered rainfall.",
     "hint": "Earth-science word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-186",
@@ -3275,7 +3645,9 @@
     ],
     "example": "Our earth-science chapter covered drought.",
     "hint": "Earth-science word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-187",
@@ -3291,7 +3663,9 @@
     ],
     "example": "Our earth-science chapter covered flood.",
     "hint": "Earth-science word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-188",
@@ -3309,7 +3683,9 @@
     ],
     "example": "Our earth-science chapter covered tsunami.",
     "hint": "Earth-science word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-189",
@@ -3327,7 +3703,9 @@
     ],
     "example": "Our earth-science chapter covered cyclone.",
     "hint": "Earth-science word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-190",
@@ -3345,7 +3723,9 @@
     ],
     "example": "Our earth-science chapter covered watershed.",
     "hint": "Earth-science word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-191",
@@ -3362,7 +3742,9 @@
     ],
     "example": "Our earth-science chapter covered lava.",
     "hint": "Earth-science word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-192",
@@ -3379,7 +3761,9 @@
     ],
     "example": "Our earth-science chapter covered magma.",
     "hint": "Earth-science word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-193",
@@ -3397,7 +3781,9 @@
     ],
     "example": "Our earth-science chapter covered granite.",
     "hint": "Earth-science word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-194",
@@ -3414,7 +3800,9 @@
     ],
     "example": "Our earth-science chapter covered basalt.",
     "hint": "Earth-science word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-195",
@@ -3433,7 +3821,9 @@
     ],
     "example": "Our earth-science chapter covered limestone.",
     "hint": "Earth-science word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-196",
@@ -3450,7 +3840,9 @@
     ],
     "example": "Our earth-science chapter covered marble.",
     "hint": "Earth-science word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-197",
@@ -3467,7 +3859,9 @@
     ],
     "example": "Our earth-science chapter covered topsoil.",
     "hint": "Earth-science word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-198",
@@ -3484,7 +3878,9 @@
     ],
     "example": "Our earth-science chapter covered subsoil.",
     "hint": "Earth-science word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-199",
@@ -3501,7 +3897,9 @@
     ],
     "example": "Our earth-science chapter covered terrain.",
     "hint": "Earth-science word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-200",
@@ -3518,7 +3916,9 @@
     ],
     "example": "Our earth-science chapter covered seismic.",
     "hint": "Earth-science word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-201",
@@ -3534,7 +3934,9 @@
     ],
     "example": "The astronomy unit mentioned sun.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-202",
@@ -3550,7 +3952,9 @@
     ],
     "example": "The astronomy unit mentioned moon.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-203",
@@ -3567,7 +3971,9 @@
     ],
     "example": "The astronomy unit mentioned planet.",
     "hint": "Astronomy word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-204",
@@ -3583,7 +3989,9 @@
     ],
     "example": "The astronomy unit mentioned star.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-205",
@@ -3601,7 +4009,9 @@
     ],
     "example": "The astronomy unit mentioned galaxy.",
     "hint": "Astronomy word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-206",
@@ -3619,7 +4029,9 @@
     ],
     "example": "The astronomy unit mentioned nebula.",
     "hint": "Astronomy word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-207",
@@ -3636,7 +4048,9 @@
     ],
     "example": "The astronomy unit mentioned comet.",
     "hint": "Astronomy word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-208",
@@ -3654,7 +4068,9 @@
     ],
     "example": "The astronomy unit mentioned asteroid.",
     "hint": "Astronomy word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-209",
@@ -3671,7 +4087,9 @@
     ],
     "example": "The astronomy unit mentioned meteor.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-210",
@@ -3690,7 +4108,9 @@
     ],
     "example": "The astronomy unit mentioned meteorite.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-211",
@@ -3709,7 +4129,9 @@
     ],
     "example": "The astronomy unit mentioned satellite.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-212",
@@ -3728,7 +4150,9 @@
     ],
     "example": "The astronomy unit mentioned universe.",
     "hint": "Astronomy word starting with U.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-213",
@@ -3745,7 +4169,9 @@
     ],
     "example": "The astronomy unit mentioned cosmos.",
     "hint": "Astronomy word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-214",
@@ -3763,7 +4189,9 @@
     ],
     "example": "The astronomy unit mentioned eclipse.",
     "hint": "Astronomy word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-215",
@@ -3781,7 +4209,9 @@
     ],
     "example": "The astronomy unit mentioned rotation.",
     "hint": "Astronomy word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-216",
@@ -3800,7 +4230,9 @@
     ],
     "example": "The astronomy unit mentioned revolution.",
     "hint": "Astronomy word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-217",
@@ -3817,7 +4249,9 @@
     ],
     "example": "The astronomy unit mentioned axis.",
     "hint": "Astronomy word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-218",
@@ -3836,7 +4270,9 @@
     ],
     "example": "The astronomy unit mentioned constellation.",
     "hint": "Astronomy word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-219",
@@ -3855,7 +4291,9 @@
     ],
     "example": "The astronomy unit mentioned telescope.",
     "hint": "Astronomy word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-220",
@@ -3875,7 +4313,9 @@
     ],
     "example": "The astronomy unit mentioned observatory.",
     "hint": "Astronomy word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-221",
@@ -3893,7 +4333,9 @@
     ],
     "example": "The astronomy unit mentioned astronaut.",
     "hint": "Astronomy word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-222",
@@ -3911,7 +4353,9 @@
     ],
     "example": "The astronomy unit mentioned spaceship.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-223",
@@ -3928,7 +4372,9 @@
     ],
     "example": "The astronomy unit mentioned rocket.",
     "hint": "Astronomy word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-224",
@@ -3944,7 +4390,9 @@
     ],
     "example": "The astronomy unit mentioned launch.",
     "hint": "Astronomy word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-225",
@@ -3961,7 +4409,9 @@
     ],
     "example": "The astronomy unit mentioned crater.",
     "hint": "Astronomy word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-226",
@@ -3978,7 +4428,9 @@
     ],
     "example": "The astronomy unit mentioned phase.",
     "hint": "Astronomy word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-227",
@@ -3995,7 +4447,9 @@
     ],
     "example": "The astronomy unit mentioned vacuum.",
     "hint": "Astronomy word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-228",
@@ -4013,7 +4467,9 @@
     ],
     "example": "The astronomy unit mentioned blackhole.",
     "hint": "Astronomy word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-229",
@@ -4032,7 +4488,9 @@
     ],
     "example": "The astronomy unit mentioned supernova.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-230",
@@ -4049,7 +4507,9 @@
     ],
     "example": "The astronomy unit mentioned quasar.",
     "hint": "Astronomy word starting with Q.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-231",
@@ -4066,7 +4526,9 @@
     ],
     "example": "The astronomy unit mentioned daylight.",
     "hint": "Astronomy word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-232",
@@ -4083,7 +4545,9 @@
     ],
     "example": "The astronomy unit mentioned midnight.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-233",
@@ -4101,7 +4565,9 @@
     ],
     "example": "The astronomy unit mentioned solstice.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-234",
@@ -4119,7 +4585,9 @@
     ],
     "example": "The astronomy unit mentioned equinox.",
     "hint": "Astronomy word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-235",
@@ -4136,7 +4604,9 @@
     ],
     "example": "The astronomy unit mentioned zenith.",
     "hint": "Astronomy word starting with Z.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-236",
@@ -4154,7 +4624,9 @@
     ],
     "example": "The astronomy unit mentioned horizon.",
     "hint": "Astronomy word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-237",
@@ -4172,7 +4644,9 @@
     ],
     "example": "The astronomy unit mentioned milkyway.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-238",
@@ -4190,7 +4664,9 @@
     ],
     "example": "The astronomy unit mentioned mercury.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-239",
@@ -4207,7 +4683,9 @@
     ],
     "example": "The astronomy unit mentioned venus.",
     "hint": "Astronomy word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-240",
@@ -4223,7 +4701,9 @@
     ],
     "example": "The astronomy unit mentioned mars.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-241",
@@ -4241,7 +4721,9 @@
     ],
     "example": "The astronomy unit mentioned jupiter.",
     "hint": "Astronomy word starting with J.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-242",
@@ -4258,7 +4740,9 @@
     ],
     "example": "The astronomy unit mentioned saturn.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-243",
@@ -4276,7 +4760,9 @@
     ],
     "example": "The astronomy unit mentioned uranus.",
     "hint": "Astronomy word starting with U.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-244",
@@ -4294,7 +4780,9 @@
     ],
     "example": "The astronomy unit mentioned neptune.",
     "hint": "Astronomy word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-245",
@@ -4311,7 +4799,9 @@
     ],
     "example": "The astronomy unit mentioned pluto.",
     "hint": "Astronomy word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-246",
@@ -4328,7 +4818,9 @@
     ],
     "example": "The astronomy unit mentioned starlight.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-247",
@@ -4345,7 +4837,9 @@
     ],
     "example": "The astronomy unit mentioned sunspot.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-248",
@@ -4362,7 +4856,9 @@
     ],
     "example": "The astronomy unit mentioned moonlight.",
     "hint": "Astronomy word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-249",
@@ -4380,7 +4876,9 @@
     ],
     "example": "The astronomy unit mentioned asterism.",
     "hint": "Astronomy word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-250",
@@ -4397,7 +4895,9 @@
     ],
     "example": "The astronomy unit mentioned skylab.",
     "hint": "Astronomy word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-251",
@@ -4414,7 +4914,9 @@
     ],
     "example": "We practiced number in math class.",
     "hint": "Math word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-252",
@@ -4431,7 +4933,9 @@
     ],
     "example": "We practiced digit in math class.",
     "hint": "Math word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-253",
@@ -4448,7 +4952,9 @@
     ],
     "example": "We practiced fraction in math class.",
     "hint": "Math word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-254",
@@ -4466,7 +4972,9 @@
     ],
     "example": "We practiced decimal in math class.",
     "hint": "Math word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-255",
@@ -4483,7 +4991,9 @@
     ],
     "example": "We practiced percent in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-256",
@@ -4500,7 +5010,9 @@
     ],
     "example": "We practiced ratio in math class.",
     "hint": "Math word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-257",
@@ -4519,7 +5031,9 @@
     ],
     "example": "We practiced average in math class.",
     "hint": "Math word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-258",
@@ -4536,7 +5050,9 @@
     ],
     "example": "We practiced median in math class.",
     "hint": "Math word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-259",
@@ -4553,7 +5069,9 @@
     ],
     "example": "We practiced mode in math class.",
     "hint": "Math word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-260",
@@ -4570,7 +5088,9 @@
     ],
     "example": "We practiced range in math class.",
     "hint": "Math word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-261",
@@ -4588,7 +5108,9 @@
     ],
     "example": "We practiced equation in math class.",
     "hint": "Math word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-262",
@@ -4606,7 +5128,9 @@
     ],
     "example": "We practiced variable in math class.",
     "hint": "Math word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-263",
@@ -4623,7 +5147,9 @@
     ],
     "example": "We practiced constant in math class.",
     "hint": "Math word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-264",
@@ -4641,7 +5167,9 @@
     ],
     "example": "We practiced integer in math class.",
     "hint": "Math word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-265",
@@ -4659,7 +5187,9 @@
     ],
     "example": "We practiced algebra in math class.",
     "hint": "Math word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-266",
@@ -4677,7 +5207,9 @@
     ],
     "example": "We practiced geometry in math class.",
     "hint": "Math word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-267",
@@ -4694,7 +5226,9 @@
     ],
     "example": "We practiced triangle in math class.",
     "hint": "Math word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-268",
@@ -4712,7 +5246,9 @@
     ],
     "example": "We practiced rectangle in math class.",
     "hint": "Math word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-269",
@@ -4729,7 +5265,9 @@
     ],
     "example": "We practiced circle in math class.",
     "hint": "Math word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-270",
@@ -4747,7 +5285,9 @@
     ],
     "example": "We practiced diameter in math class.",
     "hint": "Math word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-271",
@@ -4764,7 +5304,9 @@
     ],
     "example": "We practiced radius in math class.",
     "hint": "Math word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-272",
@@ -4783,7 +5325,9 @@
     ],
     "example": "We practiced perimeter in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-273",
@@ -4800,7 +5344,9 @@
     ],
     "example": "We practiced area in math class.",
     "hint": "Math word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-274",
@@ -4816,7 +5362,9 @@
     ],
     "example": "We practiced graph in math class.",
     "hint": "Math word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-275",
@@ -4832,7 +5380,9 @@
     ],
     "example": "We practiced chart in math class.",
     "hint": "Math word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-276",
@@ -4849,7 +5399,9 @@
     ],
     "example": "We practiced table in math class.",
     "hint": "Math word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-277",
@@ -4866,7 +5418,9 @@
     ],
     "example": "We practiced pattern in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-278",
@@ -4884,7 +5438,9 @@
     ],
     "example": "We practiced sequence in math class.",
     "hint": "Math word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-279",
@@ -4901,7 +5457,9 @@
     ],
     "example": "We practiced angle in math class.",
     "hint": "Math word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-280",
@@ -4919,7 +5477,9 @@
     ],
     "example": "We practiced parallel in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-281",
@@ -4939,7 +5499,9 @@
     ],
     "example": "We practiced perpendicular in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-282",
@@ -4957,7 +5519,9 @@
     ],
     "example": "We practiced symmetry in math class.",
     "hint": "Math word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-283",
@@ -4976,7 +5540,9 @@
     ],
     "example": "We practiced estimate in math class.",
     "hint": "Math word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-284",
@@ -4994,7 +5560,9 @@
     ],
     "example": "We practiced measure in math class.",
     "hint": "Math word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-285",
@@ -5011,7 +5579,9 @@
     ],
     "example": "We practiced unit in math class.",
     "hint": "Math word starting with U.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-286",
@@ -5028,7 +5598,9 @@
     ],
     "example": "We practiced dozen in math class.",
     "hint": "Math word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-287",
@@ -5045,7 +5617,9 @@
     ],
     "example": "We practiced score in math class.",
     "hint": "Math word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-288",
@@ -5062,7 +5636,9 @@
     ],
     "example": "We practiced quotient in math class.",
     "hint": "Math word starting with Q.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-289",
@@ -5079,7 +5655,9 @@
     ],
     "example": "We practiced product in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-290",
@@ -5095,7 +5673,9 @@
     ],
     "example": "We practiced sum in math class.",
     "hint": "Math word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-291",
@@ -5114,7 +5694,9 @@
     ],
     "example": "We practiced difference in math class.",
     "hint": "Math word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-292",
@@ -5132,7 +5714,9 @@
     ],
     "example": "We practiced remainder in math class.",
     "hint": "Math word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-293",
@@ -5150,7 +5734,9 @@
     ],
     "example": "We practiced divisor in math class.",
     "hint": "Math word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-294",
@@ -5168,7 +5754,9 @@
     ],
     "example": "We practiced multiple in math class.",
     "hint": "Math word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-295",
@@ -5185,7 +5773,9 @@
     ],
     "example": "We practiced factor in math class.",
     "hint": "Math word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-296",
@@ -5204,7 +5794,9 @@
     ],
     "example": "We practiced coordinate in math class.",
     "hint": "Math word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-297",
@@ -5222,7 +5814,9 @@
     ],
     "example": "We practiced polygon in math class.",
     "hint": "Math word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-298",
@@ -5239,7 +5833,9 @@
     ],
     "example": "We practiced theorem in math class.",
     "hint": "Math word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-299",
@@ -5257,7 +5853,9 @@
     ],
     "example": "We practiced abacus in math class.",
     "hint": "Math word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-300",
@@ -5276,7 +5874,9 @@
     ],
     "example": "We practiced calculation in math class.",
     "hint": "Math word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-301",
@@ -5293,7 +5893,9 @@
     ],
     "example": "The teacher used classroom during class.",
     "hint": "School word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-302",
@@ -5310,7 +5912,9 @@
     ],
     "example": "The teacher used teacher during class.",
     "hint": "School word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-303",
@@ -5327,7 +5931,9 @@
     ],
     "example": "The teacher used student during class.",
     "hint": "School word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-304",
@@ -5344,7 +5950,9 @@
     ],
     "example": "The teacher used lesson during class.",
     "hint": "School word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-305",
@@ -5362,7 +5970,9 @@
     ],
     "example": "The teacher used homework during class.",
     "hint": "School word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-306",
@@ -5380,7 +5990,9 @@
     ],
     "example": "The teacher used notebook during class.",
     "hint": "School word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-307",
@@ -5397,7 +6009,9 @@
     ],
     "example": "The teacher used pencil during class.",
     "hint": "School word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-308",
@@ -5415,7 +6029,9 @@
     ],
     "example": "The teacher used eraser during class.",
     "hint": "School word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-309",
@@ -5433,7 +6049,9 @@
     ],
     "example": "The teacher used sharpener during class.",
     "hint": "School word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-310",
@@ -5450,7 +6068,9 @@
     ],
     "example": "The teacher used marker during class.",
     "hint": "School word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-311",
@@ -5467,7 +6087,9 @@
     ],
     "example": "The teacher used blackboard during class.",
     "hint": "School word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-312",
@@ -5485,7 +6107,9 @@
     ],
     "example": "The teacher used whiteboard during class.",
     "hint": "School word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-313",
@@ -5503,7 +6127,9 @@
     ],
     "example": "The teacher used library during class.",
     "hint": "School word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-314",
@@ -5521,7 +6147,9 @@
     ],
     "example": "The teacher used syllabus during class.",
     "hint": "School word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-315",
@@ -5538,7 +6166,9 @@
     ],
     "example": "The teacher used chapter during class.",
     "hint": "School word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-316",
@@ -5555,7 +6185,9 @@
     ],
     "example": "The teacher used question during class.",
     "hint": "School word starting with Q.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-317",
@@ -5572,7 +6204,9 @@
     ],
     "example": "The teacher used answer during class.",
     "hint": "School word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-318",
@@ -5589,7 +6223,9 @@
     ],
     "example": "The teacher used project during class.",
     "hint": "School word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-319",
@@ -5607,7 +6243,9 @@
     ],
     "example": "The teacher used assignment during class.",
     "hint": "School word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-320",
@@ -5626,7 +6264,9 @@
     ],
     "example": "The teacher used attendance during class.",
     "hint": "School word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-321",
@@ -5644,7 +6284,9 @@
     ],
     "example": "The teacher used calendar during class.",
     "hint": "School word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-322",
@@ -5663,7 +6305,9 @@
     ],
     "example": "The teacher used timetable during class.",
     "hint": "School word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-323",
@@ -5680,7 +6324,9 @@
     ],
     "example": "The teacher used recess during class.",
     "hint": "School word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-324",
@@ -5698,7 +6344,9 @@
     ],
     "example": "The teacher used assembly during class.",
     "hint": "School word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-325",
@@ -5716,7 +6364,9 @@
     ],
     "example": "The teacher used scholarship during class.",
     "hint": "School word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-326",
@@ -5736,7 +6386,9 @@
     ],
     "example": "The teacher used certificate during class.",
     "hint": "School word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-327",
@@ -5753,7 +6405,9 @@
     ],
     "example": "The teacher used grammar during class.",
     "hint": "School word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-328",
@@ -5770,7 +6424,9 @@
     ],
     "example": "The teacher used spelling during class.",
     "hint": "School word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-329",
@@ -5790,7 +6446,9 @@
     ],
     "example": "The teacher used vocabulary during class.",
     "hint": "School word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-330",
@@ -5807,7 +6465,9 @@
     ],
     "example": "The teacher used reading during class.",
     "hint": "School word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-331",
@@ -5824,7 +6484,9 @@
     ],
     "example": "The teacher used writing during class.",
     "hint": "School word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-332",
@@ -5841,7 +6503,9 @@
     ],
     "example": "The teacher used drawing during class.",
     "hint": "School word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-333",
@@ -5859,7 +6523,9 @@
     ],
     "example": "The teacher used sciencefair during class.",
     "hint": "School word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-334",
@@ -5877,7 +6543,9 @@
     ],
     "example": "The teacher used history during class.",
     "hint": "School word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-335",
@@ -5896,7 +6564,9 @@
     ],
     "example": "The teacher used geographylab during class.",
     "hint": "School word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-336",
@@ -5915,7 +6585,9 @@
     ],
     "example": "The teacher used experiment during class.",
     "hint": "School word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-337",
@@ -5932,7 +6604,9 @@
     ],
     "example": "The teacher used research during class.",
     "hint": "School word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-338",
@@ -5951,7 +6625,9 @@
     ],
     "example": "The teacher used presentation during class.",
     "hint": "School word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-339",
@@ -5969,7 +6645,9 @@
     ],
     "example": "The teacher used practice during class.",
     "hint": "School word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-340",
@@ -5987,7 +6665,9 @@
     ],
     "example": "The teacher used revision during class.",
     "hint": "School word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-341",
@@ -6004,7 +6684,9 @@
     ],
     "example": "The teacher used exam during class.",
     "hint": "School word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-342",
@@ -6020,7 +6702,9 @@
     ],
     "example": "The teacher used quiz during class.",
     "hint": "School word starting with Q.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-343",
@@ -6037,7 +6721,9 @@
     ],
     "example": "The teacher used report during class.",
     "hint": "School word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-344",
@@ -6056,7 +6742,9 @@
     ],
     "example": "The teacher used dictionary during class.",
     "hint": "School word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-345",
@@ -6076,7 +6764,9 @@
     ],
     "example": "The teacher used encyclopedia during class.",
     "hint": "School word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-346",
@@ -6093,7 +6783,9 @@
     ],
     "example": "The teacher used workbook during class.",
     "hint": "School word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-347",
@@ -6111,7 +6803,9 @@
     ],
     "example": "The teacher used headline during class.",
     "hint": "School word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-348",
@@ -6128,7 +6822,9 @@
     ],
     "example": "The teacher used backpack during class.",
     "hint": "School word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-349",
@@ -6144,7 +6840,9 @@
     ],
     "example": "The teacher used desk during class.",
     "hint": "School word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-350",
@@ -6160,7 +6858,9 @@
     ],
     "example": "The teacher used chalk during class.",
     "hint": "School word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-351",
@@ -6178,7 +6878,9 @@
     ],
     "example": "The language-arts lesson focused on alphabet.",
     "hint": "Language word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-352",
@@ -6195,7 +6897,9 @@
     ],
     "example": "The language-arts lesson focused on letter.",
     "hint": "Language word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-353",
@@ -6212,7 +6916,9 @@
     ],
     "example": "The language-arts lesson focused on vowel.",
     "hint": "Language word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-354",
@@ -6230,7 +6936,9 @@
     ],
     "example": "The language-arts lesson focused on consonant.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-355",
@@ -6248,7 +6956,9 @@
     ],
     "example": "The language-arts lesson focused on syllable.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-356",
@@ -6266,7 +6976,9 @@
     ],
     "example": "The language-arts lesson focused on sentence.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-357",
@@ -6282,7 +6994,9 @@
     ],
     "example": "The language-arts lesson focused on noun.",
     "hint": "Language word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-358",
@@ -6299,7 +7013,9 @@
     ],
     "example": "The language-arts lesson focused on pronoun.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-359",
@@ -6315,7 +7031,9 @@
     ],
     "example": "The language-arts lesson focused on verb.",
     "hint": "Language word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-360",
@@ -6334,7 +7052,9 @@
     ],
     "example": "The language-arts lesson focused on adjective.",
     "hint": "Language word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-361",
@@ -6351,7 +7071,9 @@
     ],
     "example": "The language-arts lesson focused on adverb.",
     "hint": "Language word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-362",
@@ -6370,7 +7092,9 @@
     ],
     "example": "The language-arts lesson focused on preposition.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-363",
@@ -6388,7 +7112,9 @@
     ],
     "example": "The language-arts lesson focused on conjunction.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-364",
@@ -6406,7 +7132,9 @@
     ],
     "example": "The language-arts lesson focused on punctuation.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-365",
@@ -6423,7 +7151,9 @@
     ],
     "example": "The language-arts lesson focused on comma.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-366",
@@ -6440,7 +7170,9 @@
     ],
     "example": "The language-arts lesson focused on period.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-367",
@@ -6457,7 +7189,9 @@
     ],
     "example": "The language-arts lesson focused on colon.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-368",
@@ -6476,7 +7210,9 @@
     ],
     "example": "The language-arts lesson focused on semicolon.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-369",
@@ -6495,7 +7231,9 @@
     ],
     "example": "The language-arts lesson focused on apostrophe.",
     "hint": "Language word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-370",
@@ -6513,7 +7251,9 @@
     ],
     "example": "The language-arts lesson focused on dialogue.",
     "hint": "Language word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-371",
@@ -6530,7 +7270,9 @@
     ],
     "example": "The language-arts lesson focused on poetry.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-372",
@@ -6547,7 +7289,9 @@
     ],
     "example": "The language-arts lesson focused on fiction.",
     "hint": "Language word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-373",
@@ -6565,7 +7309,9 @@
     ],
     "example": "The language-arts lesson focused on nonfiction.",
     "hint": "Language word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-374",
@@ -6583,7 +7329,9 @@
     ],
     "example": "The language-arts lesson focused on biography.",
     "hint": "Language word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-375",
@@ -6601,7 +7349,9 @@
     ],
     "example": "The language-arts lesson focused on summary.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-376",
@@ -6620,7 +7370,9 @@
     ],
     "example": "The language-arts lesson focused on inference.",
     "hint": "Language word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-377",
@@ -6637,7 +7389,9 @@
     ],
     "example": "The language-arts lesson focused on context.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-378",
@@ -6655,7 +7409,9 @@
     ],
     "example": "The language-arts lesson focused on metaphor.",
     "hint": "Language word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-379",
@@ -6673,7 +7429,9 @@
     ],
     "example": "The language-arts lesson focused on simile.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-380",
@@ -6691,7 +7449,9 @@
     ],
     "example": "The language-arts lesson focused on synonym.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-381",
@@ -6709,7 +7469,9 @@
     ],
     "example": "The language-arts lesson focused on antonym.",
     "hint": "Language word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-382",
@@ -6726,7 +7488,9 @@
     ],
     "example": "The language-arts lesson focused on prefix.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-383",
@@ -6743,7 +7507,9 @@
     ],
     "example": "The language-arts lesson focused on suffix.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-384",
@@ -6760,7 +7526,9 @@
     ],
     "example": "The language-arts lesson focused on rootword.",
     "hint": "Language word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-385",
@@ -6777,7 +7545,9 @@
     ],
     "example": "The language-arts lesson focused on phonics.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-386",
@@ -6796,7 +7566,9 @@
     ],
     "example": "The language-arts lesson focused on pronunciation.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-387",
@@ -6814,7 +7586,9 @@
     ],
     "example": "The language-arts lesson focused on expression.",
     "hint": "Language word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-388",
@@ -6831,7 +7605,9 @@
     ],
     "example": "The language-arts lesson focused on story.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-389",
@@ -6849,7 +7625,9 @@
     ],
     "example": "The language-arts lesson focused on character.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-390",
@@ -6866,7 +7644,9 @@
     ],
     "example": "The language-arts lesson focused on setting.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-391",
@@ -6882,7 +7662,9 @@
     ],
     "example": "The language-arts lesson focused on plot.",
     "hint": "Language word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-392",
@@ -6899,7 +7681,9 @@
     ],
     "example": "The language-arts lesson focused on theme.",
     "hint": "Language word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-393",
@@ -6916,7 +7700,9 @@
     ],
     "example": "The language-arts lesson focused on author.",
     "hint": "Language word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-394",
@@ -6933,7 +7719,9 @@
     ],
     "example": "The language-arts lesson focused on reader.",
     "hint": "Language word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-395",
@@ -6951,7 +7739,9 @@
     ],
     "example": "The language-arts lesson focused on narrator.",
     "hint": "Language word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-396",
@@ -6969,7 +7759,9 @@
     ],
     "example": "The language-arts lesson focused on listener.",
     "hint": "Language word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-397",
@@ -6986,7 +7778,9 @@
     ],
     "example": "The language-arts lesson focused on caption.",
     "hint": "Language word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-398",
@@ -7003,7 +7797,9 @@
     ],
     "example": "The language-arts lesson focused on index.",
     "hint": "Language word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-399",
@@ -7021,7 +7817,9 @@
     ],
     "example": "The language-arts lesson focused on glossary.",
     "hint": "Language word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-400",
@@ -7038,7 +7836,9 @@
     ],
     "example": "The language-arts lesson focused on stanza.",
     "hint": "Language word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-401",
@@ -7056,7 +7856,9 @@
     ],
     "example": "Geography class introduced continent.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-402",
@@ -7073,7 +7875,9 @@
     ],
     "example": "Geography class introduced country.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-403",
@@ -7091,7 +7895,9 @@
     ],
     "example": "Geography class introduced capital.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-404",
@@ -7108,7 +7914,9 @@
     ],
     "example": "Geography class introduced border.",
     "hint": "Geography word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-405",
@@ -7125,7 +7933,9 @@
     ],
     "example": "Geography class introduced island.",
     "hint": "Geography word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-406",
@@ -7144,7 +7954,9 @@
     ],
     "example": "Geography class introduced peninsula.",
     "hint": "Geography word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-407",
@@ -7164,7 +7976,9 @@
     ],
     "example": "Geography class introduced archipelago.",
     "hint": "Geography word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-408",
@@ -7180,7 +7994,9 @@
     ],
     "example": "Geography class introduced coast.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-409",
@@ -7197,7 +8013,9 @@
     ],
     "example": "Geography class introduced harbor.",
     "hint": "Geography word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-410",
@@ -7213,7 +8031,9 @@
     ],
     "example": "Geography class introduced plain.",
     "hint": "Geography word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-411",
@@ -7230,7 +8050,9 @@
     ],
     "example": "Geography class introduced mountain.",
     "hint": "Geography word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-412",
@@ -7246,7 +8068,9 @@
     ],
     "example": "Geography class introduced hill.",
     "hint": "Geography word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-413",
@@ -7263,7 +8087,9 @@
     ],
     "example": "Geography class introduced lake.",
     "hint": "Geography word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-414",
@@ -7279,7 +8105,9 @@
     ],
     "example": "Geography class introduced stream.",
     "hint": "Geography word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-415",
@@ -7296,7 +8124,9 @@
     ],
     "example": "Geography class introduced canal.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-416",
@@ -7313,7 +8143,9 @@
     ],
     "example": "Geography class introduced bridge.",
     "hint": "Geography word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-417",
@@ -7330,7 +8162,9 @@
     ],
     "example": "Geography class introduced tunnel.",
     "hint": "Geography word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-418",
@@ -7347,7 +8181,9 @@
     ],
     "example": "Geography class introduced region.",
     "hint": "Geography word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-419",
@@ -7365,7 +8201,9 @@
     ],
     "example": "Geography class introduced province.",
     "hint": "Geography word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-420",
@@ -7382,7 +8220,9 @@
     ],
     "example": "Geography class introduced district.",
     "hint": "Geography word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-421",
@@ -7400,7 +8240,9 @@
     ],
     "example": "Geography class introduced village.",
     "hint": "Geography word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-422",
@@ -7417,7 +8259,9 @@
     ],
     "example": "Geography class introduced city.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-423",
@@ -7434,7 +8278,9 @@
     ],
     "example": "Geography class introduced suburb.",
     "hint": "Geography word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-424",
@@ -7453,7 +8299,9 @@
     ],
     "example": "Geography class introduced latitude.",
     "hint": "Geography word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-425",
@@ -7472,7 +8320,9 @@
     ],
     "example": "Geography class introduced longitude.",
     "hint": "Geography word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-426",
@@ -7490,7 +8340,9 @@
     ],
     "example": "Geography class introduced equator.",
     "hint": "Geography word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-427",
@@ -7509,7 +8361,9 @@
     ],
     "example": "Geography class introduced hemisphere.",
     "hint": "Geography word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-428",
@@ -7526,7 +8380,9 @@
     ],
     "example": "Geography class introduced globe.",
     "hint": "Geography word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-429",
@@ -7543,7 +8399,9 @@
     ],
     "example": "Geography class introduced atlas.",
     "hint": "Geography word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-430",
@@ -7560,7 +8418,9 @@
     ],
     "example": "Geography class introduced route.",
     "hint": "Geography word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-431",
@@ -7577,7 +8437,9 @@
     ],
     "example": "Geography class introduced journey.",
     "hint": "Geography word starting with J.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-432",
@@ -7594,7 +8456,9 @@
     ],
     "example": "Geography class introduced transport.",
     "hint": "Geography word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-433",
@@ -7611,7 +8475,9 @@
     ],
     "example": "Geography class introduced harvest.",
     "hint": "Geography word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-434",
@@ -7628,7 +8494,9 @@
     ],
     "example": "Geography class introduced market.",
     "hint": "Geography word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-435",
@@ -7646,7 +8514,9 @@
     ],
     "example": "Geography class introduced culture.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-436",
@@ -7664,7 +8534,9 @@
     ],
     "example": "Geography class introduced tradition.",
     "hint": "Geography word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-437",
@@ -7682,7 +8554,9 @@
     ],
     "example": "Geography class introduced language.",
     "hint": "Geography word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-438",
@@ -7700,7 +8574,9 @@
     ],
     "example": "Geography class introduced currency.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-439",
@@ -7717,7 +8593,9 @@
     ],
     "example": "Geography class introduced passport.",
     "hint": "Geography word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-440",
@@ -7734,7 +8612,9 @@
     ],
     "example": "Geography class introduced tourist.",
     "hint": "Geography word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-441",
@@ -7752,7 +8632,9 @@
     ],
     "example": "Geography class introduced monument.",
     "hint": "Geography word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-442",
@@ -7769,7 +8651,9 @@
     ],
     "example": "Geography class introduced temple.",
     "hint": "Geography word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-443",
@@ -7786,7 +8670,9 @@
     ],
     "example": "Geography class introduced mosque.",
     "hint": "Geography word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-444",
@@ -7803,7 +8689,9 @@
     ],
     "example": "Geography class introduced museum.",
     "hint": "Geography word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-445",
@@ -7823,7 +8711,9 @@
     ],
     "example": "Geography class introduced agriculture.",
     "hint": "Geography word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-446",
@@ -7841,7 +8731,9 @@
     ],
     "example": "Geography class introduced industry.",
     "hint": "Geography word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-447",
@@ -7858,7 +8750,9 @@
     ],
     "example": "Geography class introduced trade.",
     "hint": "Geography word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-448",
@@ -7875,7 +8769,9 @@
     ],
     "example": "Geography class introduced farmland.",
     "hint": "Geography word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-449",
@@ -7892,7 +8788,9 @@
     ],
     "example": "Geography class introduced landmark.",
     "hint": "Geography word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-450",
@@ -7911,7 +8809,9 @@
     ],
     "example": "Geography class introduced cartography.",
     "hint": "Geography word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-451",
@@ -7927,7 +8827,9 @@
     ],
     "example": "The health lesson explained brain.",
     "hint": "Health word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-452",
@@ -7943,7 +8845,9 @@
     ],
     "example": "The health lesson explained heart.",
     "hint": "Health word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-453",
@@ -7959,7 +8863,9 @@
     ],
     "example": "The health lesson explained lung.",
     "hint": "Health word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-454",
@@ -7976,7 +8882,9 @@
     ],
     "example": "The health lesson explained stomach.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-455",
@@ -7993,7 +8901,9 @@
     ],
     "example": "The health lesson explained liver.",
     "hint": "Health word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-456",
@@ -8010,7 +8920,9 @@
     ],
     "example": "The health lesson explained kidney.",
     "hint": "Health word starting with K.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-457",
@@ -8027,7 +8939,9 @@
     ],
     "example": "The health lesson explained bone.",
     "hint": "Health word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-458",
@@ -8043,7 +8957,9 @@
     ],
     "example": "The health lesson explained joint.",
     "hint": "Health word starting with J.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-459",
@@ -8061,7 +8977,9 @@
     ],
     "example": "The health lesson explained artery.",
     "hint": "Health word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-460",
@@ -8077,7 +8995,9 @@
     ],
     "example": "The health lesson explained vein.",
     "hint": "Health word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-461",
@@ -8093,7 +9013,9 @@
     ],
     "example": "The health lesson explained skin.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-462",
@@ -8109,7 +9031,9 @@
     ],
     "example": "The health lesson explained blood.",
     "hint": "Health word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-463",
@@ -8126,7 +9050,9 @@
     ],
     "example": "The health lesson explained pulse.",
     "hint": "Health word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-464",
@@ -8144,7 +9070,9 @@
     ],
     "example": "The health lesson explained nutrition.",
     "hint": "Health word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-465",
@@ -8162,7 +9090,9 @@
     ],
     "example": "The health lesson explained vitamin.",
     "hint": "Health word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-466",
@@ -8180,7 +9110,9 @@
     ],
     "example": "The health lesson explained calorie.",
     "hint": "Health word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-467",
@@ -8199,7 +9131,9 @@
     ],
     "example": "The health lesson explained exercise.",
     "hint": "Health word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-468",
@@ -8217,7 +9151,9 @@
     ],
     "example": "The health lesson explained hygiene.",
     "hint": "Health word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-469",
@@ -8235,7 +9171,9 @@
     ],
     "example": "The health lesson explained vaccine.",
     "hint": "Health word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-470",
@@ -8252,7 +9190,9 @@
     ],
     "example": "The health lesson explained symptom.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-471",
@@ -8270,7 +9210,9 @@
     ],
     "example": "The health lesson explained disease.",
     "hint": "Health word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-472",
@@ -8287,7 +9229,9 @@
     ],
     "example": "The health lesson explained fever.",
     "hint": "Health word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-473",
@@ -8303,7 +9247,9 @@
     ],
     "example": "The health lesson explained cough.",
     "hint": "Health word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-474",
@@ -8321,7 +9267,9 @@
     ],
     "example": "The health lesson explained injury.",
     "hint": "Health word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-475",
@@ -8338,7 +9286,9 @@
     ],
     "example": "The health lesson explained healing.",
     "hint": "Health word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-476",
@@ -8356,7 +9306,9 @@
     ],
     "example": "The health lesson explained posture.",
     "hint": "Health word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-477",
@@ -8372,7 +9324,9 @@
     ],
     "example": "The health lesson explained sleep.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-478",
@@ -8389,7 +9343,9 @@
     ],
     "example": "The health lesson explained breathing.",
     "hint": "Health word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-479",
@@ -8406,7 +9362,9 @@
     ],
     "example": "The health lesson explained vision.",
     "hint": "Health word starting with V.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-480",
@@ -8423,7 +9381,9 @@
     ],
     "example": "The health lesson explained hearing.",
     "hint": "Health word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-481",
@@ -8440,7 +9400,9 @@
     ],
     "example": "The health lesson explained taste.",
     "hint": "Health word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-482",
@@ -8456,7 +9418,9 @@
     ],
     "example": "The health lesson explained smell.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-483",
@@ -8473,7 +9437,9 @@
     ],
     "example": "The health lesson explained tongue.",
     "hint": "Health word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-484",
@@ -8489,7 +9455,9 @@
     ],
     "example": "The health lesson explained tooth.",
     "hint": "Health word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-485",
@@ -8506,7 +9474,9 @@
     ],
     "example": "The health lesson explained spine.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-486",
@@ -8523,7 +9493,9 @@
     ],
     "example": "The health lesson explained shoulder.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-487",
@@ -8540,7 +9512,9 @@
     ],
     "example": "The health lesson explained elbow.",
     "hint": "Health word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-488",
@@ -8556,7 +9530,9 @@
     ],
     "example": "The health lesson explained wrist.",
     "hint": "Health word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-489",
@@ -8573,7 +9549,9 @@
     ],
     "example": "The health lesson explained finger.",
     "hint": "Health word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-490",
@@ -8589,7 +9567,9 @@
     ],
     "example": "The health lesson explained knee.",
     "hint": "Health word starting with K.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-491",
@@ -8606,7 +9586,9 @@
     ],
     "example": "The health lesson explained ankle.",
     "hint": "Health word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-492",
@@ -8624,7 +9606,9 @@
     ],
     "example": "The health lesson explained immune.",
     "hint": "Health word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-493",
@@ -8643,7 +9627,9 @@
     ],
     "example": "The health lesson explained medicine.",
     "hint": "Health word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-494",
@@ -8660,7 +9646,9 @@
     ],
     "example": "The health lesson explained surgeon.",
     "hint": "Health word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-495",
@@ -8677,7 +9665,9 @@
     ],
     "example": "The health lesson explained clinic.",
     "hint": "Health word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-496",
@@ -8695,7 +9685,9 @@
     ],
     "example": "The health lesson explained hospital.",
     "hint": "Health word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-497",
@@ -8712,7 +9704,9 @@
     ],
     "example": "The health lesson explained patient.",
     "hint": "Health word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-498",
@@ -8730,7 +9724,9 @@
     ],
     "example": "The health lesson explained therapy.",
     "hint": "Health word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-499",
@@ -8748,7 +9744,9 @@
     ],
     "example": "The health lesson explained bandage.",
     "hint": "Health word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-500",
@@ -8765,7 +9763,9 @@
     ],
     "example": "The health lesson explained wellness.",
     "hint": "Health word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-501",
@@ -8783,7 +9783,9 @@
     ],
     "example": "We used computer in the computer lab.",
     "hint": "Technology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-502",
@@ -8800,7 +9802,9 @@
     ],
     "example": "We used keyboard in the computer lab.",
     "hint": "Technology word starting with K.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-503",
@@ -8816,7 +9820,9 @@
     ],
     "example": "We used screen in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-504",
@@ -8834,7 +9840,9 @@
     ],
     "example": "We used monitor in the computer lab.",
     "hint": "Technology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-505",
@@ -8851,7 +9859,9 @@
     ],
     "example": "We used tablet in the computer lab.",
     "hint": "Technology word starting with T.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-506",
@@ -8869,7 +9879,9 @@
     ],
     "example": "We used mobile in the computer lab.",
     "hint": "Technology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-507",
@@ -8887,7 +9899,9 @@
     ],
     "example": "We used internet in the computer lab.",
     "hint": "Technology word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-508",
@@ -8904,7 +9918,9 @@
     ],
     "example": "We used browser in the computer lab.",
     "hint": "Technology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-509",
@@ -8922,7 +9938,9 @@
     ],
     "example": "We used website in the computer lab.",
     "hint": "Technology word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-510",
@@ -8940,7 +9958,9 @@
     ],
     "example": "We used software in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-511",
@@ -8958,7 +9978,9 @@
     ],
     "example": "We used hardware in the computer lab.",
     "hint": "Technology word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-512",
@@ -8975,7 +9997,9 @@
     ],
     "example": "We used network in the computer lab.",
     "hint": "Technology word starting with N.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-513",
@@ -8992,7 +10016,9 @@
     ],
     "example": "We used server in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-514",
@@ -9011,7 +10037,9 @@
     ],
     "example": "We used database in the computer lab.",
     "hint": "Technology word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-515",
@@ -9028,7 +10056,9 @@
     ],
     "example": "We used password in the computer lab.",
     "hint": "Technology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-516",
@@ -9047,7 +10077,9 @@
     ],
     "example": "We used username in the computer lab.",
     "hint": "Technology word starting with U.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-517",
@@ -9064,7 +10096,9 @@
     ],
     "example": "We used folder in the computer lab.",
     "hint": "Technology word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-518",
@@ -9081,7 +10115,9 @@
     ],
     "example": "We used file in the computer lab.",
     "hint": "Technology word starting with F.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-519",
@@ -9098,7 +10134,9 @@
     ],
     "example": "We used download in the computer lab.",
     "hint": "Technology word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-520",
@@ -9115,7 +10153,9 @@
     ],
     "example": "We used upload in the computer lab.",
     "hint": "Technology word starting with U.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-521",
@@ -9132,7 +10172,9 @@
     ],
     "example": "We used printer in the computer lab.",
     "hint": "Technology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-522",
@@ -9149,7 +10191,9 @@
     ],
     "example": "We used scanner in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-523",
@@ -9167,7 +10211,9 @@
     ],
     "example": "We used camera in the computer lab.",
     "hint": "Technology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-524",
@@ -9186,7 +10232,9 @@
     ],
     "example": "We used microphone in the computer lab.",
     "hint": "Technology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-525",
@@ -9203,7 +10251,9 @@
     ],
     "example": "We used speaker in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-526",
@@ -9220,7 +10270,9 @@
     ],
     "example": "We used charger in the computer lab.",
     "hint": "Technology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-527",
@@ -9238,7 +10290,9 @@
     ],
     "example": "We used battery in the computer lab.",
     "hint": "Technology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-528",
@@ -9255,7 +10309,9 @@
     ],
     "example": "We used sensor in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-529",
@@ -9272,7 +10328,9 @@
     ],
     "example": "We used robot in the computer lab.",
     "hint": "Technology word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-530",
@@ -9289,7 +10347,9 @@
     ],
     "example": "We used program in the computer lab.",
     "hint": "Technology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-531",
@@ -9306,7 +10366,9 @@
     ],
     "example": "We used code in the computer lab.",
     "hint": "Technology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-532",
@@ -9324,7 +10386,9 @@
     ],
     "example": "We used algorithm in the computer lab.",
     "hint": "Technology word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-533",
@@ -9342,7 +10406,9 @@
     ],
     "example": "We used digital in the computer lab.",
     "hint": "Technology word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-534",
@@ -9360,7 +10426,9 @@
     ],
     "example": "We used binary in the computer lab.",
     "hint": "Technology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-535",
@@ -9377,7 +10445,9 @@
     ],
     "example": "We used pixel in the computer lab.",
     "hint": "Technology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-536",
@@ -9394,7 +10464,9 @@
     ],
     "example": "We used signal in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-537",
@@ -9411,7 +10483,9 @@
     ],
     "example": "We used router in the computer lab.",
     "hint": "Technology word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-538",
@@ -9428,7 +10502,9 @@
     ],
     "example": "We used modem in the computer lab.",
     "hint": "Technology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-539",
@@ -9449,7 +10525,9 @@
     ],
     "example": "We used cybersecurity in the computer lab.",
     "hint": "Technology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-540",
@@ -9467,7 +10545,9 @@
     ],
     "example": "We used storage in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-541",
@@ -9485,7 +10565,9 @@
     ],
     "example": "We used memory in the computer lab.",
     "hint": "Technology word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-542",
@@ -9503,7 +10585,9 @@
     ],
     "example": "We used processor in the computer lab.",
     "hint": "Technology word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-543",
@@ -9521,7 +10605,9 @@
     ],
     "example": "We used device in the computer lab.",
     "hint": "Technology word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-544",
@@ -9540,7 +10626,9 @@
     ],
     "example": "We used application in the computer lab.",
     "hint": "Technology word starting with A.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-545",
@@ -9558,7 +10646,9 @@
     ],
     "example": "We used update in the computer lab.",
     "hint": "Technology word starting with U.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-546",
@@ -9575,7 +10665,9 @@
     ],
     "example": "We used backup in the computer lab.",
     "hint": "Technology word starting with B.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-547",
@@ -9591,7 +10683,9 @@
     ],
     "example": "We used click in the computer lab.",
     "hint": "Technology word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-548",
@@ -9607,7 +10701,9 @@
     ],
     "example": "We used search in the computer lab.",
     "hint": "Technology word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-549",
@@ -9625,7 +10721,9 @@
     ],
     "example": "We used online in the computer lab.",
     "hint": "Technology word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-550",
@@ -9643,7 +10741,9 @@
     ],
     "example": "We used offline in the computer lab.",
     "hint": "Technology word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-551",
@@ -9661,7 +10761,9 @@
     ],
     "example": "Environmental science class discussed recycle.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-552",
@@ -9678,7 +10780,9 @@
     ],
     "example": "Environmental science class discussed reuse.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-553",
@@ -9696,7 +10800,9 @@
     ],
     "example": "Environmental science class discussed reduce.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-554",
@@ -9714,7 +10820,9 @@
     ],
     "example": "Environmental science class discussed pollution.",
     "hint": "Environment word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-555",
@@ -9732,7 +10840,9 @@
     ],
     "example": "Environmental science class discussed garbage.",
     "hint": "Environment word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-556",
@@ -9749,7 +10859,9 @@
     ],
     "example": "Environmental science class discussed plastic.",
     "hint": "Environment word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-557",
@@ -9766,7 +10878,9 @@
     ],
     "example": "Environmental science class discussed paper.",
     "hint": "Environment word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-558",
@@ -9782,7 +10896,9 @@
     ],
     "example": "Environmental science class discussed glass.",
     "hint": "Environment word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-559",
@@ -9799,7 +10915,9 @@
     ],
     "example": "Environmental science class discussed compost.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-560",
@@ -9818,7 +10936,9 @@
     ],
     "example": "Environmental science class discussed renewable.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-561",
@@ -9837,7 +10957,9 @@
     ],
     "example": "Environmental science class discussed conservation.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-562",
@@ -9855,7 +10977,9 @@
     ],
     "example": "Environmental science class discussed wildlife.",
     "hint": "Environment word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-563",
@@ -9872,7 +10996,9 @@
     ],
     "example": "Environmental science class discussed wetland.",
     "hint": "Environment word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-564",
@@ -9890,7 +11016,9 @@
     ],
     "example": "Environmental science class discussed riverbank.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-565",
@@ -9908,7 +11036,9 @@
     ],
     "example": "Environmental science class discussed greenhouse.",
     "hint": "Environment word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-566",
@@ -9926,7 +11056,9 @@
     ],
     "example": "Environmental science class discussed emission.",
     "hint": "Environment word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-567",
@@ -9945,7 +11077,9 @@
     ],
     "example": "Environmental science class discussed carbonfootprint.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-568",
@@ -9962,7 +11096,9 @@
     ],
     "example": "Environmental science class discussed landfill.",
     "hint": "Environment word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-569",
@@ -9981,7 +11117,9 @@
     ],
     "example": "Environmental science class discussed sanitation.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-570",
@@ -9999,7 +11137,9 @@
     ],
     "example": "Environmental science class discussed cleanliness.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-571",
@@ -10018,7 +11158,9 @@
     ],
     "example": "Environmental science class discussed ecology.",
     "hint": "Environment word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-572",
@@ -10039,7 +11181,9 @@
     ],
     "example": "Environmental science class discussed sustainability.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-573",
@@ -10057,7 +11201,9 @@
     ],
     "example": "Environmental science class discussed resource.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-574",
@@ -10074,7 +11220,9 @@
     ],
     "example": "Environmental science class discussed sunlight.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-575",
@@ -10091,7 +11239,9 @@
     ],
     "example": "Environmental science class discussed windmill.",
     "hint": "Environment word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-576",
@@ -10109,7 +11259,9 @@
     ],
     "example": "Environmental science class discussed rainwater.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-577",
@@ -10128,7 +11280,9 @@
     ],
     "example": "Environmental science class discussed solarpanel.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-578",
@@ -10145,7 +11299,9 @@
     ],
     "example": "Environmental science class discussed earthday.",
     "hint": "Environment word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-579",
@@ -10163,7 +11319,9 @@
     ],
     "example": "Environmental science class discussed gardening.",
     "hint": "Environment word starting with G.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-580",
@@ -10181,7 +11339,9 @@
     ],
     "example": "Environmental science class discussed plantation.",
     "hint": "Environment word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-581",
@@ -10198,7 +11358,9 @@
     ],
     "example": "Environmental science class discussed seedbank.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-582",
@@ -10217,7 +11379,9 @@
     ],
     "example": "Environmental science class discussed watersupply.",
     "hint": "Environment word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-583",
@@ -10236,7 +11400,9 @@
     ],
     "example": "Environmental science class discussed irrigation.",
     "hint": "Environment word starting with I.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-584",
@@ -10253,7 +11419,9 @@
     ],
     "example": "Environmental science class discussed orchard.",
     "hint": "Environment word starting with O.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-585",
@@ -10270,7 +11438,9 @@
     ],
     "example": "Environmental science class discussed meadow.",
     "hint": "Environment word starting with M.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-586",
@@ -10286,7 +11456,9 @@
     ],
     "example": "Environmental science class discussed swamp.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-587",
@@ -10303,7 +11475,9 @@
     ],
     "example": "Environmental science class discussed coral.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-588",
@@ -10319,7 +11493,9 @@
     ],
     "example": "Environmental science class discussed reef.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-589",
@@ -10337,7 +11513,9 @@
     ],
     "example": "Environmental science class discussed canopy.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-590",
@@ -10354,7 +11532,9 @@
     ],
     "example": "Environmental science class discussed sapling.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-591",
@@ -10371,7 +11551,9 @@
     ],
     "example": "Environmental science class discussed shade.",
     "hint": "Environment word starting with S.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-592",
@@ -10390,7 +11572,9 @@
     ],
     "example": "Environmental science class discussed preservation.",
     "hint": "Environment word starting with P.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-593",
@@ -10407,7 +11591,9 @@
     ],
     "example": "Environmental science class discussed cleanup.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-594",
@@ -10425,7 +11611,9 @@
     ],
     "example": "Environmental science class discussed drainage.",
     "hint": "Environment word starting with D.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-595",
@@ -10444,7 +11632,9 @@
     ],
     "example": "Environmental science class discussed habitatloss.",
     "hint": "Environment word starting with H.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-596",
@@ -10464,7 +11654,9 @@
     ],
     "example": "Environmental science class discussed reforestation.",
     "hint": "Environment word starting with R.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-597",
@@ -10482,7 +11674,9 @@
     ],
     "example": "Environmental science class discussed compaction.",
     "hint": "Environment word starting with C.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-598",
@@ -10499,7 +11693,9 @@
     ],
     "example": "Environmental science class discussed litter.",
     "hint": "Environment word starting with L.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-599",
@@ -10518,7 +11714,9 @@
     ],
     "example": "Environmental science class discussed watercycle.",
     "hint": "Environment word starting with W.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl13-600",
@@ -10537,6 +11735,8 @@
     ],
     "example": "Environmental science class discussed ecoshelter.",
     "hint": "Environment word starting with E.",
-    "image": ""
+    "image": "",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

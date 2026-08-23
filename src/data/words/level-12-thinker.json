@@ -13,7 +13,9 @@
     ],
     "example": "She walked on the bare floor.",
     "hint": "Sounds like 'bear' the animal, but means uncovered.",
-    "image": "/images/level12/bare.webp"
+    "image": "/images/level12/bare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-002",
@@ -29,7 +31,9 @@
     ],
     "example": "The ship sailed across the sea.",
     "hint": "Sounds like the letter 'C', not 'see' (to look).",
-    "image": "/images/level12/sea.webp"
+    "image": "/images/level12/sea.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-003",
@@ -45,7 +49,9 @@
     ],
     "example": "The male lion has a mane.",
     "hint": "Sounds like 'mail' but describes gender.",
-    "image": "/images/level12/male.webp"
+    "image": "/images/level12/male.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-004",
@@ -61,7 +67,9 @@
     ],
     "example": "The villagers had to flee the fire.",
     "hint": "Sounds like 'flea' the insect, but means to escape.",
-    "image": "/images/level12/flee.webp"
+    "image": "/images/level12/flee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-005",
@@ -77,7 +85,9 @@
     ],
     "example": "The dog scratched because of a flea.",
     "hint": "Sounds like 'flee' but is a tiny insect.",
-    "image": "/images/level12/flea.webp"
+    "image": "/images/level12/flea.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-006",
@@ -93,7 +103,9 @@
     ],
     "example": "We sat under the old beech tree.",
     "hint": "Sounds like 'beach' but is a type of tree.",
-    "image": "/images/level12/beech.webp"
+    "image": "/images/level12/beech.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-007",
@@ -109,7 +121,9 @@
     ],
     "example": "Farmers sow seeds in spring.",
     "hint": "Sounds like 'so' but means planting seeds.",
-    "image": "/images/level12/sow.webp"
+    "image": "/images/level12/sow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-008",
@@ -125,7 +139,9 @@
     ],
     "example": "The wind blew all night.",
     "hint": "Sounds like 'blue' but means air moved.",
-    "image": "/images/level12/blew.webp"
+    "image": "/images/level12/blew.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-009",
@@ -141,7 +157,9 @@
     ],
     "example": "The bird flew over the lake.",
     "hint": "Sounds like 'flu' but means moved through the air.",
-    "image": "/images/level12/flew.webp"
+    "image": "/images/level12/flew.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-010",
@@ -157,7 +175,9 @@
     ],
     "example": "She has her mother's genes.",
     "hint": "Sounds like 'jeans' but means hereditary units.",
-    "image": "/images/level12/genes.webp"
+    "image": "/images/level12/genes.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-011",
@@ -173,7 +193,9 @@
     ],
     "example": "He wore blue jeans to school.",
     "hint": "Sounds like 'genes' but is a type of trousers.",
-    "image": "/images/level12/jeans.webp"
+    "image": "/images/level12/jeans.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-012",
@@ -189,7 +211,9 @@
     ],
     "example": "Maize grows tall in the field.",
     "hint": "Sounds like 'maze' but is a type of corn.",
-    "image": "/images/level12/maize.webp"
+    "image": "/images/level12/maize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-013",
@@ -205,7 +229,9 @@
     ],
     "example": "We got lost in the maze.",
     "hint": "Sounds like 'maize' but means a puzzle of paths.",
-    "image": "/images/level12/maze.webp"
+    "image": "/images/level12/maze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-014",
@@ -221,7 +247,9 @@
     ],
     "example": "She wore a beautiful bridal gown.",
     "hint": "Sounds like 'bridle' but relates to weddings.",
-    "image": "/images/level12/bridal.webp"
+    "image": "/images/level12/bridal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-015",
@@ -237,7 +265,9 @@
     ],
     "example": "He put the bridle on the horse.",
     "hint": "Sounds like 'bridal' but is horse gear.",
-    "image": "/images/level12/bridle.webp"
+    "image": "/images/level12/bridle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-016",
@@ -253,7 +283,9 @@
     ],
     "example": "There was a cold draught by the window.",
     "hint": "Spelled oddly but sounds like 'draft'.",
-    "image": "/images/level12/draught.webp"
+    "image": "/images/level12/draught.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-017",
@@ -269,7 +301,9 @@
     ],
     "example": "The referee called a foul.",
     "hint": "Sounds like 'fowl' but means unfair or unpleasant.",
-    "image": "/images/level12/foul.webp"
+    "image": "/images/level12/foul.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-018",
@@ -285,7 +319,9 @@
     ],
     "example": "The farmer raised fowl for eggs.",
     "hint": "Sounds like 'foul' but means a farm bird.",
-    "image": "/images/level12/fowl.webp"
+    "image": "/images/level12/fowl.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-019",
@@ -301,7 +337,9 @@
     ],
     "example": "He took a loan to buy a car.",
     "hint": "Sounds like 'lone' but means borrowed money.",
-    "image": "/images/level12/loan.webp"
+    "image": "/images/level12/loan.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-020",
@@ -317,7 +355,9 @@
     ],
     "example": "A lone tree stood on the hill.",
     "hint": "Sounds like 'loan' but means solitary.",
-    "image": "/images/level12/lone.webp"
+    "image": "/images/level12/lone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-021",
@@ -333,7 +373,9 @@
     ],
     "example": "The family lived in an old manor.",
     "hint": "Sounds like 'manner' but means a big estate house.",
-    "image": "/images/level12/manor.webp"
+    "image": "/images/level12/manor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-022",
@@ -349,7 +391,9 @@
     ],
     "example": "The naval fleet sailed at dawn.",
     "hint": "Sounds like 'navel' but relates to ships and the navy.",
-    "image": "/images/level12/naval.webp"
+    "image": "/images/level12/naval.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-023",
@@ -365,7 +409,9 @@
     ],
     "example": "The baby's navel healed quickly.",
     "hint": "Sounds like 'naval' but is a body part.",
-    "image": "/images/level12/navel.webp"
+    "image": "/images/level12/navel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-024",
@@ -381,7 +427,9 @@
     ],
     "example": "She took a pause before answering.",
     "hint": "Sounds like 'paws' but means a short stop.",
-    "image": "/images/level12/pause.webp"
+    "image": "/images/level12/pause.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-025",
@@ -397,7 +445,9 @@
     ],
     "example": "The dog wiped its muddy paws.",
     "hint": "Sounds like 'pause' but means animal feet.",
-    "image": "/images/level12/paws.webp"
+    "image": "/images/level12/paws.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-026",
@@ -413,7 +463,9 @@
     ],
     "example": "She wore her hair in a plait.",
     "hint": "Sounds like 'plate' but means a braid.",
-    "image": "/images/level12/plait.webp"
+    "image": "/images/level12/plait.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-027",
@@ -429,7 +481,9 @@
     ],
     "example": "Workers began to raze the old house.",
     "hint": "Sounds like 'raise'/'rays' but means to tear down.",
-    "image": "/images/level12/raze.webp"
+    "image": "/images/level12/raze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-028",
@@ -445,7 +499,9 @@
     ],
     "example": "The crash scene was very busy.",
     "hint": "Sounds like 'seen' but means a place/view.",
-    "image": "/images/level12/scene.webp"
+    "image": "/images/level12/scene.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-029",
@@ -461,7 +517,9 @@
     ],
     "example": "The nation was in the throes of change.",
     "hint": "Sounds like 'throws' but means intense struggle.",
-    "image": "/images/level12/throes.webp"
+    "image": "/images/level12/throes.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-030",
@@ -477,7 +535,9 @@
     ],
     "example": "He throws the ball every day.",
     "hint": "Sounds like 'throes' but means tosses something.",
-    "image": "/images/level12/throws.webp"
+    "image": "/images/level12/throws.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-031",
@@ -493,7 +553,9 @@
     ],
     "example": "The broken car was towed away.",
     "hint": "Sounds like 'toad' but means pulled along.",
-    "image": "/images/level12/towed.webp"
+    "image": "/images/level12/towed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-032",
@@ -509,7 +571,9 @@
     ],
     "example": "A troop of soldiers marched by.",
     "hint": "Sounds like 'troupe' but means a group of soldiers.",
-    "image": "/images/level12/troop.webp"
+    "image": "/images/level12/troop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-033",
@@ -525,7 +589,9 @@
     ],
     "example": "The dance troupe performed on stage.",
     "hint": "Sounds like 'troop' but means a group of performers.",
-    "image": "/images/level12/troupe.webp"
+    "image": "/images/level12/troupe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-034",
@@ -541,7 +607,9 @@
     ],
     "example": "The shop sold fine glassware.",
     "hint": "Sounds like 'wear'/'where' but means goods/products.",
-    "image": "/images/level12/ware.webp"
+    "image": "/images/level12/ware.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-035",
@@ -557,7 +625,9 @@
     ],
     "example": "She learned to weave on a loom.",
     "hint": "Sounds like 'we've' but means to make cloth.",
-    "image": "/images/level12/weave.webp"
+    "image": "/images/level12/weave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-036",
@@ -573,7 +643,9 @@
     ],
     "example": "We've finished all our homework.",
     "hint": "Sounds like 'weave' but is short for 'we have'.",
-    "image": "/images/level12/we've.webp"
+    "image": "/images/level12/we've.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-037",
@@ -589,7 +661,9 @@
     ],
     "example": "The smell whet his appetite.",
     "hint": "Sounds like 'wet' but means to sharpen.",
-    "image": "/images/level12/whet.webp"
+    "image": "/images/level12/whet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-038",
@@ -605,7 +679,9 @@
     ],
     "example": "The dancer whirled across the stage.",
     "hint": "Sounds like 'world' but means spun around.",
-    "image": "/images/level12/whirled.webp"
+    "image": "/images/level12/whirled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-039",
@@ -621,7 +697,9 @@
     ],
     "example": "The customer was billed for the repair.",
     "hint": "Sounds like 'build' but means charged money.",
-    "image": "/images/level12/billed.webp"
+    "image": "/images/level12/billed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-040",
@@ -637,7 +715,9 @@
     ],
     "example": "A bird sat on the bough.",
     "hint": "Sounds like 'bow' (to bend) but means a tree branch.",
-    "image": "/images/level12/bough.webp"
+    "image": "/images/level12/bough.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-041",
@@ -653,7 +733,9 @@
     ],
     "example": "She was sealing the envelope.",
     "hint": "Sounds like 'ceiling' but means closing tightly.",
-    "image": "/images/level12/sealing.webp"
+    "image": "/images/level12/sealing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-042",
@@ -669,7 +751,9 @@
     ],
     "example": "They moved to a warmer clime.",
     "hint": "Sounds like 'climb' but means a climate region.",
-    "image": "/images/level12/clime.webp"
+    "image": "/images/level12/clime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-043",
@@ -685,7 +769,9 @@
     ],
     "example": "The colonel led his troops bravely.",
     "hint": "Spelled oddly but sounds like 'kernel'.",
-    "image": "/images/level12/colonel.webp"
+    "image": "/images/level12/colonel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-044",
@@ -701,7 +787,9 @@
     ],
     "example": "The film crews arrived early.",
     "hint": "Sounds like 'cruise' but means groups of workers.",
-    "image": "/images/level12/crews.webp"
+    "image": "/images/level12/crews.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-045",
@@ -717,7 +805,9 @@
     ],
     "example": "They went on a cruise last summer.",
     "hint": "Sounds like 'crews' but means a pleasure voyage.",
-    "image": "/images/level12/cruise.webp"
+    "image": "/images/level12/cruise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-046",
@@ -733,7 +823,9 @@
     ],
     "example": "He parked close to the kerb.",
     "hint": "Sounds like 'curb' but is the British spelling.",
-    "image": "/images/level12/kerb.webp"
+    "image": "/images/level12/kerb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-047",
@@ -749,7 +841,9 @@
     ],
     "example": "He whispered a damn under his breath.",
     "hint": "Silent N — sounds like 'dam' but is an exclamation.",
-    "image": "/images/level12/damn.webp"
+    "image": "/images/level12/damn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-048",
@@ -765,7 +859,9 @@
     ],
     "example": "She walked around in a daze.",
     "hint": "Sounds like 'days' but means confusion.",
-    "image": "/images/level12/daze.webp"
+    "image": "/images/level12/daze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-049",
@@ -781,7 +877,9 @@
     ],
     "example": "She kneaded the dough for bread.",
     "hint": "Sounds like 'doe' but is baking mixture.",
-    "image": "/images/level12/dough.webp"
+    "image": "/images/level12/dough.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-050",
@@ -797,7 +895,9 @@
     ],
     "example": "The tea was kept in a large urn.",
     "hint": "Sounds like 'earn' but is a container.",
-    "image": "/images/level12/urn.webp"
+    "image": "/images/level12/urn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-051",
@@ -813,7 +913,9 @@
     ],
     "example": "They gild the picture frame.",
     "hint": "Sounds like 'guild' but means to cover with gold.",
-    "image": "/images/level12/gild.webp"
+    "image": "/images/level12/gild.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-052",
@@ -829,7 +931,9 @@
     ],
     "example": "He joined the writers' guild.",
     "hint": "Sounds like 'gild' but means a trade group.",
-    "image": "/images/level12/guild.webp"
+    "image": "/images/level12/guild.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-053",
@@ -845,7 +949,9 @@
     ],
     "example": "He was wholly responsible for the mistake.",
     "hint": "Sounds like 'holy' but means completely.",
-    "image": "/images/level12/wholly.webp"
+    "image": "/images/level12/wholly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-054",
@@ -861,7 +967,9 @@
     ],
     "example": "His old socks were holey.",
     "hint": "Sounds like 'holy'/'wholly' but means full of holes.",
-    "image": "/images/level12/holey.webp"
+    "image": "/images/level12/holey.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-055",
@@ -877,7 +985,9 @@
     ],
     "example": "We stayed in a youth hostel.",
     "hint": "Sounds like 'hostile' but is a lodging place.",
-    "image": "/images/level12/hostel.webp"
+    "image": "/images/level12/hostel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-056",
@@ -893,7 +1003,9 @@
     ],
     "example": "The crowd grew hostile.",
     "hint": "Sounds like 'hostel' but means unfriendly.",
-    "image": "/images/level12/hostile.webp"
+    "image": "/images/level12/hostile.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-057",
@@ -909,7 +1021,9 @@
     ],
     "example": "She began to knead the dough.",
     "hint": "Silent K — sounds like 'need' but means to press dough.",
-    "image": "/images/level12/knead.webp"
+    "image": "/images/level12/knead.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-058",
@@ -925,7 +1039,9 @@
     ],
     "example": "She knows the answer.",
     "hint": "Silent K — sounds like 'nose' but means has knowledge of.",
-    "image": "/images/level12/knows.webp"
+    "image": "/images/level12/knows.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-059",
@@ -941,7 +1057,9 @@
     ],
     "example": "The pipe was made of lead.",
     "hint": "Same spelling as the verb 'lead' but this means the metal.",
-    "image": "/images/level12/lead.webp"
+    "image": "/images/level12/lead.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-060",
@@ -957,7 +1075,9 @@
     ],
     "example": "She led the team to victory.",
     "hint": "Sounds like the metal 'lead' but means guided.",
-    "image": "/images/level12/led.webp"
+    "image": "/images/level12/led.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-061",
@@ -973,7 +1093,9 @@
     ],
     "example": "The office space was leased for a year.",
     "hint": "Sounds like 'least' but means rented.",
-    "image": "/images/level12/leased.webp"
+    "image": "/images/level12/leased.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-062",
@@ -989,7 +1111,9 @@
     ],
     "example": "He ate the least of all of us.",
     "hint": "Sounds like 'leased' but means the smallest amount.",
-    "image": "/images/level12/least.webp"
+    "image": "/images/level12/least.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-063",
@@ -1005,7 +1129,9 @@
     ],
     "example": "The levee held back the rising water.",
     "hint": "Sounds like 'levy' but is a flood-prevention wall.",
-    "image": "/images/level12/levee.webp"
+    "image": "/images/level12/levee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-064",
@@ -1021,7 +1147,9 @@
     ],
     "example": "The government imposed a new levy.",
     "hint": "Sounds like 'levee' but means a tax.",
-    "image": "/images/level12/levy.webp"
+    "image": "/images/level12/levy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-065",
@@ -1037,7 +1165,9 @@
     ],
     "example": "The musician played the lyre.",
     "hint": "Sounds like 'liar' but is a musical instrument.",
-    "image": "/images/level12/lyre.webp"
+    "image": "/images/level12/lyre.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-066",
@@ -1053,7 +1183,9 @@
     ],
     "example": "The bracelet had gold links.",
     "hint": "Sounds like 'lynx' but means connections or chain rings.",
-    "image": "/images/level12/links.webp"
+    "image": "/images/level12/links.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-067",
@@ -1069,7 +1201,9 @@
     ],
     "example": "A lynx was spotted in the forest.",
     "hint": "Sounds like 'links' but is a wild cat.",
-    "image": "/images/level12/lynx.webp"
+    "image": "/images/level12/lynx.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-068",
@@ -1085,7 +1219,9 @@
     ],
     "example": "The loch was calm and misty.",
     "hint": "Sounds like 'lock' but means a Scottish lake.",
-    "image": "/images/level12/loch.webp"
+    "image": "/images/level12/loch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-069",
@@ -1101,7 +1237,9 @@
     ],
     "example": "The marshal organized the parade.",
     "hint": "Sounds like 'martial' but means an officer.",
-    "image": "/images/level12/marshal.webp"
+    "image": "/images/level12/marshal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-070",
@@ -1117,7 +1255,9 @@
     ],
     "example": "He studies martial arts.",
     "hint": "Sounds like 'marshal' but means related to fighting.",
-    "image": "/images/level12/martial.webp"
+    "image": "/images/level12/martial.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-071",
@@ -1133,7 +1273,9 @@
     ],
     "example": "Troops massed at the border.",
     "hint": "Sounds like 'mast' but means gathered in numbers.",
-    "image": "/images/level12/massed.webp"
+    "image": "/images/level12/massed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-072",
@@ -1149,7 +1291,9 @@
     ],
     "example": "The flag flew from the ship's mast.",
     "hint": "Sounds like 'massed' but is a ship's pole.",
-    "image": "/images/level12/mast.webp"
+    "image": "/images/level12/mast.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-073",
@@ -1165,7 +1309,9 @@
     ],
     "example": "She showed real mettle under pressure.",
     "hint": "Sounds like 'metal' but means courage.",
-    "image": "/images/level12/mettle.webp"
+    "image": "/images/level12/mettle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-074",
@@ -1181,7 +1327,9 @@
     ],
     "example": "Coal was mined from the hillside.",
     "hint": "Sounds like 'mind' but means dug up or laid with mines.",
-    "image": "/images/level12/mined.webp"
+    "image": "/images/level12/mined.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-075",
@@ -1197,7 +1345,9 @@
     ],
     "example": "Our team won the match.",
     "hint": "Sounds like 'one' but means was victorious.",
-    "image": "/images/level12/won.webp"
+    "image": "/images/level12/won.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-076",
@@ -1213,7 +1363,9 @@
     ],
     "example": "The two nations signed a peace pact.",
     "hint": "Sounds like 'packed' but means a formal agreement.",
-    "image": "/images/level12/pact.webp"
+    "image": "/images/level12/pact.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-077",
@@ -1229,7 +1381,9 @@
     ],
     "example": "She packed her suitcase for the trip.",
     "hint": "Sounds like 'pact' but means filled or prepared for travel.",
-    "image": "/images/level12/packed.webp"
+    "image": "/images/level12/packed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-078",
@@ -1245,7 +1399,9 @@
     ],
     "example": "He pushed the bicycle pedal hard.",
     "hint": "Sounds like 'peddle' but is a foot lever.",
-    "image": "/images/level12/pedal.webp"
+    "image": "/images/level12/pedal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-079",
@@ -1261,7 +1417,9 @@
     ],
     "example": "The old man used to peddle vegetables.",
     "hint": "Sounds like 'pedal' but means to sell goods.",
-    "image": "/images/level12/peddle.webp"
+    "image": "/images/level12/peddle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-080",
@@ -1277,7 +1435,9 @@
     ],
     "example": "The poll showed most people agreed.",
     "hint": "Sounds like 'pole' but means a survey or vote.",
-    "image": "/images/level12/poll.webp"
+    "image": "/images/level12/poll.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-081",
@@ -1293,7 +1453,9 @@
     ],
     "example": "The necklace was made of pink quartz.",
     "hint": "Sounds like 'quarts' but is a mineral crystal.",
-    "image": "/images/level12/quartz.webp"
+    "image": "/images/level12/quartz.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-082",
@@ -1309,7 +1471,9 @@
     ],
     "example": "The mayor's residence is downtown.",
     "hint": "Sounds like 'residents' but means a home.",
-    "image": "/images/level12/residence.webp"
+    "image": "/images/level12/residence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-083",
@@ -1325,7 +1489,9 @@
     ],
     "example": "The residents complained about the noise.",
     "hint": "Sounds like 'residence' but means the people who live there.",
-    "image": "/images/level12/residents.webp"
+    "image": "/images/level12/residents.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-084",
@@ -1341,7 +1507,9 @@
     ],
     "example": "The comedy revue made the crowd laugh.",
     "hint": "Sounds like 'review' but is a stage show.",
-    "image": "/images/level12/revue.webp"
+    "image": "/images/level12/revue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-085",
@@ -1357,7 +1525,9 @@
     ],
     "example": "The playwright wrote a new drama.",
     "hint": "Silent W — sounds like 'right'/'write' but means a builder.",
-    "image": "/images/level12/wright.webp"
+    "image": "/images/level12/wright.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-086",
@@ -1373,7 +1543,9 @@
     ],
     "example": "She played the lead role in the play.",
     "hint": "Sounds like 'roll' but means a part or function.",
-    "image": "/images/level12/role.webp"
+    "image": "/images/level12/role.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-087",
@@ -1389,7 +1561,9 @@
     ],
     "example": "They filled sacks with rice.",
     "hint": "Sounds like 'sax' but means large bags.",
-    "image": "/images/level12/sacks.webp"
+    "image": "/images/level12/sacks.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-088",
@@ -1405,7 +1579,9 @@
     ],
     "example": "He played the sax in the school band.",
     "hint": "Sounds like 'sacks' but is a musical instrument.",
-    "image": "/images/level12/sax.webp"
+    "image": "/images/level12/sax.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-089",
@@ -1421,7 +1597,9 @@
     ],
     "example": "Farmers shear the sheep every spring.",
     "hint": "Sounds like 'sheer' but means to cut off wool.",
-    "image": "/images/level12/shear.webp"
+    "image": "/images/level12/shear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-090",
@@ -1437,7 +1615,9 @@
     ],
     "example": "It was sheer luck that she won.",
     "hint": "Sounds like 'shear' but means total or very thin.",
-    "image": "/images/level12/sheer.webp"
+    "image": "/images/level12/sheer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-091",
@@ -1453,7 +1633,9 @@
     ],
     "example": "She said 'shoo' to the cat.",
     "hint": "Sounds like 'shoe' but means to drive something away.",
-    "image": "/images/level12/shoo.webp"
+    "image": "/images/level12/shoo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-092",
@@ -1469,7 +1651,9 @@
     ],
     "example": "He sighed with relief.",
     "hint": "Sounds like 'side' but means breathed out slowly.",
-    "image": "/images/level12/sighed.webp"
+    "image": "/images/level12/sighed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-093",
@@ -1485,7 +1669,9 @@
     ],
     "example": "She calculated the sine of the angle.",
     "hint": "Sounds like 'sign' but is a math term.",
-    "image": "/images/level12/sine.webp"
+    "image": "/images/level12/sine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-094",
@@ -1501,7 +1687,9 @@
     ],
     "example": "The sleigh glided over the snow.",
     "hint": "Sounds like 'slay' but means a snow vehicle.",
-    "image": "/images/level12/sleigh.webp"
+    "image": "/images/level12/sleigh.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-095",
@@ -1517,7 +1705,9 @@
     ],
     "example": "The knight set out to slay the dragon.",
     "hint": "Sounds like 'sleigh' but means to kill.",
-    "image": "/images/level12/slay.webp"
+    "image": "/images/level12/slay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-096",
@@ -1533,7 +1723,9 @@
     ],
     "example": "He led a rather staid life.",
     "hint": "Sounds like 'stayed' but means overly serious.",
-    "image": "/images/level12/staid.webp"
+    "image": "/images/level12/staid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-097",
@@ -1549,7 +1741,9 @@
     ],
     "example": "We stayed at a small hotel.",
     "hint": "Sounds like 'staid' but means remained somewhere.",
-    "image": "/images/level12/stayed.webp"
+    "image": "/images/level12/stayed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-098",
@@ -1565,7 +1759,9 @@
     ],
     "example": "He grilled a steak for dinner.",
     "hint": "Sounds like 'stake' but means a slice of meat.",
-    "image": "/images/level12/steak.webp"
+    "image": "/images/level12/steak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-099",
@@ -1581,7 +1777,9 @@
     ],
     "example": "She wrote a summary of the book.",
     "hint": "Sounds like 'summery' but means a short overview.",
-    "image": "/images/level12/summary.webp"
+    "image": "/images/level12/summary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-100",
@@ -1597,7 +1795,9 @@
     ],
     "example": "She wore a light, summery dress.",
     "hint": "Sounds like 'summary' but means like summer.",
-    "image": "/images/level12/summery.webp"
+    "image": "/images/level12/summery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-101",
@@ -1613,7 +1813,9 @@
     ],
     "example": "He ordered a chocolate sundae.",
     "hint": "Sounds like 'Sunday' but is a dessert.",
-    "image": "/images/level12/sundae.webp"
+    "image": "/images/level12/sundae.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-102",
@@ -1629,7 +1831,9 @@
     ],
     "example": "The rope was pulled taut.",
     "hint": "Sounds like 'taught' but means stretched tight.",
-    "image": "/images/level12/taut.webp"
+    "image": "/images/level12/taut.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-103",
@@ -1645,7 +1849,9 @@
     ],
     "example": "The wedding cake had three tiers.",
     "hint": "Sounds like 'tear' (drop from eye) but means a layer.",
-    "image": "/images/level12/tier.webp"
+    "image": "/images/level12/tier.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-104",
@@ -1661,7 +1867,9 @@
     ],
     "example": "She added thyme to the soup.",
     "hint": "Silent H — sounds like 'time' but is a cooking herb.",
-    "image": "/images/level12/thyme.webp"
+    "image": "/images/level12/thyme.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-105",
@@ -1677,7 +1885,9 @@
     ],
     "example": "A wail rose from the crowd.",
     "hint": "Sounds like 'whale' but means a loud cry.",
-    "image": "/images/level12/wail.webp"
+    "image": "/images/level12/wail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-106",
@@ -1693,7 +1903,9 @@
     ],
     "example": "The corduroy jacket had a fine wale.",
     "hint": "Sounds like 'whale'/'wail' but describes fabric texture.",
-    "image": "/images/level12/wale.webp"
+    "image": "/images/level12/wale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-107",
@@ -1709,7 +1921,9 @@
     ],
     "example": "Whey is used to make some cheeses.",
     "hint": "Sounds like 'way'/'weigh' but is a milk byproduct.",
-    "image": "/images/level12/whey.webp"
+    "image": "/images/level12/whey.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-108",
@@ -1725,7 +1939,9 @@
     ],
     "example": "They sailed on a private yacht.",
     "hint": "Spelled oddly but sounds like 'yot'.",
-    "image": "/images/level12/yacht.webp"
+    "image": "/images/level12/yacht.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-109",
@@ -1741,7 +1957,9 @@
     ],
     "example": "The ship docked at the quay.",
     "hint": "Spelled oddly but sounds like 'key'.",
-    "image": "/images/level12/quay.webp"
+    "image": "/images/level12/quay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-110",
@@ -1757,7 +1975,9 @@
     ],
     "example": "The choir sang the chorus together.",
     "hint": "The CH sounds like a K here — think 'korus'.",
-    "image": "/images/level12/chorus.webp"
+    "image": "/images/level12/chorus.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-111",
@@ -1773,7 +1993,9 @@
     ],
     "example": "The choir practiced every Sunday.",
     "hint": "The CH sounds like a K — sounds like 'kwire'.",
-    "image": "/images/level12/choir.webp"
+    "image": "/images/level12/choir.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-112",
@@ -1789,7 +2011,9 @@
     ],
     "example": "The storm caused total chaos.",
     "hint": "The CH sounds like a K here — think 'kay-os'.",
-    "image": "/images/level12/chaos.webp"
+    "image": "/images/level12/chaos.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-113",
@@ -1805,7 +2029,9 @@
     ],
     "example": "The chef prepared a delicious meal.",
     "hint": "The CH sounds like SH — think 'shef'.",
-    "image": "/images/level12/chef.webp"
+    "image": "/images/level12/chef.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-114",
@@ -1821,7 +2047,9 @@
     ],
     "example": "She wore a very chic outfit.",
     "hint": "The CH sounds like SH — think 'sheek'.",
-    "image": "/images/level12/chic.webp"
+    "image": "/images/level12/chic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-115",
@@ -1837,7 +2065,9 @@
     ],
     "example": "The washing machine was very loud.",
     "hint": "The CH sounds like SH — think 'ma-sheen'.",
-    "image": "/images/level12/machine.webp"
+    "image": "/images/level12/machine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-116",
@@ -1853,7 +2083,9 @@
     ],
     "example": "The laundry went down the chute.",
     "hint": "The CH sounds like SH — think 'shoot'.",
-    "image": "/images/level12/chute.webp"
+    "image": "/images/level12/chute.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-117",
@@ -1869,7 +2101,9 @@
     ],
     "example": "He grew a thick moustache.",
     "hint": "The middle sounds like 'tash', not 'take'.",
-    "image": "/images/level12/moustache.webp"
+    "image": "/images/level12/moustache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-118",
@@ -1885,7 +2119,9 @@
     ],
     "example": "A garden gnome stood by the flowers.",
     "hint": "Silent G — sounds like 'nome'.",
-    "image": "/images/level12/gnome.webp"
+    "image": "/images/level12/gnome.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-119",
@@ -1901,7 +2137,9 @@
     ],
     "example": "The mouse began to gnaw the wood.",
     "hint": "Silent G — sounds like 'naw'.",
-    "image": "/images/level12/gnaw.webp"
+    "image": "/images/level12/gnaw.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-120",
@@ -1917,7 +2155,9 @@
     ],
     "example": "A gnat buzzed near her ear.",
     "hint": "Silent G — sounds like 'nat'.",
-    "image": "/images/level12/gnat.webp"
+    "image": "/images/level12/gnat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-121",
@@ -1933,7 +2173,9 @@
     ],
     "example": "She created a new dress design.",
     "hint": "Silent G — sounds like 'de-zine'.",
-    "image": "/images/level12/design.webp"
+    "image": "/images/level12/design.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-122",
@@ -1949,7 +2191,9 @@
     ],
     "example": "He decided to resign from his job.",
     "hint": "Silent G — sounds like 're-zine'.",
-    "image": "/images/level12/resign.webp"
+    "image": "/images/level12/resign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-123",
@@ -1965,7 +2209,9 @@
     ],
     "example": "They launched a campaign to plant trees.",
     "hint": "Silent G — sounds like 'kam-pain'.",
-    "image": "/images/level12/campaign.webp"
+    "image": "/images/level12/campaign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-124",
@@ -1981,7 +2227,9 @@
     ],
     "example": "The tumor was found to be benign.",
     "hint": "Silent G — sounds like 'be-nine'.",
-    "image": "/images/level12/benign.webp"
+    "image": "/images/level12/benign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-125",
@@ -1997,7 +2245,9 @@
     ],
     "example": "Please align the boxes neatly.",
     "hint": "Silent G — sounds like 'a-line'.",
-    "image": "/images/level12/align.webp"
+    "image": "/images/level12/align.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-126",
@@ -2013,7 +2263,9 @@
     ],
     "example": "It's wrong to malign someone falsely.",
     "hint": "Silent G — sounds like 'ma-line'.",
-    "image": "/images/level12/malign.webp"
+    "image": "/images/level12/malign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-127",
@@ -2029,7 +2281,9 @@
     ],
     "example": "The court chose to indict the suspect.",
     "hint": "Silent C — sounds like 'in-dite'.",
-    "image": "/images/level12/indict.webp"
+    "image": "/images/level12/indict.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-128",
@@ -2045,7 +2299,9 @@
     ],
     "example": "There was a subtle change in his voice.",
     "hint": "Silent B — sounds like 'suttle'.",
-    "image": "/images/level12/subtle.webp"
+    "image": "/images/level12/subtle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-129",
@@ -2061,7 +2317,9 @@
     ],
     "example": "The soldiers found an unexploded bomb.",
     "hint": "Silent B — sounds like 'bom'.",
-    "image": "/images/level12/bomb.webp"
+    "image": "/images/level12/bomb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-130",
@@ -2077,7 +2335,9 @@
     ],
     "example": "Her fingers felt numb in the cold.",
     "hint": "Silent B — sounds like 'num'.",
-    "image": "/images/level12/numb.webp"
+    "image": "/images/level12/numb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-131",
@@ -2093,7 +2353,9 @@
     ],
     "example": "A crumb fell from the cookie.",
     "hint": "Silent B — sounds like 'krum'.",
-    "image": "/images/level12/crumb.webp"
+    "image": "/images/level12/crumb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-132",
@@ -2109,7 +2371,9 @@
     ],
     "example": "He finally succumbed to his cold.",
     "hint": "Silent B — sounds like 'suh-kum'.",
-    "image": "/images/level12/succumb.webp"
+    "image": "/images/level12/succumb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-133",
@@ -2125,7 +2389,9 @@
     ],
     "example": "The choir sang a beautiful hymn.",
     "hint": "Silent N — sounds like 'him'.",
-    "image": "/images/level12/hymn.webp"
+    "image": "/images/level12/hymn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-134",
@@ -2141,7 +2407,9 @@
     ],
     "example": "They held a solemn ceremony.",
     "hint": "Silent N — sounds like 'sol-um'.",
-    "image": "/images/level12/solemn.webp"
+    "image": "/images/level12/solemn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-135",
@@ -2157,7 +2425,9 @@
     ],
     "example": "Leaders condemned the violence.",
     "hint": "Silent N — sounds like 'kon-dem'.",
-    "image": "/images/level12/condemn.webp"
+    "image": "/images/level12/condemn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-136",
@@ -2173,7 +2443,9 @@
     ],
     "example": "The knight raised his sword.",
     "hint": "Silent W — sounds like 'sord'.",
-    "image": "/images/level12/sword.webp"
+    "image": "/images/level12/sword.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-137",
@@ -2189,7 +2461,9 @@
     ],
     "example": "She knew the correct answer.",
     "hint": "Silent W — sounds like 'an-ser'.",
-    "image": "/images/level12/answer.webp"
+    "image": "/images/level12/answer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-138",
@@ -2205,7 +2479,9 @@
     ],
     "example": "Please fasten your seatbelt.",
     "hint": "Silent T — sounds like 'fassen'.",
-    "image": "/images/level12/fasten.webp"
+    "image": "/images/level12/fasten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-139",
@@ -2221,7 +2497,9 @@
     ],
     "example": "The king lived in a stone castle.",
     "hint": "Silent T — sounds like 'kassel'.",
-    "image": "/images/level12/castle.webp"
+    "image": "/images/level12/castle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-140",
@@ -2237,7 +2515,9 @@
     ],
     "example": "The workers began to hustle to finish.",
     "hint": "Silent T — sounds like 'hussel'.",
-    "image": "/images/level12/hustle.webp"
+    "image": "/images/level12/hustle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-141",
@@ -2253,7 +2533,9 @@
     ],
     "example": "The boys began to wrestle in the yard.",
     "hint": "Silent W — sounds like 'ressel'.",
-    "image": "/images/level12/wrestle.webp"
+    "image": "/images/level12/wrestle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-142",
@@ -2269,7 +2551,9 @@
     ],
     "example": "He began to gnash his teeth in frustration.",
     "hint": "Silent G — sounds like 'nash'.",
-    "image": "/images/level12/gnash.webp"
+    "image": "/images/level12/gnash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-143",
@@ -2285,7 +2569,9 @@
     ],
     "example": "They hung a wreath on the door.",
     "hint": "Silent W — sounds like 'reeth'.",
-    "image": "/images/level12/wreath.webp"
+    "image": "/images/level12/wreath.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-144",
@@ -2301,7 +2587,9 @@
     ],
     "example": "Grandma likes to knit sweaters.",
     "hint": "Silent K — sounds like 'nit'.",
-    "image": "/images/level12/knit.webp"
+    "image": "/images/level12/knit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-145",
@@ -2317,7 +2605,9 @@
     ],
     "example": "He knocked with his knuckle.",
     "hint": "Silent K — sounds like 'nuk-el'.",
-    "image": "/images/level12/knuckle.webp"
+    "image": "/images/level12/knuckle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-146",
@@ -2333,7 +2623,9 @@
     ],
     "example": "He was given a medal of honor.",
     "hint": "Silent H — sounds like 'on-er'.",
-    "image": "/images/level12/honor.webp"
+    "image": "/images/level12/honor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-147",
@@ -2349,7 +2641,9 @@
     ],
     "example": "The prince is the heir to the throne.",
     "hint": "Silent H — sounds just like 'air'.",
-    "image": "/images/level12/heir.webp"
+    "image": "/images/level12/heir.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-148",
@@ -2365,7 +2659,9 @@
     ],
     "example": "The museum will exhibit ancient pottery.",
     "hint": "The H is silent — sounds like 'eg-zib-it'.",
-    "image": "/images/level12/exhibit.webp"
+    "image": "/images/level12/exhibit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-149",
@@ -2381,7 +2677,9 @@
     ],
     "example": "The old house was said to have a ghost.",
     "hint": "Silent H — sounds like 'goast'.",
-    "image": "/images/level12/ghost.webp"
+    "image": "/images/level12/ghost.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-150",
@@ -2397,7 +2695,9 @@
     ],
     "example": "We ate spaghetti with tomato sauce.",
     "hint": "The GH sounds like a hard G — 'spa-get-tee'.",
-    "image": "/images/level12/spaghetti.webp"
+    "image": "/images/level12/spaghetti.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-151",
@@ -2413,7 +2713,9 @@
     ],
     "example": "He wore a pair of suede shoes.",
     "hint": "Sounds like 'swayed' — soft leather.",
-    "image": "/images/level12/suede.webp"
+    "image": "/images/level12/suede.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-152",
@@ -2429,7 +2731,9 @@
     ],
     "example": "The guide led us through the museum.",
     "hint": "U is silent after G — sounds like 'gide'.",
-    "image": "/images/level12/guide.webp"
+    "image": "/images/level12/guide.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-153",
@@ -2445,7 +2749,9 @@
     ],
     "example": "He played the guitar at the party.",
     "hint": "U is silent after G — sounds like 'gi-tar'.",
-    "image": "/images/level12/guitar.webp"
+    "image": "/images/level12/guitar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-154",
@@ -2461,7 +2767,9 @@
     ],
     "example": "The jury found him guilty.",
     "hint": "U is silent after G — sounds like 'gil-tee'.",
-    "image": "/images/level12/guilty.webp"
+    "image": "/images/level12/guilty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-155",
@@ -2477,7 +2785,9 @@
     ],
     "example": "He burned his tongue on the hot soup.",
     "hint": "Ends in silent UE — sounds like 'tung'.",
-    "image": "/images/level12/tongue.webp"
+    "image": "/images/level12/tongue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-156",
@@ -2493,7 +2803,9 @@
     ],
     "example": "The team plays in the top league.",
     "hint": "Ends in silent UE — sounds like 'leeg'.",
-    "image": "/images/level12/league.webp"
+    "image": "/images/level12/league.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-157",
@@ -2509,7 +2821,9 @@
     ],
     "example": "The plague spread quickly in the past.",
     "hint": "Ends in silent UE — sounds like 'playg'.",
-    "image": "/images/level12/plague.webp"
+    "image": "/images/level12/plague.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-158",
@@ -2525,7 +2839,9 @@
     ],
     "example": "His answer was vague and confusing.",
     "hint": "Ends in silent UE — sounds like 'vayg'.",
-    "image": "/images/level12/vague.webp"
+    "image": "/images/level12/vague.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-159",
@@ -2541,7 +2857,9 @@
     ],
     "example": "Bright colors are in vogue this year.",
     "hint": "Ends in silent UE — sounds like 'vohg'.",
-    "image": "/images/level12/vogue.webp"
+    "image": "/images/level12/vogue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-160",
@@ -2557,7 +2875,9 @@
     ],
     "example": "The movie had witty dialogue.",
     "hint": "Ends in silent UE — sounds like 'dye-a-log'.",
-    "image": "/images/level12/dialogue.webp"
+    "image": "/images/level12/dialogue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-161",
@@ -2573,7 +2893,9 @@
     ],
     "example": "She browsed the shopping catalogue.",
     "hint": "Ends in silent UE — sounds like 'kat-a-log'.",
-    "image": "/images/level12/catalogue.webp"
+    "image": "/images/level12/catalogue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-162",
@@ -2589,7 +2911,9 @@
     ],
     "example": "The actor delivered a powerful monologue.",
     "hint": "Ends in silent UE — sounds like 'mon-o-log'.",
-    "image": "/images/level12/monologue.webp"
+    "image": "/images/level12/monologue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-163",
@@ -2605,7 +2929,9 @@
     ],
     "example": "He has an athletic physique.",
     "hint": "Ends like 'seek', not like 'ike'.",
-    "image": "/images/level12/physique.webp"
+    "image": "/images/level12/physique.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-164",
@@ -2621,7 +2947,9 @@
     ],
     "example": "Each snowflake is unique.",
     "hint": "Ends like 'seek', not like 'ike'. (word: unique)",
-    "image": "/images/level12/unique.webp"
+    "image": "/images/level12/unique.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-165",
@@ -2637,7 +2965,9 @@
     ],
     "example": "A mosquito buzzed around his ear.",
     "hint": "The middle sounds like 'skee', not 'sko'.",
-    "image": "/images/level12/mosquito.webp"
+    "image": "/images/level12/mosquito.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-166",
@@ -2653,7 +2983,9 @@
     ],
     "example": "She received a lovely bouquet.",
     "hint": "Ends silently — sounds like 'boo-kay'.",
-    "image": "/images/level12/bouquet.webp"
+    "image": "/images/level12/bouquet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-167",
@@ -2669,7 +3001,9 @@
     ],
     "example": "They enjoyed a gourmet meal.",
     "hint": "Ends silently — sounds like 'goor-may'.",
-    "image": "/images/level12/gourmet.webp"
+    "image": "/images/level12/gourmet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-168",
@@ -2685,7 +3019,9 @@
     ],
     "example": "She has studied ballet for years.",
     "hint": "Ends silently — sounds like 'ba-lay'.",
-    "image": "/images/level12/ballet.webp"
+    "image": "/images/level12/ballet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-169",
@@ -2701,7 +3037,9 @@
     ],
     "example": "We had lunch at a buffet.",
     "hint": "Ends silently — sounds like 'buh-fay'.",
-    "image": "/images/level12/buffet.webp"
+    "image": "/images/level12/buffet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-170",
@@ -2717,7 +3055,9 @@
     ],
     "example": "They played croquet on the lawn.",
     "hint": "Ends silently — sounds like 'kro-kay'.",
-    "image": "/images/level12/croquet.webp"
+    "image": "/images/level12/croquet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-171",
@@ -2733,7 +3073,9 @@
     ],
     "example": "The valet parked our car.",
     "hint": "Ends silently — sounds like 'val-ay'.",
-    "image": "/images/level12/valet.webp"
+    "image": "/images/level12/valet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-172",
@@ -2749,7 +3091,9 @@
     ],
     "example": "The artist wore a black beret.",
     "hint": "Ends silently — sounds like 'buh-ray'.",
-    "image": "/images/level12/beret.webp"
+    "image": "/images/level12/beret.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-173",
@@ -2765,7 +3109,9 @@
     ],
     "example": "The movie plot was a total cliche.",
     "hint": "Ends silently — sounds like 'klee-shay'.",
-    "image": "/images/level12/cliche.webp"
+    "image": "/images/level12/cliche.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-174",
@@ -2781,7 +3127,9 @@
     ],
     "example": "Debris covered the street after the storm.",
     "hint": "The S is silent — sounds like 'duh-bree'.",
-    "image": "/images/level12/debris.webp"
+    "image": "/images/level12/debris.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-175",
@@ -2797,7 +3145,9 @@
     ],
     "example": "He joined the medical corps.",
     "hint": "The letters PS are silent — sounds like 'core'.",
-    "image": "/images/level12/corps.webp"
+    "image": "/images/level12/corps.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-176",
@@ -2813,7 +3163,9 @@
     ],
     "example": "The buses parked at the depot.",
     "hint": "The T is silent — sounds like 'dee-poh'.",
-    "image": "/images/level12/depot.webp"
+    "image": "/images/level12/depot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-177",
@@ -2829,7 +3181,9 @@
     ],
     "example": "The old building had a grand facade.",
     "hint": "Sounds like 'fuh-sahd'.",
-    "image": "/images/level12/facade.webp"
+    "image": "/images/level12/facade.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-178",
@@ -2845,7 +3199,9 @@
     ],
     "example": "Mystery is her favorite book genre.",
     "hint": "A tricky French-style pronunciation — 'zhon-ruh'.",
-    "image": "/images/level12/genre.webp"
+    "image": "/images/level12/genre.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-179",
@@ -2861,7 +3217,9 @@
     ],
     "example": "They found a cache of old coins.",
     "hint": "Sounds exactly like 'cash'.",
-    "image": "/images/level12/cache.webp"
+    "image": "/images/level12/cache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-180",
@@ -2877,7 +3235,9 @@
     ],
     "example": "The shop found its niche selling handmade soap.",
     "hint": "Sounds like 'nitch'.",
-    "image": "/images/level12/niche.webp"
+    "image": "/images/level12/niche.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-181",
@@ -2893,7 +3253,9 @@
     ],
     "example": "The young singer made her debut last night.",
     "hint": "The T is silent — sounds like 'day-byoo'.",
-    "image": "/images/level12/debut.webp"
+    "image": "/images/level12/debut.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-182",
@@ -2909,7 +3271,9 @@
     ],
     "example": "She introduced her fiancé to the family.",
     "hint": "Ends silently — sounds like 'fee-on-say'.",
-    "image": "/images/level12/fiancé.webp"
+    "image": "/images/level12/fiancé.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-183",
@@ -2925,7 +3289,9 @@
     ],
     "example": "The restaurant serves French cuisine.",
     "hint": "Sounds like 'kwi-zeen'.",
-    "image": "/images/level12/cuisine.webp"
+    "image": "/images/level12/cuisine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-184",
@@ -2941,7 +3307,9 @@
     ],
     "example": "We saw his silhouette against the sunset.",
     "hint": "Ends silently — sounds like 'sil-oo-et'.",
-    "image": "/images/level12/silhouette.webp"
+    "image": "/images/level12/silhouette.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-185",
@@ -2957,7 +3325,9 @@
     ],
     "example": "The bullet ricocheted off the wall.",
     "hint": "Ends silently — sounds like 'rik-uh-shay'.",
-    "image": "/images/level12/ricochet.webp"
+    "image": "/images/level12/ricochet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-186",
@@ -2973,7 +3343,9 @@
     ],
     "example": "He tried to feign surprise.",
     "hint": "Silent G — sounds like 'fain'.",
-    "image": "/images/level12/feign.webp"
+    "image": "/images/level12/feign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-187",
@@ -2989,7 +3361,9 @@
     ],
     "example": "She did not deign to reply.",
     "hint": "Silent G — sounds like 'dain'.",
-    "image": "/images/level12/deign.webp"
+    "image": "/images/level12/deign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-188",
@@ -3005,7 +3379,9 @@
     ],
     "example": "The sovereign ruled the kingdom wisely.",
     "hint": "Silent G — sounds like 'sov-rin'.",
-    "image": "/images/level12/sovereign.webp"
+    "image": "/images/level12/sovereign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-189",
@@ -3021,7 +3397,9 @@
     ],
     "example": "The freight train carried heavy cargo.",
     "hint": "Silent GH — sounds like 'frayt'.",
-    "image": "/images/level12/freight.webp"
+    "image": "/images/level12/freight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-190",
@@ -3037,7 +3415,9 @@
     ],
     "example": "You ought to apologize.",
     "hint": "Silent GH — sounds like 'awt'.",
-    "image": "/images/level12/ought.webp"
+    "image": "/images/level12/ought.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-191",
@@ -3053,7 +3433,9 @@
     ],
     "example": "The gate was made of wrought iron.",
     "hint": "Silent W and GH — sounds like 'rawt'.",
-    "image": "/images/level12/wrought.webp"
+    "image": "/images/level12/wrought.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-192",
@@ -3069,7 +3451,9 @@
     ],
     "example": "The joke had a clever subtlety.",
     "hint": "Silent B — sounds like 'suttlety'.",
-    "image": "/images/level12/subtlety.webp"
+    "image": "/images/level12/subtlety.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-193",
@@ -3085,7 +3469,9 @@
     ],
     "example": "The tsunami struck the coastal town.",
     "hint": "The T is barely pronounced — 'soo-nah-mee'.",
-    "image": "/images/level12/tsunami.webp"
+    "image": "/images/level12/tsunami.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-194",
@@ -3101,7 +3487,9 @@
     ],
     "example": "The choir sang a beautiful psalm.",
     "hint": "Silent P — sounds like 'sahm'.",
-    "image": "/images/level12/psalm.webp"
+    "image": "/images/level12/psalm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-195",
@@ -3117,7 +3505,9 @@
     ],
     "example": "The museum displayed a pterodactyl fossil.",
     "hint": "Silent P — sounds like 'terra-dactyl'.",
-    "image": "/images/level12/pterodactyl.webp"
+    "image": "/images/level12/pterodactyl.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-196",
@@ -3133,7 +3523,9 @@
     ],
     "example": "The czar ruled Russia for decades.",
     "hint": "Silent C — sounds like 'zar'.",
-    "image": "/images/level12/czar.webp"
+    "image": "/images/level12/czar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-197",
@@ -3149,7 +3541,9 @@
     ],
     "example": "She used a mnemonic to remember the list.",
     "hint": "Silent M — sounds like 'ni-mon-ik'.",
-    "image": "/images/level12/mnemonic.webp"
+    "image": "/images/level12/mnemonic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-198",
@@ -3165,7 +3559,9 @@
     ],
     "example": "They set up a rendezvous at noon.",
     "hint": "A French word — sounds like 'ron-day-voo'.",
-    "image": "/images/level12/rendezvous.webp"
+    "image": "/images/level12/rendezvous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-199",
@@ -3181,7 +3577,9 @@
     ],
     "example": "She became a successful entrepreneur.",
     "hint": "A tricky French borrowing — 'on-truh-pruh-nur'.",
-    "image": "/images/level12/entrepreneur.webp"
+    "image": "/images/level12/entrepreneur.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-200",
@@ -3197,7 +3595,9 @@
     ],
     "example": "The mystery filled her with intrigue.",
     "hint": "Ends in silent UE — sounds like 'in-treeg'.",
-    "image": "/images/level12/intrigue.webp"
+    "image": "/images/level12/intrigue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-201",
@@ -3213,7 +3613,9 @@
     ],
     "example": "He felt fatigue after the long journey.",
     "hint": "Ends in silent UE — sounds like 'fuh-teeg'.",
-    "image": "/images/level12/fatigue.webp"
+    "image": "/images/level12/fatigue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-202",
@@ -3229,7 +3631,9 @@
     ],
     "example": "The candle began to taper at the top.",
     "hint": "Sounds a bit like 'tapir' the animal, but means narrowing.",
-    "image": "/images/level12/taper.webp"
+    "image": "/images/level12/taper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-203",
@@ -3245,7 +3649,9 @@
     ],
     "example": "The tapir waded through the river.",
     "hint": "Sounds like 'taper' but is an animal.",
-    "image": "/images/level12/tapir.webp"
+    "image": "/images/level12/tapir.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-204",
@@ -3261,7 +3667,9 @@
     ],
     "example": "The plaice was grilled for dinner.",
     "hint": "Sounds like 'place' but is a flat fish.",
-    "image": "/images/level12/plaice.webp"
+    "image": "/images/level12/plaice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-205",
@@ -3277,7 +3685,9 @@
     ],
     "example": "This is a quiet place to study.",
     "hint": "Sounds like 'plaice' but means a location.",
-    "image": "/images/level12/place.webp"
+    "image": "/images/level12/place.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-206",
@@ -3293,7 +3703,9 @@
     ],
     "example": "The army staged a coup.",
     "hint": "Sounds like 'coo' but means a takeover.",
-    "image": "/images/level12/coup.webp"
+    "image": "/images/level12/coup.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-207",
@@ -3309,7 +3721,9 @@
     ],
     "example": "The dove began to coo softly.",
     "hint": "Sounds like 'coup' but is a bird sound.",
-    "image": "/images/level12/coo.webp"
+    "image": "/images/level12/coo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-208",
@@ -3325,7 +3739,9 @@
     ],
     "example": "The seller offered a fair price.",
     "hint": "Sounds like 'cellar' but means someone who sells.",
-    "image": "/images/level12/seller.webp"
+    "image": "/images/level12/seller.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-209",
@@ -3341,7 +3757,9 @@
     ],
     "example": "The necklace was made of 24-karat gold.",
     "hint": "Sounds like 'carrot'/'carat' but measures gold purity.",
-    "image": "/images/level12/karat.webp"
+    "image": "/images/level12/karat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-210",
@@ -3357,7 +3775,9 @@
     ],
     "example": "The chick began to cheep loudly.",
     "hint": "Sounds like 'cheap' but is a bird's sound.",
-    "image": "/images/level12/cheep.webp"
+    "image": "/images/level12/cheep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-211",
@@ -3373,7 +3793,9 @@
     ],
     "example": "The choral group performed beautifully.",
     "hint": "Sounds like 'coral' but relates to choir singing.",
-    "image": "/images/level12/choral.webp"
+    "image": "/images/level12/choral.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-212",
@@ -3389,7 +3811,9 @@
     ],
     "example": "Fish swam near the colorful coral.",
     "hint": "Sounds like 'choral' but is a sea substance.",
-    "image": "/images/level12/coral.webp"
+    "image": "/images/level12/coral.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-213",
@@ -3405,7 +3829,9 @@
     ],
     "example": "The apple's core was thrown away.",
     "hint": "Sounds like 'corps' but means the center part.",
-    "image": "/images/level12/core.webp"
+    "image": "/images/level12/core.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-214",
@@ -3421,7 +3847,9 @@
     ],
     "example": "My cousin came to visit us.",
     "hint": "Sounds a bit like 'cozen' but is a family relative.",
-    "image": "/images/level12/cousin.webp"
+    "image": "/images/level12/cousin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-215",
@@ -3437,7 +3865,9 @@
     ],
     "example": "He tried to cozen the old man out of his money.",
     "hint": "Sounds like 'cousin' but means to trick.",
-    "image": "/images/level12/cozen.webp"
+    "image": "/images/level12/cozen.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-216",
@@ -3453,7 +3883,9 @@
     ],
     "example": "The actor waited for his cue.",
     "hint": "Sounds exactly like the letter Q.",
-    "image": "/images/level12/cue.webp"
+    "image": "/images/level12/cue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-217",
@@ -3469,7 +3901,9 @@
     ],
     "example": "Her homework is finally done.",
     "hint": "Sounds like 'dun' but means finished.",
-    "image": "/images/level12/done.webp"
+    "image": "/images/level12/done.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-218",
@@ -3485,7 +3919,9 @@
     ],
     "example": "The horse had a dun-colored coat.",
     "hint": "Sounds like 'done' but is a color.",
-    "image": "/images/level12/dun.webp"
+    "image": "/images/level12/dun.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-219",
@@ -3501,7 +3937,9 @@
     ],
     "example": "We celebrated on New Year's Eve.",
     "hint": "Sounds like 'eave' but means the evening before an event.",
-    "image": "/images/level12/eve.webp"
+    "image": "/images/level12/eve.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-220",
@@ -3517,7 +3955,9 @@
     ],
     "example": "Rain dripped from the eave.",
     "hint": "Sounds like 'eve' but is part of a roof.",
-    "image": "/images/level12/eave.webp"
+    "image": "/images/level12/eave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-221",
@@ -3533,7 +3973,9 @@
     ],
     "example": "The frame had gilt edges.",
     "hint": "Sounds like 'guilt' but means gold-covered.",
-    "image": "/images/level12/gilt.webp"
+    "image": "/images/level12/gilt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-222",
@@ -3549,7 +3991,9 @@
     ],
     "example": "She felt guilt after the argument.",
     "hint": "Sounds like 'gilt' but means a feeling of wrongdoing.",
-    "image": "/images/level12/guilt.webp"
+    "image": "/images/level12/guilt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-223",
@@ -3565,7 +4009,9 @@
     ],
     "example": "Hail fell heavily during the storm.",
     "hint": "Sounds like 'hale' but means icy rain.",
-    "image": "/images/level12/hail.webp"
+    "image": "/images/level12/hail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-224",
@@ -3581,7 +4027,9 @@
     ],
     "example": "Grandfather is still hale at ninety.",
     "hint": "Sounds like 'hail' but means strong and healthy.",
-    "image": "/images/level12/hale.webp"
+    "image": "/images/level12/hale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-225",
@@ -3597,7 +4045,9 @@
     ],
     "example": "The plane was kept in the hangar.",
     "hint": "Sounds like 'hanger' but stores airplanes.",
-    "image": "/images/level12/hangar.webp"
+    "image": "/images/level12/hangar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-226",
@@ -3613,7 +4063,9 @@
     ],
     "example": "She hung the shirt on a hanger.",
     "hint": "Sounds like 'hangar' but is for clothes.",
-    "image": "/images/level12/hanger.webp"
+    "image": "/images/level12/hanger.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-227",
@@ -3629,7 +4081,9 @@
     ],
     "example": "Squirrels hoard nuts for winter.",
     "hint": "Sounds like 'horde' but means to stockpile.",
-    "image": "/images/level12/hoard.webp"
+    "image": "/images/level12/hoard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-228",
@@ -3645,7 +4099,9 @@
     ],
     "example": "A horde of fans waited outside.",
     "hint": "Sounds like 'hoard' but means a large crowd.",
-    "image": "/images/level12/horde.webp"
+    "image": "/images/level12/horde.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-229",
@@ -3661,7 +4117,9 @@
     ],
     "example": "They visited a holy shrine.",
     "hint": "Sounds like 'wholly' but means sacred.",
-    "image": "/images/level12/holy.webp"
+    "image": "/images/level12/holy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-230",
@@ -3677,7 +4135,9 @@
     ],
     "example": "No one trusted the known liar.",
     "hint": "Sounds like 'lyre' but means someone who lies.",
-    "image": "/images/level12/liar.webp"
+    "image": "/images/level12/liar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-231",
@@ -3693,7 +4153,9 @@
     ],
     "example": "Keep an open mind.",
     "hint": "Sounds like 'mined' but means the thinking part of a person.",
-    "image": "/images/level12/mind.webp"
+    "image": "/images/level12/mind.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-232",
@@ -3709,7 +4171,9 @@
     ],
     "example": "She bought two quarts of milk.",
     "hint": "Sounds like 'quartz' but measures liquid.",
-    "image": "/images/level12/quarts.webp"
+    "image": "/images/level12/quarts.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-233",
@@ -3725,7 +4189,9 @@
     ],
     "example": "Reeds grew along the riverbank.",
     "hint": "Sounds like 'read' but is a water plant.",
-    "image": "/images/level12/reed.webp"
+    "image": "/images/level12/reed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-234",
@@ -3741,7 +4207,9 @@
     ],
     "example": "She wrote a review of the book.",
     "hint": "Sounds like 'revue' but means an assessment.",
-    "image": "/images/level12/review.webp"
+    "image": "/images/level12/review.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-235",
@@ -3757,7 +4225,9 @@
     ],
     "example": "He tied his shoe before running.",
     "hint": "Sounds like 'shoo' but is footwear.",
-    "image": "/images/level12/shoe.webp"
+    "image": "/images/level12/shoe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-236",
@@ -3773,7 +4243,9 @@
     ],
     "example": "She sat on the other side of the room.",
     "hint": "Sounds like 'sighed' but means an edge or surface.",
-    "image": "/images/level12/side.webp"
+    "image": "/images/level12/side.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-237",
@@ -3789,7 +4261,9 @@
     ],
     "example": "The sign pointed toward the exit.",
     "hint": "Sounds like 'sine' but means a marker or gesture.",
-    "image": "/images/level12/sign.webp"
+    "image": "/images/level12/sign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-238",
@@ -3805,7 +4279,9 @@
     ],
     "example": "A tear rolled down her cheek.",
     "hint": "Sounds like 'tier' but means a teardrop.",
-    "image": "/images/level12/tear.webp"
+    "image": "/images/level12/tear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-239",
@@ -3821,7 +4297,9 @@
     ],
     "example": "He developed a nervous tic.",
     "hint": "Sounds like 'tick' but means an involuntary movement.",
-    "image": "/images/level12/tic.webp"
+    "image": "/images/level12/tic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-240",
@@ -3837,7 +4315,9 @@
     ],
     "example": "Fishermen cast the seine into the bay.",
     "hint": "Sounds like 'sane' but is a type of fishing net.",
-    "image": "/images/level12/seine.webp"
+    "image": "/images/level12/seine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-241",
@@ -3853,7 +4333,9 @@
     ],
     "example": "His shirt was torn at the sleeve.",
     "hint": "Sounds close to 'tawn' but means ripped.",
-    "image": "/images/level12/torn.webp"
+    "image": "/images/level12/torn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-242",
@@ -3869,7 +4351,9 @@
     ],
     "example": "He would vail his hat to greet others.",
     "hint": "Sounds like 'veil' but means to lower.",
-    "image": "/images/level12/vail.webp"
+    "image": "/images/level12/vail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-243",
@@ -3885,7 +4369,9 @@
     ],
     "example": "The bride wore a delicate veil.",
     "hint": "Sounds like 'vail' but is a face covering.",
-    "image": "/images/level12/veil.webp"
+    "image": "/images/level12/veil.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-244",
@@ -3901,7 +4387,9 @@
     ],
     "example": "The smell of bread wafted through the house.",
     "hint": "The letters don't match the sound — 'wahft'.",
-    "image": "/images/level12/waft.webp"
+    "image": "/images/level12/waft.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-245",
@@ -3917,7 +4405,9 @@
     ],
     "example": "The merchant displayed his wares.",
     "hint": "Sounds like 'wears' but means goods for sale.",
-    "image": "/images/level12/wares.webp"
+    "image": "/images/level12/wares.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-246",
@@ -3933,7 +4423,9 @@
     ],
     "example": "She wears a uniform to school.",
     "hint": "Sounds like 'wares' but means has clothing on.",
-    "image": "/images/level12/wears.webp"
+    "image": "/images/level12/wears.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-247",
@@ -3949,7 +4441,9 @@
     ],
     "example": "Tall yews lined the old path.",
     "hint": "Sounds like 'use' but is a type of tree.",
-    "image": "/images/level12/yews.webp"
+    "image": "/images/level12/yews.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-248",
@@ -3965,7 +4459,9 @@
     ],
     "example": "Please use a pencil for this test.",
     "hint": "Sounds like 'yews' but means to employ something.",
-    "image": "/images/level12/use.webp"
+    "image": "/images/level12/use.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-249",
@@ -3981,7 +4477,9 @@
     ],
     "example": "My aunt visited us last week.",
     "hint": "Sounds like 'ant' (in some accents) but is a family member.",
-    "image": "/images/level12/aunt.webp"
+    "image": "/images/level12/aunt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-250",
@@ -3997,7 +4495,9 @@
     ],
     "example": "The baron owned a large estate.",
     "hint": "Sounds like 'barren' but is a noble title.",
-    "image": "/images/level12/baron.webp"
+    "image": "/images/level12/baron.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-251",
@@ -4013,7 +4513,9 @@
     ],
     "example": "The land was dry and barren.",
     "hint": "Sounds like 'baron' but means empty or infertile.",
-    "image": "/images/level12/barren.webp"
+    "image": "/images/level12/barren.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-252",
@@ -4029,7 +4531,9 @@
     ],
     "example": "She danced with her beau at the ball.",
     "hint": "Sounds exactly like 'bow' (the ribbon kind).",
-    "image": "/images/level12/beau.webp"
+    "image": "/images/level12/beau.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-253",
@@ -4045,7 +4549,9 @@
     ],
     "example": "He tied his shoelaces in a bow.",
     "hint": "Sounds like 'beau' but means a knot or weapon.",
-    "image": "/images/level12/bow.webp"
+    "image": "/images/level12/bow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-254",
@@ -4061,7 +4567,9 @@
     ],
     "example": "He brews his own coffee each morning.",
     "hint": "Sounds like 'bruise' but means to make a drink.",
-    "image": "/images/level12/brews.webp"
+    "image": "/images/level12/brews.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-255",
@@ -4077,7 +4585,9 @@
     ],
     "example": "He got a bruise on his knee.",
     "hint": "Sounds like 'brews' but is a skin mark from injury.",
-    "image": "/images/level12/bruise.webp"
+    "image": "/images/level12/bruise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-256",
@@ -4093,7 +4603,9 @@
     ],
     "example": "The soldier held the rifle's butt.",
     "hint": "Sounds like 'but' but means the end/back part.",
-    "image": "/images/level12/butt.webp"
+    "image": "/images/level12/butt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-257",
@@ -4109,7 +4621,9 @@
     ],
     "example": "The dog chased the ball.",
     "hint": "Sounds like 'chaste' but means pursued.",
-    "image": "/images/level12/chased.webp"
+    "image": "/images/level12/chased.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-258",
@@ -4125,7 +4639,9 @@
     ],
     "example": "She led a quiet, chaste life.",
     "hint": "Sounds like 'chased' but means pure/modest.",
-    "image": "/images/level12/chaste.webp"
+    "image": "/images/level12/chaste.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-259",
@@ -4141,7 +4657,9 @@
     ],
     "example": "He paid the rent by cheque.",
     "hint": "Spelled differently but sounds like 'check'.",
-    "image": "/images/level12/cheque.webp"
+    "image": "/images/level12/cheque.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-260",
@@ -4157,7 +4675,9 @@
     ],
     "example": "The contract had a strange clause.",
     "hint": "Sounds like 'claws' but means a grammar/legal part.",
-    "image": "/images/level12/clause.webp"
+    "image": "/images/level12/clause.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-261",
@@ -4173,7 +4693,9 @@
     ],
     "example": "The cat scratched with its sharp claws.",
     "hint": "Sounds like 'clause' but means an animal's sharp nails.",
-    "image": "/images/level12/claws.webp"
+    "image": "/images/level12/claws.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-262",
@@ -4189,7 +4711,9 @@
     ],
     "example": "He grew complacent after his early success.",
     "hint": "Sounds close to 'complaisant' but means self-satisfied.",
-    "image": "/images/level12/complacent.webp"
+    "image": "/images/level12/complacent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-263",
@@ -4205,7 +4729,9 @@
     ],
     "example": "The complaisant waiter agreed to everything.",
     "hint": "Sounds close to 'complacent' but means agreeable/eager to please.",
-    "image": "/images/level12/complaisant.webp"
+    "image": "/images/level12/complaisant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-264",
@@ -4221,7 +4747,9 @@
     ],
     "example": "The table was crumby after breakfast.",
     "hint": "Sounds like 'crummy' but describes crumbs literally.",
-    "image": "/images/level12/crumby.webp"
+    "image": "/images/level12/crumby.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-265",
@@ -4237,7 +4765,9 @@
     ],
     "example": "It was a crummy old car.",
     "hint": "Sounds like 'crumby' but means poor quality.",
-    "image": "/images/level12/crummy.webp"
+    "image": "/images/level12/crummy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-266",
@@ -4253,7 +4783,9 @@
     ],
     "example": "The angry curser stormed off.",
     "hint": "Sounds like 'cursor' but means a person who curses.",
-    "image": "/images/level12/curser.webp"
+    "image": "/images/level12/curser.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-267",
@@ -4269,7 +4801,9 @@
     ],
     "example": "She moved the cursor to click the button.",
     "hint": "Sounds like 'curser' but is a computer marker.",
-    "image": "/images/level12/cursor.webp"
+    "image": "/images/level12/cursor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-268",
@@ -4285,7 +4819,9 @@
     ],
     "example": "Dear friend, thank you for your help.",
     "hint": "This word appears again — placeholder, swap if flagged.",
-    "image": "/images/level12/dear.webp"
+    "image": "/images/level12/dear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-269",
@@ -4301,7 +4837,9 @@
     ],
     "example": "He treated his elders with deference.",
     "hint": "Sounds close to 'differences' but means respect.",
-    "image": "/images/level12/deference.webp"
+    "image": "/images/level12/deference.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-270",
@@ -4317,7 +4855,9 @@
     ],
     "example": "They discussed their differences calmly.",
     "hint": "Sounds close to 'deference' but means points of contrast.",
-    "image": "/images/level12/differences.webp"
+    "image": "/images/level12/differences.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-271",
@@ -4333,7 +4873,9 @@
     ],
     "example": "The child is dependent on his parents.",
     "hint": "Ends in -ent, unlike its noun form 'dependant'.",
-    "image": "/images/level12/dependent.webp"
+    "image": "/images/level12/dependent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-272",
@@ -4349,7 +4891,9 @@
     ],
     "example": "She listed her son as a dependant.",
     "hint": "Ends in -ant, the noun spelling — sounds identical to 'dependent'.",
-    "image": "/images/level12/dependant.webp"
+    "image": "/images/level12/dependant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-273",
@@ -4365,7 +4909,9 @@
     ],
     "example": "He wrote a rough draft of the essay.",
     "hint": "Sounds like 'draught' but is the standard American spelling.",
-    "image": "/images/level12/draft.webp"
+    "image": "/images/level12/draft.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-274",
@@ -4381,7 +4927,9 @@
     ],
     "example": "She works hard to earn money.",
     "hint": "Sounds like 'urn' but means to receive pay.",
-    "image": "/images/level12/earn.webp"
+    "image": "/images/level12/earn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-275",
@@ -4397,7 +4945,9 @@
     ],
     "example": "The ewe fed her lamb in the field.",
     "hint": "Sounds exactly like the letter U and the word 'you'.",
-    "image": "/images/level12/ewe.webp"
+    "image": "/images/level12/ewe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-276",
@@ -4413,7 +4963,9 @@
     ],
     "example": "She felt faint in the heat.",
     "hint": "Sounds like 'feint' but means weak or barely visible.",
-    "image": "/images/level12/faint.webp"
+    "image": "/images/level12/faint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-277",
@@ -4429,7 +4981,9 @@
     ],
     "example": "The boxer used a clever feint.",
     "hint": "Sounds like 'faint' but means a fake attack move.",
-    "image": "/images/level12/feint.webp"
+    "image": "/images/level12/feint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-278",
@@ -4445,7 +4999,9 @@
     ],
     "example": "We crossed the river by ferry.",
     "hint": "Sounds like 'fairy' but is a passenger boat.",
-    "image": "/images/level12/ferry.webp"
+    "image": "/images/level12/ferry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-279",
@@ -4461,7 +5017,9 @@
     ],
     "example": "The fairy waved her tiny wand.",
     "hint": "Sounds like 'ferry' but is a magical creature.",
-    "image": "/images/level12/fairy.webp"
+    "image": "/images/level12/fairy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-280",
@@ -4477,7 +5035,9 @@
     ],
     "example": "He gave a fiery speech.",
     "hint": "Comes from 'fire' — describes flames or strong feeling.",
-    "image": "/images/level12/fiery.webp"
+    "image": "/images/level12/fiery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-281",
@@ -4493,7 +5053,9 @@
     ],
     "example": "The polar bear stood on an ice floe.",
     "hint": "Sounds like 'flow' but is a floating ice sheet.",
-    "image": "/images/level12/floe.webp"
+    "image": "/images/level12/floe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-282",
@@ -4509,7 +5071,9 @@
     ],
     "example": "He chose to forego dessert tonight.",
     "hint": "Sounds like 'forgo' — an older spelling meaning to give up.",
-    "image": "/images/level12/forego.webp"
+    "image": "/images/level12/forego.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-283",
@@ -4525,7 +5089,9 @@
     ],
     "example": "They decided to forgo the trip.",
     "hint": "Sounds like 'forego' but is the more common spelling.",
-    "image": "/images/level12/forgo.webp"
+    "image": "/images/level12/forgo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-284",
@@ -4541,7 +5107,9 @@
     ],
     "example": "Water will freeze at zero degrees.",
     "hint": "Sounds like 'frieze' but means to turn to ice.",
-    "image": "/images/level12/freeze.webp"
+    "image": "/images/level12/freeze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-285",
@@ -4557,7 +5125,9 @@
     ],
     "example": "A carved frieze ran along the temple wall.",
     "hint": "Sounds like 'freeze' but is a wall decoration.",
-    "image": "/images/level12/frieze.webp"
+    "image": "/images/level12/frieze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-286",
@@ -4573,7 +5143,9 @@
     ],
     "example": "The prisoner was held in the gaol.",
     "hint": "Spelled strangely but sounds exactly like 'jail'.",
-    "image": "/images/level12/gaol.webp"
+    "image": "/images/level12/gaol.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-287",
@@ -4589,7 +5161,9 @@
     ],
     "example": "A gnu grazed on the open plain.",
     "hint": "Silent G — sounds exactly like 'new'.",
-    "image": "/images/level12/gnu.webp"
+    "image": "/images/level12/gnu.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-288",
@@ -4605,7 +5179,9 @@
     ],
     "example": "The news report described a grisly accident.",
     "hint": "Sounds like 'grizzly' but means horrifying.",
-    "image": "/images/level12/grisly.webp"
+    "image": "/images/level12/grisly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-289",
@@ -4621,7 +5197,9 @@
     ],
     "example": "A grizzly bear fished in the river.",
     "hint": "Sounds like 'grisly' but is a type of bear.",
-    "image": "/images/level12/grizzly.webp"
+    "image": "/images/level12/grizzly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-290",
@@ -4637,7 +5215,9 @@
     ],
     "example": "Their summer was a peaceful idyll.",
     "hint": "Sounds close to 'idle'/'idol' but describes peaceful beauty.",
-    "image": "/images/level12/idyll.webp"
+    "image": "/images/level12/idyll.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-291",
@@ -4653,7 +5233,9 @@
     ],
     "example": "The scribe would indite the king's letters.",
     "hint": "Sounds like 'indict' but means to write formally.",
-    "image": "/images/level12/indite.webp"
+    "image": "/images/level12/indite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-292",
@@ -4669,7 +5251,9 @@
     ],
     "example": "The toolmaker began to knap the flint.",
     "hint": "Silent K — sounds like 'nap' but means to chip stone.",
-    "image": "/images/level12/knap.webp"
+    "image": "/images/level12/knap.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-293",
@@ -4685,7 +5269,9 @@
     ],
     "example": "The baby took a long nap.",
     "hint": "Sounds like 'knap' but means a short sleep.",
-    "image": "/images/level12/nap.webp"
+    "image": "/images/level12/nap.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-294",
@@ -4701,7 +5287,9 @@
     ],
     "example": "The bowl was coated with lac resin.",
     "hint": "Sounds like 'lack' but is a type of resin.",
-    "image": "/images/level12/lac.webp"
+    "image": "/images/level12/lac.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-295",
@@ -4717,7 +5305,9 @@
     ],
     "example": "There was a lack of clean water.",
     "hint": "Sounds like 'lac' but means a shortage.",
-    "image": "/images/level12/lack.webp"
+    "image": "/images/level12/lack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-296",
@@ -4733,7 +5323,9 @@
     ],
     "example": "The thief went on the lam.",
     "hint": "Sounds like 'lamb' but means to flee.",
-    "image": "/images/level12/lam.webp"
+    "image": "/images/level12/lam.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-297",
@@ -4749,7 +5341,9 @@
     ],
     "example": "The bank placed a lien on the house.",
     "hint": "Sounds like 'lean' but is a legal claim.",
-    "image": "/images/level12/lien.webp"
+    "image": "/images/level12/lien.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-298",
@@ -4765,7 +5359,9 @@
     ],
     "example": "He is tall and lean.",
     "hint": "Sounds like 'lien' but means thin or to tilt.",
-    "image": "/images/level12/lean.webp"
+    "image": "/images/level12/lean.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-299",
@@ -4781,7 +5377,9 @@
     ],
     "example": "The judge had a stern mien.",
     "hint": "Sounds like 'mean' but means a person's demeanor.",
-    "image": "/images/level12/mien.webp"
+    "image": "/images/level12/mien.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-300",
@@ -4797,7 +5395,9 @@
     ],
     "example": "It was mean to laugh at him.",
     "hint": "Sounds like 'mien' but means unkind or to intend.",
-    "image": "/images/level12/mean.webp"
+    "image": "/images/level12/mean.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-301",
@@ -4813,7 +5413,9 @@
     ],
     "example": "A marten darted through the trees.",
     "hint": "Sounds like 'martin' the bird but is a mammal.",
-    "image": "/images/level12/marten.webp"
+    "image": "/images/level12/marten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-302",
@@ -4829,7 +5431,9 @@
     ],
     "example": "A martin built its nest under the roof.",
     "hint": "Sounds like 'marten' the mammal but is a bird.",
-    "image": "/images/level12/martin.webp"
+    "image": "/images/level12/martin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-303",
@@ -4845,7 +5449,9 @@
     ],
     "example": "The neighbor was a well-known meddler.",
     "hint": "Sounds like 'medlar' the fruit but means someone who interferes.",
-    "image": "/images/level12/meddler.webp"
+    "image": "/images/level12/meddler.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-304",
@@ -4861,7 +5467,9 @@
     ],
     "example": "She baked a pie with medlar fruit.",
     "hint": "Sounds like 'meddler' but is a fruit.",
-    "image": "/images/level12/medlar.webp"
+    "image": "/images/level12/medlar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-305",
@@ -4877,7 +5485,9 @@
     ],
     "example": "The kitten began to mewl for its mother.",
     "hint": "Sounds like 'mule' but means a weak cry.",
-    "image": "/images/level12/mewl.webp"
+    "image": "/images/level12/mewl.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-306",
@@ -4893,7 +5503,9 @@
     ],
     "example": "The castle was surrounded by a deep moat.",
     "hint": "Sounds like 'mote' but surrounds a castle.",
-    "image": "/images/level12/moat.webp"
+    "image": "/images/level12/moat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-307",
@@ -4909,7 +5521,9 @@
     ],
     "example": "A tiny mote of dust floated in the light.",
     "hint": "Sounds like 'moat' but is a tiny speck.",
-    "image": "/images/level12/mote.webp"
+    "image": "/images/level12/mote.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-308",
@@ -4925,7 +5539,9 @@
     ],
     "example": "The vineyard grew sweet muscat grapes.",
     "hint": "Sounds close to 'musket' but is a fruit/wine.",
-    "image": "/images/level12/muscat.webp"
+    "image": "/images/level12/muscat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-309",
@@ -4941,7 +5557,9 @@
     ],
     "example": "The soldier carried an old musket.",
     "hint": "Sounds close to 'muscat' but is an old firearm.",
-    "image": "/images/level12/musket.webp"
+    "image": "/images/level12/musket.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-310",
@@ -4957,7 +5575,9 @@
     ],
     "example": "The council voted nay on the proposal.",
     "hint": "Sounds like 'neigh' but means a vote against.",
-    "image": "/images/level12/nay.webp"
+    "image": "/images/level12/nay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-311",
@@ -4973,7 +5593,9 @@
     ],
     "example": "The horse gave a loud neigh.",
     "hint": "Sounds like 'nay' but is a horse's sound.",
-    "image": "/images/level12/neigh.webp"
+    "image": "/images/level12/neigh.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-312",
@@ -4989,7 +5611,9 @@
     ],
     "example": "The students took an oral exam.",
     "hint": "Sounds like 'aural' but relates to speaking.",
-    "image": "/images/level12/oral.webp"
+    "image": "/images/level12/oral.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-313",
@@ -5005,7 +5629,9 @@
     ],
     "example": "The class focused on aural comprehension.",
     "hint": "Sounds like 'oral' but relates to hearing.",
-    "image": "/images/level12/aural.webp"
+    "image": "/images/level12/aural.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-314",
@@ -5021,7 +5647,9 @@
     ],
     "example": "Boxes were stacked on a wooden pallet.",
     "hint": "Sounds like 'palette' but is a shipping platform.",
-    "image": "/images/level12/pallet.webp"
+    "image": "/images/level12/pallet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-315",
@@ -5037,7 +5665,9 @@
     ],
     "example": "The painter mixed colors on her palette.",
     "hint": "Sounds like 'pallet' but is a painter's tool.",
-    "image": "/images/level12/palette.webp"
+    "image": "/images/level12/palette.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-316",
@@ -5053,7 +5683,9 @@
     ],
     "example": "His face had a strange pallor.",
     "hint": "Sounds like 'palor' but means paleness.",
-    "image": "/images/level12/pallor.webp"
+    "image": "/images/level12/pallor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-317",
@@ -5069,7 +5701,9 @@
     ],
     "example": "Guests waited in the front parlor.",
     "hint": "Sounds different from 'pallor' but is often confused in spelling.",
-    "image": "/images/level12/parlor.webp"
+    "image": "/images/level12/parlor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-318",
@@ -5085,7 +5719,9 @@
     ],
     "example": "She patted the dog on the head.",
     "hint": "Sounds like 'patted' — differs from 'padded' by one letter.",
-    "image": "/images/level12/patted.webp"
+    "image": "/images/level12/patted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-319",
@@ -5101,7 +5737,9 @@
     ],
     "example": "The jacket was padded for warmth.",
     "hint": "Sounds close to 'patted' but means filled with soft material.",
-    "image": "/images/level12/padded.webp"
+    "image": "/images/level12/padded.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-320",
@@ -5117,7 +5755,9 @@
     ],
     "example": "She looked to her peer for advice.",
     "hint": "Sounds like 'pier' but means an equal or to look closely.",
-    "image": "/images/level12/peer.webp"
+    "image": "/images/level12/peer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-321",
@@ -5133,7 +5773,9 @@
     ],
     "example": "They walked along the wooden pier.",
     "hint": "Sounds like 'peer' but is a structure over water.",
-    "image": "/images/level12/pier.webp"
+    "image": "/images/level12/pier.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-322",
@@ -5149,7 +5791,9 @@
     ],
     "example": "He was just a poser, not a real expert.",
     "hint": "Sounds like 'poseur' but is the common English spelling.",
-    "image": "/images/level12/poser.webp"
+    "image": "/images/level12/poser.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-323",
@@ -5165,7 +5809,9 @@
     ],
     "example": "The critic called him a poseur.",
     "hint": "Sounds like 'poser' but is the French-derived spelling.",
-    "image": "/images/level12/poseur.webp"
+    "image": "/images/level12/poseur.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-324",
@@ -5181,7 +5827,9 @@
     ],
     "example": "He used a bar to prise the lid open.",
     "hint": "Sounds exactly like 'prize' but means to lever open.",
-    "image": "/images/level12/prise.webp"
+    "image": "/images/level12/prise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-325",
@@ -5197,7 +5845,9 @@
     ],
     "example": "She won first prize in the contest.",
     "hint": "Sounds exactly like 'prise' but means an award.",
-    "image": "/images/level12/prize.webp"
+    "image": "/images/level12/prize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-326",
@@ -5213,7 +5863,9 @@
     ],
     "example": "The children listened with rapt attention.",
     "hint": "Sounds like 'wrapped' but means fully absorbed.",
-    "image": "/images/level12/rapt.webp"
+    "image": "/images/level12/rapt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-327",
@@ -5229,7 +5881,9 @@
     ],
     "example": "She wrapped the gift in blue paper.",
     "hint": "Sounds like 'rapt' but means covered/enclosed.",
-    "image": "/images/level12/wrapped.webp"
+    "image": "/images/level12/wrapped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-328",
@@ -5245,7 +5899,9 @@
     ],
     "example": "The garbage began to reek in the sun.",
     "hint": "Sounds like 'wreak' but means a bad smell.",
-    "image": "/images/level12/reek.webp"
+    "image": "/images/level12/reek.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-329",
@@ -5261,7 +5917,9 @@
     ],
     "example": "The storm would wreak havoc on the coast.",
     "hint": "Silent W — sounds like 'reek' but means to cause damage.",
-    "image": "/images/level12/wreak.webp"
+    "image": "/images/level12/wreak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-330",
@@ -5277,7 +5935,9 @@
     ],
     "example": "Rime coated the branches at dawn.",
     "hint": "Sounds like 'rhyme' but is a type of frost.",
-    "image": "/images/level12/rime.webp"
+    "image": "/images/level12/rime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-331",
@@ -5293,7 +5953,9 @@
     ],
     "example": "The fisherman collected fish roe.",
     "hint": "Sounds like 'row' but means fish eggs.",
-    "image": "/images/level12/roe.webp"
+    "image": "/images/level12/roe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-332",
@@ -5309,7 +5971,9 @@
     ],
     "example": "They sat in the front row.",
     "hint": "Sounds like 'roe' but means a line or to paddle a boat.",
-    "image": "/images/level12/row.webp"
+    "image": "/images/level12/row.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-333",
@@ -5325,7 +5989,9 @@
     ],
     "example": "The spider's egg sac hung from a leaf.",
     "hint": "Sounds like 'sack' but is a small biological pouch.",
-    "image": "/images/level12/sac.webp"
+    "image": "/images/level12/sac.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-334",
@@ -5341,7 +6007,9 @@
     ],
     "example": "He carried a sack of potatoes.",
     "hint": "Sounds like 'sac' but is a large bag.",
-    "image": "/images/level12/sack.webp"
+    "image": "/images/level12/sack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-335",
@@ -5357,7 +6025,9 @@
     ],
     "example": "Chefs sear the meat before roasting it.",
     "hint": "Sounds like 'seer' but means to scorch.",
-    "image": "/images/level12/sear.webp"
+    "image": "/images/level12/sear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-336",
@@ -5373,7 +6043,9 @@
     ],
     "example": "The seer predicted a great change.",
     "hint": "Sounds like 'sear' but means a fortune teller.",
-    "image": "/images/level12/seer.webp"
+    "image": "/images/level12/seer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-337",
@@ -5389,7 +6061,9 @@
     ],
     "example": "The serf worked the lord's land.",
     "hint": "Sounds like 'surf' but is a historical farm worker.",
-    "image": "/images/level12/serf.webp"
+    "image": "/images/level12/serf.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-338",
@@ -5405,7 +6079,9 @@
     ],
     "example": "They watched the surf crash on the rocks.",
     "hint": "Sounds like 'serf' but means ocean waves.",
-    "image": "/images/level12/surf.webp"
+    "image": "/images/level12/surf.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-339",
@@ -5421,7 +6097,9 @@
     ],
     "example": "The sun shone brightly all afternoon.",
     "hint": "Sounds like 'shown' but means gave off light.",
-    "image": "/images/level12/shone.webp"
+    "image": "/images/level12/shone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-340",
@@ -5437,7 +6115,9 @@
     ],
     "example": "The results were shown on the screen.",
     "hint": "Sounds like 'shone' but means displayed/exhibited.",
-    "image": "/images/level12/shown.webp"
+    "image": "/images/level12/shown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-341",
@@ -5453,7 +6133,9 @@
     ],
     "example": "They made jam from wild sloe berries.",
     "hint": "Sounds like 'slow' but is a small wild fruit.",
-    "image": "/images/level12/sloe.webp"
+    "image": "/images/level12/sloe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-342",
@@ -5469,7 +6151,9 @@
     ],
     "example": "The stationer sold pens and paper.",
     "hint": "Related to 'stationery' but means the seller, not the goods.",
-    "image": "/images/level12/stationer.webp"
+    "image": "/images/level12/stationer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-343",
@@ -5485,7 +6169,9 @@
     ],
     "example": "Several taxis waited outside the station.",
     "hint": "Sounds like 'taxes' but usually means multiple taxis.",
-    "image": "/images/level12/taxis.webp"
+    "image": "/images/level12/taxis.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-344",
@@ -5501,7 +6187,9 @@
     ],
     "example": "Citizens must pay their taxes on time.",
     "hint": "Sounds close to 'taxis' but means government payments.",
-    "image": "/images/level12/taxes.webp"
+    "image": "/images/level12/taxes.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-345",
@@ -5517,7 +6205,9 @@
     ],
     "example": "There was a tacit agreement between them.",
     "hint": "Sounds close to 'tacet' but means unspoken/implied.",
-    "image": "/images/level12/tacit.webp"
+    "image": "/images/level12/tacit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-346",
@@ -5533,7 +6223,9 @@
     ],
     "example": "The score marked the violin part tacet.",
     "hint": "Sounds close to 'tacit' but is a music term.",
-    "image": "/images/level12/tacet.webp"
+    "image": "/images/level12/tacet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-347",
@@ -5549,7 +6241,9 @@
     ],
     "example": "The meeting felt very tense.",
     "hint": "Sounds close to 'tents' but means stretched/nervous.",
-    "image": "/images/level12/tense.webp"
+    "image": "/images/level12/tense.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-348",
@@ -5565,7 +6259,9 @@
     ],
     "example": "They pitched their tents by the lake.",
     "hint": "Sounds close to 'tense' but means portable shelters.",
-    "image": "/images/level12/tents.webp"
+    "image": "/images/level12/tents.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-349",
@@ -5581,7 +6277,9 @@
     ],
     "example": "That house on the corner is theirs.",
     "hint": "Never has an apostrophe, unlike some learners assume.",
-    "image": "/images/level12/theirs.webp"
+    "image": "/images/level12/theirs.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-350",
@@ -5597,7 +6295,9 @@
     ],
     "example": "A throng of fans waited outside.",
     "hint": "Sounds close to 'wrong' with TH — means a big crowd.",
-    "image": "/images/level12/throng.webp"
+    "image": "/images/level12/throng.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-351",
@@ -5613,7 +6313,9 @@
     ],
     "example": "The tocsin rang to warn the village.",
     "hint": "Sounds like 'toxin' but means an alarm signal.",
-    "image": "/images/level12/tocsin.webp"
+    "image": "/images/level12/tocsin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-352",
@@ -5629,7 +6331,9 @@
     ],
     "example": "The snake's bite released a toxin.",
     "hint": "Sounds like 'tocsin' but means a poison.",
-    "image": "/images/level12/toxin.webp"
+    "image": "/images/level12/toxin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-353",
@@ -5645,7 +6349,9 @@
     ],
     "example": "He pledged his troth to her.",
     "hint": "Related to 'truth' but means a solemn pledge.",
-    "image": "/images/level12/troth.webp"
+    "image": "/images/level12/troth.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-354",
@@ -5661,7 +6367,9 @@
     ],
     "example": "Press this key to undo your last action.",
     "hint": "Sounds like 'undue' but means to reverse.",
-    "image": "/images/level12/undo.webp"
+    "image": "/images/level12/undo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-355",
@@ -5677,7 +6385,9 @@
     ],
     "example": "She faced undue pressure at work.",
     "hint": "Sounds like 'undo' but means excessive.",
-    "image": "/images/level12/undue.webp"
+    "image": "/images/level12/undue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-356",
@@ -5693,7 +6403,9 @@
     ],
     "example": "Mist settled over the quiet vale.",
     "hint": "Sounds like 'veil' but means a valley.",
-    "image": "/images/level12/vale.webp"
+    "image": "/images/level12/vale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-357",
@@ -5709,7 +6421,9 @@
     ],
     "example": "He looked wan after the long illness.",
     "hint": "Sounds close to 'won' but means pale/sickly.",
-    "image": "/images/level12/wan.webp"
+    "image": "/images/level12/wan.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-358",
@@ -5725,7 +6439,9 @@
     ],
     "example": "They began to wend their way home.",
     "hint": "Related to 'wind' but means to travel slowly.",
-    "image": "/images/level12/wend.webp"
+    "image": "/images/level12/wend.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-359",
@@ -5741,7 +6457,9 @@
     ],
     "example": "The ship began to yaw in the strong wind.",
     "hint": "Sounds like 'yore' shortened — means to veer off course.",
-    "image": "/images/level12/yaw.webp"
+    "image": "/images/level12/yaw.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-360",
@@ -5757,7 +6475,9 @@
     ],
     "example": "In days of yore, knights rode these lands.",
     "hint": "Sounds like 'your' but means long ago.",
-    "image": "/images/level12/yore.webp"
+    "image": "/images/level12/yore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-361",
@@ -5773,7 +6493,9 @@
     ],
     "example": "She exchanged her money for zloty.",
     "hint": "An unusual consonant cluster — sounds like 'zlaw-tee'.",
-    "image": "/images/level12/zloty.webp"
+    "image": "/images/level12/zloty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-362",
@@ -5789,7 +6511,9 @@
     ],
     "example": "She offered assistance to the new student.",
     "hint": "Ends in -ance, unlike its near-homophone 'assistants'.",
-    "image": "/images/level12/assistance.webp"
+    "image": "/images/level12/assistance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-363",
@@ -5805,7 +6529,9 @@
     ],
     "example": "The two assistants prepared the room.",
     "hint": "Ends in -ants, unlike 'assistance' which means help itself.",
-    "image": "/images/level12/assistants.webp"
+    "image": "/images/level12/assistants.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-364",
@@ -5821,7 +6547,9 @@
     ],
     "example": "She adds the numbers quickly.",
     "hint": "Sounds like 'ads' (advertisements) but means combines numbers.",
-    "image": "/images/level12/adds.webp"
+    "image": "/images/level12/adds.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-365",
@@ -5837,7 +6565,9 @@
     ],
     "example": "The magazine was full of ads.",
     "hint": "Sounds like 'adds' but means advertisements.",
-    "image": "/images/level12/ads.webp"
+    "image": "/images/level12/ads.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-366",
@@ -5853,7 +6583,9 @@
     ],
     "example": "The baby's birth was a happy day.",
     "hint": "Sounds like 'berth' but means being born.",
-    "image": "/images/level12/birth.webp"
+    "image": "/images/level12/birth.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-367",
@@ -5869,7 +6601,9 @@
     ],
     "example": "The boy played in the park.",
     "hint": "Sounds like 'buoy' but means a young male.",
-    "image": "/images/level12/boy.webp"
+    "image": "/images/level12/boy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-368",
@@ -5885,7 +6619,9 @@
     ],
     "example": "A red buoy marked the channel.",
     "hint": "Sounds like 'boy' but is a floating water marker.",
-    "image": "/images/level12/buoy.webp"
+    "image": "/images/level12/buoy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-369",
@@ -5901,7 +6637,9 @@
     ],
     "example": "She wore her hair in a braid.",
     "hint": "Sounds like 'brayed' but means woven hair.",
-    "image": "/images/level12/braid.webp"
+    "image": "/images/level12/braid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-370",
@@ -5917,7 +6655,9 @@
     ],
     "example": "The donkey brayed loudly at dawn.",
     "hint": "Sounds like 'braid' but means a donkey's cry.",
-    "image": "/images/level12/brayed.webp"
+    "image": "/images/level12/brayed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-371",
@@ -5933,7 +6673,9 @@
     ],
     "example": "The burro carried heavy packs up the trail.",
     "hint": "Sounds like 'burrow' but is a small donkey.",
-    "image": "/images/level12/burro.webp"
+    "image": "/images/level12/burro.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-372",
@@ -5949,7 +6691,9 @@
     ],
     "example": "The rabbit dug a deep burrow.",
     "hint": "Sounds like 'burro' but means an underground animal home.",
-    "image": "/images/level12/burrow.webp"
+    "image": "/images/level12/burrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-373",
@@ -5965,7 +6709,9 @@
     ],
     "example": "The cast took a bow after the play.",
     "hint": "Sounds like 'caste' but means actors or to throw.",
-    "image": "/images/level12/cast.webp"
+    "image": "/images/level12/cast.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-374",
@@ -5981,7 +6727,9 @@
     ],
     "example": "The novel explores an old caste system.",
     "hint": "Sounds like 'cast' but means a social class.",
-    "image": "/images/level12/caste.webp"
+    "image": "/images/level12/caste.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-375",
@@ -5997,7 +6745,9 @@
     ],
     "example": "The lawyer cited an old law.",
     "hint": "Sounds like 'sighted' but means quoted.",
-    "image": "/images/level12/cited.webp"
+    "image": "/images/level12/cited.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-376",
@@ -6013,7 +6763,9 @@
     ],
     "example": "A rare bird was sighted near the lake.",
     "hint": "Sounds like 'cited' but means observed/seen.",
-    "image": "/images/level12/sighted.webp"
+    "image": "/images/level12/sighted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-377",
@@ -6029,7 +6781,9 @@
     ],
     "example": "He wore a light cologne.",
     "hint": "Sounds like 'colon' but is a type of perfume.",
-    "image": "/images/level12/cologne.webp"
+    "image": "/images/level12/cologne.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-378",
@@ -6045,7 +6799,9 @@
     ],
     "example": "Use a colon before the list.",
     "hint": "Sounds like 'cologne' but is a punctuation mark.",
-    "image": "/images/level12/colon.webp"
+    "image": "/images/level12/colon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-379",
@@ -6061,7 +6817,9 @@
     ],
     "example": "He was fair complected.",
     "hint": "Sounds close to 'complexioned' but is a casual term.",
-    "image": "/images/level12/complected.webp"
+    "image": "/images/level12/complected.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-380",
@@ -6077,7 +6835,9 @@
     ],
     "example": "Her complexion glowed after the walk.",
     "hint": "Sounds close to 'complected' but is the standard noun.",
-    "image": "/images/level12/complexion.webp"
+    "image": "/images/level12/complexion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-381",
@@ -6093,7 +6853,9 @@
     ],
     "example": "Engineers built a huge dam.",
     "hint": "Sounds like 'damn' but is a water barrier.",
-    "image": "/images/level12/dam.webp"
+    "image": "/images/level12/dam.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-382",
@@ -6109,7 +6871,9 @@
     ],
     "example": "The river was dammed to make a lake.",
     "hint": "Sounds like 'damned' but means blocked by a dam.",
-    "image": "/images/level12/dammed.webp"
+    "image": "/images/level12/dammed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-383",
@@ -6125,7 +6889,9 @@
     ],
     "example": "The villain in the story was damned.",
     "hint": "Sounds like 'dammed' but means condemned.",
-    "image": "/images/level12/damned.webp"
+    "image": "/images/level12/damned.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-384",
@@ -6141,7 +6907,9 @@
     ],
     "example": "She poured water from the ewer.",
     "hint": "Sounds like 'your' but is a type of jug.",
-    "image": "/images/level12/ewer.webp"
+    "image": "/images/level12/ewer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-385",
@@ -6157,7 +6925,9 @@
     ],
     "example": "He would fain stay longer, if he could.",
     "hint": "Sounds like 'feign' but means willing.",
-    "image": "/images/level12/fain.webp"
+    "image": "/images/level12/fain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-386",
@@ -6173,7 +6943,9 @@
     ],
     "example": "The faun danced in the old forest tale.",
     "hint": "Sounds like 'fawn' but is a mythical creature.",
-    "image": "/images/level12/faun.webp"
+    "image": "/images/level12/faun.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-387",
@@ -6189,7 +6961,9 @@
     ],
     "example": "A fawn followed its mother through the woods.",
     "hint": "Sounds like 'faun' but means a baby deer.",
-    "image": "/images/level12/fawn.webp"
+    "image": "/images/level12/fawn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-388",
@@ -6205,7 +6979,9 @@
     ],
     "example": "The politician took a lot of flack for the decision.",
     "hint": "Sounds like 'flak' but is an informal term for criticism.",
-    "image": "/images/level12/flack.webp"
+    "image": "/images/level12/flack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-389",
@@ -6221,7 +6997,9 @@
     ],
     "example": "The old plane flew through heavy flak.",
     "hint": "Sounds like 'flack' but is the standard spelling.",
-    "image": "/images/level12/flak.webp"
+    "image": "/images/level12/flak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-390",
@@ -6237,7 +7015,9 @@
     ],
     "example": "Please forbear from interrupting.",
     "hint": "Sounds like 'forebear' but means to restrain oneself.",
-    "image": "/images/level12/forbear.webp"
+    "image": "/images/level12/forbear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-391",
@@ -6253,7 +7033,9 @@
     ],
     "example": "Her forebear settled this land long ago.",
     "hint": "Sounds like 'forbear' but means an ancestor.",
-    "image": "/images/level12/forebear.webp"
+    "image": "/images/level12/forebear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-392",
@@ -6269,7 +7051,9 @@
     ],
     "example": "Yellow gorse covered the hillside.",
     "hint": "Sounds close to 'gauze' but is a plant.",
-    "image": "/images/level12/gorse.webp"
+    "image": "/images/level12/gorse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-393",
@@ -6285,7 +7069,9 @@
     ],
     "example": "The nurse wrapped the wound in gauze.",
     "hint": "Sounds close to 'gorse' but is a medical fabric.",
-    "image": "/images/level12/gauze.webp"
+    "image": "/images/level12/gauze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-394",
@@ -6301,7 +7087,9 @@
     ],
     "example": "The joke got grosser each time he told it.",
     "hint": "Sounds like 'grocer' but is a comparative adjective.",
-    "image": "/images/level12/grosser.webp"
+    "image": "/images/level12/grosser.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-395",
@@ -6317,7 +7105,9 @@
     ],
     "example": "The grocer stocked fresh vegetables.",
     "hint": "Sounds like 'grosser' but means a food shop owner.",
-    "image": "/images/level12/grocer.webp"
+    "image": "/images/level12/grocer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-396",
@@ -6333,7 +7123,9 @@
     ],
     "example": "The child rolled a hoop down the street.",
     "hint": "Sounds like 'whoop' but is a circular object.",
-    "image": "/images/level12/hoop.webp"
+    "image": "/images/level12/hoop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-397",
@@ -6349,7 +7141,9 @@
     ],
     "example": "The crowd let out a whoop of joy.",
     "hint": "Sounds like 'hoop' but means a loud joyful shout.",
-    "image": "/images/level12/whoop.webp"
+    "image": "/images/level12/whoop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-398",
@@ -6365,7 +7159,9 @@
     ],
     "example": "The sunset had a beautiful orange hue.",
     "hint": "Sounds like 'hew' but means a shade of color.",
-    "image": "/images/level12/hue.webp"
+    "image": "/images/level12/hue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-399",
@@ -6381,7 +7177,9 @@
     ],
     "example": "Workers began to hew the timber.",
     "hint": "Sounds like 'hue' but means to chop wood.",
-    "image": "/images/level12/hew.webp"
+    "image": "/images/level12/hew.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-400",
@@ -6397,7 +7195,9 @@
     ],
     "example": "The manager scolded the idler.",
     "hint": "Related to 'idle' but means a lazy person specifically.",
-    "image": "/images/level12/idler.webp"
+    "image": "/images/level12/idler.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-401",
@@ -6413,7 +7213,9 @@
     ],
     "example": "She spread jam on her toast.",
     "hint": "Sounds like 'jamb' but means a sweet spread.",
-    "image": "/images/level12/jam.webp"
+    "image": "/images/level12/jam.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-402",
@@ -6429,7 +7231,9 @@
     ],
     "example": "He leaned against the door jamb.",
     "hint": "Silent B — sounds like 'jam' but is a door frame part.",
-    "image": "/images/level12/jamb.webp"
+    "image": "/images/level12/jamb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-403",
@@ -6445,7 +7249,9 @@
     ],
     "example": "She gave a knowing smile.",
     "hint": "Silent K — sounds like 'nowing'.",
-    "image": "/images/level12/knowing.webp"
+    "image": "/images/level12/knowing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-404",
@@ -6461,7 +7267,9 @@
     ],
     "example": "The plan lacks a clear goal.",
     "hint": "Sounds like 'lax' but means is missing something.",
-    "image": "/images/level12/lacks.webp"
+    "image": "/images/level12/lacks.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-405",
@@ -6477,7 +7285,9 @@
     ],
     "example": "The rules here are quite lax.",
     "hint": "Sounds like 'lacks' but means careless/not strict.",
-    "image": "/images/level12/lax.webp"
+    "image": "/images/level12/lax.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-406",
@@ -6493,7 +7303,9 @@
     ],
     "example": "The lessor collected rent each month.",
     "hint": "Sounds like 'lesser' but means one who leases out property.",
-    "image": "/images/level12/lessor.webp"
+    "image": "/images/level12/lessor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-407",
@@ -6509,7 +7321,9 @@
     ],
     "example": "He chose the lesser of two evils.",
     "hint": "Sounds like 'lessor' but means smaller in degree.",
-    "image": "/images/level12/lesser.webp"
+    "image": "/images/level12/lesser.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-408",
@@ -6525,7 +7339,9 @@
     ],
     "example": "The truck carried a heavy load.",
     "hint": "Sounds like 'lode' but means cargo.",
-    "image": "/images/level12/load.webp"
+    "image": "/images/level12/load.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-409",
@@ -6541,7 +7357,9 @@
     ],
     "example": "Miners struck a rich lode of silver.",
     "hint": "Sounds like 'load' but means a rich ore deposit.",
-    "image": "/images/level12/lode.webp"
+    "image": "/images/level12/lode.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-410",
@@ -6557,7 +7375,9 @@
     ],
     "example": "She checked all the locks before bed.",
     "hint": "Sounds like 'lox' but means fasteners or hair curls.",
-    "image": "/images/level12/locks.webp"
+    "image": "/images/level12/locks.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-411",
@@ -6573,7 +7393,9 @@
     ],
     "example": "He ordered a bagel with lox.",
     "hint": "Sounds like 'locks' but is a type of smoked fish.",
-    "image": "/images/level12/lox.webp"
+    "image": "/images/level12/lox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-412",
@@ -6589,7 +7411,9 @@
     ],
     "example": "The dog began to maul the old toy.",
     "hint": "Sounds like 'mall' but means to badly injure.",
-    "image": "/images/level12/maul.webp"
+    "image": "/images/level12/maul.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-413",
@@ -6605,7 +7429,9 @@
     ],
     "example": "The town is named after General Marshall.",
     "hint": "Sounds like 'marshal'/'martial' but has an extra L.",
-    "image": "/images/level12/marshall.webp"
+    "image": "/images/level12/marshall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-414",
@@ -6621,7 +7447,9 @@
     ],
     "example": "Harsh punishment was meted out.",
     "hint": "Sounds like 'meted' — related in sound to 'meaty' but means distributed.",
-    "image": "/images/level12/meted.webp"
+    "image": "/images/level12/meted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-415",
@@ -6637,7 +7465,9 @@
     ],
     "example": "The stew had a rich, meaty flavor.",
     "hint": "Sounds close to 'meted' but describes something full of meat.",
-    "image": "/images/level12/meaty.webp"
+    "image": "/images/level12/meaty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-416",
@@ -6653,7 +7483,9 @@
     ],
     "example": "He let out a moan of pain.",
     "hint": "Sounds like 'mown' but means a low pained sound.",
-    "image": "/images/level12/moan.webp"
+    "image": "/images/level12/moan.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-417",
@@ -6669,7 +7501,9 @@
     ],
     "example": "The lawn had just been mown.",
     "hint": "Sounds like 'moan' but means cut grass.",
-    "image": "/images/level12/mown.webp"
+    "image": "/images/level12/mown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-418",
@@ -6685,7 +7519,9 @@
     ],
     "example": "Sunlight filled the church nave.",
     "hint": "Sounds like 'knave' but is part of a church.",
-    "image": "/images/level12/nave.webp"
+    "image": "/images/level12/nave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-419",
@@ -6701,7 +7537,9 @@
     ],
     "example": "The knave cheated at every game.",
     "hint": "Silent K — sounds like 'nave' but means a dishonest man.",
-    "image": "/images/level12/knave.webp"
+    "image": "/images/level12/knave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-420",
@@ -6717,7 +7555,9 @@
     ],
     "example": "Oh, I forgot my keys!",
     "hint": "Sounds like 'owe' but is an exclamation.",
-    "image": "/images/level12/oh.webp"
+    "image": "/images/level12/oh.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-421",
@@ -6733,7 +7573,9 @@
     ],
     "example": "I owe you five dollars.",
     "hint": "Sounds like 'oh' but means to be in debt.",
-    "image": "/images/level12/owe.webp"
+    "image": "/images/level12/owe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-422",
@@ -6749,7 +7591,9 @@
     ],
     "example": "Interest in the topic peaked last year.",
     "hint": "Sounds like 'peeked' but means reached the top.",
-    "image": "/images/level12/peaked.webp"
+    "image": "/images/level12/peaked.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-423",
@@ -6765,7 +7609,9 @@
     ],
     "example": "She peeked through the curtains.",
     "hint": "Sounds like 'peaked' but means glanced quickly.",
-    "image": "/images/level12/peeked.webp"
+    "image": "/images/level12/peeked.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-424",
@@ -6781,7 +7627,9 @@
     ],
     "example": "A loud peal of thunder shook the house.",
     "hint": "Sounds like 'peel' but means a bell's ring.",
-    "image": "/images/level12/peal.webp"
+    "image": "/images/level12/peal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-425",
@@ -6797,7 +7645,9 @@
     ],
     "example": "The populace gathered in the square.",
     "hint": "Sounds like 'populous' but means the people themselves.",
-    "image": "/images/level12/populace.webp"
+    "image": "/images/level12/populace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-426",
@@ -6813,7 +7663,9 @@
     ],
     "example": "China is a very populous country.",
     "hint": "Sounds like 'populace' but means having many people.",
-    "image": "/images/level12/populous.webp"
+    "image": "/images/level12/populous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-427",
@@ -6829,7 +7681,9 @@
     ],
     "example": "She pours tea for her guests.",
     "hint": "Sounds like 'pores'/'paws' but means to release liquid.",
-    "image": "/images/level12/pours.webp"
+    "image": "/images/level12/pours.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-428",
@@ -6845,7 +7699,9 @@
     ],
     "example": "Sweat comes out through the skin's pores.",
     "hint": "Sounds like 'pours' but means small skin openings.",
-    "image": "/images/level12/pores.webp"
+    "image": "/images/level12/pores.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-429",
@@ -6861,7 +7717,9 @@
     ],
     "example": "He hung his coat on the rack.",
     "hint": "Sounds like 'wrack' but is a storage frame.",
-    "image": "/images/level12/rack.webp"
+    "image": "/images/level12/rack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-430",
@@ -6877,7 +7735,9 @@
     ],
     "example": "The old ship went to wrack and ruin.",
     "hint": "Silent W — sounds like 'rack' but means destruction.",
-    "image": "/images/level12/wrack.webp"
+    "image": "/images/level12/wrack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-431",
@@ -6893,7 +7753,9 @@
     ],
     "example": "He is a well-known fund raiser.",
     "hint": "Sounds like 'razor' but means one who raises something.",
-    "image": "/images/level12/raiser.webp"
+    "image": "/images/level12/raiser.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-432",
@@ -6909,7 +7771,9 @@
     ],
     "example": "He shaved with a sharp razor.",
     "hint": "Sounds like 'raiser' but is a shaving tool.",
-    "image": "/images/level12/razor.webp"
+    "image": "/images/level12/razor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-433",
@@ -6925,7 +7789,9 @@
     ],
     "example": "The smell made him retch.",
     "hint": "Sounds like 'wretch' but means to gag.",
-    "image": "/images/level12/retch.webp"
+    "image": "/images/level12/retch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-434",
@@ -6941,7 +7807,9 @@
     ],
     "example": "The poor wretch had nowhere to sleep.",
     "hint": "Sounds like 'retch' but means a miserable person.",
-    "image": "/images/level12/wretch.webp"
+    "image": "/images/level12/wretch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-435",
@@ -6957,7 +7825,9 @@
     ],
     "example": "An old rood hung above the altar.",
     "hint": "Sounds like 'rude' but is a religious symbol.",
-    "image": "/images/level12/rood.webp"
+    "image": "/images/level12/rood.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-436",
@@ -6973,7 +7843,9 @@
     ],
     "example": "It is rude to interrupt someone.",
     "hint": "Sounds like 'rood' but means impolite.",
-    "image": "/images/level12/rude.webp"
+    "image": "/images/level12/rude.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-437",
@@ -6989,7 +7861,9 @@
     ],
     "example": "The country agreed to cede the territory.",
     "hint": "Sounds like 'seed' but means to formally surrender.",
-    "image": "/images/level12/cede.webp"
+    "image": "/images/level12/cede.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-438",
@@ -7005,7 +7879,9 @@
     ],
     "example": "The suit was made of blue serge.",
     "hint": "Sounds like 'surge' but is a type of fabric.",
-    "image": "/images/level12/serge.webp"
+    "image": "/images/level12/serge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-439",
@@ -7021,7 +7897,9 @@
     ],
     "example": "A surge of electricity knocked out the lights.",
     "hint": "Sounds like 'serge' but means a sudden increase.",
-    "image": "/images/level12/surge.webp"
+    "image": "/images/level12/surge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-440",
@@ -7037,7 +7915,9 @@
     ],
     "example": "The farmer fed the young shoat.",
     "hint": "Sounds like 'shot' but means a young pig.",
-    "image": "/images/level12/shoat.webp"
+    "image": "/images/level12/shoat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-441",
@@ -7053,7 +7933,9 @@
     ],
     "example": "He took a shot at the target.",
     "hint": "Sounds close to 'shoat' but means a gunshot or attempt.",
-    "image": "/images/level12/shot.webp"
+    "image": "/images/level12/shot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-442",
@@ -7069,7 +7951,9 @@
     ],
     "example": "The quote included an error, marked (sic).",
     "hint": "Sounds like 'sick' but is a proofreading term.",
-    "image": "/images/level12/sic.webp"
+    "image": "/images/level12/sic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-443",
@@ -7085,7 +7969,9 @@
     ],
     "example": "The magician used sleight of hand.",
     "hint": "Sounds like 'slight' but means skillful trickery.",
-    "image": "/images/level12/sleight.webp"
+    "image": "/images/level12/sleight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-444",
@@ -7101,7 +7987,9 @@
     ],
     "example": "The sloop sailed smoothly across the bay.",
     "hint": "Sounds like 'sloop' — could be confused with 'sloup' but is spelled this way.",
-    "image": "/images/level12/sloop.webp"
+    "image": "/images/level12/sloop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-445",
@@ -7117,7 +8005,9 @@
     ],
     "example": "Workers opened the sluice to release water.",
     "hint": "Sounds like 'sloos' but means a water gate.",
-    "image": "/images/level12/sluice.webp"
+    "image": "/images/level12/sluice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-446",
@@ -7133,7 +8023,9 @@
     ],
     "example": "They staved off hunger with a small snack.",
     "hint": "Sounds close to 'staid' but means kept off/delayed.",
-    "image": "/images/level12/staved.webp"
+    "image": "/images/level12/staved.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-447",
@@ -7149,7 +8041,9 @@
     ],
     "example": "The soldier was stationed far from home.",
     "hint": "Related to 'station' but means placed on duty.",
-    "image": "/images/level12/stationed.webp"
+    "image": "/images/level12/stationed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-448",
@@ -7165,7 +8059,9 @@
     ],
     "example": "Hard times can straiten a family's finances.",
     "hint": "Sounds like 'straighten' but means to restrict.",
-    "image": "/images/level12/straiten.webp"
+    "image": "/images/level12/straiten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-449",
@@ -7181,7 +8077,9 @@
     ],
     "example": "Please straighten the picture on the wall.",
     "hint": "Sounds like 'straiten' but means to make straight.",
-    "image": "/images/level12/straighten.webp"
+    "image": "/images/level12/straighten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-450",
@@ -7197,7 +8095,9 @@
     ],
     "example": "She tried to swat the fly.",
     "hint": "Sounds like 'swot' but means to hit quickly.",
-    "image": "/images/level12/swat.webp"
+    "image": "/images/level12/swat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-451",
@@ -7213,7 +8113,9 @@
     ],
     "example": "He was known as a serious swot at school.",
     "hint": "Sounds like 'swat' but means a diligent student.",
-    "image": "/images/level12/swot.webp"
+    "image": "/images/level12/swot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-452",
@@ -7229,7 +8131,9 @@
     ],
     "example": "The truck was loaded with timber.",
     "hint": "Sounds like 'timbre' but means building wood.",
-    "image": "/images/level12/timber.webp"
+    "image": "/images/level12/timber.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-453",
@@ -7245,7 +8149,9 @@
     ],
     "example": "The singer had a rich, warm timbre.",
     "hint": "Sounds close to 'timber' but describes sound quality.",
-    "image": "/images/level12/timbre.webp"
+    "image": "/images/level12/timbre.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-454",
@@ -7261,7 +8167,9 @@
     ],
     "example": "A tern dove into the water for fish.",
     "hint": "Sounds like 'turn' but is a seabird.",
-    "image": "/images/level12/tern.webp"
+    "image": "/images/level12/tern.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-455",
@@ -7277,7 +8185,9 @@
     ],
     "example": "The musician played an old viol.",
     "hint": "Sounds like 'vial' but is a musical instrument.",
-    "image": "/images/level12/viol.webp"
+    "image": "/images/level12/viol.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-456",
@@ -7293,7 +8203,9 @@
     ],
     "example": "He managed to wangle a free ticket.",
     "hint": "Sounds close to 'wrangle' but means to obtain slyly.",
-    "image": "/images/level12/wangle.webp"
+    "image": "/images/level12/wangle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-457",
@@ -7309,7 +8221,9 @@
     ],
     "example": "The cowboys began to wrangle the cattle.",
     "hint": "Silent W — sounds close to 'wangle' but means to argue.",
-    "image": "/images/level12/wrangle.webp"
+    "image": "/images/level12/wrangle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-458",
@@ -7325,7 +8239,9 @@
     ],
     "example": "A yak grazed on the mountain slope.",
     "hint": "Sounds like 'yack' but is an animal.",
-    "image": "/images/level12/yak.webp"
+    "image": "/images/level12/yak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-459",
@@ -7341,7 +8257,9 @@
     ],
     "example": "They sat around and began to yack for hours.",
     "hint": "Sounds like 'yak' but means to chatter.",
-    "image": "/images/level12/yack.webp"
+    "image": "/images/level12/yack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-460",
@@ -7357,7 +8275,9 @@
     ],
     "example": "What ails you today?",
     "hint": "Sounds like 'ale' but means to feel unwell.",
-    "image": "/images/level12/ail.webp"
+    "image": "/images/level12/ail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-461",
@@ -7373,7 +8293,9 @@
     ],
     "example": "He ordered a cold ale.",
     "hint": "Sounds like 'ail' but is a drink.",
-    "image": "/images/level12/ale.webp"
+    "image": "/images/level12/ale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-462",
@@ -7389,7 +8311,9 @@
     ],
     "example": "He used an auger to drill the post hole.",
     "hint": "Sounds like 'augur' but is a drilling tool.",
-    "image": "/images/level12/auger.webp"
+    "image": "/images/level12/auger.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-463",
@@ -7405,7 +8329,9 @@
     ],
     "example": "The dark clouds augur a storm.",
     "hint": "Sounds like 'auger' but means to foretell.",
-    "image": "/images/level12/augur.webp"
+    "image": "/images/level12/augur.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-464",
@@ -7421,7 +8347,9 @@
     ],
     "example": "The pool table was covered in green baize.",
     "hint": "Sounds like 'bays' but is a table covering.",
-    "image": "/images/level12/baize.webp"
+    "image": "/images/level12/baize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-465",
@@ -7437,7 +8365,9 @@
     ],
     "example": "Ships anchored in the calm bays.",
     "hint": "Sounds like 'baize' but means coastal inlets.",
-    "image": "/images/level12/bays.webp"
+    "image": "/images/level12/bays.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-466",
@@ -7453,7 +8383,9 @@
     ],
     "example": "The boarders shared meals with the family.",
     "hint": "Sounds like 'borders' but means paying lodgers.",
-    "image": "/images/level12/boarders.webp"
+    "image": "/images/level12/boarders.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-467",
@@ -7469,7 +8401,9 @@
     ],
     "example": "The map showed the country's borders.",
     "hint": "Sounds like 'boarders' but means country boundaries.",
-    "image": "/images/level12/borders.webp"
+    "image": "/images/level12/borders.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-468",
@@ -7485,7 +8419,9 @@
     ],
     "example": "The student received a burse for his studies.",
     "hint": "Sounds like 'bursa' shortened, close to 'purse'.",
-    "image": "/images/level12/burse.webp"
+    "image": "/images/level12/burse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-469",
@@ -7501,7 +8437,9 @@
     ],
     "example": "Sailors traced the old clews on the map.",
     "hint": "Sounds like 'clues' but is an older nautical term.",
-    "image": "/images/level12/clews.webp"
+    "image": "/images/level12/clews.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-470",
@@ -7517,7 +8455,9 @@
     ],
     "example": "Detectives followed the clues carefully.",
     "hint": "Sounds like 'clews' but means helpful hints.",
-    "image": "/images/level12/clues.webp"
+    "image": "/images/level12/clues.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-471",
@@ -7533,7 +8473,9 @@
     ],
     "example": "No one wanted to be called a coward.",
     "hint": "Sounds close to 'cowered' but means a fearful person.",
-    "image": "/images/level12/coward.webp"
+    "image": "/images/level12/coward.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-472",
@@ -7549,7 +8491,9 @@
     ],
     "example": "The dog cowered during the thunderstorm.",
     "hint": "Sounds close to 'coward' but means crouched in fear.",
-    "image": "/images/level12/cowered.webp"
+    "image": "/images/level12/cowered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-473",
@@ -7565,7 +8509,9 @@
     ],
     "example": "She spent the afternoon dyeing fabric.",
     "hint": "Sounds exactly like 'dying' but means adding color.",
-    "image": "/images/level12/dyeing.webp"
+    "image": "/images/level12/dyeing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-474",
@@ -7581,7 +8527,9 @@
     ],
     "example": "The dying plant needed more water.",
     "hint": "Sounds exactly like 'dyeing' but means near death.",
-    "image": "/images/level12/dying.webp"
+    "image": "/images/level12/dying.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-475",
@@ -7597,7 +8545,9 @@
     ],
     "example": "He was the family's main earner.",
     "hint": "Related to 'earn' but means the person who earns.",
-    "image": "/images/level12/earner.webp"
+    "image": "/images/level12/earner.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-476",
@@ -7613,7 +8563,9 @@
     ],
     "example": "The poem described a faerie kingdom.",
     "hint": "Sounds like 'fairy'/'ferry' but is a poetic spelling.",
-    "image": "/images/level12/faerie.webp"
+    "image": "/images/level12/faerie.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-477",
@@ -7629,7 +8581,9 @@
     ],
     "example": "The thief flees when caught.",
     "hint": "Sounds like 'fleas' but means runs away.",
-    "image": "/images/level12/flees.webp"
+    "image": "/images/level12/flees.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-478",
@@ -7645,7 +8599,9 @@
     ],
     "example": "The dog scratched because of fleas.",
     "hint": "Sounds like 'flees' but means small biting bugs.",
-    "image": "/images/level12/fleas.webp"
+    "image": "/images/level12/fleas.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-479",
@@ -7661,7 +8617,9 @@
     ],
     "example": "An old gnarled tree stood by the gate.",
     "hint": "Silent G — sounds like 'narled' but means twisted/knotted.",
-    "image": "/images/level12/gnarled.webp"
+    "image": "/images/level12/gnarled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-480",
@@ -7677,7 +8635,9 @@
     ],
     "example": "The boat was holed by a sharp rock.",
     "hint": "Sounds like 'hold' but means punctured with a hole.",
-    "image": "/images/level12/holed.webp"
+    "image": "/images/level12/holed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-481",
@@ -7693,7 +8653,9 @@
     ],
     "example": "They spent an idyllic weekend by the lake.",
     "hint": "Related to 'idyll' but describes a peaceful scene.",
-    "image": "/images/level12/idyllic.webp"
+    "image": "/images/level12/idyllic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-482",
@@ -7709,7 +8671,9 @@
     ],
     "example": "In the old tale, a jinni granted three wishes.",
     "hint": "Sounds like 'genie' but is the traditional spelling.",
-    "image": "/images/level12/jinni.webp"
+    "image": "/images/level12/jinni.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-483",
@@ -7725,7 +8689,9 @@
     ],
     "example": "The genie appeared in a cloud of smoke.",
     "hint": "Sounds like 'jinni' but is the common storybook spelling.",
-    "image": "/images/level12/genie.webp"
+    "image": "/images/level12/genie.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-484",
@@ -7741,7 +8707,9 @@
     ],
     "example": "The rope was hopelessly knotty.",
     "hint": "Silent K — sounds like 'naughty' but means full of knots.",
-    "image": "/images/level12/knotty.webp"
+    "image": "/images/level12/knotty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-485",
@@ -7757,7 +8725,9 @@
     ],
     "example": "The naughty puppy chewed up her shoe.",
     "hint": "Sounds like 'knotty' but means badly behaved.",
-    "image": "/images/level12/naughty.webp"
+    "image": "/images/level12/naughty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-486",
@@ -7773,7 +8743,9 @@
     ],
     "example": "The artist muses on new ideas each morning.",
     "hint": "Sounds close to 'mewses' but means sources of inspiration.",
-    "image": "/images/level12/muses.webp"
+    "image": "/images/level12/muses.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-487",
@@ -7789,7 +8761,9 @@
     ],
     "example": "She parred the difficult ninth hole.",
     "hint": "Sounds like 'pard' but is a golf term.",
-    "image": "/images/level12/parred.webp"
+    "image": "/images/level12/parred.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-488",
@@ -7805,7 +8779,9 @@
     ],
     "example": "The old poem spoke of a fierce pard.",
     "hint": "Sounds like 'parred' but is an old word for leopard.",
-    "image": "/images/level12/pard.webp"
+    "image": "/images/level12/pard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-489",
@@ -7821,7 +8797,9 @@
     ],
     "example": "The plumber fixed the leaking pipe.",
     "hint": "Silent B — sounds like 'plum-er'.",
-    "image": "/images/level12/plumber.webp"
+    "image": "/images/level12/plumber.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-490",
@@ -7837,7 +8815,9 @@
     ],
     "example": "He bought a quire of writing paper.",
     "hint": "Sounds like 'choir' but is a paper measurement.",
-    "image": "/images/level12/quire.webp"
+    "image": "/images/level12/quire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-491",
@@ -7853,7 +8833,9 @@
     ],
     "example": "He rowed the scull across the calm water.",
     "hint": "Sounds like 'skull' but is a rowing term.",
-    "image": "/images/level12/scull.webp"
+    "image": "/images/level12/scull.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-492",
@@ -7869,7 +8851,9 @@
     ],
     "example": "The doctor examined the X-ray of the skull.",
     "hint": "Sounds like 'scull' but is a body part.",
-    "image": "/images/level12/skull.webp"
+    "image": "/images/level12/skull.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-493",
@@ -7885,7 +8869,9 @@
     ],
     "example": "They held a seance in the old house.",
     "hint": "A French borrowing — sounds like 'say-ahns'.",
-    "image": "/images/level12/seance.webp"
+    "image": "/images/level12/seance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-494",
@@ -7901,7 +8887,9 @@
     ],
     "example": "He grew shier as the room filled with people.",
     "hint": "Sounds like 'shyer' but is an alternate spelling.",
-    "image": "/images/level12/shier.webp"
+    "image": "/images/level12/shier.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-495",
@@ -7917,7 +8905,9 @@
     ],
     "example": "She was shyer than her older sister.",
     "hint": "Sounds like 'shier' but is the standard spelling.",
-    "image": "/images/level12/shyer.webp"
+    "image": "/images/level12/shyer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-496",
@@ -7933,7 +8923,9 @@
     ],
     "example": "They climbed over the stile into the field.",
     "hint": "Sounds like 'style' but is a fence-crossing step.",
-    "image": "/images/level12/stile.webp"
+    "image": "/images/level12/stile.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-497",
@@ -7949,7 +8941,9 @@
     ],
     "example": "She has a unique style of writing.",
     "hint": "Sounds like 'stile' but means a manner or fashion.",
-    "image": "/images/level12/style.webp"
+    "image": "/images/level12/style.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-498",
@@ -7965,7 +8959,9 @@
     ],
     "example": "The soldiers found succor in the village.",
     "hint": "Sounds like 'sucker' but means aid or relief.",
-    "image": "/images/level12/succor.webp"
+    "image": "/images/level12/succor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-499",
@@ -7981,7 +8977,9 @@
     ],
     "example": "He was too much of a sucker to say no.",
     "hint": "Sounds like 'succor' but means an easily-fooled person.",
-    "image": "/images/level12/sucker.webp"
+    "image": "/images/level12/sucker.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl12-500",
@@ -7997,6 +8995,8 @@
     ],
     "example": "One bad apple can taint the whole barrel.",
     "hint": "Sounds like 'taint' — related in sound but distinct from 't'aint (dialect for 'it isn't').",
-    "image": "/images/level12/taint.webp"
+    "image": "/images/level12/taint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

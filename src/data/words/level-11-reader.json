@@ -14,7 +14,9 @@
     ],
     "example": "The curious cat explored every corner.",
     "hint": "Ends in -ous, means eager to know.",
-    "image": "/images/level11/curious.webp"
+    "image": "/images/level11/curious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-002",
@@ -32,7 +34,9 @@
     ],
     "example": "The enormous whale swam past the boat.",
     "hint": "Rhymes with 'normous' — think huge.",
-    "image": "/images/level11/enormous.webp"
+    "image": "/images/level11/enormous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-003",
@@ -51,7 +55,9 @@
     ],
     "example": "The castle looked magnificent at sunset.",
     "hint": "Has 'magnify' hidden inside.",
-    "image": "/images/level11/magnificent.webp"
+    "image": "/images/level11/magnificent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-004",
@@ -69,7 +75,9 @@
     ],
     "example": "She was delighted with her new book.",
     "hint": "Has 'light' hidden inside — de-LIGHT-ed.",
-    "image": "/images/level11/delighted.webp"
+    "image": "/images/level11/delighted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-005",
@@ -87,7 +95,9 @@
     ],
     "example": "He felt exhausted after the long hike.",
     "hint": "Has a silent-feeling 'h' after ex-.",
-    "image": "/images/level11/exhausted.webp"
+    "image": "/images/level11/exhausted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-006",
@@ -104,7 +114,9 @@
     ],
     "example": "She felt nervous before the exam.",
     "hint": "Ends in -vous, not -vious.",
-    "image": "/images/level11/nervous.webp"
+    "image": "/images/level11/nervous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-007",
@@ -121,7 +133,9 @@
     ],
     "example": "He was furious when he saw the mess.",
     "hint": "Ends in -ious like 'curious'.",
-    "image": "/images/level11/furious.webp"
+    "image": "/images/level11/furious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-008",
@@ -138,7 +152,9 @@
     ],
     "example": "The fierce tiger guarded its cubs.",
     "hint": "Silent letters — 'ie' before 'rce'.",
-    "image": "/images/level11/fierce.webp"
+    "image": "/images/level11/fierce.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-009",
@@ -155,7 +171,9 @@
     ],
     "example": "The timid mouse hid behind the wall.",
     "hint": "Rhymes with 'vivid'.",
-    "image": "/images/level11/timid.webp"
+    "image": "/images/level11/timid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-010",
@@ -172,7 +190,9 @@
     ],
     "example": "They found ancient ruins in the desert.",
     "hint": "Tricky 'ci' sounds like 'sh' — ancient history.",
-    "image": "/images/level11/ancient.webp"
+    "image": "/images/level11/ancient.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-011",
@@ -188,7 +208,9 @@
     ],
     "example": "The river had a broad, calm surface.",
     "hint": "Rhymes with 'fraud', not 'road'.",
-    "image": "/images/level11/broad.webp"
+    "image": "/images/level11/broad.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-012",
@@ -205,7 +227,9 @@
     ],
     "example": "Children played in the shallow end of the pool.",
     "hint": "Double L — opposite of deep.",
-    "image": "/images/level11/shallow.webp"
+    "image": "/images/level11/shallow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-013",
@@ -222,7 +246,9 @@
     ],
     "example": "The sky turned gloomy before the storm.",
     "hint": "Double O, rhymes with 'roomy'.",
-    "image": "/images/level11/gloomy.webp"
+    "image": "/images/level11/gloomy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-014",
@@ -239,7 +265,9 @@
     ],
     "example": "The cheerful puppy wagged its tail.",
     "hint": "Has 'cheer' plus -ful.",
-    "image": "/images/level11/cheerful.webp"
+    "image": "/images/level11/cheerful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-015",
@@ -256,7 +284,9 @@
     ],
     "example": "She felt anxious about the test results.",
     "hint": "Tricky 'xious' ending.",
-    "image": "/images/level11/anxious.webp"
+    "image": "/images/level11/anxious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-016",
@@ -273,7 +303,9 @@
     ],
     "example": "The eager students raised their hands.",
     "hint": "Double E, rhymes with 'meager'.",
-    "image": "/images/level11/eager.webp"
+    "image": "/images/level11/eager.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-017",
@@ -291,7 +323,9 @@
     ],
     "example": "He was reluctant to leave the party.",
     "hint": "Has 'luct' — think 'struggle'.",
-    "image": "/images/level11/reluctant.webp"
+    "image": "/images/level11/reluctant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-018",
@@ -308,7 +342,9 @@
     ],
     "example": "The stubborn goat wouldn't move.",
     "hint": "Double B, rhymes with 'auburn'.",
-    "image": "/images/level11/stubborn.webp"
+    "image": "/images/level11/stubborn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-019",
@@ -326,7 +362,9 @@
     ],
     "example": "The dancer moved with graceful steps.",
     "hint": "Has 'grace' plus -ful.",
-    "image": "/images/level11/graceful.webp"
+    "image": "/images/level11/graceful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-020",
@@ -343,7 +381,9 @@
     ],
     "example": "The clumsy waiter spilled the soup.",
     "hint": "Silent-feeling U, ends in -sy.",
-    "image": "/images/level11/clumsy.webp"
+    "image": "/images/level11/clumsy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-021",
@@ -361,7 +401,9 @@
     ],
     "example": "She wore an elegant silk dress.",
     "hint": "Ends in -gant, not -gent.",
-    "image": "/images/level11/elegant.webp"
+    "image": "/images/level11/elegant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-022",
@@ -378,7 +420,9 @@
     ],
     "example": "The shabby old coat had holes in it.",
     "hint": "Double B, rhymes with 'tabby'.",
-    "image": "/images/level11/shabby.webp"
+    "image": "/images/level11/shabby.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-023",
@@ -395,7 +439,9 @@
     ],
     "example": "She kept her room tidy and clean.",
     "hint": "The 'i' says its own name, like 'eye'.",
-    "image": "/images/level11/tidy.webp"
+    "image": "/images/level11/tidy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-024",
@@ -412,7 +458,9 @@
     ],
     "example": "The messy desk was covered in papers.",
     "hint": "Double S, opposite of tidy.",
-    "image": "/images/level11/messy.webp"
+    "image": "/images/level11/messy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-025",
@@ -429,7 +477,9 @@
     ],
     "example": "They moved into a spacious new house.",
     "hint": "Has 'space' hidden inside.",
-    "image": "/images/level11/spacious.webp"
+    "image": "/images/level11/spacious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-026",
@@ -446,7 +496,9 @@
     ],
     "example": "The cramped cabin had barely any room.",
     "hint": "Rhymes with 'stamped'.",
-    "image": "/images/level11/cramped.webp"
+    "image": "/images/level11/cramped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-027",
@@ -463,7 +515,9 @@
     ],
     "example": "The library was completely silent.",
     "hint": "Has 'isle' hidden inside — s-ILE-nt.",
-    "image": "/images/level11/silent.webp"
+    "image": "/images/level11/silent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-028",
@@ -480,7 +534,9 @@
     ],
     "example": "The noisy market was full of shouting.",
     "hint": "Opposite of silent, ends in -sy.",
-    "image": "/images/level11/noisy.webp"
+    "image": "/images/level11/noisy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-029",
@@ -497,7 +553,9 @@
     ],
     "example": "They could see a distant mountain range.",
     "hint": "Has 'dist' like 'distance'.",
-    "image": "/images/level11/distant.webp"
+    "image": "/images/level11/distant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-030",
@@ -514,7 +572,9 @@
     ],
     "example": "There is a nearby park for children.",
     "hint": "Made of 'near' plus 'by'.",
-    "image": "/images/level11/nearby.webp"
+    "image": "/images/level11/nearby.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-031",
@@ -533,7 +593,9 @@
     ],
     "example": "The unfamiliar road confused the driver.",
     "hint": "Has 'un-' plus 'familiar'.",
-    "image": "/images/level11/unfamiliar.webp"
+    "image": "/images/level11/unfamiliar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-032",
@@ -552,7 +614,9 @@
     ],
     "example": "It was just an ordinary school day.",
     "hint": "Ends in -ary, four syllables.",
-    "image": "/images/level11/ordinary.webp"
+    "image": "/images/level11/ordinary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-033",
@@ -572,7 +636,9 @@
     ],
     "example": "She showed extraordinary courage.",
     "hint": "Has 'ordinary' hidden after 'extra'.",
-    "image": "/images/level11/extraordinary.webp"
+    "image": "/images/level11/extraordinary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-034",
@@ -591,7 +657,9 @@
     ],
     "example": "The ghost seemed invisible to everyone.",
     "hint": "Has 'in-' plus 'visible'.",
-    "image": "/images/level11/invisible.webp"
+    "image": "/images/level11/invisible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-035",
@@ -609,7 +677,9 @@
     ],
     "example": "The mountain was clearly visible from town.",
     "hint": "Opposite of invisible.",
-    "image": "/images/level11/visible.webp"
+    "image": "/images/level11/visible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-036",
@@ -627,7 +697,9 @@
     ],
     "example": "Handle the fragile vase with care.",
     "hint": "Rhymes with 'agile'.",
-    "image": "/images/level11/fragile.webp"
+    "image": "/images/level11/fragile.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-037",
@@ -644,7 +716,9 @@
     ],
     "example": "The sturdy table held all the boxes.",
     "hint": "Opposite of fragile.",
-    "image": "/images/level11/sturdy.webp"
+    "image": "/images/level11/sturdy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-038",
@@ -661,7 +735,9 @@
     ],
     "example": "The precious gem sparkled in the light.",
     "hint": "The 'ci' sounds like 'sh' — precious as gold.",
-    "image": "/images/level11/precious.webp"
+    "image": "/images/level11/precious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-039",
@@ -678,7 +754,9 @@
     ],
     "example": "The broken toy was completely worthless.",
     "hint": "Has 'worth' plus -less.",
-    "image": "/images/level11/worthless.webp"
+    "image": "/images/level11/worthless.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-040",
@@ -696,7 +774,9 @@
     ],
     "example": "The generous man donated his savings.",
     "hint": "Ends in -erous, not -erious.",
-    "image": "/images/level11/generous.webp"
+    "image": "/images/level11/generous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-041",
@@ -713,7 +793,9 @@
     ],
     "example": "The selfish boy kept all the toys.",
     "hint": "Has 'self' plus -ish.",
-    "image": "/images/level11/selfish.webp"
+    "image": "/images/level11/selfish.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-042",
@@ -731,7 +813,9 @@
     ],
     "example": "The dishonest merchant cheated his customers.",
     "hint": "Has 'dis-' plus 'honest', silent H.",
-    "image": "/images/level11/dishonest.webp"
+    "image": "/images/level11/dishonest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-043",
@@ -747,7 +831,9 @@
     ],
     "example": "The loyal dog waited by the door.",
     "hint": "Rhymes with 'royal'.",
-    "image": "/images/level11/loyal.webp"
+    "image": "/images/level11/loyal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-044",
@@ -764,7 +850,9 @@
     ],
     "example": "She was a faithful friend for years.",
     "hint": "Has 'faith' plus -ful.",
-    "image": "/images/level11/faithful.webp"
+    "image": "/images/level11/faithful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-045",
@@ -780,7 +868,9 @@
     ],
     "example": "The cruel king punished the villagers.",
     "hint": "Silent-feeling U, two syllables.",
-    "image": "/images/level11/cruel.webp"
+    "image": "/images/level11/cruel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-046",
@@ -797,7 +887,9 @@
     ],
     "example": "The wise old owl gave good advice.",
     "hint": "Silent 'e' makes the 'i' long.",
-    "image": "/images/level11/wise.webp"
+    "image": "/images/level11/wise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-047",
@@ -814,7 +906,9 @@
     ],
     "example": "The patient teacher explained it again.",
     "hint": "Tricky 'ti' sounds like 'sh' — patient waiting.",
-    "image": "/images/level11/patient.webp"
+    "image": "/images/level11/patient.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-048",
@@ -832,7 +926,9 @@
     ],
     "example": "The impatient child kept asking 'are we there yet?'",
     "hint": "Has 'im-' plus 'patient'.",
-    "image": "/images/level11/impatient.webp"
+    "image": "/images/level11/impatient.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-049",
@@ -849,7 +945,9 @@
     ],
     "example": "The restless horse paced in its stall.",
     "hint": "Has 'rest' plus -less.",
-    "image": "/images/level11/restless.webp"
+    "image": "/images/level11/restless.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-050",
@@ -866,7 +964,9 @@
     ],
     "example": "The weary travelers finally reached the inn.",
     "hint": "Rhymes with 'dreary'.",
-    "image": "/images/level11/weary.webp"
+    "image": "/images/level11/weary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-051",
@@ -885,7 +985,9 @@
     ],
     "example": "The energetic puppy ran around the yard.",
     "hint": "Has 'energy' hidden inside.",
-    "image": "/images/level11/energetic.webp"
+    "image": "/images/level11/energetic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-052",
@@ -902,7 +1004,9 @@
     ],
     "example": "The warm sun made her feel drowsy.",
     "hint": "Rhymes with 'browsy' — think sleepy.",
-    "image": "/images/level11/drowsy.webp"
+    "image": "/images/level11/drowsy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-053",
@@ -919,7 +1023,9 @@
     ],
     "example": "The guard stayed alert all night.",
     "hint": "Opposite of drowsy.",
-    "image": "/images/level11/alert.webp"
+    "image": "/images/level11/alert.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-054",
@@ -937,7 +1043,9 @@
     ],
     "example": "The confused tourist studied the map.",
     "hint": "Has 'confuse' plus -d.",
-    "image": "/images/level11/confused.webp"
+    "image": "/images/level11/confused.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-055",
@@ -954,7 +1062,9 @@
     ],
     "example": "She looked puzzled by the riddle.",
     "hint": "Has 'puzzle' plus -d, double Z.",
-    "image": "/images/level11/puzzled.webp"
+    "image": "/images/level11/puzzled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-056",
@@ -973,7 +1083,9 @@
     ],
     "example": "He was astonished by the magic trick.",
     "hint": "Has 'stone' hidden — a-STON-ished.",
-    "image": "/images/level11/astonished.webp"
+    "image": "/images/level11/astonished.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-057",
@@ -991,7 +1103,9 @@
     ],
     "example": "The crowd was amazed by the fireworks.",
     "hint": "Has 'maze' hidden inside.",
-    "image": "/images/level11/amazed.webp"
+    "image": "/images/level11/amazed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-058",
@@ -1009,7 +1123,9 @@
     ],
     "example": "The terrified rabbit froze in place.",
     "hint": "Double R, has 'terror' hidden inside.",
-    "image": "/images/level11/terrified.webp"
+    "image": "/images/level11/terrified.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-059",
@@ -1027,7 +1143,9 @@
     ],
     "example": "The frightened child hid under the bed.",
     "hint": "Has 'fright' plus -ened.",
-    "image": "/images/level11/frightened.webp"
+    "image": "/images/level11/frightened.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-060",
@@ -1044,7 +1162,9 @@
     ],
     "example": "The worried mother called the school.",
     "hint": "Double R, silent-feeling before -ied.",
-    "image": "/images/level11/worried.webp"
+    "image": "/images/level11/worried.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-061",
@@ -1062,7 +1182,9 @@
     ],
     "example": "She felt relieved when the storm passed.",
     "hint": "Double E, has 'relief' hidden inside.",
-    "image": "/images/level11/relieved.webp"
+    "image": "/images/level11/relieved.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-062",
@@ -1080,7 +1202,9 @@
     ],
     "example": "He was satisfied with his test score.",
     "hint": "Has 'satisfy' plus -ed.",
-    "image": "/images/level11/satisfied.webp"
+    "image": "/images/level11/satisfied.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-063",
@@ -1099,7 +1223,9 @@
     ],
     "example": "She was disappointed to miss the trip.",
     "hint": "Double P, has 'point' hidden inside.",
-    "image": "/images/level11/disappointed.webp"
+    "image": "/images/level11/disappointed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-064",
@@ -1118,7 +1244,9 @@
     ],
     "example": "He felt embarrassed after tripping on stage.",
     "hint": "Double R and double S — tricky!",
-    "image": "/images/level11/embarrassed.webp"
+    "image": "/images/level11/embarrassed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-065",
@@ -1136,7 +1264,9 @@
     ],
     "example": "She was ashamed of the broken vase.",
     "hint": "Has 'shame' hidden inside.",
-    "image": "/images/level11/ashamed.webp"
+    "image": "/images/level11/ashamed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-066",
@@ -1153,7 +1283,9 @@
     ],
     "example": "The thoughtful boy shared his lunch.",
     "hint": "Has 'thought' plus -ful, silent GH.",
-    "image": "/images/level11/thoughtful.webp"
+    "image": "/images/level11/thoughtful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-067",
@@ -1172,7 +1304,9 @@
     ],
     "example": "The adventurous explorer climbed the cliff.",
     "hint": "Has 'adventure' plus -ous.",
-    "image": "/images/level11/adventurous.webp"
+    "image": "/images/level11/adventurous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-068",
@@ -1190,7 +1324,9 @@
     ],
     "example": "The obedient dog sat when told.",
     "hint": "Has 'obey' hidden — o-BEY-dient (sounds).",
-    "image": "/images/level11/obedient.webp"
+    "image": "/images/level11/obedient.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-069",
@@ -1208,7 +1344,9 @@
     ],
     "example": "The rebellious teen ignored the curfew.",
     "hint": "Has 'rebel' plus -ious.",
-    "image": "/images/level11/rebellious.webp"
+    "image": "/images/level11/rebellious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-070",
@@ -1225,7 +1363,9 @@
     ],
     "example": "It was rude to interrupt the speaker.",
     "hint": "Silent 'e' makes the 'u' long.",
-    "image": "/images/level11/rude.webp"
+    "image": "/images/level11/rude.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-071",
@@ -1242,7 +1382,9 @@
     ],
     "example": "The charming cottage had a garden.",
     "hint": "Has 'charm' plus -ing.",
-    "image": "/images/level11/charming.webp"
+    "image": "/images/level11/charming.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-072",
@@ -1259,7 +1401,9 @@
     ],
     "example": "They had a dreadful time in the storm.",
     "hint": "Has 'dread' plus -ful.",
-    "image": "/images/level11/dreadful.webp"
+    "image": "/images/level11/dreadful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-073",
@@ -1277,7 +1421,9 @@
     ],
     "example": "The terrible smell filled the room.",
     "hint": "Double R, ends in -ible.",
-    "image": "/images/level11/terrible.webp"
+    "image": "/images/level11/terrible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-074",
@@ -1294,7 +1440,9 @@
     ],
     "example": "They had a splendid view from the hill.",
     "hint": "Rhymes with 'blended' sound pattern.",
-    "image": "/images/level11/splendid.webp"
+    "image": "/images/level11/splendid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-075",
@@ -1311,7 +1459,9 @@
     ],
     "example": "The weather was dismal all week.",
     "hint": "Rhymes with 'chrismal' — think gloomy.",
-    "image": "/images/level11/dismal.webp"
+    "image": "/images/level11/dismal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-076",
@@ -1328,7 +1478,9 @@
     ],
     "example": "She had a vivid memory of the trip.",
     "hint": "Double V, rhymes with 'timid'.",
-    "image": "/images/level11/vivid.webp"
+    "image": "/images/level11/vivid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-077",
@@ -1344,7 +1496,9 @@
     ],
     "example": "A faint light glowed in the distance.",
     "hint": "Silent-feeling AI, rhymes with 'paint'.",
-    "image": "/images/level11/faint.webp"
+    "image": "/images/level11/faint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-078",
@@ -1361,7 +1515,9 @@
     ],
     "example": "The brilliant scientist solved the puzzle.",
     "hint": "Double L, has 'brill' plus -iant.",
-    "image": "/images/level11/brilliant.webp"
+    "image": "/images/level11/brilliant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-079",
@@ -1377,7 +1533,9 @@
     ],
     "example": "It was a dull, cloudy afternoon.",
     "hint": "Double L, opposite of brilliant.",
-    "image": "/images/level11/dull.webp"
+    "image": "/images/level11/dull.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-080",
@@ -1394,7 +1552,9 @@
     ],
     "example": "The magazine had glossy pages.",
     "hint": "Double S, opposite of dull.",
-    "image": "/images/level11/glossy.webp"
+    "image": "/images/level11/glossy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-081",
@@ -1411,7 +1571,9 @@
     ],
     "example": "The faded photograph was very old.",
     "hint": "Has 'fade' plus -ed.",
-    "image": "/images/level11/faded.webp"
+    "image": "/images/level11/faded.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-082",
@@ -1427,7 +1589,9 @@
     ],
     "example": "The crisp autumn air felt refreshing.",
     "hint": "Rhymes with 'wisp'.",
-    "image": "/images/level11/crisp.webp"
+    "image": "/images/level11/crisp.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-083",
@@ -1444,7 +1608,9 @@
     ],
     "example": "The soggy ground squelched underfoot.",
     "hint": "Double G, opposite of crisp.",
-    "image": "/images/level11/soggy.webp"
+    "image": "/images/level11/soggy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-084",
@@ -1461,7 +1627,9 @@
     ],
     "example": "The stale bread was hard to chew.",
     "hint": "Silent 'e' makes the 'a' long — like stale bread.",
-    "image": "/images/level11/stale.webp"
+    "image": "/images/level11/stale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-085",
@@ -1478,7 +1646,9 @@
     ],
     "example": "The ripe mango smelled sweet.",
     "hint": "Silent 'e' makes the 'i' long — ripe like a peach.",
-    "image": "/images/level11/ripe.webp"
+    "image": "/images/level11/ripe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-086",
@@ -1495,7 +1665,9 @@
     ],
     "example": "The rotten apple had turned brown.",
     "hint": "Double T, opposite of ripe.",
-    "image": "/images/level11/rotten.webp"
+    "image": "/images/level11/rotten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-087",
@@ -1512,7 +1684,9 @@
     ],
     "example": "The meat was tender and juicy.",
     "hint": "Rhymes with 'gender'.",
-    "image": "/images/level11/tender.webp"
+    "image": "/images/level11/tender.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-088",
@@ -1528,7 +1702,9 @@
     ],
     "example": "The tough leather boots lasted for years.",
     "hint": "Tricky -ough makes an 'uff' sound.",
-    "image": "/images/level11/tough.webp"
+    "image": "/images/level11/tough.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-089",
@@ -1545,7 +1721,9 @@
     ],
     "example": "The medicine had a bitter taste.",
     "hint": "Double T, opposite of sweet.",
-    "image": "/images/level11/bitter.webp"
+    "image": "/images/level11/bitter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-090",
@@ -1563,7 +1741,9 @@
     ],
     "example": "She preferred savory snacks over sweet ones.",
     "hint": "Rhymes with 'flavory' — think taste.",
-    "image": "/images/level11/savory.webp"
+    "image": "/images/level11/savory.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-091",
@@ -1581,7 +1761,9 @@
     ],
     "example": "The disgusting smell made her gag.",
     "hint": "Has 'disgust' plus -ing.",
-    "image": "/images/level11/disgusting.webp"
+    "image": "/images/level11/disgusting.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-092",
@@ -1599,7 +1781,9 @@
     ],
     "example": "They spent a delightful afternoon together.",
     "hint": "Has 'delight' plus -ful.",
-    "image": "/images/level11/delightful.webp"
+    "image": "/images/level11/delightful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-093",
@@ -1617,7 +1801,9 @@
     ],
     "example": "The unpleasant odor filled the hallway.",
     "hint": "Has 'un-' plus 'pleasant'.",
-    "image": "/images/level11/unpleasant.webp"
+    "image": "/images/level11/unpleasant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-094",
@@ -1635,7 +1821,9 @@
     ],
     "example": "The majestic eagle soared above the cliffs.",
     "hint": "Has 'majesty' related root.",
-    "image": "/images/level11/majestic.webp"
+    "image": "/images/level11/majestic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-095",
@@ -1652,7 +1840,9 @@
     ],
     "example": "Despite his fame, he remained humble.",
     "hint": "Silent H is pronounced here, ends -ble.",
-    "image": "/images/level11/humble.webp"
+    "image": "/images/level11/humble.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-096",
@@ -1670,7 +1860,9 @@
     ],
     "example": "The ferocious lion guarded its territory.",
     "hint": "Ends in -cious, sounds like 'shus'.",
-    "image": "/images/level11/ferocious.webp"
+    "image": "/images/level11/ferocious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-097",
@@ -1688,7 +1880,9 @@
     ],
     "example": "The dangerous cliff had no safety rail.",
     "hint": "Has 'danger' plus -ous.",
-    "image": "/images/level11/dangerous.webp"
+    "image": "/images/level11/dangerous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-098",
@@ -1706,7 +1900,9 @@
     ],
     "example": "The peaceful lake reflected the mountains.",
     "hint": "Has 'peace' plus -ful.",
-    "image": "/images/level11/peaceful.webp"
+    "image": "/images/level11/peaceful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-099",
@@ -1723,7 +1919,9 @@
     ],
     "example": "The classroom was chaotic before the bell rang.",
     "hint": "Has 'chaos' related root, tricky CH sound.",
-    "image": "/images/level11/chaotic.webp"
+    "image": "/images/level11/chaotic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-100",
@@ -1741,7 +1939,9 @@
     ],
     "example": "The students formed an orderly line.",
     "hint": "Has 'order' plus -ly, opposite of chaotic.",
-    "image": "/images/level11/orderly.webp"
+    "image": "/images/level11/orderly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-101",
@@ -1758,7 +1958,9 @@
     ],
     "example": "The mighty river carved the canyon.",
     "hint": "Silent-feeling GH, rhymes with 'flighty'.",
-    "image": "/images/level11/mighty.webp"
+    "image": "/images/level11/mighty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-102",
@@ -1775,7 +1977,9 @@
     ],
     "example": "The feeble old man leaned on his cane.",
     "hint": "Double E, opposite of mighty.",
-    "image": "/images/level11/feeble.webp"
+    "image": "/images/level11/feeble.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-103",
@@ -1791,7 +1995,9 @@
     ],
     "example": "The vast desert stretched for miles.",
     "hint": "Rhymes with 'mast'.",
-    "image": "/images/level11/vast.webp"
+    "image": "/images/level11/vast.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-104",
@@ -1808,7 +2014,9 @@
     ],
     "example": "A tiny ant carried the crumb.",
     "hint": "Opposite of vast.",
-    "image": "/images/level11/tiny.webp"
+    "image": "/images/level11/tiny.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-105",
@@ -1826,7 +2034,9 @@
     ],
     "example": "The towering skyscraper blocked the sun.",
     "hint": "Has 'tower' plus -ing.",
-    "image": "/images/level11/towering.webp"
+    "image": "/images/level11/towering.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-106",
@@ -1843,7 +2053,9 @@
     ],
     "example": "The bride wore a radiant smile.",
     "hint": "Has 'radiate' related root.",
-    "image": "/images/level11/radiant.webp"
+    "image": "/images/level11/radiant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-107",
@@ -1859,7 +2071,9 @@
     ],
     "example": "The dim lamp barely lit the room.",
     "hint": "Opposite of radiant.",
-    "image": "/images/level11/dim.webp"
+    "image": "/images/level11/dim.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-108",
@@ -1876,7 +2090,9 @@
     ],
     "example": "It was a glorious sunny morning.",
     "hint": "Has 'glory' plus -ous.",
-    "image": "/images/level11/glorious.webp"
+    "image": "/images/level11/glorious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-109",
@@ -1893,7 +2109,9 @@
     ],
     "example": "It was a dreary, rainy Monday.",
     "hint": "Rhymes with 'weary'.",
-    "image": "/images/level11/dreary.webp"
+    "image": "/images/level11/dreary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-110",
@@ -1912,7 +2130,9 @@
     ],
     "example": "The exquisite necklace sparkled in the light.",
     "hint": "Tricky 'qu' sound, ends -isite.",
-    "image": "/images/level11/exquisite.webp"
+    "image": "/images/level11/exquisite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-111",
@@ -1929,7 +2149,9 @@
     ],
     "example": "The vibrant flowers filled the garden.",
     "hint": "Has 'vibrate' related root.",
-    "image": "/images/level11/vibrant.webp"
+    "image": "/images/level11/vibrant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-112",
@@ -1946,7 +2168,9 @@
     ],
     "example": "Her pale face showed she was sick.",
     "hint": "Silent 'e' makes the 'a' long — pale as a ghost.",
-    "image": "/images/level11/pale.webp"
+    "image": "/images/level11/pale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-113",
@@ -1964,7 +2188,9 @@
     ],
     "example": "The glittering stars filled the night sky.",
     "hint": "Double T, has 'glitter' plus -ing.",
-    "image": "/images/level11/glittering.webp"
+    "image": "/images/level11/glittering.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-114",
@@ -1981,7 +2207,9 @@
     ],
     "example": "The murky pond hid many fish.",
     "hint": "Rhymes with 'turkey' without the E.",
-    "image": "/images/level11/murky.webp"
+    "image": "/images/level11/murky.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-115",
@@ -1999,7 +2227,9 @@
     ],
     "example": "The treacherous path wound along the cliff.",
     "hint": "Has 'treachery' related root.",
-    "image": "/images/level11/treacherous.webp"
+    "image": "/images/level11/treacherous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-116",
@@ -2017,7 +2247,9 @@
     ],
     "example": "The serene lake was perfectly still.",
     "hint": "Double E, rhymes with 'between'.",
-    "image": "/images/level11/serene.webp"
+    "image": "/images/level11/serene.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-117",
@@ -2035,7 +2267,9 @@
     ],
     "example": "The turbulent sea tossed the small boat.",
     "hint": "Has 'turb' — think 'disturb'.",
-    "image": "/images/level11/turbulent.webp"
+    "image": "/images/level11/turbulent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-118",
@@ -2052,7 +2286,9 @@
     ],
     "example": "They enjoyed a tranquil evening by the lake.",
     "hint": "Tricky 'qu' sound, ends -quil.",
-    "image": "/images/level11/tranquil.webp"
+    "image": "/images/level11/tranquil.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-119",
@@ -2069,7 +2305,9 @@
     ],
     "example": "The wretched beggar shivered in the cold.",
     "hint": "Silent W at the start.",
-    "image": "/images/level11/wretched.webp"
+    "image": "/images/level11/wretched.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-120",
@@ -2088,7 +2326,9 @@
     ],
     "example": "She felt fortunate to win the prize.",
     "hint": "Has 'fortune' plus -ate.",
-    "image": "/images/level11/fortunate.webp"
+    "image": "/images/level11/fortunate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-121",
@@ -2108,7 +2348,9 @@
     ],
     "example": "It was an unfortunate accident.",
     "hint": "Has 'un-' plus 'fortunate'.",
-    "image": "/images/level11/unfortunate.webp"
+    "image": "/images/level11/unfortunate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-122",
@@ -2126,7 +2368,9 @@
     ],
     "example": "The guard eyed the suspicious stranger.",
     "hint": "Ends in -cious, think 'suspect'.",
-    "image": "/images/level11/suspicious.webp"
+    "image": "/images/level11/suspicious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-123",
@@ -2144,7 +2388,9 @@
     ],
     "example": "The innocent child had done nothing wrong.",
     "hint": "Double N, opposite of guilty.",
-    "image": "/images/level11/innocent.webp"
+    "image": "/images/level11/innocent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-124",
@@ -2161,7 +2407,9 @@
     ],
     "example": "He felt guilty about breaking the vase.",
     "hint": "Silent U after G.",
-    "image": "/images/level11/guilty.webp"
+    "image": "/images/level11/guilty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-125",
@@ -2178,7 +2426,9 @@
     ],
     "example": "The reckless driver sped through the red light.",
     "hint": "Has 'reck' plus -less.",
-    "image": "/images/level11/reckless.webp"
+    "image": "/images/level11/reckless.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-126",
@@ -2195,7 +2445,9 @@
     ],
     "example": "The cautious hiker checked the weather first.",
     "hint": "Ends in -tious, sounds like 'shus'.",
-    "image": "/images/level11/cautious.webp"
+    "image": "/images/level11/cautious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-127",
@@ -2212,7 +2464,9 @@
     ],
     "example": "The daring stunt amazed the crowd.",
     "hint": "Has 'dare' plus -ing.",
-    "image": "/images/level11/daring.webp"
+    "image": "/images/level11/daring.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-128",
@@ -2230,7 +2484,9 @@
     ],
     "example": "The cowardly knight ran from the dragon.",
     "hint": "Has 'coward' plus -ly.",
-    "image": "/images/level11/cowardly.webp"
+    "image": "/images/level11/cowardly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-129",
@@ -2247,7 +2503,9 @@
     ],
     "example": "The valiant knight fought for the kingdom.",
     "hint": "Has 'valor' related root.",
-    "image": "/images/level11/valiant.webp"
+    "image": "/images/level11/valiant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-130",
@@ -2263,7 +2521,9 @@
     ],
     "example": "The meek assistant rarely spoke up.",
     "hint": "Double E, rhymes with 'week'.",
-    "image": "/images/level11/meek.webp"
+    "image": "/images/level11/meek.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-131",
@@ -2281,7 +2541,9 @@
     ],
     "example": "The arrogant champion refused to shake hands.",
     "hint": "Double R, opposite of humble.",
-    "image": "/images/level11/arrogant.webp"
+    "image": "/images/level11/arrogant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-132",
@@ -2298,7 +2560,9 @@
     ],
     "example": "She gave a modest description of her win.",
     "hint": "Opposite of arrogant.",
-    "image": "/images/level11/modest.webp"
+    "image": "/images/level11/modest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-133",
@@ -2316,7 +2580,9 @@
     ],
     "example": "He gave a sincere apology.",
     "hint": "Silent-feeling E, rhymes with 'severe'.",
-    "image": "/images/level11/sincere.webp"
+    "image": "/images/level11/sincere.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-134",
@@ -2333,7 +2599,9 @@
     ],
     "example": "The cunning fox tricked the crow.",
     "hint": "Double N, means sly.",
-    "image": "/images/level11/cunning.webp"
+    "image": "/images/level11/cunning.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-135",
@@ -2349,7 +2617,9 @@
     ],
     "example": "The shrewd merchant negotiated a good price.",
     "hint": "Silent-feeling W after R.",
-    "image": "/images/level11/shrewd.webp"
+    "image": "/images/level11/shrewd.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-136",
@@ -2367,7 +2637,9 @@
     ],
     "example": "She whispered the secret to her friend.",
     "hint": "Silent-feeling H right after the W.",
-    "image": "/images/level11/whispered.webp"
+    "image": "/images/level11/whispered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-137",
@@ -2385,7 +2657,9 @@
     ],
     "example": "He wandered through the old town.",
     "hint": "Has 'wander' plus -ed.",
-    "image": "/images/level11/wandered.webp"
+    "image": "/images/level11/wandered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-138",
@@ -2404,7 +2678,9 @@
     ],
     "example": "They discovered a hidden cave.",
     "hint": "Has 'cover' hidden inside dis-COVER-ed.",
-    "image": "/images/level11/discovered.webp"
+    "image": "/images/level11/discovered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-139",
@@ -2422,7 +2698,9 @@
     ],
     "example": "She realized she had forgotten her keys.",
     "hint": "Has 'real' plus -ized.",
-    "image": "/images/level11/realized.webp"
+    "image": "/images/level11/realized.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-140",
@@ -2439,7 +2717,9 @@
     ],
     "example": "He glanced at the clock nervously.",
     "hint": "Rhymes with 'danced'.",
-    "image": "/images/level11/glanced.webp"
+    "image": "/images/level11/glanced.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-141",
@@ -2456,7 +2736,9 @@
     ],
     "example": "She stumbled over a tree root.",
     "hint": "Silent B before -led — stumbled on a rock.",
-    "image": "/images/level11/stumbled.webp"
+    "image": "/images/level11/stumbled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-142",
@@ -2473,7 +2755,9 @@
     ],
     "example": "He gazed at the stars all night.",
     "hint": "Silent 'e' makes the 'a' long, has 'gaze' plus -d.",
-    "image": "/images/level11/gazed.webp"
+    "image": "/images/level11/gazed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-143",
@@ -2491,7 +2775,9 @@
     ],
     "example": "The puppy shivered in the rain.",
     "hint": "Has 'shiver' plus -ed.",
-    "image": "/images/level11/shivered.webp"
+    "image": "/images/level11/shivered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-144",
@@ -2508,7 +2794,9 @@
     ],
     "example": "His hands trembled with fear.",
     "hint": "Silent B before -led — trembled with fear.",
-    "image": "/images/level11/trembled.webp"
+    "image": "/images/level11/trembled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-145",
@@ -2526,7 +2814,9 @@
     ],
     "example": "The magician vanished in a puff of smoke.",
     "hint": "Has 'vanish' plus -ed.",
-    "image": "/images/level11/vanished.webp"
+    "image": "/images/level11/vanished.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-146",
@@ -2544,7 +2834,9 @@
     ],
     "example": "A rainbow appeared after the rain.",
     "hint": "Opposite of vanished.",
-    "image": "/images/level11/appeared.webp"
+    "image": "/images/level11/appeared.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-147",
@@ -2563,7 +2855,9 @@
     ],
     "example": "She hesitated before answering the question.",
     "hint": "Has 'hesitate' plus -d.",
-    "image": "/images/level11/hesitated.webp"
+    "image": "/images/level11/hesitated.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-148",
@@ -2580,7 +2874,9 @@
     ],
     "example": "The crowd gasped at the daring stunt.",
     "hint": "Rhymes with 'clasped'.",
-    "image": "/images/level11/gasped.webp"
+    "image": "/images/level11/gasped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-149",
@@ -2598,7 +2894,9 @@
     ],
     "example": "He muttered an apology under his breath.",
     "hint": "Double T, quieter than shouted.",
-    "image": "/images/level11/muttered.webp"
+    "image": "/images/level11/muttered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-150",
@@ -2616,7 +2914,9 @@
     ],
     "example": "The audience murmured with excitement.",
     "hint": "Has 'murmur' plus -ed, repeated 'mur'.",
-    "image": "/images/level11/murmured.webp"
+    "image": "/images/level11/murmured.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-151",
@@ -2633,7 +2933,9 @@
     ],
     "example": "He shouted for help across the field.",
     "hint": "Opposite of whispered.",
-    "image": "/images/level11/shouted.webp"
+    "image": "/images/level11/shouted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-152",
@@ -2650,7 +2952,9 @@
     ],
     "example": "She screamed when she saw the spider.",
     "hint": "Double E, louder than shouted.",
-    "image": "/images/level11/screamed.webp"
+    "image": "/images/level11/screamed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-153",
@@ -2667,7 +2971,9 @@
     ],
     "example": "The girls giggled at the funny joke.",
     "hint": "Double G, softer than laughed.",
-    "image": "/images/level11/giggled.webp"
+    "image": "/images/level11/giggled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-154",
@@ -2684,7 +2990,9 @@
     ],
     "example": "Grandpa chuckled at the old memory.",
     "hint": "Quieter than laughed out loud.",
-    "image": "/images/level11/chuckled.webp"
+    "image": "/images/level11/chuckled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-155",
@@ -2701,7 +3009,9 @@
     ],
     "example": "The child sobbed after losing his toy.",
     "hint": "Double B before -ed.",
-    "image": "/images/level11/sobbed.webp"
+    "image": "/images/level11/sobbed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-156",
@@ -2717,7 +3027,9 @@
     ],
     "example": "She wept quietly at the sad ending.",
     "hint": "Past tense of 'weep', rhymes with 'kept'.",
-    "image": "/images/level11/wept.webp"
+    "image": "/images/level11/wept.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-157",
@@ -2734,7 +3046,9 @@
     ],
     "example": "He grinned proudly at his trophy.",
     "hint": "Double N before -ed.",
-    "image": "/images/level11/grinned.webp"
+    "image": "/images/level11/grinned.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-158",
@@ -2751,7 +3065,9 @@
     ],
     "example": "She frowned at the messy room.",
     "hint": "Opposite of grinned.",
-    "image": "/images/level11/frowned.webp"
+    "image": "/images/level11/frowned.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-159",
@@ -2768,7 +3084,9 @@
     ],
     "example": "The coach scowled at the missed goal.",
     "hint": "Angrier than frowned.",
-    "image": "/images/level11/scowled.webp"
+    "image": "/images/level11/scowled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-160",
@@ -2785,7 +3103,9 @@
     ],
     "example": "The teacher glared at the noisy class.",
     "hint": "Silent 'e' makes the 'a' long, has 'glare' plus -d.",
-    "image": "/images/level11/glared.webp"
+    "image": "/images/level11/glared.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-161",
@@ -2802,7 +3122,9 @@
     ],
     "example": "He stared out the window all afternoon.",
     "hint": "Rhymes with 'shared'.",
-    "image": "/images/level11/stared.webp"
+    "image": "/images/level11/stared.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-162",
@@ -2819,7 +3141,9 @@
     ],
     "example": "She peeked through the curtains.",
     "hint": "Double E, rhymes with 'leaked'.",
-    "image": "/images/level11/peeked.webp"
+    "image": "/images/level11/peeked.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-163",
@@ -2836,7 +3160,9 @@
     ],
     "example": "He tiptoed past the sleeping baby.",
     "hint": "Made of 'tip' plus 'toed'.",
-    "image": "/images/level11/tiptoed.webp"
+    "image": "/images/level11/tiptoed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-164",
@@ -2852,7 +3178,9 @@
     ],
     "example": "The cat crept toward the mouse.",
     "hint": "Past tense of 'creep', rhymes with 'kept'.",
-    "image": "/images/level11/crept.webp"
+    "image": "/images/level11/crept.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-165",
@@ -2869,7 +3197,9 @@
     ],
     "example": "He dashed across the street to catch the bus.",
     "hint": "Has 'dash' plus -ed.",
-    "image": "/images/level11/dashed.webp"
+    "image": "/images/level11/dashed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-166",
@@ -2886,7 +3216,9 @@
     ],
     "example": "She sprinted to the finish line.",
     "hint": "Has 'sprint' plus -ed.",
-    "image": "/images/level11/sprinted.webp"
+    "image": "/images/level11/sprinted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-167",
@@ -2903,7 +3235,9 @@
     ],
     "example": "They strolled along the beach at sunset.",
     "hint": "Opposite of sprinted.",
-    "image": "/images/level11/strolled.webp"
+    "image": "/images/level11/strolled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-168",
@@ -2920,7 +3254,9 @@
     ],
     "example": "The tired hikers trudged up the hill.",
     "hint": "Slower and heavier than strolled.",
-    "image": "/images/level11/trudged.webp"
+    "image": "/images/level11/trudged.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-169",
@@ -2938,7 +3274,9 @@
     ],
     "example": "He staggered home after the long race.",
     "hint": "Double G, unsteady walking.",
-    "image": "/images/level11/staggered.webp"
+    "image": "/images/level11/staggered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-170",
@@ -2956,7 +3294,9 @@
     ],
     "example": "The exhausted runner collapsed at the finish line.",
     "hint": "Has 'collapse' plus -d.",
-    "image": "/images/level11/collapsed.webp"
+    "image": "/images/level11/collapsed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-171",
@@ -2973,7 +3313,9 @@
     ],
     "example": "She clutched her bag tightly on the bus.",
     "hint": "Has 'clutch' plus -ed.",
-    "image": "/images/level11/clutched.webp"
+    "image": "/images/level11/clutched.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-172",
@@ -2990,7 +3332,9 @@
     ],
     "example": "He grasped the rope with both hands.",
     "hint": "Rhymes with 'clasped', starts with a 'gr' cluster.",
-    "image": "/images/level11/grasped.webp"
+    "image": "/images/level11/grasped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-173",
@@ -3008,7 +3352,9 @@
     ],
     "example": "She released the bird from its cage.",
     "hint": "Opposite of grasped.",
-    "image": "/images/level11/released.webp"
+    "image": "/images/level11/released.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-174",
@@ -3025,7 +3371,9 @@
     ],
     "example": "He dropped his phone on the floor.",
     "hint": "Double P before -ed.",
-    "image": "/images/level11/dropped.webp"
+    "image": "/images/level11/dropped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-175",
@@ -3042,7 +3390,9 @@
     ],
     "example": "She tossed the ball to her friend.",
     "hint": "Double S before -ed.",
-    "image": "/images/level11/tossed.webp"
+    "image": "/images/level11/tossed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-176",
@@ -3059,7 +3409,9 @@
     ],
     "example": "He hurled the rock into the lake.",
     "hint": "Stronger throw than tossed.",
-    "image": "/images/level11/hurled.webp"
+    "image": "/images/level11/hurled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-177",
@@ -3075,7 +3427,9 @@
     ],
     "example": "She flung her bag onto the bed.",
     "hint": "Past tense of 'fling'.",
-    "image": "/images/level11/flung.webp"
+    "image": "/images/level11/flung.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-178",
@@ -3092,7 +3446,9 @@
     ],
     "example": "He shoved through the crowded doorway.",
     "hint": "Has 'shove' plus -d.",
-    "image": "/images/level11/shoved.webp"
+    "image": "/images/level11/shoved.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-179",
@@ -3109,7 +3465,9 @@
     ],
     "example": "She yanked the stuck drawer open.",
     "hint": "Has 'yank' plus -ed.",
-    "image": "/images/level11/yanked.webp"
+    "image": "/images/level11/yanked.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-180",
@@ -3126,7 +3484,9 @@
     ],
     "example": "The dog tugged on its leash.",
     "hint": "Double G before -ed.",
-    "image": "/images/level11/tugged.webp"
+    "image": "/images/level11/tugged.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-181",
@@ -3143,7 +3503,9 @@
     ],
     "example": "He dragged the heavy box across the floor.",
     "hint": "Double G, heavier than tugged.",
-    "image": "/images/level11/dragged.webp"
+    "image": "/images/level11/dragged.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-182",
@@ -3160,7 +3522,9 @@
     ],
     "example": "She carried the groceries inside.",
     "hint": "Double R, Y changes to I before -ed.",
-    "image": "/images/level11/carried.webp"
+    "image": "/images/level11/carried.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-183",
@@ -3178,7 +3542,9 @@
     ],
     "example": "He balanced the tray on one hand.",
     "hint": "Has 'balance' plus -d.",
-    "image": "/images/level11/balanced.webp"
+    "image": "/images/level11/balanced.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-184",
@@ -3195,7 +3561,9 @@
     ],
     "example": "The old chair wobbled when he sat down.",
     "hint": "Double B before -led.",
-    "image": "/images/level11/wobbled.webp"
+    "image": "/images/level11/wobbled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-185",
@@ -3212,7 +3580,9 @@
     ],
     "example": "The kitten tumbled down the stairs.",
     "hint": "Silent B before -led — tumbled down the hill.",
-    "image": "/images/level11/tumbled.webp"
+    "image": "/images/level11/tumbled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-186",
@@ -3229,7 +3599,9 @@
     ],
     "example": "He plunged into the cold pool.",
     "hint": "Has 'plunge' plus -d.",
-    "image": "/images/level11/plunged.webp"
+    "image": "/images/level11/plunged.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-187",
@@ -3246,7 +3618,9 @@
     ],
     "example": "She dove gracefully off the diving board.",
     "hint": "Past tense of 'dive'.",
-    "image": "/images/level11/dove.webp"
+    "image": "/images/level11/dove.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-188",
@@ -3264,7 +3638,9 @@
     ],
     "example": "The submarine surfaced near the shore.",
     "hint": "Has 'surface' plus -d.",
-    "image": "/images/level11/surfaced.webp"
+    "image": "/images/level11/surfaced.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-189",
@@ -3281,7 +3657,9 @@
     ],
     "example": "The leaf floated down the stream.",
     "hint": "Has 'float' plus -ed.",
-    "image": "/images/level11/floated.webp"
+    "image": "/images/level11/floated.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-190",
@@ -3298,7 +3676,9 @@
     ],
     "example": "The boat drifted away from the dock.",
     "hint": "Has 'drift' plus -ed.",
-    "image": "/images/level11/drifted.webp"
+    "image": "/images/level11/drifted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-191",
@@ -3315,7 +3695,9 @@
     ],
     "example": "The eagle soared above the mountains.",
     "hint": "Silent 'e' makes the 'oa' long.",
-    "image": "/images/level11/soared.webp"
+    "image": "/images/level11/soared.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-192",
@@ -3332,7 +3714,9 @@
     ],
     "example": "The swan glided across the lake.",
     "hint": "Has 'glide' plus -d.",
-    "image": "/images/level11/glided.webp"
+    "image": "/images/level11/glided.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-193",
@@ -3349,7 +3733,9 @@
     ],
     "example": "The hawk swooped down on its prey.",
     "hint": "Double O, sudden downward motion.",
-    "image": "/images/level11/swooped.webp"
+    "image": "/images/level11/swooped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-194",
@@ -3367,7 +3753,9 @@
     ],
     "example": "The butterfly fluttered from flower to flower.",
     "hint": "Double T, light flapping motion.",
-    "image": "/images/level11/fluttered.webp"
+    "image": "/images/level11/fluttered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-195",
@@ -3385,7 +3773,9 @@
     ],
     "example": "The wind scattered the fallen leaves.",
     "hint": "Double T, opposite of gathered.",
-    "image": "/images/level11/scattered.webp"
+    "image": "/images/level11/scattered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-196",
@@ -3403,7 +3793,9 @@
     ],
     "example": "The villagers gathered in the square.",
     "hint": "Opposite of scattered.",
-    "image": "/images/level11/gathered.webp"
+    "image": "/images/level11/gathered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-197",
@@ -3421,7 +3813,9 @@
     ],
     "example": "The students assembled in the hall.",
     "hint": "Silent B before -led — assembled together.",
-    "image": "/images/level11/assembled.webp"
+    "image": "/images/level11/assembled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-198",
@@ -3439,7 +3833,9 @@
     ],
     "example": "The spy disguised himself as a waiter.",
     "hint": "Has 'disguise' plus -d.",
-    "image": "/images/level11/disguised.webp"
+    "image": "/images/level11/disguised.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-199",
@@ -3457,7 +3853,9 @@
     ],
     "example": "The magician revealed his trick.",
     "hint": "Double E, opposite of concealed.",
-    "image": "/images/level11/revealed.webp"
+    "image": "/images/level11/revealed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-200",
@@ -3475,7 +3873,9 @@
     ],
     "example": "She concealed the gift behind her back.",
     "hint": "Double E, opposite of revealed.",
-    "image": "/images/level11/concealed.webp"
+    "image": "/images/level11/concealed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-201",
@@ -3493,7 +3893,9 @@
     ],
     "example": "He noticed a strange sound outside.",
     "hint": "Has 'notice' plus -d.",
-    "image": "/images/level11/noticed.webp"
+    "image": "/images/level11/noticed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-202",
@@ -3511,7 +3913,9 @@
     ],
     "example": "The scientist observed the reaction closely.",
     "hint": "Has 'observe' plus -d.",
-    "image": "/images/level11/observed.webp"
+    "image": "/images/level11/observed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-203",
@@ -3530,7 +3934,9 @@
     ],
     "example": "The doctor examined the patient carefully.",
     "hint": "Has 'exam' hidden inside.",
-    "image": "/images/level11/examined.webp"
+    "image": "/images/level11/examined.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-204",
@@ -3548,7 +3954,9 @@
     ],
     "example": "The officer inspected the damaged car.",
     "hint": "Has 'inspect' plus -ed.",
-    "image": "/images/level11/inspected.webp"
+    "image": "/images/level11/inspected.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-205",
@@ -3568,7 +3976,9 @@
     ],
     "example": "The detective investigated the mysterious case.",
     "hint": "Long word — think 'detective'.",
-    "image": "/images/level11/investigated.webp"
+    "image": "/images/level11/investigated.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-206",
@@ -3586,7 +3996,9 @@
     ],
     "example": "They explored the ancient ruins.",
     "hint": "Has 'explore' plus -d.",
-    "image": "/images/level11/explored.webp"
+    "image": "/images/level11/explored.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-207",
@@ -3603,7 +4015,9 @@
     ],
     "example": "She searched the house for her keys.",
     "hint": "Has 'search' plus -ed.",
-    "image": "/images/level11/searched.webp"
+    "image": "/images/level11/searched.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-208",
@@ -3620,7 +4034,9 @@
     ],
     "example": "The wolf hunted for food in the snow.",
     "hint": "Has 'hunt' plus -ed.",
-    "image": "/images/level11/hunted.webp"
+    "image": "/images/level11/hunted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-209",
@@ -3637,7 +4053,9 @@
     ],
     "example": "The dog chased the squirrel up a tree.",
     "hint": "Silent 'e' makes the 'a' long, has 'chase' plus -d.",
-    "image": "/images/level11/chased.webp"
+    "image": "/images/level11/chased.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-210",
@@ -3654,7 +4072,9 @@
     ],
     "example": "The police pursued the runaway car.",
     "hint": "Has 'pursue' plus -d, silent U.",
-    "image": "/images/level11/pursued.webp"
+    "image": "/images/level11/pursued.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-211",
@@ -3672,7 +4092,9 @@
     ],
     "example": "The prisoner escaped through a tunnel.",
     "hint": "Has 'escape' plus -d.",
-    "image": "/images/level11/escaped.webp"
+    "image": "/images/level11/escaped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-212",
@@ -3688,7 +4110,9 @@
     ],
     "example": "The villagers fled before the storm hit.",
     "hint": "Past tense of 'flee', rhymes with 'bled'.",
-    "image": "/images/level11/fled.webp"
+    "image": "/images/level11/fled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-213",
@@ -3706,7 +4130,9 @@
     ],
     "example": "The army retreated across the river.",
     "hint": "Opposite of advanced.",
-    "image": "/images/level11/retreated.webp"
+    "image": "/images/level11/retreated.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-214",
@@ -3724,7 +4150,9 @@
     ],
     "example": "The soldiers advanced toward the fort.",
     "hint": "Opposite of retreated.",
-    "image": "/images/level11/advanced.webp"
+    "image": "/images/level11/advanced.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-215",
@@ -3741,7 +4169,9 @@
     ],
     "example": "The bull charged at the red flag.",
     "hint": "Has 'charge' plus -d.",
-    "image": "/images/level11/charged.webp"
+    "image": "/images/level11/charged.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-216",
@@ -3759,7 +4189,9 @@
     ],
     "example": "The knight attacked the dragon.",
     "hint": "Double C, opposite of defended.",
-    "image": "/images/level11/attacked.webp"
+    "image": "/images/level11/attacked.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-217",
@@ -3777,7 +4209,9 @@
     ],
     "example": "The soldiers defended the castle walls.",
     "hint": "Opposite of attacked.",
-    "image": "/images/level11/defended.webp"
+    "image": "/images/level11/defended.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-218",
@@ -3795,7 +4229,9 @@
     ],
     "example": "The umbrella protected them from the rain.",
     "hint": "Has 'protect' plus -ed.",
-    "image": "/images/level11/protected.webp"
+    "image": "/images/level11/protected.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-219",
@@ -3812,7 +4248,9 @@
     ],
     "example": "The firefighter rescued the kitten from the tree.",
     "hint": "Has 'rescue' plus -d.",
-    "image": "/images/level11/rescued.webp"
+    "image": "/images/level11/rescued.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-220",
@@ -3831,7 +4269,9 @@
     ],
     "example": "They abandoned the old ship on the shore.",
     "hint": "Has 'abandon' plus -ed.",
-    "image": "/images/level11/abandoned.webp"
+    "image": "/images/level11/abandoned.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-221",
@@ -3848,7 +4288,9 @@
     ],
     "example": "The spy betrayed his own country.",
     "hint": "Has 'betray' plus -ed.",
-    "image": "/images/level11/betrayed.webp"
+    "image": "/images/level11/betrayed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-222",
@@ -3866,7 +4308,9 @@
     ],
     "example": "The con artist deceived the old man.",
     "hint": "Has 'deceive' plus -d, i before e rule broken.",
-    "image": "/images/level11/deceived.webp"
+    "image": "/images/level11/deceived.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-223",
@@ -3883,7 +4327,9 @@
     ],
     "example": "She warned him about the icy road.",
     "hint": "Has 'warn' plus -ed.",
-    "image": "/images/level11/warned.webp"
+    "image": "/images/level11/warned.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-224",
@@ -3901,7 +4347,9 @@
     ],
     "example": "The siren alerted the town to the storm.",
     "hint": "Has 'alert' plus -ed.",
-    "image": "/images/level11/alerted.webp"
+    "image": "/images/level11/alerted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-225",
@@ -3919,7 +4367,9 @@
     ],
     "example": "She comforted her crying friend.",
     "hint": "Has 'comfort' plus -ed.",
-    "image": "/images/level11/comforted.webp"
+    "image": "/images/level11/comforted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-226",
@@ -3937,7 +4387,9 @@
     ],
     "example": "He consoled his brother after the loss.",
     "hint": "Has 'console' plus -d, similar to comforted.",
-    "image": "/images/level11/consoled.webp"
+    "image": "/images/level11/consoled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-227",
@@ -3957,7 +4409,9 @@
     ],
     "example": "She apologized for being late.",
     "hint": "Has 'apology' plus -ized.",
-    "image": "/images/level11/apologized.webp"
+    "image": "/images/level11/apologized.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-228",
@@ -3975,7 +4429,9 @@
     ],
     "example": "He forgave his friend for the mistake.",
     "hint": "Past tense of 'forgive'.",
-    "image": "/images/level11/forgave.webp"
+    "image": "/images/level11/forgave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-229",
@@ -3992,7 +4448,9 @@
     ],
     "example": "They blamed the weather for the delay.",
     "hint": "Has 'blame' plus -d.",
-    "image": "/images/level11/blamed.webp"
+    "image": "/images/level11/blamed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-230",
@@ -4010,7 +4468,9 @@
     ],
     "example": "She accused him of taking the last cookie.",
     "hint": "Has 'accuse' plus -d.",
-    "image": "/images/level11/accused.webp"
+    "image": "/images/level11/accused.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-231",
@@ -4028,7 +4488,9 @@
     ],
     "example": "He confessed to breaking the window.",
     "hint": "Double S before -ed — confessed the truth.",
-    "image": "/images/level11/confessed.webp"
+    "image": "/images/level11/confessed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-232",
@@ -4046,7 +4508,9 @@
     ],
     "example": "She admitted she had made a mistake.",
     "hint": "Double T before -ed.",
-    "image": "/images/level11/admitted.webp"
+    "image": "/images/level11/admitted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-233",
@@ -4063,7 +4527,9 @@
     ],
     "example": "He denied eating the last slice of cake.",
     "hint": "Y changes to I before -ed, opposite of admitted.",
-    "image": "/images/level11/denied.webp"
+    "image": "/images/level11/denied.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-234",
@@ -4081,7 +4547,9 @@
     ],
     "example": "She insisted on paying for dinner.",
     "hint": "Has 'insist' plus -ed.",
-    "image": "/images/level11/insisted.webp"
+    "image": "/images/level11/insisted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-235",
@@ -4098,7 +4566,9 @@
     ],
     "example": "The brothers argued about the last piece of pizza.",
     "hint": "Has 'argue' plus -d.",
-    "image": "/images/level11/argued.webp"
+    "image": "/images/level11/argued.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-236",
@@ -4116,7 +4586,9 @@
     ],
     "example": "The class debated the new school rule.",
     "hint": "Has 'debate' plus -d.",
-    "image": "/images/level11/debated.webp"
+    "image": "/images/level11/debated.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-237",
@@ -4134,7 +4606,9 @@
     ],
     "example": "She convinced her parents to get a puppy.",
     "hint": "Has 'convince' plus -d.",
-    "image": "/images/level11/convinced.webp"
+    "image": "/images/level11/convinced.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-238",
@@ -4152,7 +4626,9 @@
     ],
     "example": "He persuaded his friend to join the team.",
     "hint": "Has 'persuade' plus -d.",
-    "image": "/images/level11/persuaded.webp"
+    "image": "/images/level11/persuaded.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-239",
@@ -4170,7 +4646,9 @@
     ],
     "example": "She refused to give up her seat.",
     "hint": "Has 'refuse' plus -d.",
-    "image": "/images/level11/refused.webp"
+    "image": "/images/level11/refused.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-240",
@@ -4187,7 +4665,9 @@
     ],
     "example": "They agreed to meet at noon.",
     "hint": "Double E, opposite of refused.",
-    "image": "/images/level11/agreed.webp"
+    "image": "/images/level11/agreed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-241",
@@ -4205,7 +4685,9 @@
     ],
     "example": "He promised to call her tonight.",
     "hint": "Has 'promise' plus -d.",
-    "image": "/images/level11/promised.webp"
+    "image": "/images/level11/promised.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-242",
@@ -4222,7 +4704,9 @@
     ],
     "example": "She vowed to finish the race no matter what.",
     "hint": "Stronger than promised.",
-    "image": "/images/level11/vowed.webp"
+    "image": "/images/level11/vowed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-243",
@@ -4240,7 +4724,9 @@
     ],
     "example": "The storm threatened to flood the town.",
     "hint": "Has 'threat' plus -ened.",
-    "image": "/images/level11/threatened.webp"
+    "image": "/images/level11/threatened.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-244",
@@ -4257,7 +4743,9 @@
     ],
     "example": "He boasted about winning the race.",
     "hint": "Has 'boast' plus -ed.",
-    "image": "/images/level11/boasted.webp"
+    "image": "/images/level11/boasted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-245",
@@ -4274,7 +4762,9 @@
     ],
     "example": "She bragged about her new bicycle.",
     "hint": "Double G, similar to boasted.",
-    "image": "/images/level11/bragged.webp"
+    "image": "/images/level11/bragged.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-246",
@@ -4292,7 +4782,9 @@
     ],
     "example": "He complained about the cold soup.",
     "hint": "Has 'complain' plus -ed.",
-    "image": "/images/level11/complained.webp"
+    "image": "/images/level11/complained.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-247",
@@ -4309,7 +4801,9 @@
     ],
     "example": "She grumbled about the early morning class.",
     "hint": "Quieter than complained.",
-    "image": "/images/level11/grumbled.webp"
+    "image": "/images/level11/grumbled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-248",
@@ -4326,7 +4820,9 @@
     ],
     "example": "He sighed and closed the book.",
     "hint": "Silent GH, rhymes with 'tried'.",
-    "image": "/images/level11/sighed.webp"
+    "image": "/images/level11/sighed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-249",
@@ -4343,7 +4839,9 @@
     ],
     "example": "She yawned during the boring lecture.",
     "hint": "Has 'yawn' plus -ed.",
-    "image": "/images/level11/yawned.webp"
+    "image": "/images/level11/yawned.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-250",
@@ -4360,7 +4858,9 @@
     ],
     "example": "The cat stretched after its nap.",
     "hint": "Has 'stretch' plus -ed.",
-    "image": "/images/level11/stretched.webp"
+    "image": "/images/level11/stretched.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-251",
@@ -4377,7 +4877,9 @@
     ],
     "example": "Grandpa dozed off in his armchair.",
     "hint": "Has 'doze' plus -d.",
-    "image": "/images/level11/dozed.webp"
+    "image": "/images/level11/dozed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-252",
@@ -4396,7 +4898,9 @@
     ],
     "example": "The loud thunder awakened the baby.",
     "hint": "Has 'awaken' plus -ed.",
-    "image": "/images/level11/awakened.webp"
+    "image": "/images/level11/awakened.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-253",
@@ -4415,7 +4919,9 @@
     ],
     "example": "She recognized her old friend immediately.",
     "hint": "Has 'recognize' plus -d.",
-    "image": "/images/level11/recognized.webp"
+    "image": "/images/level11/recognized.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-254",
@@ -4434,7 +4940,9 @@
     ],
     "example": "He remembered his grandmother's birthday.",
     "hint": "Opposite of forgot.",
-    "image": "/images/level11/remembered.webp"
+    "image": "/images/level11/remembered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-255",
@@ -4451,7 +4959,9 @@
     ],
     "example": "She forgot her umbrella at home.",
     "hint": "Past tense of 'forget'.",
-    "image": "/images/level11/forgot.webp"
+    "image": "/images/level11/forgot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-256",
@@ -4470,7 +4980,9 @@
     ],
     "example": "He imagined himself flying over the city.",
     "hint": "Has 'imagine' plus -d.",
-    "image": "/images/level11/imagined.webp"
+    "image": "/images/level11/imagined.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-257",
@@ -4487,7 +4999,9 @@
     ],
     "example": "She dreamed about flying last night.",
     "hint": "Double E, has 'dream' plus -ed.",
-    "image": "/images/level11/dreamed.webp"
+    "image": "/images/level11/dreamed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-258",
@@ -4505,7 +5019,9 @@
     ],
     "example": "He wondered what was behind the door.",
     "hint": "Different from 'wandered' — one letter changes meaning.",
-    "image": "/images/level11/wondered.webp"
+    "image": "/images/level11/wondered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-259",
@@ -4523,7 +5039,9 @@
     ],
     "example": "She pondered the difficult question.",
     "hint": "Has 'ponder' plus -ed.",
-    "image": "/images/level11/pondered.webp"
+    "image": "/images/level11/pondered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-260",
@@ -4541,7 +5059,9 @@
     ],
     "example": "He reflected on the lessons he had learned.",
     "hint": "Has 'reflect' plus -ed.",
-    "image": "/images/level11/reflected.webp"
+    "image": "/images/level11/reflected.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-261",
@@ -4559,7 +5079,9 @@
     ],
     "example": "She decided to walk instead of drive.",
     "hint": "Has 'decide' plus -d.",
-    "image": "/images/level11/decided.webp"
+    "image": "/images/level11/decided.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-262",
@@ -4578,7 +5100,9 @@
     ],
     "example": "He was determined to finish the marathon.",
     "hint": "Has 'determine' plus -d.",
-    "image": "/images/level11/determined.webp"
+    "image": "/images/level11/determined.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-263",
@@ -4596,7 +5120,9 @@
     ],
     "example": "The jury concluded that he was innocent.",
     "hint": "Has 'conclude' plus -d.",
-    "image": "/images/level11/concluded.webp"
+    "image": "/images/level11/concluded.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-264",
@@ -4614,7 +5140,9 @@
     ],
     "example": "She assumed the store was still open.",
     "hint": "Has 'assume' plus -d.",
-    "image": "/images/level11/assumed.webp"
+    "image": "/images/level11/assumed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-265",
@@ -4632,7 +5160,9 @@
     ],
     "example": "The weatherman predicted heavy rain.",
     "hint": "Has 'predict' plus -ed.",
-    "image": "/images/level11/predicted.webp"
+    "image": "/images/level11/predicted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-266",
@@ -4650,7 +5180,9 @@
     ],
     "example": "They expected the bus to arrive on time.",
     "hint": "Has 'expect' plus -ed.",
-    "image": "/images/level11/expected.webp"
+    "image": "/images/level11/expected.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-267",
@@ -4670,7 +5202,9 @@
     ],
     "example": "She anticipated a fun trip to the zoo.",
     "hint": "Longer word than expected, same idea.",
-    "image": "/images/level11/anticipated.webp"
+    "image": "/images/level11/anticipated.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-268",
@@ -4688,7 +5222,9 @@
     ],
     "example": "The detective suspected the butler.",
     "hint": "Has 'suspect' plus -ed.",
-    "image": "/images/level11/suspected.webp"
+    "image": "/images/level11/suspected.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-269",
@@ -4707,7 +5243,9 @@
     ],
     "example": "Their trip to the jungle was a great adventure.",
     "hint": "Has 'venture' hidden inside.",
-    "image": "/images/level11/adventure.webp"
+    "image": "/images/level11/adventure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-270",
@@ -4725,7 +5263,9 @@
     ],
     "example": "The old house was full of mystery.",
     "hint": "Rhymes with 'history'.",
-    "image": "/images/level11/mystery.webp"
+    "image": "/images/level11/mystery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-271",
@@ -4743,7 +5283,9 @@
     ],
     "example": "It took courage to speak in front of the class.",
     "hint": "Has 'rage' hidden inside — cou-RAGE.",
-    "image": "/images/level11/courage.webp"
+    "image": "/images/level11/courage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-272",
@@ -4760,7 +5302,9 @@
     ],
     "example": "Their journey across the desert took weeks.",
     "hint": "Silent-feeling OU sound.",
-    "image": "/images/level11/journey.webp"
+    "image": "/images/level11/journey.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-273",
@@ -4778,7 +5322,9 @@
     ],
     "example": "The pirates buried their treasure on the island.",
     "hint": "Has 'sure' sound at the end — trea-SURE.",
-    "image": "/images/level11/treasure.webp"
+    "image": "/images/level11/treasure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-274",
@@ -4795,7 +5341,9 @@
     ],
     "example": "The legend of the lost city fascinated them.",
     "hint": "Ends in -end like 'friend'.",
-    "image": "/images/level11/legend.webp"
+    "image": "/images/level11/legend.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-275",
@@ -4813,7 +5361,9 @@
     ],
     "example": "She made her fortune selling paintings.",
     "hint": "Has 'fort' hidden inside.",
-    "image": "/images/level11/fortune.webp"
+    "image": "/images/level11/fortune.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-276",
@@ -4831,7 +5381,9 @@
     ],
     "example": "He believed it was his destiny to be a hero.",
     "hint": "Rhymes with 'density'.",
-    "image": "/images/level11/destiny.webp"
+    "image": "/images/level11/destiny.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-277",
@@ -4848,7 +5400,9 @@
     ],
     "example": "The old owl was known for its wisdom.",
     "hint": "Has 'wise' hidden inside.",
-    "image": "/images/level11/wisdom.webp"
+    "image": "/images/level11/wisdom.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-278",
@@ -4865,7 +5419,9 @@
     ],
     "example": "The bird enjoyed its freedom in the open sky.",
     "hint": "Has 'free' plus -dom.",
-    "image": "/images/level11/freedom.webp"
+    "image": "/images/level11/freedom.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-279",
@@ -4883,7 +5439,9 @@
     ],
     "example": "The judge worked hard to ensure justice.",
     "hint": "Has 'just' hidden inside.",
-    "image": "/images/level11/justice.webp"
+    "image": "/images/level11/justice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-280",
@@ -4900,7 +5458,9 @@
     ],
     "example": "The knight showed great loyalty to his king.",
     "hint": "Has 'loyal' plus -ty.",
-    "image": "/images/level11/loyalty.webp"
+    "image": "/images/level11/loyalty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-281",
@@ -4917,7 +5477,9 @@
     ],
     "example": "She accepted the award with honor.",
     "hint": "Silent H, rhymes with 'donor'.",
-    "image": "/images/level11/honor.webp"
+    "image": "/images/level11/honor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-282",
@@ -4933,7 +5495,9 @@
     ],
     "example": "Winning the championship was a great triumph.",
     "hint": "Silent-feeling PH makes an 'f' sound.",
-    "image": "/images/level11/triumph.webp"
+    "image": "/images/level11/triumph.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-283",
@@ -4951,7 +5515,9 @@
     ],
     "example": "The team celebrated their victory all night.",
     "hint": "Has 'victor' plus -y.",
-    "image": "/images/level11/victory.webp"
+    "image": "/images/level11/victory.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-284",
@@ -4968,7 +5534,9 @@
     ],
     "example": "Learning to read was a struggle at first.",
     "hint": "Silent-feeling GG before -le.",
-    "image": "/images/level11/struggle.webp"
+    "image": "/images/level11/struggle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-285",
@@ -4985,7 +5553,9 @@
     ],
     "example": "The two neighbors had a conflict over the fence.",
     "hint": "Has 'flick' sound hidden — con-FLICT.",
-    "image": "/images/level11/conflict.webp"
+    "image": "/images/level11/conflict.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-286",
@@ -5001,7 +5571,9 @@
     ],
     "example": "The power outage caused chaos in the city.",
     "hint": "Tricky CH makes a 'k' sound.",
-    "image": "/images/level11/chaos.webp"
+    "image": "/images/level11/chaos.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-287",
@@ -5019,7 +5591,9 @@
     ],
     "example": "The choir sang in perfect harmony.",
     "hint": "Has 'harm' hidden but means peace, not harm!",
-    "image": "/images/level11/harmony.webp"
+    "image": "/images/level11/harmony.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-288",
@@ -5038,7 +5612,9 @@
     ],
     "example": "He enjoyed the solitude of the quiet forest.",
     "hint": "Has 'solo' related root.",
-    "image": "/images/level11/solitude.webp"
+    "image": "/images/level11/solitude.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-289",
@@ -5057,7 +5633,9 @@
     ],
     "example": "The dog gave her comfort and companionship.",
     "hint": "Has 'companion' plus -ship.",
-    "image": "/images/level11/companionship.webp"
+    "image": "/images/level11/companionship.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-290",
@@ -5074,7 +5652,9 @@
     ],
     "example": "Their friendship lasted for over twenty years.",
     "hint": "Has 'friend' plus -ship.",
-    "image": "/images/level11/friendship.webp"
+    "image": "/images/level11/friendship.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-291",
@@ -5091,7 +5671,9 @@
     ],
     "example": "The betrayal by his friend hurt him deeply.",
     "hint": "Has 'betray' plus -al.",
-    "image": "/images/level11/betrayal.webp"
+    "image": "/images/level11/betrayal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-292",
@@ -5110,7 +5692,9 @@
     ],
     "example": "She asked for forgiveness after the argument.",
     "hint": "Has 'forgive' plus -ness.",
-    "image": "/images/level11/forgiveness.webp"
+    "image": "/images/level11/forgiveness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-293",
@@ -5127,7 +5711,9 @@
     ],
     "example": "He felt despair after losing the match.",
     "hint": "Rhymes with 'repair'.",
-    "image": "/images/level11/despair.webp"
+    "image": "/images/level11/despair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-294",
@@ -5144,7 +5730,9 @@
     ],
     "example": "She never lost hope during the storm.",
     "hint": "Silent 'e' makes the 'o' long.",
-    "image": "/images/level11/hope.webp"
+    "image": "/images/level11/hope.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-295",
@@ -5160,7 +5748,9 @@
     ],
     "example": "The children shouted with joy at the fair.",
     "hint": "Rhymes with 'toy'.",
-    "image": "/images/level11/joy.webp"
+    "image": "/images/level11/joy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-296",
@@ -5177,7 +5767,9 @@
     ],
     "example": "He tried to control his anger during the debate.",
     "hint": "Rhymes with 'hanger'.",
-    "image": "/images/level11/anger.webp"
+    "image": "/images/level11/anger.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-297",
@@ -5193,7 +5785,9 @@
     ],
     "example": "She overcame her fear of heights.",
     "hint": "Double E-A vowel team.",
-    "image": "/images/level11/fear.webp"
+    "image": "/images/level11/fear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-298",
@@ -5210,7 +5804,9 @@
     ],
     "example": "His kindness to strangers was well known.",
     "hint": "Has 'kind' plus -ness.",
-    "image": "/images/level11/kindness.webp"
+    "image": "/images/level11/kindness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-299",
@@ -5227,7 +5823,9 @@
     ],
     "example": "The story warned against cruelty to animals.",
     "hint": "Has 'cruel' plus -ty.",
-    "image": "/images/level11/cruelty.webp"
+    "image": "/images/level11/cruelty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-300",
@@ -5245,7 +5843,9 @@
     ],
     "example": "She was honored for her bravery in the fire.",
     "hint": "Has 'brave' plus -ry.",
-    "image": "/images/level11/bravery.webp"
+    "image": "/images/level11/bravery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-301",
@@ -5264,7 +5864,9 @@
     ],
     "example": "Running away was seen as cowardice.",
     "hint": "Has 'coward' plus -ice.",
-    "image": "/images/level11/cowardice.webp"
+    "image": "/images/level11/cowardice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-302",
@@ -5281,7 +5883,9 @@
     ],
     "example": "The children stared in wonder at the fireworks.",
     "hint": "Has 'won' hidden inside.",
-    "image": "/images/level11/wonder.webp"
+    "image": "/images/level11/wonder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-303",
@@ -5301,7 +5905,9 @@
     ],
     "example": "Her imagination filled the story with dragons.",
     "hint": "Has 'imagine' plus -ation.",
-    "image": "/images/level11/imagination.webp"
+    "image": "/images/level11/imagination.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-304",
@@ -5319,7 +5925,9 @@
     ],
     "example": "He had fond memories of his childhood home.",
     "hint": "Rhymes with 'summary'.",
-    "image": "/images/level11/memory.webp"
+    "image": "/images/level11/memory.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-305",
@@ -5336,7 +5944,9 @@
     ],
     "example": "She kept the surprise party a secret.",
     "hint": "Double E, silent-feeling C sound.",
-    "image": "/images/level11/secret.webp"
+    "image": "/images/level11/secret.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-306",
@@ -5353,7 +5963,9 @@
     ],
     "example": "He solved the riddle in just a minute.",
     "hint": "Double D before -le.",
-    "image": "/images/level11/riddle.webp"
+    "image": "/images/level11/riddle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-307",
@@ -5369,7 +5981,9 @@
     ],
     "example": "The footprint was an important clue.",
     "hint": "Silent U, rhymes with 'blue'.",
-    "image": "/images/level11/clue.webp"
+    "image": "/images/level11/clue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-308",
@@ -5388,7 +6002,9 @@
     ],
     "example": "The detective gathered evidence at the scene.",
     "hint": "Ends in -ence, not -ance.",
-    "image": "/images/level11/evidence.webp"
+    "image": "/images/level11/evidence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-309",
@@ -5406,7 +6022,9 @@
     ],
     "example": "Her strange behavior raised suspicion.",
     "hint": "Ends in -cion (not -cious), sounds like 'shun'.",
-    "image": "/images/level11/suspicion.webp"
+    "image": "/images/level11/suspicion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-310",
@@ -5423,7 +6041,9 @@
     ],
     "example": "The bird flew south by instinct.",
     "hint": "Silent-feeling C before -t.",
-    "image": "/images/level11/instinct.webp"
+    "image": "/images/level11/instinct.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-311",
@@ -5441,7 +6061,9 @@
     ],
     "example": "Her intuition told her something was wrong.",
     "hint": "Two 'ti's both sound like 'sh'.",
-    "image": "/images/level11/intuition.webp"
+    "image": "/images/level11/intuition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-312",
@@ -5461,7 +6083,9 @@
     ],
     "example": "His determination helped him finish the race.",
     "hint": "Has 'determine' plus -ation.",
-    "image": "/images/level11/determination.webp"
+    "image": "/images/level11/determination.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-313",
@@ -5479,7 +6103,9 @@
     ],
     "example": "Her ambition was to become a doctor.",
     "hint": "Tricky 'ti' sounds like 'sh' — ambitious dreams.",
-    "image": "/images/level11/ambition.webp"
+    "image": "/images/level11/ambition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-314",
@@ -5498,7 +6124,9 @@
     ],
     "example": "Winning the award was a great achievement.",
     "hint": "Has 'achieve' plus -ment, i before e.",
-    "image": "/images/level11/achievement.webp"
+    "image": "/images/level11/achievement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-315",
@@ -5516,7 +6144,9 @@
     ],
     "example": "Climbing the mountain was a real challenge.",
     "hint": "Silent-feeling G before -e.",
-    "image": "/images/level11/challenge.webp"
+    "image": "/images/level11/challenge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-316",
@@ -5535,7 +6165,9 @@
     ],
     "example": "Being late had a serious consequence.",
     "hint": "Ends in -ence, tricky 'qu'.",
-    "image": "/images/level11/consequence.webp"
+    "image": "/images/level11/consequence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-317",
@@ -5552,7 +6184,9 @@
     ],
     "example": "She received a reward for her honesty.",
     "hint": "Opposite of punishment.",
-    "image": "/images/level11/reward.webp"
+    "image": "/images/level11/reward.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-318",
@@ -5570,7 +6204,9 @@
     ],
     "example": "The punishment for lying was losing screen time.",
     "hint": "Has 'punish' plus -ment.",
-    "image": "/images/level11/punishment.webp"
+    "image": "/images/level11/punishment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-319",
@@ -5589,7 +6225,9 @@
     ],
     "example": "The whole town joined the celebration.",
     "hint": "Has 'celebrate' plus -ion.",
-    "image": "/images/level11/celebration.webp"
+    "image": "/images/level11/celebration.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-320",
@@ -5608,7 +6246,9 @@
     ],
     "example": "They held a ceremony to open the new school.",
     "hint": "Rhymes with 'testimony'.",
-    "image": "/images/level11/ceremony.webp"
+    "image": "/images/level11/ceremony.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-321",
@@ -5626,7 +6266,9 @@
     ],
     "example": "Baking bread was a family tradition.",
     "hint": "Tricky 'ti' sounds like 'sh' — a family tradition.",
-    "image": "/images/level11/tradition.webp"
+    "image": "/images/level11/tradition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-322",
@@ -5643,7 +6285,9 @@
     ],
     "example": "It was the custom to bow before the king.",
     "hint": "Rhymes with 'blossom' pattern.",
-    "image": "/images/level11/custom.webp"
+    "image": "/images/level11/custom.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-323",
@@ -5660,7 +6304,9 @@
     ],
     "example": "The morning ritual included a cup of tea.",
     "hint": "Tricky 'tu' makes a 'ch' sound.",
-    "image": "/images/level11/ritual.webp"
+    "image": "/images/level11/ritual.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-324",
@@ -5679,7 +6325,9 @@
     ],
     "example": "The expedition to the mountain took a month.",
     "hint": "Tricky 'ti' sounds like 'sh' — an exciting trip.",
-    "image": "/images/level11/expedition.webp"
+    "image": "/images/level11/expedition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-325",
@@ -5696,7 +6344,9 @@
     ],
     "example": "The ship set sail on its voyage across the ocean.",
     "hint": "Silent-feeling AGE ending.",
-    "image": "/images/level11/voyage.webp"
+    "image": "/images/level11/voyage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-326",
@@ -5712,7 +6362,9 @@
     ],
     "example": "The knight went on a quest for the golden cup.",
     "hint": "Tricky 'qu' sound.",
-    "image": "/images/level11/quest.webp"
+    "image": "/images/level11/quest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-327",
@@ -5731,7 +6383,9 @@
     ],
     "example": "They made a pilgrimage to the ancient temple.",
     "hint": "Has 'pilgrim' plus -age.",
-    "image": "/images/level11/pilgrimage.webp"
+    "image": "/images/level11/pilgrimage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-328",
@@ -5749,7 +6403,9 @@
     ],
     "example": "They camped in the wilderness for a week.",
     "hint": "Has 'wild' plus -erness.",
-    "image": "/images/level11/wilderness.webp"
+    "image": "/images/level11/wilderness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-329",
@@ -5767,7 +6423,9 @@
     ],
     "example": "The sun set slowly over the horizon.",
     "hint": "Rhymes with 'Verizon' sound pattern.",
-    "image": "/images/level11/horizon.webp"
+    "image": "/images/level11/horizon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-330",
@@ -5785,7 +6443,9 @@
     ],
     "example": "The landscape was covered in golden wheat.",
     "hint": "Made of 'land' plus 'scape'.",
-    "image": "/images/level11/landscape.webp"
+    "image": "/images/level11/landscape.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-331",
@@ -5804,7 +6464,9 @@
     ],
     "example": "The wolves guarded their territory closely.",
     "hint": "Rhymes with 'category'.",
-    "image": "/images/level11/territory.webp"
+    "image": "/images/level11/territory.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-332",
@@ -5821,7 +6483,9 @@
     ],
     "example": "The kingdom was known for its golden towers.",
     "hint": "Has 'king' plus -dom.",
-    "image": "/images/level11/kingdom.webp"
+    "image": "/images/level11/kingdom.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-333",
@@ -5839,7 +6503,9 @@
     ],
     "example": "The ancient empire stretched across three continents.",
     "hint": "Rhymes with 'inspire'.",
-    "image": "/images/level11/empire.webp"
+    "image": "/images/level11/empire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-334",
@@ -5856,7 +6522,9 @@
     ],
     "example": "The fortress protected the town for centuries.",
     "hint": "Has 'fort' plus -ress.",
-    "image": "/images/level11/fortress.webp"
+    "image": "/images/level11/fortress.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-335",
@@ -5873,7 +6541,9 @@
     ],
     "example": "The castle stood on top of the hill.",
     "hint": "Silent T before -le.",
-    "image": "/images/level11/castle.webp"
+    "image": "/images/level11/castle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-336",
@@ -5890,7 +6560,9 @@
     ],
     "example": "The prisoner was locked in the dungeon.",
     "hint": "Tricky 'geon' ending sounds like 'jun'.",
-    "image": "/images/level11/dungeon.webp"
+    "image": "/images/level11/dungeon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-337",
@@ -5907,7 +6579,9 @@
     ],
     "example": "The king entered his private chamber.",
     "hint": "Silent-feeling B before -er.",
-    "image": "/images/level11/chamber.webp"
+    "image": "/images/level11/chamber.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-338",
@@ -5925,7 +6599,9 @@
     ],
     "example": "They ran down the long, empty corridor.",
     "hint": "Double R, rhymes with 'matador'.",
-    "image": "/images/level11/corridor.webp"
+    "image": "/images/level11/corridor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-339",
@@ -5943,7 +6619,9 @@
     ],
     "example": "They found a secret passage behind the wall.",
     "hint": "Double S before -age.",
-    "image": "/images/level11/passage.webp"
+    "image": "/images/level11/passage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-340",
@@ -5960,7 +6638,9 @@
     ],
     "example": "The train went through a long tunnel.",
     "hint": "Double N before -el.",
-    "image": "/images/level11/tunnel.webp"
+    "image": "/images/level11/tunnel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-341",
@@ -5977,7 +6657,9 @@
     ],
     "example": "They explored a deep, dark cavern.",
     "hint": "Has 'cave' related root.",
-    "image": "/images/level11/cavern.webp"
+    "image": "/images/level11/cavern.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-342",
@@ -5993,7 +6675,9 @@
     ],
     "example": "The lighthouse stood on the edge of the cliff.",
     "hint": "Double F, rhymes with 'stiff'.",
-    "image": "/images/level11/cliff.webp"
+    "image": "/images/level11/cliff.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-343",
@@ -6010,7 +6694,9 @@
     ],
     "example": "The river carved a canyon over millions of years.",
     "hint": "Rhymes with 'banyan'.",
-    "image": "/images/level11/canyon.webp"
+    "image": "/images/level11/canyon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-344",
@@ -6027,7 +6713,9 @@
     ],
     "example": "The glacier moved just a few inches a year.",
     "hint": "The 'ci' sounds like 'sh' — a glacier of ice.",
-    "image": "/images/level11/glacier.webp"
+    "image": "/images/level11/glacier.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-345",
@@ -6045,7 +6733,9 @@
     ],
     "example": "The volcano erupted with a huge cloud of ash.",
     "hint": "Ends in -ano like 'piano'.",
-    "image": "/images/level11/volcano.webp"
+    "image": "/images/level11/volcano.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-346",
@@ -6063,7 +6753,9 @@
     ],
     "example": "The tornado ripped through the small town.",
     "hint": "Ends in -ado like 'avocado'.",
-    "image": "/images/level11/tornado.webp"
+    "image": "/images/level11/tornado.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-347",
@@ -6082,7 +6774,9 @@
     ],
     "example": "The hurricane knocked down several trees.",
     "hint": "Silent-feeling final E.",
-    "image": "/images/level11/hurricane.webp"
+    "image": "/images/level11/hurricane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-348",
@@ -6099,7 +6793,9 @@
     ],
     "example": "The blizzard buried the town in snow.",
     "hint": "Double Z, rhymes with 'wizard'.",
-    "image": "/images/level11/blizzard.webp"
+    "image": "/images/level11/blizzard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-349",
@@ -6115,7 +6811,9 @@
     ],
     "example": "The drought damaged the entire harvest.",
     "hint": "Silent GH, rhymes with 'shout'.",
-    "image": "/images/level11/drought.webp"
+    "image": "/images/level11/drought.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-350",
@@ -6133,7 +6831,9 @@
     ],
     "example": "The famine forced many families to leave.",
     "hint": "Rhymes with 'examine' pattern.",
-    "image": "/images/level11/famine.webp"
+    "image": "/images/level11/famine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-351",
@@ -6150,7 +6850,9 @@
     ],
     "example": "The plague spread quickly through the city.",
     "hint": "Silent-feeling UE ending.",
-    "image": "/images/level11/plague.webp"
+    "image": "/images/level11/plague.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-352",
@@ -6169,7 +6871,9 @@
     ],
     "example": "Doctors worked hard to stop the epidemic.",
     "hint": "Has 'demic' — think 'pandemic'.",
-    "image": "/images/level11/epidemic.webp"
+    "image": "/images/level11/epidemic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-353",
@@ -6187,7 +6891,9 @@
     ],
     "example": "The rebellion against the unfair king grew strong.",
     "hint": "Has 'rebel' plus -ion.",
-    "image": "/images/level11/rebellion.webp"
+    "image": "/images/level11/rebellion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-354",
@@ -6206,7 +6912,9 @@
     ],
     "example": "The revolution changed the country forever.",
     "hint": "Has 'revolve' related root.",
-    "image": "/images/level11/revolution.webp"
+    "image": "/images/level11/revolution.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-355",
@@ -6224,7 +6932,9 @@
     ],
     "example": "The uprising began after the unfair tax.",
     "hint": "Made of 'up' plus 'rising'.",
-    "image": "/images/level11/uprising.webp"
+    "image": "/images/level11/uprising.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-356",
@@ -6242,7 +6952,9 @@
     ],
     "example": "The two kingdoms formed an alliance.",
     "hint": "Has 'ally' related root.",
-    "image": "/images/level11/alliance.webp"
+    "image": "/images/level11/alliance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-357",
@@ -6259,7 +6971,9 @@
     ],
     "example": "The two armies agreed to a truce.",
     "hint": "Silent-feeling E ending, rhymes with 'spruce'.",
-    "image": "/images/level11/truce.webp"
+    "image": "/images/level11/truce.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-358",
@@ -6277,7 +6991,9 @@
     ],
     "example": "The rivalry between the two teams was intense.",
     "hint": "Has 'rival' plus -ry.",
-    "image": "/images/level11/rivalry.webp"
+    "image": "/images/level11/rivalry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-359",
@@ -6295,7 +7011,9 @@
     ],
     "example": "The chess tournament lasted all weekend.",
     "hint": "Has 'tourney' related root.",
-    "image": "/images/level11/tournament.webp"
+    "image": "/images/level11/tournament.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-360",
@@ -6313,7 +7031,9 @@
     ],
     "example": "The village held a festival every autumn.",
     "hint": "Has 'feast' related root.",
-    "image": "/images/level11/festival.webp"
+    "image": "/images/level11/festival.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-361",
@@ -6331,7 +7051,9 @@
     ],
     "example": "The carnival came to town with a giant ferris wheel.",
     "hint": "Rhymes with 'festival'.",
-    "image": "/images/level11/carnival.webp"
+    "image": "/images/level11/carnival.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-362",
@@ -6349,7 +7071,9 @@
     ],
     "example": "The whole town watched the parade go by.",
     "hint": "Silent 'e' at the end makes the 'a' before it long.",
-    "image": "/images/level11/parade.webp"
+    "image": "/images/level11/parade.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-363",
@@ -6367,7 +7091,9 @@
     ],
     "example": "The orchestra performed a beautiful symphony.",
     "hint": "Tricky CH sounds like 'k'.",
-    "image": "/images/level11/orchestra.webp"
+    "image": "/images/level11/orchestra.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-364",
@@ -6385,7 +7111,9 @@
     ],
     "example": "The composer wrote a symphony about the sea.",
     "hint": "PH makes an 'f' sound — a symphony orchestra.",
-    "image": "/images/level11/symphony.webp"
+    "image": "/images/level11/symphony.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-365",
@@ -6403,7 +7131,9 @@
     ],
     "example": "She hummed a sweet melody while walking.",
     "hint": "Rhymes with 'parody'.",
-    "image": "/images/level11/melody.webp"
+    "image": "/images/level11/melody.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-366",
@@ -6422,7 +7152,9 @@
     ],
     "example": "The painting was considered a true masterpiece.",
     "hint": "Made of 'master' plus 'piece'.",
-    "image": "/images/level11/masterpiece.webp"
+    "image": "/images/level11/masterpiece.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-367",
@@ -6440,7 +7172,9 @@
     ],
     "example": "The marble sculpture stood in the museum.",
     "hint": "Silent-feeling P before -ture.",
-    "image": "/images/level11/sculpture.webp"
+    "image": "/images/level11/sculpture.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-368",
@@ -6458,7 +7192,9 @@
     ],
     "example": "The ancient tapestry told the story of a battle.",
     "hint": "Has 'tape' hidden inside.",
-    "image": "/images/level11/tapestry.webp"
+    "image": "/images/level11/tapestry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-369",
@@ -6475,7 +7211,9 @@
     ],
     "example": "The artist painted a portrait of the queen.",
     "hint": "Silent T before -rait.",
-    "image": "/images/level11/portrait.webp"
+    "image": "/images/level11/portrait.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-370",
@@ -6493,7 +7231,9 @@
     ],
     "example": "The old manuscript was written by hand.",
     "hint": "Made of 'manu' plus 'script'.",
-    "image": "/images/level11/manuscript.webp"
+    "image": "/images/level11/manuscript.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-371",
@@ -6511,7 +7251,9 @@
     ],
     "example": "The book was a chronicle of the town's history.",
     "hint": "Tricky CH makes a 'k' sound — a chronicle of events.",
-    "image": "/images/level11/chronicle.webp"
+    "image": "/images/level11/chronicle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-372",
@@ -6528,7 +7270,9 @@
     ],
     "example": "The fable taught children about honesty.",
     "hint": "Silent B before -le.",
-    "image": "/images/level11/fable.webp"
+    "image": "/images/level11/fable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-373",
@@ -6546,7 +7290,9 @@
     ],
     "example": "The dragon appeared often in local folklore.",
     "hint": "Silent L, made of 'folk' plus 'lore'.",
-    "image": "/images/level11/folklore.webp"
+    "image": "/images/level11/folklore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-374",
@@ -6565,7 +7311,9 @@
     ],
     "example": "Greek mythology has many famous heroes.",
     "hint": "Has 'myth' plus -ology.",
-    "image": "/images/level11/mythology.webp"
+    "image": "/images/level11/mythology.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-375",
@@ -6583,7 +7331,9 @@
     ],
     "example": "The old prophecy warned of a great flood.",
     "hint": "PH makes an 'f' sound — a prophecy foretold.",
-    "image": "/images/level11/prophecy.webp"
+    "image": "/images/level11/prophecy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-376",
@@ -6600,7 +7350,9 @@
     ],
     "example": "The black cat was seen as a bad omen.",
     "hint": "Rhymes with 'Roman'.",
-    "image": "/images/level11/omen.webp"
+    "image": "/images/level11/omen.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-377",
@@ -6617,7 +7369,9 @@
     ],
     "example": "The witch placed a curse on the castle.",
     "hint": "Silent-feeling E ending.",
-    "image": "/images/level11/curse.webp"
+    "image": "/images/level11/curse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-378",
@@ -6634,7 +7388,9 @@
     ],
     "example": "Good health is truly a blessing.",
     "hint": "Double S, opposite of curse.",
-    "image": "/images/level11/blessing.webp"
+    "image": "/images/level11/blessing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-379",
@@ -6652,7 +7408,9 @@
     ],
     "example": "The forest was under an ancient enchantment.",
     "hint": "Has 'enchant' plus -ment.",
-    "image": "/images/level11/enchantment.webp"
+    "image": "/images/level11/enchantment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-380",
@@ -6670,7 +7428,9 @@
     ],
     "example": "The wizard was skilled in sorcery.",
     "hint": "Has 'sorcerer' related root.",
-    "image": "/images/level11/sorcery.webp"
+    "image": "/images/level11/sorcery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-381",
@@ -6688,7 +7448,9 @@
     ],
     "example": "She saw her reflection in the still pond.",
     "hint": "Has 'reflect' plus -ion.",
-    "image": "/images/level11/reflection.webp"
+    "image": "/images/level11/reflection.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-382",
@@ -6706,7 +7468,9 @@
     ],
     "example": "The bird's silhouette appeared against the sunset.",
     "hint": "Silent H and T, tricky French spelling.",
-    "image": "/images/level11/silhouette.webp"
+    "image": "/images/level11/silhouette.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-383",
@@ -6723,7 +7487,9 @@
     ],
     "example": "Her voice made an echo in the cave.",
     "hint": "Ends in -cho, silent-feeling CH sound.",
-    "image": "/images/level11/echo.webp"
+    "image": "/images/level11/echo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-384",
@@ -6740,7 +7506,9 @@
     ],
     "example": "A murmur of voices filled the quiet hall.",
     "hint": "Repeated 'mur' syllable.",
-    "image": "/images/level11/murmur.webp"
+    "image": "/images/level11/murmur.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-385",
@@ -6759,7 +7527,9 @@
     ],
     "example": "Apparently, the train was delayed by an hour.",
     "hint": "Has 'apparent' plus -ly.",
-    "image": "/images/level11/apparently.webp"
+    "image": "/images/level11/apparently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-386",
@@ -6777,7 +7547,9 @@
     ],
     "example": "The sky gradually turned orange at sunset.",
     "hint": "Has 'gradual' plus -ly.",
-    "image": "/images/level11/gradually.webp"
+    "image": "/images/level11/gradually.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-387",
@@ -6795,7 +7567,9 @@
     ],
     "example": "Suddenly, the lights went out.",
     "hint": "Opposite of gradually.",
-    "image": "/images/level11/suddenly.webp"
+    "image": "/images/level11/suddenly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-388",
@@ -6814,7 +7588,9 @@
     ],
     "example": "They eventually found their way home.",
     "hint": "Has 'event' hidden inside.",
-    "image": "/images/level11/eventually.webp"
+    "image": "/images/level11/eventually.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-389",
@@ -6832,7 +7608,9 @@
     ],
     "example": "Meanwhile, back at the castle, the king waited.",
     "hint": "Made of 'mean' plus 'while'.",
-    "image": "/images/level11/meanwhile.webp"
+    "image": "/images/level11/meanwhile.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-390",
@@ -6850,7 +7628,9 @@
     ],
     "example": "The puppy instantly fell asleep.",
     "hint": "Has 'instant' plus -ly.",
-    "image": "/images/level11/instantly.webp"
+    "image": "/images/level11/instantly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-391",
@@ -6868,7 +7648,9 @@
     ],
     "example": "She frequently visits her grandmother.",
     "hint": "Has 'frequent' plus -ly.",
-    "image": "/images/level11/frequently.webp"
+    "image": "/images/level11/frequently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-392",
@@ -6886,7 +7668,9 @@
     ],
     "example": "He rarely misses a day of school.",
     "hint": "Has 'rare' plus -ly, opposite of frequently.",
-    "image": "/images/level11/rarely.webp"
+    "image": "/images/level11/rarely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-393",
@@ -6904,7 +7688,9 @@
     ],
     "example": "The dog was constantly barking at strangers.",
     "hint": "Has 'constant' plus -ly.",
-    "image": "/images/level11/constantly.webp"
+    "image": "/images/level11/constantly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-394",
@@ -6923,7 +7709,9 @@
     ],
     "example": "The two friends promised to be eternally loyal.",
     "hint": "Has 'eternal' plus -ly.",
-    "image": "/images/level11/eternally.webp"
+    "image": "/images/level11/eternally.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-395",
@@ -6943,7 +7731,9 @@
     ],
     "example": "The bridge was temporarily closed for repairs.",
     "hint": "Has 'temporary' plus -ily, opposite of eternally.",
-    "image": "/images/level11/temporarily.webp"
+    "image": "/images/level11/temporarily.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-396",
@@ -6960,7 +7750,9 @@
     ],
     "example": "She briefly explained the rules before the game.",
     "hint": "Double I-E, has 'brief' plus -ly.",
-    "image": "/images/level11/briefly.webp"
+    "image": "/images/level11/briefly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-397",
@@ -6978,7 +7770,9 @@
     ],
     "example": "He thoroughly cleaned his room before guests arrived.",
     "hint": "Silent-feeling GH, has 'thorough' plus -ly.",
-    "image": "/images/level11/thoroughly.webp"
+    "image": "/images/level11/thoroughly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-398",
@@ -6996,7 +7790,9 @@
     ],
     "example": "The bridge was only partially built.",
     "hint": "Has 'partial' plus -ly, opposite of thoroughly.",
-    "image": "/images/level11/partially.webp"
+    "image": "/images/level11/partially.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-399",
@@ -7013,7 +7809,9 @@
     ],
     "example": "The soup was slightly too salty.",
     "hint": "Has 'slight' plus -ly.",
-    "image": "/images/level11/slightly.webp"
+    "image": "/images/level11/slightly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-400",
@@ -7031,7 +7829,9 @@
     ],
     "example": "He was utterly exhausted after the trip.",
     "hint": "Double T, has 'utter' plus -ly.",
-    "image": "/images/level11/utterly.webp"
+    "image": "/images/level11/utterly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-401",
@@ -7051,7 +7851,9 @@
     ],
     "example": "She was absolutely certain about her answer.",
     "hint": "Has 'absolute' plus -ly.",
-    "image": "/images/level11/absolutely.webp"
+    "image": "/images/level11/absolutely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-402",
@@ -7069,7 +7871,9 @@
     ],
     "example": "He will certainly win the race.",
     "hint": "Has 'certain' plus -ly.",
-    "image": "/images/level11/certainly.webp"
+    "image": "/images/level11/certainly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-403",
@@ -7086,7 +7890,9 @@
     ],
     "example": "Perhaps it will rain later today.",
     "hint": "Made of 'per' plus 'haps'.",
-    "image": "/images/level11/perhaps.webp"
+    "image": "/images/level11/perhaps.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-404",
@@ -7105,7 +7911,9 @@
     ],
     "example": "Evidently, someone had already opened the door.",
     "hint": "Has 'evident' plus -ly.",
-    "image": "/images/level11/evidently.webp"
+    "image": "/images/level11/evidently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-405",
@@ -7123,7 +7931,9 @@
     ],
     "example": "Obviously, the plan needed more preparation.",
     "hint": "Has 'obvious' plus -ly.",
-    "image": "/images/level11/obviously.webp"
+    "image": "/images/level11/obviously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-406",
@@ -7142,7 +7952,9 @@
     ],
     "example": "Surprisingly, the shy boy won the debate.",
     "hint": "Has 'surprising' plus -ly.",
-    "image": "/images/level11/surprisingly.webp"
+    "image": "/images/level11/surprisingly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-407",
@@ -7162,7 +7974,9 @@
     ],
     "example": "The guests arrived unexpectedly early.",
     "hint": "Has 'un-' plus 'expected' plus -ly.",
-    "image": "/images/level11/unexpectedly.webp"
+    "image": "/images/level11/unexpectedly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-408",
@@ -7181,7 +7995,9 @@
     ],
     "example": "The city recovered remarkably fast after the storm.",
     "hint": "Has 'remarkable' plus -y.",
-    "image": "/images/level11/remarkably.webp"
+    "image": "/images/level11/remarkably.webp",
+    "partOfSpeech": "adverb",
+    "origin": "English"
   },
   {
     "id": "lvl11-409",
@@ -7200,7 +8016,9 @@
     ],
     "example": "The magician was incredibly skilled.",
     "hint": "Has 'incredible' plus -y.",
-    "image": "/images/level11/incredibly.webp"
+    "image": "/images/level11/incredibly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-410",
@@ -7220,7 +8038,9 @@
     ],
     "example": "The results were astonishingly good.",
     "hint": "Has 'astonishing' plus -ly.",
-    "image": "/images/level11/astonishingly.webp"
+    "image": "/images/level11/astonishingly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-411",
@@ -7238,7 +8058,9 @@
     ],
     "example": "She curiously peeked into the old box.",
     "hint": "Has 'curious' plus -ly.",
-    "image": "/images/level11/curiously.webp"
+    "image": "/images/level11/curiously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-412",
@@ -7257,7 +8079,9 @@
     ],
     "example": "The lights mysteriously turned off by themselves.",
     "hint": "Has 'mysterious' plus -ly.",
-    "image": "/images/level11/mysteriously.webp"
+    "image": "/images/level11/mysteriously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-413",
@@ -7276,7 +8100,9 @@
     ],
     "example": "He drove dangerously close to the edge.",
     "hint": "Has 'dangerous' plus -ly.",
-    "image": "/images/level11/dangerously.webp"
+    "image": "/images/level11/dangerously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-414",
@@ -7295,7 +8121,9 @@
     ],
     "example": "She carelessly left the door unlocked.",
     "hint": "Has 'careless' plus -ly.",
-    "image": "/images/level11/carelessly.webp"
+    "image": "/images/level11/carelessly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-415",
@@ -7313,7 +8141,9 @@
     ],
     "example": "He cautiously crossed the icy bridge.",
     "hint": "Has 'cautious' plus -ly, opposite of carelessly.",
-    "image": "/images/level11/cautiously.webp"
+    "image": "/images/level11/cautiously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-416",
@@ -7332,7 +8162,9 @@
     ],
     "example": "The dancer moved gracefully across the stage.",
     "hint": "Has 'graceful' plus -ly.",
-    "image": "/images/level11/gracefully.webp"
+    "image": "/images/level11/gracefully.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-417",
@@ -7350,7 +8182,9 @@
     ],
     "example": "He clumsily knocked over the vase.",
     "hint": "Y changes to I, opposite of gracefully.",
-    "image": "/images/level11/clumsily.webp"
+    "image": "/images/level11/clumsily.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-418",
@@ -7368,7 +8202,9 @@
     ],
     "example": "The cat silently crept through the grass.",
     "hint": "Has 'silent' plus -ly.",
-    "image": "/images/level11/silently.webp"
+    "image": "/images/level11/silently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-419",
@@ -7385,7 +8221,9 @@
     ],
     "example": "She gently placed the baby in the crib.",
     "hint": "Silent T before -ly.",
-    "image": "/images/level11/gently.webp"
+    "image": "/images/level11/gently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-420",
@@ -7403,7 +8241,9 @@
     ],
     "example": "The dog barked fiercely at the stranger.",
     "hint": "Has 'fierce' plus -ly.",
-    "image": "/images/level11/fiercely.webp"
+    "image": "/images/level11/fiercely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-421",
@@ -7421,7 +8261,9 @@
     ],
     "example": "She bravely stood up to the bully.",
     "hint": "Has 'brave' plus -ly.",
-    "image": "/images/level11/bravely.webp"
+    "image": "/images/level11/bravely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-422",
@@ -7439,7 +8281,9 @@
     ],
     "example": "The new student timidly raised her hand.",
     "hint": "Has 'timid' plus -ly, opposite of bravely.",
-    "image": "/images/level11/timidly.webp"
+    "image": "/images/level11/timidly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-423",
@@ -7457,7 +8301,9 @@
     ],
     "example": "He patiently waited in line for an hour.",
     "hint": "Has 'patient' plus -ly.",
-    "image": "/images/level11/patiently.webp"
+    "image": "/images/level11/patiently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-424",
@@ -7475,7 +8321,9 @@
     ],
     "example": "She hastily packed her bags before the trip.",
     "hint": "Y changes to I, has 'haste' related root.",
-    "image": "/images/level11/hastily.webp"
+    "image": "/images/level11/hastily.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-425",
@@ -7494,7 +8342,9 @@
     ],
     "example": "He reluctantly agreed to clean his room.",
     "hint": "Has 'reluctant' plus -ly.",
-    "image": "/images/level11/reluctantly.webp"
+    "image": "/images/level11/reluctantly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-426",
@@ -7512,7 +8362,9 @@
     ],
     "example": "The puppy eagerly waited by the door.",
     "hint": "Has 'eager' plus -ly.",
-    "image": "/images/level11/eagerly.webp"
+    "image": "/images/level11/eagerly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-427",
@@ -7532,7 +8384,9 @@
     ],
     "example": "She desperately searched for her lost cat.",
     "hint": "Has 'desperate' plus -ly.",
-    "image": "/images/level11/desperately.webp"
+    "image": "/images/level11/desperately.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-428",
@@ -7550,7 +8404,9 @@
     ],
     "example": "He furiously slammed the door shut.",
     "hint": "Has 'furious' plus -ly.",
-    "image": "/images/level11/furiously.webp"
+    "image": "/images/level11/furiously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-429",
@@ -7569,7 +8425,9 @@
     ],
     "example": "The baby slept peacefully through the night.",
     "hint": "Has 'peaceful' plus -ly.",
-    "image": "/images/level11/peacefully.webp"
+    "image": "/images/level11/peacefully.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-430",
@@ -7587,7 +8445,9 @@
     ],
     "example": "She nervously bit her nails before the interview.",
     "hint": "Has 'nervous' plus -ly.",
-    "image": "/images/level11/nervously.webp"
+    "image": "/images/level11/nervously.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-431",
@@ -7606,7 +8466,9 @@
     ],
     "example": "He confidently answered every question.",
     "hint": "Has 'confident' plus -ly, opposite of nervously.",
-    "image": "/images/level11/confidently.webp"
+    "image": "/images/level11/confidently.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-432",
@@ -7624,7 +8486,9 @@
     ],
     "example": "He awkwardly waved at the wrong person.",
     "hint": "Tricky 'wkw' letter cluster.",
-    "image": "/images/level11/awkwardly.webp"
+    "image": "/images/level11/awkwardly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-433",
@@ -7643,7 +8507,9 @@
     ],
     "example": "She gratefully accepted the warm meal.",
     "hint": "Has 'grateful' plus -ly.",
-    "image": "/images/level11/gratefully.webp"
+    "image": "/images/level11/gratefully.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-434",
@@ -7661,7 +8527,9 @@
     ],
     "example": "The acrobat's skill was truly astounding.",
     "hint": "Has 'astound' plus -ing.",
-    "image": "/images/level11/astounding.webp"
+    "image": "/images/level11/astounding.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-435",
@@ -7679,7 +8547,9 @@
     ],
     "example": "The view from the mountain was breathtaking.",
     "hint": "Made of 'breath' plus 'taking'.",
-    "image": "/images/level11/breathtaking.webp"
+    "image": "/images/level11/breathtaking.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-436",
@@ -7698,7 +8568,9 @@
     ],
     "example": "The storyteller gave a captivating performance.",
     "hint": "Has 'captive' related root — holds attention.",
-    "image": "/images/level11/captivating.webp"
+    "image": "/images/level11/captivating.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-437",
@@ -7716,7 +8588,9 @@
     ],
     "example": "The garden had an enchanting fragrance.",
     "hint": "Has 'enchant' plus -ing.",
-    "image": "/images/level11/enchanting.webp"
+    "image": "/images/level11/enchanting.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-438",
@@ -7733,7 +8607,9 @@
     ],
     "example": "The melody had a haunting quality.",
     "hint": "Has 'haunt' plus -ing.",
-    "image": "/images/level11/haunting.webp"
+    "image": "/images/level11/haunting.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-439",
@@ -7750,7 +8626,9 @@
     ],
     "example": "A dark shape came looming out of the fog.",
     "hint": "Double O, has 'loom' plus -ing.",
-    "image": "/images/level11/looming.webp"
+    "image": "/images/level11/looming.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-440",
@@ -7767,7 +8645,9 @@
     ],
     "example": "Something was lurking behind the old shed.",
     "hint": "Has 'lurk' plus -ing.",
-    "image": "/images/level11/lurking.webp"
+    "image": "/images/level11/lurking.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-441",
@@ -7784,7 +8664,9 @@
     ],
     "example": "The thief was skulking in the shadows.",
     "hint": "Similar meaning to lurking.",
-    "image": "/images/level11/skulking.webp"
+    "image": "/images/level11/skulking.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-442",
@@ -7801,7 +8683,9 @@
     ],
     "example": "The tiger was prowling through the jungle.",
     "hint": "Has 'prowl' plus -ing.",
-    "image": "/images/level11/prowling.webp"
+    "image": "/images/level11/prowling.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-443",
@@ -7818,7 +8702,9 @@
     ],
     "example": "The lion was stalking its prey in the grass.",
     "hint": "Has 'stalk' plus -ing.",
-    "image": "/images/level11/stalking.webp"
+    "image": "/images/level11/stalking.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-444",
@@ -7836,7 +8722,9 @@
     ],
     "example": "The soldiers were ambushed near the river.",
     "hint": "Has 'ambush' plus -ed.",
-    "image": "/images/level11/ambushed.webp"
+    "image": "/images/level11/ambushed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-445",
@@ -7854,7 +8742,9 @@
     ],
     "example": "The cat cornered the mouse near the wall.",
     "hint": "Has 'corner' plus -ed.",
-    "image": "/images/level11/cornered.webp"
+    "image": "/images/level11/cornered.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-446",
@@ -7871,7 +8761,9 @@
     ],
     "example": "The bird was trapped inside the net.",
     "hint": "Double P before -ed — trapped inside.",
-    "image": "/images/level11/trapped.webp"
+    "image": "/images/level11/trapped.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-447",
@@ -7888,7 +8780,9 @@
     ],
     "example": "The rabbit was snared by the hunter's trap.",
     "hint": "Silent 'e' makes the 'a' long, has 'snare' plus -d.",
-    "image": "/images/level11/snared.webp"
+    "image": "/images/level11/snared.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-448",
@@ -7906,7 +8800,9 @@
     ],
     "example": "The fly was ensnared in the spider's web.",
     "hint": "Has 'en-' plus 'snared'.",
-    "image": "/images/level11/ensnared.webp"
+    "image": "/images/level11/ensnared.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-449",
@@ -7924,7 +8820,9 @@
     ],
     "example": "The clever fox outwitted the hunter.",
     "hint": "Made of 'out' plus 'witted'.",
-    "image": "/images/level11/outwitted.webp"
+    "image": "/images/level11/outwitted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl11-450",
@@ -7942,6 +8840,8 @@
     ],
     "example": "The mouse outsmarted the cat again.",
     "hint": "Made of 'out' plus 'smarted', similar to outwitted.",
-    "image": "/images/level11/outsmarted.webp"
+    "image": "/images/level11/outsmarted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

@@ -14,7 +14,9 @@
     ],
     "example": "We watched the sunrise over the hills.",
     "hint": "Made of \"sun\" + \"rise\".",
-    "image": "/images/level9/sunrise.webp"
+    "image": "/images/level9/sunrise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-002",
@@ -31,7 +33,9 @@
     ],
     "example": "The sky turned orange at sunset.",
     "hint": "Made of \"sun\" + \"set\".",
-    "image": "/images/level9/sunset.webp"
+    "image": "/images/level9/sunset.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-003",
@@ -48,7 +52,9 @@
     ],
     "example": "He got a sunburn at the beach.",
     "hint": "Made of \"sun\" + \"burn\".",
-    "image": "/images/level9/sunburn.webp"
+    "image": "/images/level9/sunburn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-004",
@@ -65,7 +71,9 @@
     ],
     "example": "She threw a snowball at her brother.",
     "hint": "Made of \"snow\" + \"ball\".",
-    "image": "/images/level9/snowball.webp"
+    "image": "/images/level9/snowball.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-005",
@@ -82,7 +90,9 @@
     ],
     "example": "Each snowflake has its own shape.",
     "hint": "Made of \"snow\" + \"flake\".",
-    "image": "/images/level9/snowflake.webp"
+    "image": "/images/level9/snowflake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-006",
@@ -99,7 +109,9 @@
     ],
     "example": "School closed because of the snowstorm.",
     "hint": "Made of \"snow\" + \"storm\".",
-    "image": "/images/level9/snowstorm.webp"
+    "image": "/images/level9/snowstorm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-007",
@@ -116,7 +128,9 @@
     ],
     "example": "The region gets heavy rainfall in summer.",
     "hint": "Made of \"rain\" + \"fall\".",
-    "image": "/images/level9/rainfall.webp"
+    "image": "/images/level9/rainfall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-008",
@@ -133,7 +147,9 @@
     ],
     "example": "The thunderstorm knocked out the power.",
     "hint": "Made of \"thunder\" + \"storm\".",
-    "image": "/images/level9/thunderstorm.webp"
+    "image": "/images/level9/thunderstorm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-009",
@@ -150,7 +166,9 @@
     ],
     "example": "The windmill spun slowly in the breeze.",
     "hint": "Made of \"wind\" + \"mill\".",
-    "image": "/images/level9/windmill.webp"
+    "image": "/images/level9/windmill.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-010",
@@ -167,7 +185,9 @@
     ],
     "example": "We hiked to see the waterfall.",
     "hint": "Made of \"water\" + \"fall\".",
-    "image": "/images/level9/waterfall.webp"
+    "image": "/images/level9/waterfall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-011",
@@ -184,7 +204,9 @@
     ],
     "example": "We ate cold watermelon in summer.",
     "hint": "Made of \"water\" + \"melon\".",
-    "image": "/images/level9/watermelon.webp"
+    "image": "/images/level9/watermelon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-012",
@@ -201,7 +223,9 @@
     ],
     "example": "She collected seashells on the beach.",
     "hint": "Made of \"sea\" + \"shell\".",
-    "image": "/images/level9/seashell.webp"
+    "image": "/images/level9/seashell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-013",
@@ -218,7 +242,9 @@
     ],
     "example": "We saw a seahorse at the aquarium.",
     "hint": "Made of \"sea\" + \"horse\".",
-    "image": "/images/level9/seahorse.webp"
+    "image": "/images/level9/seahorse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-014",
@@ -235,7 +261,9 @@
     ],
     "example": "Seaweed washed up on the shore.",
     "hint": "Made of \"sea\" + \"weed\".",
-    "image": "/images/level9/seaweed.webp"
+    "image": "/images/level9/seaweed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-015",
@@ -252,7 +280,9 @@
     ],
     "example": "We found a starfish in the tide pool.",
     "hint": "Made of \"star\" + \"fish\".",
-    "image": "/images/level9/starfish.webp"
+    "image": "/images/level9/starfish.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-016",
@@ -269,7 +299,9 @@
     ],
     "example": "We finished the trip before daylight ended.",
     "hint": "Made of \"day\" + \"light\".",
-    "image": "/images/level9/daylight.webp"
+    "image": "/images/level9/daylight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-017",
@@ -286,7 +318,9 @@
     ],
     "example": "The farmers woke at daybreak.",
     "hint": "Made of \"day\" + \"break\".",
-    "image": "/images/level9/daybreak.webp"
+    "image": "/images/level9/daybreak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-018",
@@ -303,7 +337,9 @@
     ],
     "example": "We built a sandcastle on the beach.",
     "hint": "Made of \"sand\" + \"castle\".",
-    "image": "/images/level9/sandcastle.webp"
+    "image": "/images/level9/sandcastle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-019",
@@ -320,7 +356,9 @@
     ],
     "example": "The kids played in the sandbox.",
     "hint": "Made of \"sand\" + \"box\".",
-    "image": "/images/level9/sandbox.webp"
+    "image": "/images/level9/sandbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-020",
@@ -337,7 +375,9 @@
     ],
     "example": "The sandstorm made it hard to see.",
     "hint": "Made of \"sand\" + \"storm\".",
-    "image": "/images/level9/sandstorm.webp"
+    "image": "/images/level9/sandstorm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-021",
@@ -354,7 +394,9 @@
     ],
     "example": "Heavy rain caused a landslide.",
     "hint": "Made of \"land\" + \"slide\".",
-    "image": "/images/level9/landslide.webp"
+    "image": "/images/level9/landslide.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-022",
@@ -371,7 +413,9 @@
     ],
     "example": "The ship sailed past a giant iceberg.",
     "hint": "Made of \"ice\" + \"berg\".",
-    "image": "/images/level9/iceberg.webp"
+    "image": "/images/level9/iceberg.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-023",
@@ -388,7 +432,9 @@
     ],
     "example": "The icebreaker cleared a path through the ice.",
     "hint": "Made of \"ice\" + \"breaker\".",
-    "image": "/images/level9/icebreaker.webp"
+    "image": "/images/level9/icebreaker.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-024",
@@ -405,7 +451,9 @@
     ],
     "example": "He wore gloves to avoid frostbite.",
     "hint": "Made of \"frost\" + \"bite\".",
-    "image": "/images/level9/frostbite.webp"
+    "image": "/images/level9/frostbite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-025",
@@ -422,7 +470,9 @@
     ],
     "example": "Fireflies lit up the summer night.",
     "hint": "Made of \"fire\" + \"fly\".",
-    "image": "/images/level9/firefly.webp"
+    "image": "/images/level9/firefly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-026",
@@ -439,7 +489,9 @@
     ],
     "example": "We watched fireworks light up the sky.",
     "hint": "Made of \"fire\" + \"work\".",
-    "image": "/images/level9/firework.webp"
+    "image": "/images/level9/firework.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-027",
@@ -456,7 +508,9 @@
     ],
     "example": "The wildfire spread across the hills.",
     "hint": "Made of \"wild\" + \"fire\".",
-    "image": "/images/level9/wildfire.webp"
+    "image": "/images/level9/wildfire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-028",
@@ -473,7 +527,9 @@
     ],
     "example": "We found driftwood along the shore.",
     "hint": "Made of \"drift\" + \"wood\".",
-    "image": "/images/level9/driftwood.webp"
+    "image": "/images/level9/driftwood.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-029",
@@ -490,7 +546,9 @@
     ],
     "example": "We walked along the seashore.",
     "hint": "Made of \"sea\" + \"shore\".",
-    "image": "/images/level9/seashore.webp"
+    "image": "/images/level9/seashore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-030",
@@ -507,7 +565,9 @@
     ],
     "example": "Sheep grazed on the hillside.",
     "hint": "Made of \"hill\" + \"side\".",
-    "image": "/images/level9/hillside.webp"
+    "image": "/images/level9/hillside.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-031",
@@ -524,7 +584,9 @@
     ],
     "example": "A house stood on the hilltop.",
     "hint": "Made of \"hill\" + \"top\".",
-    "image": "/images/level9/hilltop.webp"
+    "image": "/images/level9/hilltop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-032",
@@ -541,7 +603,9 @@
     ],
     "example": "We drove through the peaceful countryside.",
     "hint": "Made of \"country\" + \"side\".",
-    "image": "/images/level9/countryside.webp"
+    "image": "/images/level9/countryside.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-033",
@@ -558,7 +622,9 @@
     ],
     "example": "We sat on the riverbank and fished.",
     "hint": "Made of \"river\" + \"bank\".",
-    "image": "/images/level9/riverbank.webp"
+    "image": "/images/level9/riverbank.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-034",
@@ -575,7 +641,9 @@
     ],
     "example": "The riverbed was dry in summer.",
     "hint": "Made of \"river\" + \"bed\".",
-    "image": "/images/level9/riverbed.webp"
+    "image": "/images/level9/riverbed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-035",
@@ -592,7 +660,9 @@
     ],
     "example": "We had a picnic lakeside.",
     "hint": "Made of \"lake\" + \"side\".",
-    "image": "/images/level9/lakeside.webp"
+    "image": "/images/level9/lakeside.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-036",
@@ -609,7 +679,9 @@
     ],
     "example": "Workers opened the floodgate.",
     "hint": "Made of \"flood\" + \"gate\".",
-    "image": "/images/level9/floodgate.webp"
+    "image": "/images/level9/floodgate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-037",
@@ -626,7 +698,9 @@
     ],
     "example": "Many animals live in the rainforest.",
     "hint": "Made of \"rain\" + \"forest\".",
-    "image": "/images/level9/rainforest.webp"
+    "image": "/images/level9/rainforest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-038",
@@ -643,7 +717,9 @@
     ],
     "example": "A bird sang from the treetop.",
     "hint": "Made of \"tree\" + \"top\".",
-    "image": "/images/level9/treetop.webp"
+    "image": "/images/level9/treetop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-039",
@@ -660,7 +736,9 @@
     ],
     "example": "The kids built a treehouse.",
     "hint": "Made of \"tree\" + \"house\".",
-    "image": "/images/level9/treehouse.webp"
+    "image": "/images/level9/treehouse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-040",
@@ -677,7 +755,9 @@
     ],
     "example": "A woodpecker tapped on the old tree.",
     "hint": "Made of \"wood\" + \"pecker\".",
-    "image": "/images/level9/woodpecker.webp"
+    "image": "/images/level9/woodpecker.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-041",
@@ -694,7 +774,9 @@
     ],
     "example": "A ladybug landed on the leaf.",
     "hint": "Made of \"lady\" + \"bug\".",
-    "image": "/images/level9/ladybug.webp"
+    "image": "/images/level9/ladybug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-042",
@@ -711,7 +793,9 @@
     ],
     "example": "A dragonfly hovered over the pond.",
     "hint": "Made of \"dragon\" + \"fly\".",
-    "image": "/images/level9/dragonfly.webp"
+    "image": "/images/level9/dragonfly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-043",
@@ -728,7 +812,9 @@
     ],
     "example": "A grasshopper jumped across the field.",
     "hint": "Made of \"grass\" + \"hopper\".",
-    "image": "/images/level9/grasshopper.webp"
+    "image": "/images/level9/grasshopper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-044",
@@ -745,7 +831,9 @@
     ],
     "example": "The honeybee flew from flower to flower.",
     "hint": "Made of \"honey\" + \"bee\".",
-    "image": "/images/level9/honeybee.webp"
+    "image": "/images/level9/honeybee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-045",
@@ -762,7 +850,9 @@
     ],
     "example": "A bumblebee buzzed around the garden.",
     "hint": "Made of \"bumble\" + \"bee\".",
-    "image": "/images/level9/bumblebee.webp"
+    "image": "/images/level9/bumblebee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-046",
@@ -779,7 +869,9 @@
     ],
     "example": "A housefly landed on the table.",
     "hint": "Made of \"house\" + \"fly\".",
-    "image": "/images/level9/housefly.webp"
+    "image": "/images/level9/housefly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-047",
@@ -796,7 +888,9 @@
     ],
     "example": "We caught a catfish in the river.",
     "hint": "Made of \"cat\" + \"fish\".",
-    "image": "/images/level9/catfish.webp"
+    "image": "/images/level9/catfish.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-048",
@@ -813,7 +907,9 @@
     ],
     "example": "A jellyfish drifted through the water.",
     "hint": "Made of \"jelly\" + \"fish\".",
-    "image": "/images/level9/jellyfish.webp"
+    "image": "/images/level9/jellyfish.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-049",
@@ -830,7 +926,9 @@
     ],
     "example": "The swordfish leaped out of the sea.",
     "hint": "Made of \"sword\" + \"fish\".",
-    "image": "/images/level9/swordfish.webp"
+    "image": "/images/level9/swordfish.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-050",
@@ -847,7 +945,9 @@
     ],
     "example": "She keeps a goldfish in a bowl.",
     "hint": "Made of \"gold\" + \"fish\".",
-    "image": "/images/level9/goldfish.webp"
+    "image": "/images/level9/goldfish.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-051",
@@ -864,7 +964,9 @@
     ],
     "example": "A blackbird sang in the tree.",
     "hint": "Made of \"black\" + \"bird\".",
-    "image": "/images/level9/blackbird.webp"
+    "image": "/images/level9/blackbird.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-052",
@@ -881,7 +983,9 @@
     ],
     "example": "A bluebird landed on the fence.",
     "hint": "Made of \"blue\" + \"bird\".",
-    "image": "/images/level9/bluebird.webp"
+    "image": "/images/level9/bluebird.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-053",
@@ -898,7 +1002,9 @@
     ],
     "example": "The mockingbird copied a car alarm.",
     "hint": "Made of \"mocking\" + \"bird\".",
-    "image": "/images/level9/mockingbird.webp"
+    "image": "/images/level9/mockingbird.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-054",
@@ -915,7 +1021,9 @@
     ],
     "example": "A hummingbird hovered near the flower.",
     "hint": "Made of \"humming\" + \"bird\".",
-    "image": "/images/level9/hummingbird.webp"
+    "image": "/images/level9/hummingbird.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-055",
@@ -932,7 +1040,9 @@
     ],
     "example": "A songbird sang at dawn.",
     "hint": "Made of \"song\" + \"bird\".",
-    "image": "/images/level9/songbird.webp"
+    "image": "/images/level9/songbird.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-056",
@@ -949,7 +1059,9 @@
     ],
     "example": "The bullfrog croaked loudly at night.",
     "hint": "Made of \"bull\" + \"frog\".",
-    "image": "/images/level9/bullfrog.webp"
+    "image": "/images/level9/bullfrog.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-057",
@@ -966,7 +1078,9 @@
     ],
     "example": "The bulldog napped on the porch.",
     "hint": "Made of \"bull\" + \"dog\".",
-    "image": "/images/level9/bulldog.webp"
+    "image": "/images/level9/bulldog.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-058",
@@ -983,7 +1097,9 @@
     ],
     "example": "The racehorse crossed the finish line first.",
     "hint": "Made of \"race\" + \"horse\".",
-    "image": "/images/level9/racehorse.webp"
+    "image": "/images/level9/racehorse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-059",
@@ -1000,7 +1116,9 @@
     ],
     "example": "The knight rode his warhorse.",
     "hint": "Made of \"war\" + \"horse\".",
-    "image": "/images/level9/warhorse.webp"
+    "image": "/images/level9/warhorse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-060",
@@ -1017,7 +1135,9 @@
     ],
     "example": "The blacksmith made a horseshoe.",
     "hint": "Made of \"horse\" + \"shoe\".",
-    "image": "/images/level9/horseshoe.webp"
+    "image": "/images/level9/horseshoe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-061",
@@ -1034,7 +1154,9 @@
     ],
     "example": "The cowboy rode across the ranch.",
     "hint": "Made of \"cow\" + \"boy\".",
-    "image": "/images/level9/cowboy.webp"
+    "image": "/images/level9/cowboy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-062",
@@ -1051,7 +1173,9 @@
     ],
     "example": "We stayed at an old farmhouse.",
     "hint": "Made of \"farm\" + \"house\".",
-    "image": "/images/level9/farmhouse.webp"
+    "image": "/images/level9/farmhouse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-063",
@@ -1068,7 +1192,9 @@
     ],
     "example": "Wide farmland stretched to the horizon.",
     "hint": "Made of \"farm\" + \"land\".",
-    "image": "/images/level9/farmland.webp"
+    "image": "/images/level9/farmland.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-064",
@@ -1085,7 +1211,9 @@
     ],
     "example": "Chickens ran around the farmyard.",
     "hint": "Made of \"farm\" + \"yard\".",
-    "image": "/images/level9/farmyard.webp"
+    "image": "/images/level9/farmyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-065",
@@ -1102,7 +1230,9 @@
     ],
     "example": "Pigs rested in the barnyard.",
     "hint": "Made of \"barn\" + \"yard\".",
-    "image": "/images/level9/barnyard.webp"
+    "image": "/images/level9/barnyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-066",
@@ -1119,7 +1249,9 @@
     ],
     "example": "She collected eggs from the henhouse.",
     "hint": "Made of \"hen\" + \"house\".",
-    "image": "/images/level9/henhouse.webp"
+    "image": "/images/level9/henhouse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-067",
@@ -1136,7 +1268,9 @@
     ],
     "example": "The dog slept in its doghouse.",
     "hint": "Made of \"dog\" + \"house\".",
-    "image": "/images/level9/doghouse.webp"
+    "image": "/images/level9/doghouse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-068",
@@ -1153,7 +1287,9 @@
     ],
     "example": "We hung a birdhouse in the tree.",
     "hint": "Made of \"bird\" + \"house\".",
-    "image": "/images/level9/birdhouse.webp"
+    "image": "/images/level9/birdhouse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-069",
@@ -1170,7 +1306,9 @@
     ],
     "example": "Sparrows splashed in the birdbath.",
     "hint": "Made of \"bird\" + \"bath\".",
-    "image": "/images/level9/birdbath.webp"
+    "image": "/images/level9/birdbath.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-070",
@@ -1187,7 +1325,9 @@
     ],
     "example": "The parrot lived in a birdcage.",
     "hint": "Made of \"bird\" + \"cage\".",
-    "image": "/images/level9/birdcage.webp"
+    "image": "/images/level9/birdcage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-071",
@@ -1204,7 +1344,9 @@
     ],
     "example": "Ants swarmed around the anthill.",
     "hint": "Made of \"ant\" + \"hill\".",
-    "image": "/images/level9/anthill.webp"
+    "image": "/images/level9/anthill.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-072",
@@ -1221,7 +1363,9 @@
     ],
     "example": "The beehive buzzed with activity.",
     "hint": "Made of \"bee\" + \"hive\".",
-    "image": "/images/level9/beehive.webp"
+    "image": "/images/level9/beehive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-073",
@@ -1238,7 +1382,9 @@
     ],
     "example": "Dew sparkled on the spiderweb.",
     "hint": "Made of \"spider\" + \"web\".",
-    "image": "/images/level9/spiderweb.webp"
+    "image": "/images/level9/spiderweb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-074",
@@ -1255,7 +1401,9 @@
     ],
     "example": "He squeezed toothpaste onto the brush.",
     "hint": "Made of \"tooth\" + \"paste\".",
-    "image": "/images/level9/toothpaste.webp"
+    "image": "/images/level9/toothpaste.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-075",
@@ -1272,7 +1420,9 @@
     ],
     "example": "He used a toothpick after dinner.",
     "hint": "Made of \"tooth\" + \"pick\".",
-    "image": "/images/level9/toothpick.webp"
+    "image": "/images/level9/toothpick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-076",
@@ -1289,7 +1439,9 @@
     ],
     "example": "She fixed her bun with a hairpin.",
     "hint": "Made of \"hair\" + \"pin\".",
-    "image": "/images/level9/hairpin.webp"
+    "image": "/images/level9/hairpin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-077",
@@ -1306,7 +1458,9 @@
     ],
     "example": "She tried a new hairstyle.",
     "hint": "Made of \"hair\" + \"style\".",
-    "image": "/images/level9/hairstyle.webp"
+    "image": "/images/level9/hairstyle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-078",
@@ -1323,7 +1477,9 @@
     ],
     "example": "She raised an eyebrow in surprise.",
     "hint": "Made of \"eye\" + \"brow\".",
-    "image": "/images/level9/eyebrow.webp"
+    "image": "/images/level9/eyebrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-079",
@@ -1340,7 +1496,9 @@
     ],
     "example": "A speck landed on her eyelash.",
     "hint": "Made of \"eye\" + \"lash\".",
-    "image": "/images/level9/eyelash.webp"
+    "image": "/images/level9/eyelash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-080",
@@ -1357,7 +1515,9 @@
     ],
     "example": "He closed his eyelid to rest.",
     "hint": "Made of \"eye\" + \"lid\".",
-    "image": "/images/level9/eyelid.webp"
+    "image": "/images/level9/eyelid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-081",
@@ -1374,7 +1534,9 @@
     ],
     "example": "Grandpa's eyesight is still sharp.",
     "hint": "Made of \"eye\" + \"sight\".",
-    "image": "/images/level9/eyesight.webp"
+    "image": "/images/level9/eyesight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-082",
@@ -1391,7 +1553,9 @@
     ],
     "example": "He had an earache after swimming.",
     "hint": "Made of \"ear\" + \"ache\".",
-    "image": "/images/level9/earache.webp"
+    "image": "/images/level9/earache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-083",
@@ -1408,7 +1572,9 @@
     ],
     "example": "She listened to music on her earphone.",
     "hint": "Made of \"ear\" + \"phone\".",
-    "image": "/images/level9/earphone.webp"
+    "image": "/images/level9/earphone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-084",
@@ -1425,7 +1591,9 @@
     ],
     "example": "Too much noise gave him a headache.",
     "hint": "Made of \"head\" + \"ache\".",
-    "image": "/images/level9/headache.webp"
+    "image": "/images/level9/headache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-085",
@@ -1442,7 +1610,9 @@
     ],
     "example": "He wore a headphone to study.",
     "hint": "Made of \"head\" + \"phone\".",
-    "image": "/images/level9/headphone.webp"
+    "image": "/images/level9/headphone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-086",
@@ -1459,7 +1629,9 @@
     ],
     "example": "The car's headlight lit up the road.",
     "hint": "Made of \"head\" + \"light\".",
-    "image": "/images/level9/headlight.webp"
+    "image": "/images/level9/headlight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-087",
@@ -1476,7 +1648,9 @@
     ],
     "example": "She wore a headband during her run.",
     "hint": "Made of \"head\" + \"band\".",
-    "image": "/images/level9/headband.webp"
+    "image": "/images/level9/headband.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-088",
@@ -1493,7 +1667,9 @@
     ],
     "example": "The headline announced big news.",
     "hint": "Made of \"head\" + \"line\".",
-    "image": "/images/level9/headline.webp"
+    "image": "/images/level9/headline.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-089",
@@ -1510,7 +1686,9 @@
     ],
     "example": "Sweat dripped from his forehead.",
     "hint": "Made of \"fore\" + \"head\".",
-    "image": "/images/level9/forehead.webp"
+    "image": "/images/level9/forehead.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-090",
@@ -1527,7 +1705,9 @@
     ],
     "example": "She painted her fingernail pink.",
     "hint": "Made of \"finger\" + \"nail\".",
-    "image": "/images/level9/fingernail.webp"
+    "image": "/images/level9/fingernail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-091",
@@ -1544,7 +1724,9 @@
     ],
     "example": "The detective checked the fingerprint.",
     "hint": "Made of \"finger\" + \"print\".",
-    "image": "/images/level9/fingerprint.webp"
+    "image": "/images/level9/fingerprint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-092",
@@ -1561,7 +1743,9 @@
     ],
     "example": "He touched it with his fingertip.",
     "hint": "Made of \"finger\" + \"tip\".",
-    "image": "/images/level9/fingertip.webp"
+    "image": "/images/level9/fingertip.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-093",
@@ -1578,7 +1762,9 @@
     ],
     "example": "He bit his thumbnail nervously.",
     "hint": "Made of \"thumb\" + \"nail\".",
-    "image": "/images/level9/thumbnail.webp"
+    "image": "/images/level9/thumbnail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-094",
@@ -1595,7 +1781,9 @@
     ],
     "example": "She carried a red handbag.",
     "hint": "Made of \"hand\" + \"bag\".",
-    "image": "/images/level9/handbag.webp"
+    "image": "/images/level9/handbag.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-095",
@@ -1612,7 +1800,9 @@
     ],
     "example": "The boys played handball in the yard.",
     "hint": "Made of \"hand\" + \"ball\".",
-    "image": "/images/level9/handball.webp"
+    "image": "/images/level9/handball.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-096",
@@ -1629,7 +1819,9 @@
     ],
     "example": "The officer used a handcuff.",
     "hint": "Made of \"hand\" + \"cuff\".",
-    "image": "/images/level9/handcuff.webp"
+    "image": "/images/level9/handcuff.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-097",
@@ -1646,7 +1838,9 @@
     ],
     "example": "She held the handrail on the stairs.",
     "hint": "Made of \"hand\" + \"rail\".",
-    "image": "/images/level9/handrail.webp"
+    "image": "/images/level9/handrail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-098",
@@ -1663,7 +1857,9 @@
     ],
     "example": "His handwriting was neat and clear.",
     "hint": "Made of \"hand\" + \"writing\".",
-    "image": "/images/level9/handwriting.webp"
+    "image": "/images/level9/handwriting.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-099",
@@ -1680,7 +1876,9 @@
     ],
     "example": "The handbook explained the rules.",
     "hint": "Made of \"hand\" + \"book\".",
-    "image": "/images/level9/handbook.webp"
+    "image": "/images/level9/handbook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-100",
@@ -1697,7 +1895,9 @@
     ],
     "example": "She gave a handmade gift.",
     "hint": "Made of \"hand\" + \"made\".",
-    "image": "/images/level9/handmade.webp"
+    "image": "/images/level9/handmade.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-101",
@@ -1714,7 +1914,9 @@
     ],
     "example": "She felt homesick at camp.",
     "hint": "Made of \"home\" + \"sick\".",
-    "image": "/images/level9/homesick.webp"
+    "image": "/images/level9/homesick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-102",
@@ -1731,7 +1933,9 @@
     ],
     "example": "He returned to his homeland.",
     "hint": "Made of \"home\" + \"land\".",
-    "image": "/images/level9/homeland.webp"
+    "image": "/images/level9/homeland.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-103",
@@ -1748,7 +1952,9 @@
     ],
     "example": "We ate homemade bread.",
     "hint": "Made of \"home\" + \"made\".",
-    "image": "/images/level9/homemade.webp"
+    "image": "/images/level9/homemade.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-104",
@@ -1765,7 +1971,9 @@
     ],
     "example": "The classroom was full of students.",
     "hint": "Made of \"class\" + \"room\".",
-    "image": "/images/level9/classroom.webp"
+    "image": "/images/level9/classroom.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-105",
@@ -1782,7 +1990,9 @@
     ],
     "example": "My classmate helped me with homework.",
     "hint": "Made of \"class\" + \"mate\".",
-    "image": "/images/level9/classmate.webp"
+    "image": "/images/level9/classmate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-106",
@@ -1799,7 +2009,9 @@
     ],
     "example": "The kids played in the playhouse.",
     "hint": "Made of \"play\" + \"house\".",
-    "image": "/images/level9/playhouse.webp"
+    "image": "/images/level9/playhouse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-107",
@@ -1816,7 +2028,9 @@
     ],
     "example": "The baby napped in the playpen.",
     "hint": "Made of \"play\" + \"pen\".",
-    "image": "/images/level9/playpen.webp"
+    "image": "/images/level9/playpen.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-108",
@@ -1833,7 +2047,9 @@
     ],
     "example": "She invited her playmate over.",
     "hint": "Made of \"play\" + \"mate\".",
-    "image": "/images/level9/playmate.webp"
+    "image": "/images/level9/playmate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-109",
@@ -1850,7 +2066,9 @@
     ],
     "example": "She washed the bedsheet on Sunday.",
     "hint": "Made of \"bed\" + \"sheet\".",
-    "image": "/images/level9/bedsheet.webp"
+    "image": "/images/level9/bedsheet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-110",
@@ -1867,7 +2085,9 @@
     ],
     "example": "A blue bedspread covered the bed.",
     "hint": "Made of \"bed\" + \"spread\".",
-    "image": "/images/level9/bedspread.webp"
+    "image": "/images/level9/bedspread.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-111",
@@ -1884,7 +2104,9 @@
     ],
     "example": "The bathtub filled with warm water.",
     "hint": "Made of \"bath\" + \"tub\".",
-    "image": "/images/level9/bathtub.webp"
+    "image": "/images/level9/bathtub.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-112",
@@ -1901,7 +2123,9 @@
     ],
     "example": "He wrapped himself in a bathrobe.",
     "hint": "Made of \"bath\" + \"robe\".",
-    "image": "/images/level9/bathrobe.webp"
+    "image": "/images/level9/bathrobe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-113",
@@ -1918,7 +2142,9 @@
     ],
     "example": "The kids played in the backyard.",
     "hint": "Made of \"back\" + \"yard\".",
-    "image": "/images/level9/backyard.webp"
+    "image": "/images/level9/backyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-114",
@@ -1935,7 +2161,9 @@
     ],
     "example": "The backbone supports the whole body.",
     "hint": "Made of \"back\" + \"bone\".",
-    "image": "/images/level9/backbone.webp"
+    "image": "/images/level9/backbone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-115",
@@ -1952,7 +2180,9 @@
     ],
     "example": "We entered through the backdoor.",
     "hint": "Made of \"back\" + \"door\".",
-    "image": "/images/level9/backdoor.webp"
+    "image": "/images/level9/backdoor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-116",
@@ -1969,7 +2199,9 @@
     ],
     "example": "Lifting boxes gave him a backache.",
     "hint": "Made of \"back\" + \"ache\".",
-    "image": "/images/level9/backache.webp"
+    "image": "/images/level9/backache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-117",
@@ -1986,7 +2218,9 @@
     ],
     "example": "Actors waited backstage.",
     "hint": "Made of \"back\" + \"stage\".",
-    "image": "/images/level9/backstage.webp"
+    "image": "/images/level9/backstage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-118",
@@ -2003,7 +2237,9 @@
     ],
     "example": "He stood in the doorway.",
     "hint": "Made of \"door\" + \"way\".",
-    "image": "/images/level9/doorway.webp"
+    "image": "/images/level9/doorway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-119",
@@ -2020,7 +2256,9 @@
     ],
     "example": "She rang the doorbell twice.",
     "hint": "Made of \"door\" + \"bell\".",
-    "image": "/images/level9/doorbell.webp"
+    "image": "/images/level9/doorbell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-120",
@@ -2037,7 +2275,9 @@
     ],
     "example": "The package sat on the doorstep.",
     "hint": "Made of \"door\" + \"step\".",
-    "image": "/images/level9/doorstep.webp"
+    "image": "/images/level9/doorstep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-121",
@@ -2054,7 +2294,9 @@
     ],
     "example": "She turned the doorknob slowly.",
     "hint": "Made of \"door\" + \"knob\".",
-    "image": "/images/level9/doorknob.webp"
+    "image": "/images/level9/doorknob.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-122",
@@ -2071,7 +2313,9 @@
     ],
     "example": "Wipe your shoes on the doormat.",
     "hint": "Made of \"door\" + \"mat\".",
-    "image": "/images/level9/doormat.webp"
+    "image": "/images/level9/doormat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-123",
@@ -2088,7 +2332,9 @@
     ],
     "example": "A cat sat on the windowsill.",
     "hint": "Made of \"window\" + \"sill\".",
-    "image": "/images/level9/windowsill.webp"
+    "image": "/images/level9/windowsill.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-124",
@@ -2105,7 +2351,9 @@
     ],
     "example": "He peeked through the keyhole.",
     "hint": "Made of \"key\" + \"hole\".",
-    "image": "/images/level9/keyhole.webp"
+    "image": "/images/level9/keyhole.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-125",
@@ -2122,7 +2370,9 @@
     ],
     "example": "She hung her keys on a keychain.",
     "hint": "Made of \"key\" + \"chain\".",
-    "image": "/images/level9/keychain.webp"
+    "image": "/images/level9/keychain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-126",
@@ -2139,7 +2389,9 @@
     ],
     "example": "He gave the keynote speech.",
     "hint": "Made of \"key\" + \"note\".",
-    "image": "/images/level9/keynote.webp"
+    "image": "/images/level9/keynote.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-127",
@@ -2156,7 +2408,9 @@
     ],
     "example": "She wrote a list on her notepad.",
     "hint": "Made of \"note\" + \"pad\".",
-    "image": "/images/level9/notepad.webp"
+    "image": "/images/level9/notepad.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-128",
@@ -2173,7 +2427,9 @@
     ],
     "example": "He opened his math textbook.",
     "hint": "Made of \"text\" + \"book\".",
-    "image": "/images/level9/textbook.webp"
+    "image": "/images/level9/textbook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-129",
@@ -2190,7 +2446,9 @@
     ],
     "example": "She filled in the workbook.",
     "hint": "Made of \"work\" + \"book\".",
-    "image": "/images/level9/workbook.webp"
+    "image": "/images/level9/workbook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-130",
@@ -2207,7 +2465,9 @@
     ],
     "example": "Mom found the recipe in her cookbook.",
     "hint": "Made of \"cook\" + \"book\".",
-    "image": "/images/level9/cookbook.webp"
+    "image": "/images/level9/cookbook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-131",
@@ -2224,7 +2484,9 @@
     ],
     "example": "He arranged his books on the bookshelf.",
     "hint": "Made of \"book\" + \"shelf\".",
-    "image": "/images/level9/bookshelf.webp"
+    "image": "/images/level9/bookshelf.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-132",
@@ -2241,7 +2503,9 @@
     ],
     "example": "The bookcase was full of stories.",
     "hint": "Made of \"book\" + \"case\".",
-    "image": "/images/level9/bookcase.webp"
+    "image": "/images/level9/bookcase.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-133",
@@ -2258,7 +2522,9 @@
     ],
     "example": "My sister is a real bookworm.",
     "hint": "Made of \"book\" + \"worm\".",
-    "image": "/images/level9/bookworm.webp"
+    "image": "/images/level9/bookworm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-134",
@@ -2275,7 +2541,9 @@
     ],
     "example": "She used a leaf as a bookmark.",
     "hint": "Made of \"book\" + \"mark\".",
-    "image": "/images/level9/bookmark.webp"
+    "image": "/images/level9/bookmark.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-135",
@@ -2292,7 +2560,9 @@
     ],
     "example": "Dad reads the newspaper every morning.",
     "hint": "Made of \"news\" + \"paper\".",
-    "image": "/images/level9/newspaper.webp"
+    "image": "/images/level9/newspaper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-136",
@@ -2309,7 +2579,9 @@
     ],
     "example": "He bought a magazine at the newsstand.",
     "hint": "Made of \"news\" + \"stand\".",
-    "image": "/images/level9/newsstand.webp"
+    "image": "/images/level9/newsstand.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-137",
@@ -2326,7 +2598,9 @@
     ],
     "example": "The school sent a monthly newsletter.",
     "hint": "Made of \"news\" + \"letter\".",
-    "image": "/images/level9/newsletter.webp"
+    "image": "/images/level9/newsletter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-138",
@@ -2343,7 +2617,9 @@
     ],
     "example": "A letter arrived in the mailbox.",
     "hint": "Made of \"mail\" + \"box\".",
-    "image": "/images/level9/mailbox.webp"
+    "image": "/images/level9/mailbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-139",
@@ -2360,7 +2636,9 @@
     ],
     "example": "The mailman came at noon.",
     "hint": "Made of \"mail\" + \"man\".",
-    "image": "/images/level9/mailman.webp"
+    "image": "/images/level9/mailman.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-140",
@@ -2377,7 +2655,9 @@
     ],
     "example": "She sent a postcard from the beach.",
     "hint": "Made of \"post\" + \"card\".",
-    "image": "/images/level9/postcard.webp"
+    "image": "/images/level9/postcard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-141",
@@ -2394,7 +2674,9 @@
     ],
     "example": "He kept his tools in a toolbox.",
     "hint": "Made of \"tool\" + \"box\".",
-    "image": "/images/level9/toolbox.webp"
+    "image": "/images/level9/toolbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-142",
@@ -2411,7 +2693,9 @@
     ],
     "example": "She packed her lunchbox for school.",
     "hint": "Made of \"lunch\" + \"box\".",
-    "image": "/images/level9/lunchbox.webp"
+    "image": "/images/level9/lunchbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-143",
@@ -2428,7 +2712,9 @@
     ],
     "example": "He stored old photos in a shoebox.",
     "hint": "Made of \"shoe\" + \"box\".",
-    "image": "/images/level9/shoebox.webp"
+    "image": "/images/level9/shoebox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-144",
@@ -2445,7 +2731,9 @@
     ],
     "example": "She found a matchbox in the drawer.",
     "hint": "Made of \"match\" + \"box\".",
-    "image": "/images/level9/matchbox.webp"
+    "image": "/images/level9/matchbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-145",
@@ -2462,7 +2750,9 @@
     ],
     "example": "Grandma still calls the fridge an icebox.",
     "hint": "Made of \"ice\" + \"box\".",
-    "image": "/images/level9/icebox.webp"
+    "image": "/images/level9/icebox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-146",
@@ -2479,7 +2769,9 @@
     ],
     "example": "She checked her email inbox.",
     "hint": "Made of \"in\" + \"box\".",
-    "image": "/images/level9/inbox.webp"
+    "image": "/images/level9/inbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-147",
@@ -2496,7 +2788,9 @@
     ],
     "example": "The letter sat in his outbox.",
     "hint": "Made of \"out\" + \"box\".",
-    "image": "/images/level9/outbox.webp"
+    "image": "/images/level9/outbox.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-148",
@@ -2513,7 +2807,9 @@
     ],
     "example": "He packed his suitcase for the trip.",
     "hint": "Made of \"suit\" + \"case\".",
-    "image": "/images/level9/suitcase.webp"
+    "image": "/images/level9/suitcase.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-149",
@@ -2530,7 +2826,9 @@
     ],
     "example": "Dad carried his briefcase to work.",
     "hint": "Made of \"brief\" + \"case\".",
-    "image": "/images/level9/briefcase.webp"
+    "image": "/images/level9/briefcase.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-150",
@@ -2547,7 +2845,9 @@
     ],
     "example": "She climbed the old staircase.",
     "hint": "Made of \"stair\" + \"case\".",
-    "image": "/images/level9/staircase.webp"
+    "image": "/images/level9/staircase.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-151",
@@ -2564,7 +2864,9 @@
     ],
     "example": "Trophies sat in the showcase.",
     "hint": "Made of \"show\" + \"case\".",
-    "image": "/images/level9/showcase.webp"
+    "image": "/images/level9/showcase.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-152",
@@ -2581,7 +2883,9 @@
     ],
     "example": "He wore a blue necktie.",
     "hint": "Made of \"neck\" + \"tie\".",
-    "image": "/images/level9/necktie.webp"
+    "image": "/images/level9/necktie.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-153",
@@ -2598,7 +2902,9 @@
     ],
     "example": "He wore a bowtie to the party.",
     "hint": "Made of \"bow\" + \"tie\".",
-    "image": "/images/level9/bowtie.webp"
+    "image": "/images/level9/bowtie.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-154",
@@ -2615,7 +2921,9 @@
     ],
     "example": "She wore an overcoat in winter.",
     "hint": "Made of \"over\" + \"coat\".",
-    "image": "/images/level9/overcoat.webp"
+    "image": "/images/level9/overcoat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-155",
@@ -2632,7 +2940,9 @@
     ],
     "example": "She slipped into her nightgown.",
     "hint": "Made of \"night\" + \"gown\".",
-    "image": "/images/level9/nightgown.webp"
+    "image": "/images/level9/nightgown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-156",
@@ -2649,7 +2959,9 @@
     ],
     "example": "He woke up from a nightmare.",
     "hint": "Made of \"night\" + \"mare\".",
-    "image": "/images/level9/nightmare.webp"
+    "image": "/images/level9/nightmare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-157",
@@ -2666,7 +2978,9 @@
     ],
     "example": "They returned home before nightfall.",
     "hint": "Made of \"night\" + \"fall\".",
-    "image": "/images/level9/nightfall.webp"
+    "image": "/images/level9/nightfall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-158",
@@ -2683,7 +2997,9 @@
     ],
     "example": "We took an overnight train.",
     "hint": "Made of \"over\" + \"night\".",
-    "image": "/images/level9/overnight.webp"
+    "image": "/images/level9/overnight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-159",
@@ -2700,7 +3016,9 @@
     ],
     "example": "The singer stood in the spotlight.",
     "hint": "Made of \"spot\" + \"light\".",
-    "image": "/images/level9/spotlight.webp"
+    "image": "/images/level9/spotlight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-160",
@@ -2717,7 +3035,9 @@
     ],
     "example": "The streetlight turned on at dusk.",
     "hint": "Made of \"street\" + \"light\".",
-    "image": "/images/level9/streetlight.webp"
+    "image": "/images/level9/streetlight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-161",
@@ -2734,7 +3054,9 @@
     ],
     "example": "They ate dinner by candlelight.",
     "hint": "Made of \"candle\" + \"light\".",
-    "image": "/images/level9/candlelight.webp"
+    "image": "/images/level9/candlelight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-162",
@@ -2751,7 +3073,9 @@
     ],
     "example": "Sunlight poured in through the skylight.",
     "hint": "Made of \"sky\" + \"light\".",
-    "image": "/images/level9/skylight.webp"
+    "image": "/images/level9/skylight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-163",
@@ -2768,7 +3092,9 @@
     ],
     "example": "The guard used a searchlight at night.",
     "hint": "Made of \"search\" + \"light\".",
-    "image": "/images/level9/searchlight.webp"
+    "image": "/images/level9/searchlight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-164",
@@ -2785,7 +3111,9 @@
     ],
     "example": "She felt her heartbeat quicken.",
     "hint": "Made of \"heart\" + \"beat\".",
-    "image": "/images/level9/heartbeat.webp"
+    "image": "/images/level9/heartbeat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-165",
@@ -2802,7 +3130,9 @@
     ],
     "example": "He heard a footstep behind him.",
     "hint": "Made of \"foot\" + \"step\".",
-    "image": "/images/level9/footstep.webp"
+    "image": "/images/level9/footstep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-166",
@@ -2819,7 +3149,9 @@
     ],
     "example": "We saw a footprint in the mud.",
     "hint": "Made of \"foot\" + \"print\".",
-    "image": "/images/level9/footprint.webp"
+    "image": "/images/level9/footprint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-167",
@@ -2836,7 +3168,9 @@
     ],
     "example": "We followed the footpath through the woods.",
     "hint": "Made of \"foot\" + \"path\".",
-    "image": "/images/level9/footpath.webp"
+    "image": "/images/level9/footpath.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-168",
@@ -2853,7 +3187,9 @@
     ],
     "example": "The children ran barefoot on the grass.",
     "hint": "Made of \"bare\" + \"foot\".",
-    "image": "/images/level9/barefoot.webp"
+    "image": "/images/level9/barefoot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-169",
@@ -2870,7 +3206,9 @@
     ],
     "example": "She tiptoed past the sleeping baby.",
     "hint": "Made of \"tip\" + \"toe\".",
-    "image": "/images/level9/tiptoe.webp"
+    "image": "/images/level9/tiptoe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-170",
@@ -2887,7 +3225,9 @@
     ],
     "example": "He trimmed his toenail carefully.",
     "hint": "Made of \"toe\" + \"nail\".",
-    "image": "/images/level9/toenail.webp"
+    "image": "/images/level9/toenail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-171",
@@ -2904,7 +3244,9 @@
     ],
     "example": "He hurt his kneecap falling down.",
     "hint": "Made of \"knee\" + \"cap\".",
-    "image": "/images/level9/kneecap.webp"
+    "image": "/images/level9/kneecap.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-172",
@@ -2921,7 +3263,9 @@
     ],
     "example": "He wore a sports wristband.",
     "hint": "Made of \"wrist\" + \"band\".",
-    "image": "/images/level9/wristband.webp"
+    "image": "/images/level9/wristband.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-173",
@@ -2938,7 +3282,9 @@
     ],
     "example": "Grandpa sat in his armchair.",
     "hint": "Made of \"arm\" + \"chair\".",
-    "image": "/images/level9/armchair.webp"
+    "image": "/images/level9/armchair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-174",
@@ -2955,7 +3301,9 @@
     ],
     "example": "He raised his arm to check his armpit.",
     "hint": "Made of \"arm\" + \"pit\".",
-    "image": "/images/level9/armpit.webp"
+    "image": "/images/level9/armpit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-175",
@@ -2972,7 +3320,9 @@
     ],
     "example": "The captain wore an armband.",
     "hint": "Made of \"arm\" + \"band\".",
-    "image": "/images/level9/armband.webp"
+    "image": "/images/level9/armband.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-176",
@@ -2989,7 +3339,9 @@
     ],
     "example": "They pulled the wishbone apart.",
     "hint": "Made of \"wish\" + \"bone\".",
-    "image": "/images/level9/wishbone.webp"
+    "image": "/images/level9/wishbone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-177",
@@ -3006,7 +3358,9 @@
     ],
     "example": "The dentist examined his jawbone.",
     "hint": "Made of \"jaw\" + \"bone\".",
-    "image": "/images/level9/jawbone.webp"
+    "image": "/images/level9/jawbone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-178",
@@ -3023,7 +3377,9 @@
     ],
     "example": "They won the game through teamwork.",
     "hint": "Made of \"team\" + \"work\".",
-    "image": "/images/level9/teamwork.webp"
+    "image": "/images/level9/teamwork.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-179",
@@ -3040,7 +3396,9 @@
     ],
     "example": "She finished the paperwork on time.",
     "hint": "Made of \"paper\" + \"work\".",
-    "image": "/images/level9/paperwork.webp"
+    "image": "/images/level9/paperwork.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-180",
@@ -3057,7 +3415,9 @@
     ],
     "example": "She helps with housework every day.",
     "hint": "Made of \"house\" + \"work\".",
-    "image": "/images/level9/housework.webp"
+    "image": "/images/level9/housework.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-181",
@@ -3074,7 +3434,9 @@
     ],
     "example": "The gallery displayed new artwork.",
     "hint": "Made of \"art\" + \"work\".",
-    "image": "/images/level9/artwork.webp"
+    "image": "/images/level9/artwork.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-182",
@@ -3091,7 +3453,9 @@
     ],
     "example": "The airplane landed safely.",
     "hint": "Made of \"air\" + \"plane\".",
-    "image": "/images/level9/airplane.webp"
+    "image": "/images/level9/airplane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-183",
@@ -3108,7 +3472,9 @@
     ],
     "example": "We arrived early at the airport.",
     "hint": "Made of \"air\" + \"port\".",
-    "image": "/images/level9/airport.webp"
+    "image": "/images/level9/airport.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-184",
@@ -3125,7 +3491,9 @@
     ],
     "example": "The aircraft climbed above the clouds.",
     "hint": "Made of \"air\" + \"craft\".",
-    "image": "/images/level9/aircraft.webp"
+    "image": "/images/level9/aircraft.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-185",
@@ -3142,7 +3510,9 @@
     ],
     "example": "The spaceship launched into orbit.",
     "hint": "Made of \"space\" + \"ship\".",
-    "image": "/images/level9/spaceship.webp"
+    "image": "/images/level9/spaceship.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-186",
@@ -3159,7 +3529,9 @@
     ],
     "example": "The spacecraft orbited the moon.",
     "hint": "Made of \"space\" + \"craft\".",
-    "image": "/images/level9/spacecraft.webp"
+    "image": "/images/level9/spacecraft.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-187",
@@ -3176,7 +3548,9 @@
     ],
     "example": "The spaceman floated outside the ship.",
     "hint": "Made of \"space\" + \"man\".",
-    "image": "/images/level9/spaceman.webp"
+    "image": "/images/level9/spaceman.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-188",
@@ -3193,7 +3567,9 @@
     ],
     "example": "We rented a sailboat for the day.",
     "hint": "Made of \"sail\" + \"boat\".",
-    "image": "/images/level9/sailboat.webp"
+    "image": "/images/level9/sailboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-189",
@@ -3210,7 +3586,9 @@
     ],
     "example": "They rowed the rowboat across the pond.",
     "hint": "Made of \"row\" + \"boat\".",
-    "image": "/images/level9/rowboat.webp"
+    "image": "/images/level9/rowboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-190",
@@ -3227,7 +3605,9 @@
     ],
     "example": "The speedboat raced across the lake.",
     "hint": "Made of \"speed\" + \"boat\".",
-    "image": "/images/level9/speedboat.webp"
+    "image": "/images/level9/speedboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-191",
@@ -3244,7 +3624,9 @@
     ],
     "example": "We took a motorboat to the island.",
     "hint": "Made of \"motor\" + \"boat\".",
-    "image": "/images/level9/motorboat.webp"
+    "image": "/images/level9/motorboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-192",
@@ -3261,7 +3643,9 @@
     ],
     "example": "They live on a houseboat by the river.",
     "hint": "Made of \"house\" + \"boat\".",
-    "image": "/images/level9/houseboat.webp"
+    "image": "/images/level9/houseboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-193",
@@ -3278,7 +3662,9 @@
     ],
     "example": "A tugboat guided the ship into port.",
     "hint": "Made of \"tug\" + \"boat\".",
-    "image": "/images/level9/tugboat.webp"
+    "image": "/images/level9/tugboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-194",
@@ -3295,7 +3681,9 @@
     ],
     "example": "The crew launched the lifeboat.",
     "hint": "Made of \"life\" + \"boat\".",
-    "image": "/images/level9/lifeboat.webp"
+    "image": "/images/level9/lifeboat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-195",
@@ -3312,7 +3700,9 @@
     ],
     "example": "The railroad crossed the wide river.",
     "hint": "Made of \"rail\" + \"road\".",
-    "image": "/images/level9/railroad.webp"
+    "image": "/images/level9/railroad.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-196",
@@ -3329,7 +3719,9 @@
     ],
     "example": "The railway connects two cities.",
     "hint": "Made of \"rail\" + \"way\".",
-    "image": "/images/level9/railway.webp"
+    "image": "/images/level9/railway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-197",
@@ -3346,7 +3738,9 @@
     ],
     "example": "We drove down the busy highway.",
     "hint": "Made of \"high\" + \"way\".",
-    "image": "/images/level9/highway.webp"
+    "image": "/images/level9/highway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-198",
@@ -3363,7 +3757,9 @@
     ],
     "example": "The car parked in the driveway.",
     "hint": "Made of \"drive\" + \"way\".",
-    "image": "/images/level9/driveway.webp"
+    "image": "/images/level9/driveway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-199",
@@ -3380,7 +3776,9 @@
     ],
     "example": "The plane sped down the runway.",
     "hint": "Made of \"run\" + \"way\".",
-    "image": "/images/level9/runway.webp"
+    "image": "/images/level9/runway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-200",
@@ -3397,7 +3795,9 @@
     ],
     "example": "We rode the subway downtown.",
     "hint": "Made of \"sub\" + \"way\".",
-    "image": "/images/level9/subway.webp"
+    "image": "/images/level9/subway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-201",
@@ -3414,7 +3814,9 @@
     ],
     "example": "She waited at the crosswalk.",
     "hint": "Made of \"cross\" + \"walk\".",
-    "image": "/images/level9/crosswalk.webp"
+    "image": "/images/level9/crosswalk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-202",
@@ -3431,7 +3833,9 @@
     ],
     "example": "Kids rode bikes on the sidewalk.",
     "hint": "Made of \"side\" + \"walk\".",
-    "image": "/images/level9/sidewalk.webp"
+    "image": "/images/level9/sidewalk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-203",
@@ -3448,7 +3852,9 @@
     ],
     "example": "We strolled along the boardwalk.",
     "hint": "Made of \"board\" + \"walk\".",
-    "image": "/images/level9/boardwalk.webp"
+    "image": "/images/level9/boardwalk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-204",
@@ -3465,7 +3871,9 @@
     ],
     "example": "She had warm oatmeal for breakfast.",
     "hint": "Made of \"oat\" + \"meal\".",
-    "image": "/images/level9/oatmeal.webp"
+    "image": "/images/level9/oatmeal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-205",
@@ -3482,7 +3890,9 @@
     ],
     "example": "We ate popcorn during the movie.",
     "hint": "Made of \"pop\" + \"corn\".",
-    "image": "/images/level9/popcorn.webp"
+    "image": "/images/level9/popcorn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-206",
@@ -3499,7 +3909,9 @@
     ],
     "example": "He flipped a pancake in the pan.",
     "hint": "Made of \"pan\" + \"cake\".",
-    "image": "/images/level9/pancake.webp"
+    "image": "/images/level9/pancake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-207",
@@ -3516,7 +3928,9 @@
     ],
     "example": "She frosted a chocolate cupcake.",
     "hint": "Made of \"cup\" + \"cake\".",
-    "image": "/images/level9/cupcake.webp"
+    "image": "/images/level9/cupcake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-208",
@@ -3533,7 +3947,9 @@
     ],
     "example": "He ordered a strawberry milkshake.",
     "hint": "Made of \"milk\" + \"shake\".",
-    "image": "/images/level9/milkshake.webp"
+    "image": "/images/level9/milkshake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-209",
@@ -3550,7 +3966,9 @@
     ],
     "example": "We shared a slice of cheesecake.",
     "hint": "Made of \"cheese\" + \"cake\".",
-    "image": "/images/level9/cheesecake.webp"
+    "image": "/images/level9/cheesecake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-210",
@@ -3567,7 +3985,9 @@
     ],
     "example": "She served spaghetti with a meatball.",
     "hint": "Made of \"meat\" + \"ball\".",
-    "image": "/images/level9/meatball.webp"
+    "image": "/images/level9/meatball.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-211",
@@ -3584,7 +4004,9 @@
     ],
     "example": "He grilled a hotdog for lunch.",
     "hint": "Made of \"hot\" + \"dog\".",
-    "image": "/images/level9/hotdog.webp"
+    "image": "/images/level9/hotdog.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-212",
@@ -3601,7 +4023,9 @@
     ],
     "example": "She baked biscuits with buttermilk.",
     "hint": "Made of \"butter\" + \"milk\".",
-    "image": "/images/level9/buttermilk.webp"
+    "image": "/images/level9/buttermilk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-213",
@@ -3618,7 +4042,9 @@
     ],
     "example": "He works every weekday.",
     "hint": "Made of \"week\" + \"day\".",
-    "image": "/images/level9/weekday.webp"
+    "image": "/images/level9/weekday.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-214",
@@ -3635,7 +4061,9 @@
     ],
     "example": "We rest on the weekend.",
     "hint": "Made of \"week\" + \"end\".",
-    "image": "/images/level9/weekend.webp"
+    "image": "/images/level9/weekend.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-215",
@@ -3652,7 +4080,9 @@
     ],
     "example": "We ate lunch at midday.",
     "hint": "Made of \"mid\" + \"day\".",
-    "image": "/images/level9/midday.webp"
+    "image": "/images/level9/midday.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-216",
@@ -3669,7 +4099,9 @@
     ],
     "example": "Birds sing during the daytime.",
     "hint": "Made of \"day\" + \"time\".",
-    "image": "/images/level9/daytime.webp"
+    "image": "/images/level9/daytime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-217",
@@ -3686,7 +4118,9 @@
     ],
     "example": "Owls hunt at nighttime.",
     "hint": "Made of \"night\" + \"time\".",
-    "image": "/images/level9/nighttime.webp"
+    "image": "/images/level9/nighttime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-218",
@@ -3703,7 +4137,9 @@
     ],
     "example": "She reads a story at bedtime.",
     "hint": "Made of \"bed\" + \"time\".",
-    "image": "/images/level9/bedtime.webp"
+    "image": "/images/level9/bedtime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-219",
@@ -3720,7 +4156,9 @@
     ],
     "example": "He traveled the world in his lifetime.",
     "hint": "Made of \"life\" + \"time\".",
-    "image": "/images/level9/lifetime.webp"
+    "image": "/images/level9/lifetime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-220",
@@ -3737,7 +4175,9 @@
     ],
     "example": "Let's meet sometime next week.",
     "hint": "Made of \"some\" + \"time\".",
-    "image": "/images/level9/sometime.webp"
+    "image": "/images/level9/sometime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-221",
@@ -3754,7 +4194,9 @@
     ],
     "example": "Call me anytime you need help.",
     "hint": "Made of \"any\" + \"time\".",
-    "image": "/images/level9/anytime.webp"
+    "image": "/images/level9/anytime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-222",
@@ -3771,7 +4213,9 @@
     ],
     "example": "He worked overtime to finish the job.",
     "hint": "Made of \"over\" + \"time\".",
-    "image": "/images/level9/overtime.webp"
+    "image": "/images/level9/overtime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-223",
@@ -3788,7 +4232,9 @@
     ],
     "example": "The band played during halftime.",
     "hint": "Made of \"half\" + \"time\".",
-    "image": "/images/level9/halftime.webp"
+    "image": "/images/level9/halftime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-224",
@@ -3805,7 +4251,9 @@
     ],
     "example": "Flowers bloom in springtime.",
     "hint": "Made of \"spring\" + \"time\".",
-    "image": "/images/level9/springtime.webp"
+    "image": "/images/level9/springtime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-225",
@@ -3822,7 +4270,9 @@
     ],
     "example": "We swim a lot in summertime.",
     "hint": "Made of \"summer\" + \"time\".",
-    "image": "/images/level9/summertime.webp"
+    "image": "/images/level9/summertime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-226",
@@ -3839,7 +4289,9 @@
     ],
     "example": "Snow falls in wintertime.",
     "hint": "Made of \"winter\" + \"time\".",
-    "image": "/images/level9/wintertime.webp"
+    "image": "/images/level9/wintertime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-227",
@@ -3856,7 +4308,9 @@
     ],
     "example": "He visited his hometown last year.",
     "hint": "Made of \"home\" + \"town\".",
-    "image": "/images/level9/hometown.webp"
+    "image": "/images/level9/hometown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-228",
@@ -3873,7 +4327,9 @@
     ],
     "example": "A tree stood in the foreground.",
     "hint": "Made of \"fore\" + \"ground\".",
-    "image": "/images/level9/foreground.webp"
+    "image": "/images/level9/foreground.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-229",
@@ -3890,7 +4346,9 @@
     ],
     "example": "Moles live underground.",
     "hint": "Made of \"under\" + \"ground\".",
-    "image": "/images/level9/underground.webp"
+    "image": "/images/level9/underground.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-230",
@@ -3907,7 +4365,9 @@
     ],
     "example": "Students gathered in the courtyard.",
     "hint": "Made of \"court\" + \"yard\".",
-    "image": "/images/level9/courtyard.webp"
+    "image": "/images/level9/courtyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-231",
@@ -3924,7 +4384,9 @@
     ],
     "example": "Workers built the boat at the shipyard.",
     "hint": "Made of \"ship\" + \"yard\".",
-    "image": "/images/level9/shipyard.webp"
+    "image": "/images/level9/shipyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-232",
@@ -3941,7 +4403,9 @@
     ],
     "example": "Old cars sat in the junkyard.",
     "hint": "Made of \"junk\" + \"yard\".",
-    "image": "/images/level9/junkyard.webp"
+    "image": "/images/level9/junkyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-233",
@@ -3958,7 +4422,9 @@
     ],
     "example": "Grapes grew across the vineyard.",
     "hint": "Made of \"vine\" + \"yard\".",
-    "image": "/images/level9/vineyard.webp"
+    "image": "/images/level9/vineyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-234",
@@ -3975,7 +4441,9 @@
     ],
     "example": "An old graveyard stood by the church.",
     "hint": "Made of \"grave\" + \"yard\".",
-    "image": "/images/level9/graveyard.webp"
+    "image": "/images/level9/graveyard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-235",
@@ -3992,7 +4460,9 @@
     ],
     "example": "She whispered something to me.",
     "hint": "Made of \"some\" + \"thing\".",
-    "image": "/images/level9/something.webp"
+    "image": "/images/level9/something.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-236",
@@ -4009,7 +4479,9 @@
     ],
     "example": "Somebody left the door open.",
     "hint": "Made of \"some\" + \"body\".",
-    "image": "/images/level9/somebody.webp"
+    "image": "/images/level9/somebody.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-237",
@@ -4026,7 +4498,9 @@
     ],
     "example": "Let's go somewhere quiet.",
     "hint": "Made of \"some\" + \"where\".",
-    "image": "/images/level9/somewhere.webp"
+    "image": "/images/level9/somewhere.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-238",
@@ -4043,7 +4517,9 @@
     ],
     "example": "We will fix it somehow.",
     "hint": "Made of \"some\" + \"how\".",
-    "image": "/images/level9/somehow.webp"
+    "image": "/images/level9/somehow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-239",
@@ -4060,7 +4536,9 @@
     ],
     "example": "Someone knocked on the door.",
     "hint": "Made of \"some\" + \"one\".",
-    "image": "/images/level9/someone.webp"
+    "image": "/images/level9/someone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-240",
@@ -4077,7 +4555,9 @@
     ],
     "example": "Did anybody see my keys?",
     "hint": "Made of \"any\" + \"body\".",
-    "image": "/images/level9/anybody.webp"
+    "image": "/images/level9/anybody.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-241",
@@ -4094,7 +4574,9 @@
     ],
     "example": "You can sit anywhere you like.",
     "hint": "Made of \"any\" + \"where\".",
-    "image": "/images/level9/anywhere.webp"
+    "image": "/images/level9/anywhere.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-242",
@@ -4111,7 +4593,9 @@
     ],
     "example": "Is anyone home?",
     "hint": "Made of \"any\" + \"one\".",
-    "image": "/images/level9/anyone.webp"
+    "image": "/images/level9/anyone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-243",
@@ -4128,7 +4612,9 @@
     ],
     "example": "Everybody cheered at the end.",
     "hint": "Made of \"every\" + \"body\".",
-    "image": "/images/level9/everybody.webp"
+    "image": "/images/level9/everybody.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-244",
@@ -4145,7 +4631,9 @@
     ],
     "example": "She looked everywhere for her keys.",
     "hint": "Made of \"every\" + \"where\".",
-    "image": "/images/level9/everywhere.webp"
+    "image": "/images/level9/everywhere.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-245",
@@ -4162,7 +4650,9 @@
     ],
     "example": "Everyone enjoyed the party.",
     "hint": "Made of \"every\" + \"one\".",
-    "image": "/images/level9/everyone.webp"
+    "image": "/images/level9/everyone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-246",
@@ -4179,7 +4669,9 @@
     ],
     "example": "She packed everything for the trip.",
     "hint": "Made of \"every\" + \"thing\".",
-    "image": "/images/level9/everything.webp"
+    "image": "/images/level9/everything.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-247",
@@ -4196,7 +4688,9 @@
     ],
     "example": "Nobody answered the phone.",
     "hint": "Made of \"no\" + \"body\".",
-    "image": "/images/level9/nobody.webp"
+    "image": "/images/level9/nobody.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-248",
@@ -4213,7 +4707,9 @@
     ],
     "example": "There was nothing left to eat.",
     "hint": "Made of \"no\" + \"thing\".",
-    "image": "/images/level9/nothing.webp"
+    "image": "/images/level9/nothing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-249",
@@ -4230,7 +4726,9 @@
     ],
     "example": "He left without saying goodbye.",
     "hint": "Made of \"with\" + \"out\".",
-    "image": "/images/level9/without.webp"
+    "image": "/images/level9/without.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-250",
@@ -4247,7 +4745,9 @@
     ],
     "example": "She went upstairs to sleep.",
     "hint": "Made of \"up\" + \"stairs\".",
-    "image": "/images/level9/upstairs.webp"
+    "image": "/images/level9/upstairs.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-251",
@@ -4264,7 +4764,9 @@
     ],
     "example": "He ran downstairs for breakfast.",
     "hint": "Made of \"down\" + \"stairs\".",
-    "image": "/images/level9/downstairs.webp"
+    "image": "/images/level9/downstairs.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-252",
@@ -4281,7 +4783,9 @@
     ],
     "example": "We played an indoor game.",
     "hint": "Made of \"in\" + \"door\".",
-    "image": "/images/level9/indoor.webp"
+    "image": "/images/level9/indoor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-253",
@@ -4298,7 +4802,9 @@
     ],
     "example": "They enjoyed an outdoor picnic.",
     "hint": "Made of \"out\" + \"door\".",
-    "image": "/images/level9/outdoor.webp"
+    "image": "/images/level9/outdoor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-254",
@@ -4315,7 +4821,9 @@
     ],
     "example": "We walked home under starlight.",
     "hint": "Made of \"star\" + \"light\".",
-    "image": "/images/level9/starlight.webp"
+    "image": "/images/level9/starlight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-255",
@@ -4332,7 +4840,9 @@
     ],
     "example": "A thunderbolt lit up the sky.",
     "hint": "Made of \"thunder\" + \"bolt\".",
-    "image": "/images/level9/thunderbolt.webp"
+    "image": "/images/level9/thunderbolt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-256",
@@ -4349,7 +4859,9 @@
     ],
     "example": "She wore a waterproof jacket.",
     "hint": "Made of \"water\" + \"proof\".",
-    "image": "/images/level9/waterproof.webp"
+    "image": "/images/level9/waterproof.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-257",
@@ -4366,7 +4878,9 @@
     ],
     "example": "The jar has an airtight lid.",
     "hint": "Made of \"air\" + \"tight\".",
-    "image": "/images/level9/airtight.webp"
+    "image": "/images/level9/airtight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-258",
@@ -4383,7 +4897,9 @@
     ],
     "example": "The boat's hull is watertight.",
     "hint": "Made of \"water\" + \"tight\".",
-    "image": "/images/level9/watertight.webp"
+    "image": "/images/level9/watertight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-259",
@@ -4400,7 +4916,9 @@
     ],
     "example": "Mom loaded the dishwasher.",
     "hint": "Made of \"dish\" + \"washer\".",
-    "image": "/images/level9/dishwasher.webp"
+    "image": "/images/level9/dishwasher.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-260",
@@ -4417,7 +4935,9 @@
     ],
     "example": "Grandpa still owns an old typewriter.",
     "hint": "Made of \"type\" + \"writer\".",
-    "image": "/images/level9/typewriter.webp"
+    "image": "/images/level9/typewriter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-261",
@@ -4434,7 +4954,9 @@
     ],
     "example": "He rode his skateboard down the hill.",
     "hint": "Made of \"skate\" + \"board\".",
-    "image": "/images/level9/skateboard.webp"
+    "image": "/images/level9/skateboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-262",
@@ -4451,7 +4973,9 @@
     ],
     "example": "She paddled her surfboard into the waves.",
     "hint": "Made of \"surf\" + \"board\".",
-    "image": "/images/level9/surfboard.webp"
+    "image": "/images/level9/surfboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-263",
@@ -4468,7 +4992,9 @@
     ],
     "example": "The gift came in a cardboard box.",
     "hint": "Made of \"card\" + \"board\".",
-    "image": "/images/level9/cardboard.webp"
+    "image": "/images/level9/cardboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-264",
@@ -4485,7 +5011,9 @@
     ],
     "example": "She bounced off the springboard into the pool.",
     "hint": "Made of \"spring\" + \"board\".",
-    "image": "/images/level9/springboard.webp"
+    "image": "/images/level9/springboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-265",
@@ -4502,7 +5030,9 @@
     ],
     "example": "He carried his snowboard up the hill.",
     "hint": "Made of \"snow\" + \"board\".",
-    "image": "/images/level9/snowboard.webp"
+    "image": "/images/level9/snowboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-266",
@@ -4519,7 +5049,9 @@
     ],
     "example": "A billboard advertised the new movie.",
     "hint": "Made of \"bill\" + \"board\".",
-    "image": "/images/level9/billboard.webp"
+    "image": "/images/level9/billboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-267",
@@ -4536,7 +5068,9 @@
     ],
     "example": "The teacher wrote on the chalkboard.",
     "hint": "Made of \"chalk\" + \"board\".",
-    "image": "/images/level9/chalkboard.webp"
+    "image": "/images/level9/chalkboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-268",
@@ -4553,7 +5087,9 @@
     ],
     "example": "She kept the plates in the cupboard.",
     "hint": "Made of \"cup\" + \"board\".",
-    "image": "/images/level9/cupboard.webp"
+    "image": "/images/level9/cupboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-269",
@@ -4570,7 +5106,9 @@
     ],
     "example": "They played volleyball on the beach.",
     "hint": "Made of \"volley\" + \"ball\".",
-    "image": "/images/level9/volleyball.webp"
+    "image": "/images/level9/volleyball.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-270",
@@ -4587,7 +5125,9 @@
     ],
     "example": "The snowplow cleared the street early.",
     "hint": "Made of \"snow\" + \"plow\".",
-    "image": "/images/level9/snowplow.webp"
+    "image": "/images/level9/snowplow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-271",
@@ -4604,7 +5144,9 @@
     ],
     "example": "Heavy rain triggered a mudslide.",
     "hint": "Made of \"mud\" + \"slide\".",
-    "image": "/images/level9/mudslide.webp"
+    "image": "/images/level9/mudslide.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-272",
@@ -4621,7 +5163,9 @@
     ],
     "example": "Boats traveled along the waterway.",
     "hint": "Made of \"water\" + \"way\".",
-    "image": "/images/level9/waterway.webp"
+    "image": "/images/level9/waterway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-273",
@@ -4638,7 +5182,9 @@
     ],
     "example": "The seaplane landed on the calm lake.",
     "hint": "Made of \"sea\" + \"plane\".",
-    "image": "/images/level9/seaplane.webp"
+    "image": "/images/level9/seaplane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-274",
@@ -4655,7 +5201,9 @@
     ],
     "example": "We ate breakfast before school.",
     "hint": "Made of \"break\" + \"fast\".",
-    "image": "/images/level9/breakfast.webp"
+    "image": "/images/level9/breakfast.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-275",
@@ -4672,7 +5220,9 @@
     ],
     "example": "She had high cheekbones.",
     "hint": "Made of \"cheek\" + \"bone\".",
-    "image": "/images/level9/cheekbone.webp"
+    "image": "/images/level9/cheekbone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-276",
@@ -4689,7 +5239,9 @@
     ],
     "example": "The doctor pressed near his breastbone.",
     "hint": "Made of \"breast\" + \"bone\".",
-    "image": "/images/level9/breastbone.webp"
+    "image": "/images/level9/breastbone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-277",
@@ -4706,7 +5258,9 @@
     ],
     "example": "They built a framework for the roof.",
     "hint": "Made of \"frame\" + \"work\".",
-    "image": "/images/level9/framework.webp"
+    "image": "/images/level9/framework.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-278",
@@ -4723,7 +5277,9 @@
     ],
     "example": "The computers shared a network.",
     "hint": "Made of \"net\" + \"work\".",
-    "image": "/images/level9/network.webp"
+    "image": "/images/level9/network.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-279",
@@ -4740,7 +5296,9 @@
     ],
     "example": "She hit a strong forehand shot.",
     "hint": "Made of \"fore\" + \"hand\".",
-    "image": "/images/level9/forehand.webp"
+    "image": "/images/level9/forehand.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-280",
@@ -4757,7 +5315,9 @@
     ],
     "example": "He caught the ball in the outfield.",
     "hint": "Made of \"out\" + \"field\".",
-    "image": "/images/level9/outfield.webp"
+    "image": "/images/level9/outfield.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-281",
@@ -4774,7 +5334,9 @@
     ],
     "example": "They walked through the cornfield.",
     "hint": "Made of \"corn\" + \"field\".",
-    "image": "/images/level9/cornfield.webp"
+    "image": "/images/level9/cornfield.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-282",
@@ -4791,7 +5353,9 @@
     ],
     "example": "Soldiers marched across the battlefield.",
     "hint": "Made of \"battle\" + \"field\".",
-    "image": "/images/level9/battlefield.webp"
+    "image": "/images/level9/battlefield.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-283",
@@ -4808,7 +5372,9 @@
     ],
     "example": "Heavy snowfall covered the town.",
     "hint": "Made of \"snow\" + \"fall\".",
-    "image": "/images/level9/snowfall.webp"
+    "image": "/images/level9/snowfall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-284",
@@ -4825,7 +5391,9 @@
     ],
     "example": "A rainstorm flooded the streets.",
     "hint": "Made of \"rain\" + \"storm\".",
-    "image": "/images/level9/rainstorm.webp"
+    "image": "/images/level9/rainstorm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-285",
@@ -4842,7 +5410,9 @@
     ],
     "example": "The windstorm knocked down trees.",
     "hint": "Made of \"wind\" + \"storm\".",
-    "image": "/images/level9/windstorm.webp"
+    "image": "/images/level9/windstorm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-286",
@@ -4859,7 +5429,9 @@
     ],
     "example": "The hailstorm damaged the crops.",
     "hint": "Made of \"hail\" + \"storm\".",
-    "image": "/images/level9/hailstorm.webp"
+    "image": "/images/level9/hailstorm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-287",
@@ -4876,7 +5448,9 @@
     ],
     "example": "The astronaut took the first moonwalk.",
     "hint": "Made of \"moon\" + \"walk\".",
-    "image": "/images/level9/moonwalk.webp"
+    "image": "/images/level9/moonwalk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-288",
@@ -4893,7 +5467,9 @@
     ],
     "example": "A moonbeam lit the quiet garden.",
     "hint": "Made of \"moon\" + \"beam\".",
-    "image": "/images/level9/moonbeam.webp"
+    "image": "/images/level9/moonbeam.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-289",
@@ -4910,7 +5486,9 @@
     ],
     "example": "They walked under a starlit sky.",
     "hint": "Made of \"star\" + \"lit\".",
-    "image": "/images/level9/starlit.webp"
+    "image": "/images/level9/starlit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-290",
@@ -4927,7 +5505,9 @@
     ],
     "example": "A sunbeam warmed the windowsill.",
     "hint": "Made of \"sun\" + \"beam\".",
-    "image": "/images/level9/sunbeam.webp"
+    "image": "/images/level9/sunbeam.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-291",
@@ -4944,7 +5524,9 @@
     ],
     "example": "A dewdrop glistened on the leaf.",
     "hint": "Made of \"dew\" + \"drop\".",
-    "image": "/images/level9/dewdrop.webp"
+    "image": "/images/level9/dewdrop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-292",
@@ -4961,7 +5543,9 @@
     ],
     "example": "The car got stuck in a snowdrift.",
     "hint": "Made of \"snow\" + \"drift\".",
-    "image": "/images/level9/snowdrift.webp"
+    "image": "/images/level9/snowdrift.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-293",
@@ -4978,7 +5562,9 @@
     ],
     "example": "His fingers were frostbitten from the cold.",
     "hint": "Made of \"frost\" + \"bitten\".",
-    "image": "/images/level9/frostbitten.webp"
+    "image": "/images/level9/frostbitten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-294",
@@ -4995,7 +5581,9 @@
     ],
     "example": "We sang songs around the campfire.",
     "hint": "Made of \"camp\" + \"fire\".",
-    "image": "/images/level9/campfire.webp"
+    "image": "/images/level9/campfire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-295",
@@ -5012,7 +5600,9 @@
     ],
     "example": "They lit a bonfire on the beach.",
     "hint": "Made of \"bon\" + \"fire\".",
-    "image": "/images/level9/bonfire.webp"
+    "image": "/images/level9/bonfire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-296",
@@ -5029,7 +5619,9 @@
     ],
     "example": "The ring held a bright gemstone.",
     "hint": "Made of \"gem\" + \"stone\".",
-    "image": "/images/level9/gemstone.webp"
+    "image": "/images/level9/gemstone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-297",
@@ -5046,7 +5638,9 @@
     ],
     "example": "Graduating was a big milestone.",
     "hint": "Made of \"mile\" + \"stone\".",
-    "image": "/images/level9/milestone.webp"
+    "image": "/images/level9/milestone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-298",
@@ -5063,7 +5657,9 @@
     ],
     "example": "They laid the cornerstone of the school.",
     "hint": "Made of \"corner\" + \"stone\".",
-    "image": "/images/level9/cornerstone.webp"
+    "image": "/images/level9/cornerstone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-299",
@@ -5080,7 +5676,9 @@
     ],
     "example": "The cave walls were made of limestone.",
     "hint": "Made of \"lime\" + \"stone\".",
-    "image": "/images/level9/limestone.webp"
+    "image": "/images/level9/limestone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-300",
@@ -5097,7 +5695,9 @@
     ],
     "example": "We walked along the cobblestone street.",
     "hint": "Made of \"cobble\" + \"stone\".",
-    "image": "/images/level9/cobblestone.webp"
+    "image": "/images/level9/cobblestone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-301",
@@ -5114,7 +5714,9 @@
     ],
     "example": "He avoided stepping into the quicksand.",
     "hint": "Made of \"quick\" + \"sand\".",
-    "image": "/images/level9/quicksand.webp"
+    "image": "/images/level9/quicksand.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-302",
@@ -5131,7 +5733,9 @@
     ],
     "example": "Sand ran through the hourglass.",
     "hint": "Made of \"hour\" + \"glass\".",
-    "image": "/images/level9/hourglass.webp"
+    "image": "/images/level9/hourglass.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-303",
@@ -5148,7 +5752,9 @@
     ],
     "example": "She cleaned her eyeglasses carefully.",
     "hint": "Made of \"eye\" + \"glasses\".",
-    "image": "/images/level9/eyeglasses.webp"
+    "image": "/images/level9/eyeglasses.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-304",
@@ -5165,7 +5771,9 @@
     ],
     "example": "He wore sunglasses at the beach.",
     "hint": "Made of \"sun\" + \"glasses\".",
-    "image": "/images/level9/sunglasses.webp"
+    "image": "/images/level9/sunglasses.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-305",
@@ -5182,7 +5790,9 @@
     ],
     "example": "The witch flew on her broomstick.",
     "hint": "Made of \"broom\" + \"stick\".",
-    "image": "/images/level9/broomstick.webp"
+    "image": "/images/level9/broomstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-306",
@@ -5199,7 +5809,9 @@
     ],
     "example": "He measured the wood with a yardstick.",
     "hint": "Made of \"yard\" + \"stick\".",
-    "image": "/images/level9/yardstick.webp"
+    "image": "/images/level9/yardstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-307",
@@ -5216,7 +5828,9 @@
     ],
     "example": "She tapped the drumstick on the drum.",
     "hint": "Made of \"drum\" + \"stick\".",
-    "image": "/images/level9/drumstick.webp"
+    "image": "/images/level9/drumstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-308",
@@ -5233,7 +5847,9 @@
     ],
     "example": "She applied red lipstick.",
     "hint": "Made of \"lip\" + \"stick\".",
-    "image": "/images/level9/lipstick.webp"
+    "image": "/images/level9/lipstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-309",
@@ -5250,7 +5866,9 @@
     ],
     "example": "He struck the matchstick to light it.",
     "hint": "Made of \"match\" + \"stick\".",
-    "image": "/images/level9/matchstick.webp"
+    "image": "/images/level9/matchstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-310",
@@ -5267,7 +5885,9 @@
     ],
     "example": "She ate rice with a chopstick.",
     "hint": "Made of \"chop\" + \"stick\".",
-    "image": "/images/level9/chopstick.webp"
+    "image": "/images/level9/chopstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-311",
@@ -5284,7 +5904,9 @@
     ],
     "example": "They warmed up by the fireplace.",
     "hint": "Made of \"fire\" + \"place\".",
-    "image": "/images/level9/fireplace.webp"
+    "image": "/images/level9/fireplace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-312",
@@ -5301,7 +5923,9 @@
     ],
     "example": "Vendors sold fruit in the marketplace.",
     "hint": "Made of \"market\" + \"place\".",
-    "image": "/images/level9/marketplace.webp"
+    "image": "/images/level9/marketplace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-313",
@@ -5318,7 +5942,9 @@
     ],
     "example": "This village is his birthplace.",
     "hint": "Made of \"birth\" + \"place\".",
-    "image": "/images/level9/birthplace.webp"
+    "image": "/images/level9/birthplace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-314",
@@ -5335,7 +5961,9 @@
     ],
     "example": "The office is a friendly workplace.",
     "hint": "Made of \"work\" + \"place\".",
-    "image": "/images/level9/workplace.webp"
+    "image": "/images/level9/workplace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-315",
@@ -5352,7 +5980,9 @@
     ],
     "example": "The kids built a hideout in the woods.",
     "hint": "Made of \"hide\" + \"out\".",
-    "image": "/images/level9/hideout.webp"
+    "image": "/images/level9/hideout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-316",
@@ -5369,7 +5999,9 @@
     ],
     "example": "He stood as a lookout on the hill.",
     "hint": "Made of \"look\" + \"out\".",
-    "image": "/images/level9/lookout.webp"
+    "image": "/images/level9/lookout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-317",
@@ -5386,7 +6018,9 @@
     ],
     "example": "The cafe is our usual hangout.",
     "hint": "Made of \"hang\" + \"out\".",
-    "image": "/images/level9/hangout.webp"
+    "image": "/images/level9/hangout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-318",
@@ -5403,7 +6037,9 @@
     ],
     "example": "She did a workout before school.",
     "hint": "Made of \"work\" + \"out\".",
-    "image": "/images/level9/workout.webp"
+    "image": "/images/level9/workout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-319",
@@ -5420,7 +6056,9 @@
     ],
     "example": "He handed her a printout of the report.",
     "hint": "Made of \"print\" + \"out\".",
-    "image": "/images/level9/printout.webp"
+    "image": "/images/level9/printout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-320",
@@ -5437,7 +6075,9 @@
     ],
     "example": "She designed the layout of the page.",
     "hint": "Made of \"lay\" + \"out\".",
-    "image": "/images/level9/layout.webp"
+    "image": "/images/level9/layout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-321",
@@ -5454,7 +6094,9 @@
     ],
     "example": "A blackout hit the whole city.",
     "hint": "Made of \"black\" + \"out\".",
-    "image": "/images/level9/blackout.webp"
+    "image": "/images/level9/blackout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-322",
@@ -5471,7 +6113,9 @@
     ],
     "example": "We waited in line at the checkout.",
     "hint": "Made of \"check\" + \"out\".",
-    "image": "/images/level9/checkout.webp"
+    "image": "/images/level9/checkout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-323",
@@ -5488,7 +6132,9 @@
     ],
     "example": "The family had a cookout on Saturday.",
     "hint": "Made of \"cook\" + \"out\".",
-    "image": "/images/level9/cookout.webp"
+    "image": "/images/level9/cookout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-324",
@@ -5505,7 +6151,9 @@
     ],
     "example": "She had a daydream about summer.",
     "hint": "Made of \"day\" + \"dream\".",
-    "image": "/images/level9/daydream.webp"
+    "image": "/images/level9/daydream.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-325",
@@ -5522,7 +6170,9 @@
     ],
     "example": "She wore a small gold earring.",
     "hint": "Made of \"ear\" + \"ring\".",
-    "image": "/images/level9/earring.webp"
+    "image": "/images/level9/earring.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-326",
@@ -5539,7 +6189,9 @@
     ],
     "example": "He used an earplug to sleep better.",
     "hint": "Made of \"ear\" + \"plug\".",
-    "image": "/images/level9/earplug.webp"
+    "image": "/images/level9/earplug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-327",
@@ -5556,7 +6208,9 @@
     ],
     "example": "She wore a kneepad for skating.",
     "hint": "Made of \"knee\" + \"pad\".",
-    "image": "/images/level9/kneepad.webp"
+    "image": "/images/level9/kneepad.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-328",
@@ -5573,7 +6227,9 @@
     ],
     "example": "His shoelace came untied.",
     "hint": "Made of \"shoe\" + \"lace\".",
-    "image": "/images/level9/shoelace.webp"
+    "image": "/images/level9/shoelace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-329",
@@ -5590,7 +6246,9 @@
     ],
     "example": "The shoemaker fixed the old boots.",
     "hint": "Made of \"shoe\" + \"maker\".",
-    "image": "/images/level9/shoemaker.webp"
+    "image": "/images/level9/shoemaker.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-330",
@@ -5607,7 +6265,9 @@
     ],
     "example": "He used a shoehorn to slip on his boots.",
     "hint": "Made of \"shoe\" + \"horn\".",
-    "image": "/images/level9/shoehorn.webp"
+    "image": "/images/level9/shoehorn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-331",
@@ -5624,7 +6284,9 @@
     ],
     "example": "She fed the baby applesauce.",
     "hint": "Made of \"apple\" + \"sauce\".",
-    "image": "/images/level9/applesauce.webp"
+    "image": "/images/level9/applesauce.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-332",
@@ -5641,7 +6303,9 @@
     ],
     "example": "Grapes hung from the grapevine.",
     "hint": "Made of \"grape\" + \"vine\".",
-    "image": "/images/level9/grapevine.webp"
+    "image": "/images/level9/grapevine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-333",
@@ -5658,7 +6322,9 @@
     ],
     "example": "She picked a ripe strawberry.",
     "hint": "Made of \"straw\" + \"berry\".",
-    "image": "/images/level9/strawberry.webp"
+    "image": "/images/level9/strawberry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-334",
@@ -5675,7 +6341,9 @@
     ],
     "example": "We gathered blackberry from the bush.",
     "hint": "Made of \"black\" + \"berry\".",
-    "image": "/images/level9/blackberry.webp"
+    "image": "/images/level9/blackberry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-335",
@@ -5692,7 +6360,9 @@
     ],
     "example": "He baked a blueberry muffin.",
     "hint": "Made of \"blue\" + \"berry\".",
-    "image": "/images/level9/blueberry.webp"
+    "image": "/images/level9/blueberry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-336",
@@ -5709,7 +6379,9 @@
     ],
     "example": "She added raspberry to her yogurt.",
     "hint": "Made of \"rasp\" + \"berry\".",
-    "image": "/images/level9/raspberry.webp"
+    "image": "/images/level9/raspberry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-337",
@@ -5726,7 +6398,9 @@
     ],
     "example": "We drank cranberry juice.",
     "hint": "Made of \"cran\" + \"berry\".",
-    "image": "/images/level9/cranberry.webp"
+    "image": "/images/level9/cranberry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-338",
@@ -5743,7 +6417,9 @@
     ],
     "example": "They decorated a gingerbread house.",
     "hint": "Made of \"ginger\" + \"bread\".",
-    "image": "/images/level9/gingerbread.webp"
+    "image": "/images/level9/gingerbread.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-339",
@@ -5760,7 +6436,9 @@
     ],
     "example": "She baked a batch of shortbread.",
     "hint": "Made of \"short\" + \"bread\".",
-    "image": "/images/level9/shortbread.webp"
+    "image": "/images/level9/shortbread.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-340",
@@ -5777,7 +6455,9 @@
     ],
     "example": "We served cornbread with the soup.",
     "hint": "Made of \"corn\" + \"bread\".",
-    "image": "/images/level9/cornbread.webp"
+    "image": "/images/level9/cornbread.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-341",
@@ -5794,7 +6474,9 @@
     ],
     "example": "She coated the chicken in breadcrumb.",
     "hint": "Made of \"bread\" + \"crumb\".",
-    "image": "/images/level9/breadcrumb.webp"
+    "image": "/images/level9/breadcrumb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-342",
@@ -5811,7 +6493,9 @@
     ],
     "example": "He went to the dentist for a toothache.",
     "hint": "Made of \"tooth\" + \"ache\".",
-    "image": "/images/level9/toothache.webp"
+    "image": "/images/level9/toothache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-343",
@@ -5828,7 +6512,9 @@
     ],
     "example": "She stayed home with a stomachache.",
     "hint": "Made of \"stomach\" + \"ache\".",
-    "image": "/images/level9/stomachache.webp"
+    "image": "/images/level9/stomachache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-344",
@@ -5845,7 +6531,9 @@
     ],
     "example": "The sad movie caused some heartache.",
     "hint": "Made of \"heart\" + \"ache\".",
-    "image": "/images/level9/heartache.webp"
+    "image": "/images/level9/heartache.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-345",
@@ -5862,7 +6550,9 @@
     ],
     "example": "She rested her arm on the armrest.",
     "hint": "Made of \"arm\" + \"rest\".",
-    "image": "/images/level9/armrest.webp"
+    "image": "/images/level9/armrest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-346",
@@ -5879,7 +6569,9 @@
     ],
     "example": "He put his feet up on the footrest.",
     "hint": "Made of \"foot\" + \"rest\".",
-    "image": "/images/level9/footrest.webp"
+    "image": "/images/level9/footrest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-347",
@@ -5896,7 +6588,9 @@
     ],
     "example": "She leaned back on the headrest.",
     "hint": "Made of \"head\" + \"rest\".",
-    "image": "/images/level9/headrest.webp"
+    "image": "/images/level9/headrest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-348",
@@ -5913,7 +6607,9 @@
     ],
     "example": "The chair has a soft backrest.",
     "hint": "Made of \"back\" + \"rest\".",
-    "image": "/images/level9/backrest.webp"
+    "image": "/images/level9/backrest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-349",
@@ -5930,7 +6626,9 @@
     ],
     "example": "She napped on the daybed.",
     "hint": "Made of \"day\" + \"bed\".",
-    "image": "/images/level9/daybed.webp"
+    "image": "/images/level9/daybed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl9-350",
@@ -5947,6 +6645,8 @@
     ],
     "example": "Coral grew across the seabed.",
     "hint": "Made of \"sea\" + \"bed\".",
-    "image": "/images/level9/seabed.webp"
+    "image": "/images/level9/seabed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

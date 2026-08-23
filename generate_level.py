@@ -33,9 +33,15 @@ def get_word_details(word):
                         
             meaning = "A descriptive word."
             example = f"This is an example of {word}."
+            part_of_speech = "noun"
+            origin = data.get('origin', "English")
             
             if 'meanings' in data and data['meanings']:
                 meanings_list = data['meanings']
+                # Grab partOfSpeech from the first meaning
+                if 'partOfSpeech' in meanings_list[0]:
+                    part_of_speech = meanings_list[0]['partOfSpeech']
+                    
                 for m in meanings_list:
                     if 'definitions' in m and m['definitions']:
                         defn = m['definitions'][0]
@@ -45,7 +51,7 @@ def get_word_details(word):
                             example = defn['example']
                             break
                         
-            return phonetic, meaning, example
+            return phonetic, meaning, example, part_of_speech, origin
     except Exception as e:
         pass
     
@@ -55,10 +61,10 @@ def get_word_details(word):
     if phones:
         phonetic = f"/{phones[0].split()[0].lower()}/"
         
-    return phonetic, f"A vocabulary word.", f"The word is {word}."
+    return phonetic, f"A vocabulary word.", f"The word is {word}.", "noun", "English"
 
 def process_word(i, word):
-    phonetic, meaning, example = get_word_details(word)
+    phonetic, meaning, example, part_of_speech, origin = get_word_details(word)
     translator = GoogleTranslator(source='en', target='bn')
     
     try:
@@ -81,6 +87,8 @@ def process_word(i, word):
         "banglaPronunciation": bn_pronunciation,
         "meaning": meaning,
         "banglaMeaning": bn_meaning,
+        "partOfSpeech": part_of_speech,
+        "origin": origin,
         "syllables": syllables,
         "example": example,
         "hint": f"Starts with {word[0].upper()} and ends with {word[-1].upper()}.",

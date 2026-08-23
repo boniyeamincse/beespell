@@ -16,7 +16,9 @@
     ],
     "example": "The hotel can accommodate fifty guests.",
     "hint": "Double C, double M — two pairs, not one.",
-    "image": "/images/level7/accommodate.webp"
+    "image": "/images/level7/accommodate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-002",
@@ -33,7 +35,9 @@
     ],
     "example": "She worked hard to achieve her dream.",
     "hint": "I before E here — 'achieve' not 'acheive'.",
-    "image": "/images/level7/achieve.webp"
+    "image": "/images/level7/achieve.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-003",
@@ -50,7 +54,9 @@
     ],
     "example": "He wants to acquire new skills.",
     "hint": "Has a silent C before the Q — 'acquire', not 'aquire'.",
-    "image": "/images/level7/acquire.webp"
+    "image": "/images/level7/acquire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-004",
@@ -67,7 +73,9 @@
     ],
     "example": "Please write your address here.",
     "hint": "Double D and double S.",
-    "image": "/images/level7/address.webp"
+    "image": "/images/level7/address.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-005",
@@ -85,7 +93,9 @@
     ],
     "example": "The company will advertise its new phone.",
     "hint": "Ends in -tise, not -tize.",
-    "image": "/images/level7/advertise.webp"
+    "image": "/images/level7/advertise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-006",
@@ -102,7 +112,9 @@
     ],
     "example": "She gave me good advice.",
     "hint": "Noun form ends in C — 'advice', not 'advise'.",
-    "image": "/images/level7/advice.webp"
+    "image": "/images/level7/advice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-007",
@@ -118,7 +130,9 @@
       "vise"
     ],
     "example": "Verb form ends in S — 'advise', not 'advice'.",
-    "image": "/images/level7/advise.webp"
+    "image": "/images/level7/advise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-008",
@@ -136,7 +150,9 @@
     ],
     "example": "The dog became aggressive.",
     "hint": "Double G, then single R, double S.",
-    "image": "/images/level7/aggressive.webp"
+    "image": "/images/level7/aggressive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-009",
@@ -154,7 +170,9 @@
     ],
     "example": "She saves her weekly allowance.",
     "hint": "Double L, ends in -ance not -ence.",
-    "image": "/images/level7/allowance.webp"
+    "image": "/images/level7/allowance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-010",
@@ -171,7 +189,9 @@
     ],
     "example": "We are almost home.",
     "hint": "Only one L — 'almost', not 'allmost'.",
-    "image": "/images/level7/almost.webp"
+    "image": "/images/level7/almost.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-011",
@@ -189,7 +209,9 @@
     ],
     "example": "I have already finished my homework.",
     "hint": "One L in the middle, not two.",
-    "image": "/images/level7/already.webp"
+    "image": "/images/level7/already.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-012",
@@ -207,7 +229,9 @@
     ],
     "example": "He is an amateur painter.",
     "hint": "Ends in -teur, tricky French spelling.",
-    "image": "/images/level7/amateur.webp"
+    "image": "/images/level7/amateur.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-013",
@@ -224,7 +248,9 @@
     ],
     "example": "She stood among her friends.",
     "hint": "Only one M — 'among', not 'ammong'.",
-    "image": "/images/level7/among.webp"
+    "image": "/images/level7/among.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-014",
@@ -242,7 +268,9 @@
     ],
     "example": "It was apparent he was tired.",
     "hint": "Double P, ends in -ent not -ant.",
-    "image": "/images/level7/apparent.webp"
+    "image": "/images/level7/apparent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-015",
@@ -260,7 +288,9 @@
     ],
     "example": "Her sudden appearance surprised everyone.",
     "hint": "Double P, ends in -ance not -ence.",
-    "image": "/images/level7/appearance.webp"
+    "image": "/images/level7/appearance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-016",
@@ -278,7 +308,9 @@
     ],
     "example": "They had a small argument.",
     "hint": "No E after the U — 'argument', not 'arguement'.",
-    "image": "/images/level7/argument.webp"
+    "image": "/images/level7/argument.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-017",
@@ -296,7 +328,9 @@
     ],
     "example": "They made an arrangement to meet.",
     "hint": "Double R, keep the E before -ment.",
-    "image": "/images/level7/arrangement.webp"
+    "image": "/images/level7/arrangement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-018",
@@ -314,7 +348,9 @@
     ],
     "example": "I read an interesting article today.",
     "hint": "Starts with AR, ends in -cle.",
-    "image": "/images/level7/article.webp"
+    "image": "/images/level7/article.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-019",
@@ -331,7 +367,9 @@
     ],
     "example": "The athlete trained every day.",
     "hint": "Only two syllables — no extra vowel between TH and L.",
-    "image": "/images/level7/athlete.webp"
+    "image": "/images/level7/athlete.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-020",
@@ -349,7 +387,9 @@
     ],
     "example": "Her attendance at school is perfect.",
     "hint": "Double T, ends in -ance not -ence.",
-    "image": "/images/level7/attendance.webp"
+    "image": "/images/level7/attendance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-021",
@@ -366,7 +406,9 @@
     ],
     "example": "There was an awkward silence.",
     "hint": "W comes before A in the middle — 'awk-ward'.",
-    "image": "/images/level7/awkward.webp"
+    "image": "/images/level7/awkward.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-022",
@@ -383,7 +425,9 @@
     ],
     "example": "She tried to keep her balance.",
     "hint": "Starts with BAL, ends in -ance.",
-    "image": "/images/level7/balance.webp"
+    "image": "/images/level7/balance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-023",
@@ -402,7 +446,9 @@
     ],
     "example": "Basically, we agree with the plan.",
     "hint": "Keep the -al before -ly, don't drop it.",
-    "image": "/images/level7/basically.webp"
+    "image": "/images/level7/basically.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-024",
@@ -420,7 +466,9 @@
     ],
     "example": "The sunset was beautiful.",
     "hint": "EAU together, tricky French-style spelling.",
-    "image": "/images/level7/beautiful.webp"
+    "image": "/images/level7/beautiful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-025",
@@ -438,7 +486,9 @@
     ],
     "example": "This is the beginning of a new story.",
     "hint": "Double N before -ing.",
-    "image": "/images/level7/beginning.webp"
+    "image": "/images/level7/beginning.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-026",
@@ -455,7 +505,9 @@
     ],
     "example": "I believe you are right.",
     "hint": "I before E except after C — 'believe'.",
-    "image": "/images/level7/believe.webp"
+    "image": "/images/level7/believe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-027",
@@ -473,7 +525,9 @@
     ],
     "example": "Exercise has many health benefits.",
     "hint": "Only one T at the end.",
-    "image": "/images/level7/benefit.webp"
+    "image": "/images/level7/benefit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-028",
@@ -490,7 +544,9 @@
     ],
     "example": "She dipped the biscuit in tea.",
     "hint": "Has a silent U — 'biscuit', not 'biskit'.",
-    "image": "/images/level7/biscuit.webp"
+    "image": "/images/level7/biscuit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-029",
@@ -507,7 +563,9 @@
     ],
     "example": "That was a bizarre dream.",
     "hint": "Double R at the end, ends in -re.",
-    "image": "/images/level7/bizarre.webp"
+    "image": "/images/level7/bizarre.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-030",
@@ -523,7 +581,9 @@
     ],
     "example": "She bought a new bag.",
     "hint": "Has a silent GH — 'bought', not 'bawt'.",
-    "image": "/images/level7/bought.webp"
+    "image": "/images/level7/bought.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-031",
@@ -539,7 +599,9 @@
     ],
     "example": "He gave a brief speech.",
     "hint": "I before E — 'brief', not 'breif'.",
-    "image": "/images/level7/brief.webp"
+    "image": "/images/level7/brief.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-032",
@@ -556,7 +618,9 @@
     ],
     "example": "She runs her own business.",
     "hint": "Starts with BUSI, not BIZI.",
-    "image": "/images/level7/business.webp"
+    "image": "/images/level7/business.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-033",
@@ -575,7 +639,9 @@
     ],
     "example": "Choose the correct category.",
     "hint": "Four syllables — don't skip the second A.",
-    "image": "/images/level7/category.webp"
+    "image": "/images/level7/category.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-034",
@@ -591,7 +657,9 @@
     ],
     "example": "He caught the ball.",
     "hint": "Has a silent GH, same pattern as 'bought'.",
-    "image": "/images/level7/caught.webp"
+    "image": "/images/level7/caught.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-035",
@@ -608,7 +676,9 @@
     ],
     "example": "A lamp hung from the ceiling.",
     "hint": "E before I after C here — an exception to the rule.",
-    "image": "/images/level7/ceiling.webp"
+    "image": "/images/level7/ceiling.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-036",
@@ -627,7 +697,9 @@
     ],
     "example": "They visited the old cemetery.",
     "hint": "All three vowels are E — cEmEtEry.",
-    "image": "/images/level7/cemetery.webp"
+    "image": "/images/level7/cemetery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-037",
@@ -644,7 +716,9 @@
     ],
     "example": "I am certain she will come.",
     "hint": "Ends in -tain, not -ten.",
-    "image": "/images/level7/certain.webp"
+    "image": "/images/level7/certain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-038",
@@ -662,7 +736,9 @@
     ],
     "example": "The weather is changeable today.",
     "hint": "Keep the E before -able to keep the G soft.",
-    "image": "/images/level7/changeable.webp"
+    "image": "/images/level7/changeable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-039",
@@ -680,7 +756,9 @@
     ],
     "example": "He is the main character in the film.",
     "hint": "CH makes a K sound here.",
-    "image": "/images/level7/character.webp"
+    "image": "/images/level7/character.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-040",
@@ -696,7 +774,9 @@
     ],
     "example": "She is the chief editor.",
     "hint": "I before E — 'chief', not 'cheif'.",
-    "image": "/images/level7/chief.webp"
+    "image": "/images/level7/chief.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-041",
@@ -713,7 +793,9 @@
     ],
     "example": "He greeted his colleague at work.",
     "hint": "Ends in -eague, silent letters like 'league'.",
-    "image": "/images/level7/colleague.webp"
+    "image": "/images/level7/colleague.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-042",
@@ -730,7 +812,9 @@
     ],
     "example": "She writes a weekly newspaper column.",
     "hint": "Silent N at the end — 'column'.",
-    "image": "/images/level7/column.webp"
+    "image": "/images/level7/column.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-043",
@@ -747,7 +831,9 @@
     ],
     "example": "Winter is coming soon.",
     "hint": "Drop the silent E from 'come' before adding -ing.",
-    "image": "/images/level7/coming.webp"
+    "image": "/images/level7/coming.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-044",
@@ -765,7 +851,9 @@
     ],
     "example": "The committee will meet tomorrow.",
     "hint": "Double M, double T, double E.",
-    "image": "/images/level7/committee.webp"
+    "image": "/images/level7/committee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-045",
@@ -784,7 +872,9 @@
     ],
     "example": "This is a comparative study.",
     "hint": "Keep the A before -tive, don't drop it.",
-    "image": "/images/level7/comparative.webp"
+    "image": "/images/level7/comparative.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-046",
@@ -803,7 +893,9 @@
     ],
     "example": "She won first place in the competition.",
     "hint": "Ends in -tition, not -tion alone.",
-    "image": "/images/level7/competition.webp"
+    "image": "/images/level7/competition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-047",
@@ -821,7 +913,9 @@
     ],
     "example": "He was completely surprised.",
     "hint": "Keep both E's — 'complete' plus 'ly'.",
-    "image": "/images/level7/completely.webp"
+    "image": "/images/level7/completely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-048",
@@ -838,7 +932,9 @@
     ],
     "example": "Her conscience wouldn't let her lie.",
     "hint": "Has SCI making a SH sound — 'conscience'.",
-    "image": "/images/level7/conscience.webp"
+    "image": "/images/level7/conscience.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-049",
@@ -855,7 +951,9 @@
     ],
     "example": "He was fully conscious after the fall.",
     "hint": "Ends in -scious, not -shus.",
-    "image": "/images/level7/conscious.webp"
+    "image": "/images/level7/conscious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-050",
@@ -873,7 +971,9 @@
     ],
     "example": "She is consistent in her work.",
     "hint": "Ends in -ent, not -ant.",
-    "image": "/images/level7/consistent.webp"
+    "image": "/images/level7/consistent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-051",
@@ -892,7 +992,9 @@
     ],
     "example": "There was a continuous noise outside.",
     "hint": "Ends in -uous, four syllables.",
-    "image": "/images/level7/continuous.webp"
+    "image": "/images/level7/continuous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-052",
@@ -911,7 +1013,9 @@
     ],
     "example": "The plan caused a lot of controversy.",
     "hint": "Keep the single R after 'cont'.",
-    "image": "/images/level7/controversy.webp"
+    "image": "/images/level7/controversy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-053",
@@ -929,7 +1033,9 @@
     ],
     "example": "This time is convenient for me.",
     "hint": "Ends in -ient, not -ence.",
-    "image": "/images/level7/convenient.webp"
+    "image": "/images/level7/convenient.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-054",
@@ -947,7 +1053,9 @@
     ],
     "example": "The two shapes correspond exactly.",
     "hint": "Double R, single S.",
-    "image": "/images/level7/correspond.webp"
+    "image": "/images/level7/correspond.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-055",
@@ -965,7 +1073,9 @@
     ],
     "example": "The courageous firefighter saved the cat.",
     "hint": "Keeps the OUR from 'courage', plus -ous.",
-    "image": "/images/level7/courageous.webp"
+    "image": "/images/level7/courageous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-056",
@@ -985,7 +1095,9 @@
     ],
     "example": "Her curiosity led her to explore.",
     "hint": "Five syllables, ends in -osity.",
-    "image": "/images/level7/curiosity.webp"
+    "image": "/images/level7/curiosity.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-057",
@@ -1002,7 +1114,9 @@
     ],
     "example": "He tried to deceive his friend.",
     "hint": "E before I after C — 'deceive'.",
-    "image": "/images/level7/deceive.webp"
+    "image": "/images/level7/deceive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-058",
@@ -1019,7 +1133,9 @@
     ],
     "example": "You must decide now.",
     "hint": "Ends in -cide, silent E.",
-    "image": "/images/level7/decide.webp"
+    "image": "/images/level7/decide.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-059",
@@ -1037,7 +1153,9 @@
     ],
     "example": "We need a definite answer.",
     "hint": "Has an I in the middle, not an A — 'definite'.",
-    "image": "/images/level7/definite.webp"
+    "image": "/images/level7/definite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-060",
@@ -1056,7 +1174,9 @@
     ],
     "example": "I will definitely come to the party.",
     "hint": "Same trap as 'definite' — I, not A, before -tely.",
-    "image": "/images/level7/definitely.webp"
+    "image": "/images/level7/definitely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-061",
@@ -1073,7 +1193,9 @@
     ],
     "example": "Can you describe the animal?",
     "hint": "Ends in -scribe, silent E.",
-    "image": "/images/level7/describe.webp"
+    "image": "/images/level7/describe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-062",
@@ -1091,7 +1213,9 @@
     ],
     "example": "He was desperate for help.",
     "hint": "Has an E in the middle — 'desp-er-ate'.",
-    "image": "/images/level7/desperate.webp"
+    "image": "/images/level7/desperate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-063",
@@ -1109,7 +1233,9 @@
     ],
     "example": "The city will develop this area.",
     "hint": "No silent E at the end — 'develop', not 'develope'.",
-    "image": "/images/level7/develop.webp"
+    "image": "/images/level7/develop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-064",
@@ -1127,7 +1253,9 @@
     ],
     "example": "There is a big difference between them.",
     "hint": "Double F, ends in -ence.",
-    "image": "/images/level7/difference.webp"
+    "image": "/images/level7/difference.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-065",
@@ -1145,7 +1273,9 @@
     ],
     "example": "The rabbit seemed to disappear.",
     "hint": "Single S, double P — 'disappear'.",
-    "image": "/images/level7/disappear.webp"
+    "image": "/images/level7/disappear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-066",
@@ -1163,7 +1293,9 @@
     ],
     "example": "I don't want to disappoint you.",
     "hint": "Single S, double P — same pattern as 'disappear'.",
-    "image": "/images/level7/disappoint.webp"
+    "image": "/images/level7/disappoint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-067",
@@ -1181,7 +1313,9 @@
     ],
     "example": "The storm was disastrous for the town.",
     "hint": "No E before -ous — 'disastrous', not 'disasterous'.",
-    "image": "/images/level7/disastrous.webp"
+    "image": "/images/level7/disastrous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-068",
@@ -1199,7 +1333,9 @@
     ],
     "example": "The team needs more discipline.",
     "hint": "Silent C after DIS — 'dis-ci-pline'.",
-    "image": "/images/level7/discipline.webp"
+    "image": "/images/level7/discipline.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-069",
@@ -1216,7 +1352,9 @@
     ],
     "example": "He lifted the dumbbell carefully.",
     "hint": "Double B in the middle — 'dumb' plus 'bell'.",
-    "image": "/images/level7/dumbbell.webp"
+    "image": "/images/level7/dumbbell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-070",
@@ -1232,7 +1370,9 @@
     ],
     "example": "Today is her eighth birthday.",
     "hint": "EIGH plus TH — tricky consonant cluster at the end.",
-    "image": "/images/level7/eighth.webp"
+    "image": "/images/level7/eighth.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-071",
@@ -1251,7 +1391,9 @@
     ],
     "example": "She is eligible to vote.",
     "hint": "Ends in -gible, soft G sound.",
-    "image": "/images/level7/eligible.webp"
+    "image": "/images/level7/eligible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-072",
@@ -1269,7 +1411,9 @@
     ],
     "example": "He didn't want to embarrass his friend.",
     "hint": "Double R, double S.",
-    "image": "/images/level7/embarrass.webp"
+    "image": "/images/level7/embarrass.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-073",
@@ -1287,7 +1431,9 @@
     ],
     "example": "Teachers encourage students to try.",
     "hint": "Keep the OUR in the middle — 'en-cour-age'.",
-    "image": "/images/level7/encourage.webp"
+    "image": "/images/level7/encourage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-074",
@@ -1304,7 +1450,9 @@
     ],
     "example": "We have enough food for everyone.",
     "hint": "Ends in -ough, sounds like 'uff'.",
-    "image": "/images/level7/enough.webp"
+    "image": "/images/level7/enough.webp",
+    "partOfSpeech": "adverb",
+    "origin": "English"
   },
   {
     "id": "lvl7-075",
@@ -1321,7 +1469,9 @@
     ],
     "example": "The entrance is around the corner.",
     "hint": "Starts with EN, ends in -ance.",
-    "image": "/images/level7/entrance.webp"
+    "image": "/images/level7/entrance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-076",
@@ -1340,7 +1490,9 @@
     ],
     "example": "We must protect the environment.",
     "hint": "Has a silent N before -ment — 'environ-ment'.",
-    "image": "/images/level7/environment.webp"
+    "image": "/images/level7/environment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-077",
@@ -1358,7 +1510,9 @@
     ],
     "example": "The gym has new equipment.",
     "hint": "Only one P before -ment.",
-    "image": "/images/level7/equipment.webp"
+    "image": "/images/level7/equipment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-078",
@@ -1377,7 +1531,9 @@
     ],
     "example": "I especially love summer.",
     "hint": "Keep the -cial before -ly.",
-    "image": "/images/level7/especially.webp"
+    "image": "/images/level7/especially.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-079",
@@ -1396,7 +1552,9 @@
     ],
     "example": "Don't exaggerate the story.",
     "hint": "Double G, single R — 'exagg-erate'.",
-    "image": "/images/level7/exaggerate.webp"
+    "image": "/images/level7/exaggerate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-080",
@@ -1414,7 +1572,9 @@
     ],
     "example": "That was an excellent performance.",
     "hint": "Double L, ends in -lent.",
-    "image": "/images/level7/excellent.webp"
+    "image": "/images/level7/excellent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-081",
@@ -1431,7 +1591,9 @@
     ],
     "example": "Everyone came except John.",
     "hint": "Starts with EX, not AC — different from 'accept'.",
-    "image": "/images/level7/except.webp"
+    "image": "/images/level7/except.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-082",
@@ -1449,7 +1611,9 @@
     ],
     "example": "Daily exercise keeps you fit.",
     "hint": "Ends in -cise, not -size.",
-    "image": "/images/level7/exercise.webp"
+    "image": "/images/level7/exercise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-083",
@@ -1466,7 +1630,9 @@
     ],
     "example": "The long run will exhaust you.",
     "hint": "Has a silent H after EX.",
-    "image": "/images/level7/exhaust.webp"
+    "image": "/images/level7/exhaust.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-084",
@@ -1484,7 +1650,9 @@
     ],
     "example": "They proved the existence of the ruins.",
     "hint": "Ends in -tence, not -tance.",
-    "image": "/images/level7/existence.webp"
+    "image": "/images/level7/existence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-085",
@@ -1503,7 +1671,9 @@
     ],
     "example": "Travel gives you great experience.",
     "hint": "Starts with EX, ends in -ence.",
-    "image": "/images/level7/experience.webp"
+    "image": "/images/level7/experience.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-086",
@@ -1522,7 +1692,9 @@
     ],
     "example": "He gave a clear explanation.",
     "hint": "Note the A change — 'explain' becomes 'explanation'.",
-    "image": "/images/level7/explanation.webp"
+    "image": "/images/level7/explanation.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-087",
@@ -1540,7 +1712,9 @@
     ],
     "example": "It is extremely hot today.",
     "hint": "Keep both E's from 'extreme' plus 'ly'.",
-    "image": "/images/level7/extremely.webp"
+    "image": "/images/level7/extremely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-088",
@@ -1558,7 +1732,9 @@
     ],
     "example": "This song sounds familiar.",
     "hint": "Ends in -iar, not -ier.",
-    "image": "/images/level7/familiar.webp"
+    "image": "/images/level7/familiar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-089",
@@ -1576,7 +1752,9 @@
     ],
     "example": "Space continues to fascinate scientists.",
     "hint": "Has a silent C after FAS — 'fas-ci-nate'.",
-    "image": "/images/level7/fascinate.webp"
+    "image": "/images/level7/fascinate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-090",
@@ -1594,7 +1772,9 @@
     ],
     "example": "Blue is my favorite color.",
     "hint": "American spelling: no U — 'favorite'.",
-    "image": "/images/level7/favorite.webp"
+    "image": "/images/level7/favorite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-091",
@@ -1613,7 +1793,9 @@
     ],
     "example": "Her birthday is in February.",
     "hint": "Has a silent R after FEB — 'Feb-ru-ary'.",
-    "image": "/images/level7/february.webp"
+    "image": "/images/level7/february.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-092",
@@ -1631,7 +1813,9 @@
     ],
     "example": "We finally arrived home.",
     "hint": "Double L — keep both from 'final' plus 'ly'.",
-    "image": "/images/level7/finally.webp"
+    "image": "/images/level7/finally.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-093",
@@ -1649,7 +1833,9 @@
     ],
     "example": "The room had fluorescent lights.",
     "hint": "Starts with FLUOR, ends in -escent.",
-    "image": "/images/level7/fluorescent.webp"
+    "image": "/images/level7/fluorescent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-094",
@@ -1666,7 +1852,9 @@
     ],
     "example": "She speaks three foreign languages.",
     "hint": "EIGN is silent-G — an exception to I-before-E.",
-    "image": "/images/level7/foreign.webp"
+    "image": "/images/level7/foreign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-095",
@@ -1683,7 +1871,9 @@
     ],
     "example": "He is forty years old.",
     "hint": "No U, unlike 'four' — 'forty'.",
-    "image": "/images/level7/forty.webp"
+    "image": "/images/level7/forty.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-096",
@@ -1699,7 +1889,9 @@
     ],
     "example": "She finished in fourth place.",
     "hint": "Keep the U from 'four', add -th.",
-    "image": "/images/level7/fourth.webp"
+    "image": "/images/level7/fourth.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-097",
@@ -1716,7 +1908,9 @@
     ],
     "example": "We need to discuss this further.",
     "hint": "Starts with FUR, not FOR — 'further'.",
-    "image": "/images/level7/further.webp"
+    "image": "/images/level7/further.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-098",
@@ -1732,7 +1926,9 @@
     ],
     "example": "Check the fuel gauge.",
     "hint": "AU makes a long A sound — 'gauge'.",
-    "image": "/images/level7/gauge.webp"
+    "image": "/images/level7/gauge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-099",
@@ -1751,7 +1947,9 @@
     ],
     "example": "Generally, she arrives on time.",
     "hint": "Keep the -al before -ly.",
-    "image": "/images/level7/generally.webp"
+    "image": "/images/level7/generally.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-100",
@@ -1769,7 +1967,9 @@
     ],
     "example": "That is a genuine diamond.",
     "hint": "Ends in -uine, not -uwine.",
-    "image": "/images/level7/genuine.webp"
+    "image": "/images/level7/genuine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-101",
@@ -1787,7 +1987,9 @@
     ],
     "example": "The government passed a new law.",
     "hint": "Has a silent N before -ment — 'govern-ment'.",
-    "image": "/images/level7/government.webp"
+    "image": "/images/level7/government.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-102",
@@ -1804,7 +2006,9 @@
     ],
     "example": "She studies English grammar.",
     "hint": "Ends in -mar, not -mer.",
-    "image": "/images/level7/grammar.webp"
+    "image": "/images/level7/grammar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-103",
@@ -1821,7 +2025,9 @@
     ],
     "example": "I am grateful for your help.",
     "hint": "Only one L at the end — 'grateful'.",
-    "image": "/images/level7/grateful.webp"
+    "image": "/images/level7/grateful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-104",
@@ -1839,7 +2045,9 @@
     ],
     "example": "The product has a one-year guarantee.",
     "hint": "Starts with GUAR, ends in double E.",
-    "image": "/images/level7/guarantee.webp"
+    "image": "/images/level7/guarantee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-105",
@@ -1855,7 +2063,9 @@
     ],
     "example": "The guard stood at the gate.",
     "hint": "Has a silent U after G.",
-    "image": "/images/level7/guard.webp"
+    "image": "/images/level7/guard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-106",
@@ -1871,7 +2081,9 @@
     ],
     "example": "Take a guess at the answer.",
     "hint": "Silent U after G, double S at the end.",
-    "image": "/images/level7/guess.webp"
+    "image": "/images/level7/guess.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-107",
@@ -1888,7 +2100,9 @@
     ],
     "example": "She needs some guidance.",
     "hint": "Silent U after G, ends in -ance.",
-    "image": "/images/level7/guidance.webp"
+    "image": "/images/level7/guidance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-108",
@@ -1906,7 +2120,9 @@
     ],
     "example": "He wiped his face with a handkerchief.",
     "hint": "Ends in -chief, like the word 'chief'.",
-    "image": "/images/level7/handkerchief.webp"
+    "image": "/images/level7/handkerchief.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-109",
@@ -1923,7 +2139,9 @@
     ],
     "example": "Tell me what happened.",
     "hint": "Double P, then -ened, not -end.",
-    "image": "/images/level7/happened.webp"
+    "image": "/images/level7/happened.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-110",
@@ -1940,7 +2158,9 @@
     ],
     "example": "It is wrong to harass anyone.",
     "hint": "Only one R, double S — 'harass'.",
-    "image": "/images/level7/harass.webp"
+    "image": "/images/level7/harass.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-111",
@@ -1958,7 +2178,9 @@
     ],
     "example": "He told a humorous story.",
     "hint": "No U before -ous — 'humor' plus 'ous'.",
-    "image": "/images/level7/humorous.webp"
+    "image": "/images/level7/humorous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-112",
@@ -1975,7 +2197,9 @@
     ],
     "example": "Good hygiene prevents illness.",
     "hint": "G before I, then E — 'hy-giene'.",
-    "image": "/images/level7/hygiene.webp"
+    "image": "/images/level7/hygiene.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-113",
@@ -1993,7 +2217,9 @@
     ],
     "example": "Don't be a hypocrite about the rules.",
     "hint": "Starts with HYP, ends in -crite.",
-    "image": "/images/level7/hypocrite.webp"
+    "image": "/images/level7/hypocrite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-114",
@@ -2011,7 +2237,9 @@
     ],
     "example": "His mistake was due to ignorance.",
     "hint": "Ends in -ance, not -ence.",
-    "image": "/images/level7/ignorance.webp"
+    "image": "/images/level7/ignorance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-115",
@@ -2031,7 +2259,9 @@
     ],
     "example": "She has an imaginary friend.",
     "hint": "Five syllables, ends in -inary.",
-    "image": "/images/level7/imaginary.webp"
+    "image": "/images/level7/imaginary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-116",
@@ -2051,7 +2281,9 @@
     ],
     "example": "Come here immediately.",
     "hint": "Double M at the start.",
-    "image": "/images/level7/immediately.webp"
+    "image": "/images/level7/immediately.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-117",
@@ -2071,7 +2303,9 @@
     ],
     "example": "Incidentally, I saw her yesterday.",
     "hint": "Keep -tal before -ly, from 'incidental'.",
-    "image": "/images/level7/incidentally.webp"
+    "image": "/images/level7/incidentally.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-118",
@@ -2090,7 +2324,9 @@
     ],
     "example": "She is very independent.",
     "hint": "Ends in -dent, not -dant.",
-    "image": "/images/level7/independent.webp"
+    "image": "/images/level7/independent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-119",
@@ -2110,7 +2346,9 @@
     ],
     "example": "Water is indispensable to life.",
     "hint": "Ends in -sable, not -sible.",
-    "image": "/images/level7/indispensable.webp"
+    "image": "/images/level7/indispensable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-120",
@@ -2130,7 +2368,9 @@
     ],
     "example": "Change is inevitable.",
     "hint": "Ends in -table, not -tible.",
-    "image": "/images/level7/inevitable.webp"
+    "image": "/images/level7/inevitable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-121",
@@ -2149,7 +2389,9 @@
     ],
     "example": "She is an influential leader.",
     "hint": "Ends in -tial, not -cial.",
-    "image": "/images/level7/influential.webp"
+    "image": "/images/level7/influential.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-122",
@@ -2168,7 +2410,9 @@
     ],
     "example": "The book has useful information.",
     "hint": "Ends in -mation, not -mtion.",
-    "image": "/images/level7/information.webp"
+    "image": "/images/level7/information.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-123",
@@ -2187,7 +2431,9 @@
     ],
     "example": "Flour is the main ingredient.",
     "hint": "Ends in -edient, four syllables.",
-    "image": "/images/level7/ingredient.webp"
+    "image": "/images/level7/ingredient.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-124",
@@ -2206,7 +2452,9 @@
     ],
     "example": "The nurse will inoculate the children.",
     "hint": "Only one N and one C — 'i-noc-u-late'.",
-    "image": "/images/level7/inoculate.webp"
+    "image": "/images/level7/inoculate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-125",
@@ -2225,7 +2473,9 @@
     ],
     "example": "Her intelligence impressed the teachers.",
     "hint": "Double L, ends in -gence.",
-    "image": "/images/level7/intelligence.webp"
+    "image": "/images/level7/intelligence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-126",
@@ -2244,7 +2494,9 @@
     ],
     "example": "That was an interesting movie.",
     "hint": "Keep 'interest' whole before adding -ing.",
-    "image": "/images/level7/interesting.webp"
+    "image": "/images/level7/interesting.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-127",
@@ -2262,7 +2514,9 @@
     ],
     "example": "Please don't interrupt me.",
     "hint": "Double R in the middle.",
-    "image": "/images/level7/interrupt.webp"
+    "image": "/images/level7/interrupt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-128",
@@ -2281,7 +2535,9 @@
     ],
     "example": "That comment is irrelevant here.",
     "hint": "Double R at the start, ends in -vant.",
-    "image": "/images/level7/irrelevant.webp"
+    "image": "/images/level7/irrelevant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-129",
@@ -2301,7 +2557,9 @@
     ],
     "example": "The cake looked irresistible.",
     "hint": "Double R, ends in -tible not -table.",
-    "image": "/images/level7/irresistible.webp"
+    "image": "/images/level7/irresistible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-130",
@@ -2318,7 +2576,9 @@
     ],
     "example": "He felt jealous of his brother.",
     "hint": "EA together, then -ous, not -us.",
-    "image": "/images/level7/jealous.webp"
+    "image": "/images/level7/jealous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-131",
@@ -2336,7 +2596,9 @@
     ],
     "example": "She wore beautiful jewelry.",
     "hint": "American spelling: no second E — 'jewelry'.",
-    "image": "/images/level7/jewelry.webp"
+    "image": "/images/level7/jewelry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-132",
@@ -2353,7 +2615,9 @@
     ],
     "example": "Use your best judgment.",
     "hint": "No E before -ment in the common spelling — 'judgment'.",
-    "image": "/images/level7/judgment.webp"
+    "image": "/images/level7/judgment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-133",
@@ -2370,7 +2634,9 @@
     ],
     "example": "Each kernel of corn is small.",
     "hint": "Sounds like 'colonel' but spelled differently.",
-    "image": "/images/level7/kernel.webp"
+    "image": "/images/level7/kernel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-134",
@@ -2389,7 +2655,9 @@
     ],
     "example": "My sister started kindergarten today.",
     "hint": "Has GAR in the middle, not GUAR.",
-    "image": "/images/level7/kindergarten.webp"
+    "image": "/images/level7/kindergarten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-135",
@@ -2406,7 +2674,9 @@
     ],
     "example": "He has great knowledge of history.",
     "hint": "Silent K, ends in -edge.",
-    "image": "/images/level7/knowledge.webp"
+    "image": "/images/level7/knowledge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-136",
@@ -2426,7 +2696,9 @@
     ],
     "example": "The scientist worked in the laboratory.",
     "hint": "Five syllables — don't drop any.",
-    "image": "/images/level7/laboratory.webp"
+    "image": "/images/level7/laboratory.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-137",
@@ -2443,7 +2715,9 @@
     ],
     "example": "She speaks two languages.",
     "hint": "Has GU together — 'lan-guage'.",
-    "image": "/images/level7/language.webp"
+    "image": "/images/level7/language.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-138",
@@ -2460,7 +2734,9 @@
     ],
     "example": "He enjoys reading in his leisure time.",
     "hint": "EI here, not IE — an exception.",
-    "image": "/images/level7/leisure.webp"
+    "image": "/images/level7/leisure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-139",
@@ -2476,7 +2752,9 @@
     ],
     "example": "Measure the length of the room.",
     "hint": "Has NG before TH — 'leng-th'.",
-    "image": "/images/level7/length.webp"
+    "image": "/images/level7/length.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-140",
@@ -2494,7 +2772,9 @@
     ],
     "example": "She works as a liaison between teams.",
     "hint": "Has AI in the middle — 'li-ai-son'.",
-    "image": "/images/level7/liaison.webp"
+    "image": "/images/level7/liaison.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-141",
@@ -2512,7 +2792,9 @@
     ],
     "example": "I borrowed a book from the library.",
     "hint": "Has R after LIB — 'li-brar-y', not 'libary'.",
-    "image": "/images/level7/library.webp"
+    "image": "/images/level7/library.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-142",
@@ -2529,7 +2811,9 @@
     ],
     "example": "He has a driving license.",
     "hint": "American spelling ends in -cense.",
-    "image": "/images/level7/license.webp"
+    "image": "/images/level7/license.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-143",
@@ -2547,7 +2831,9 @@
     ],
     "example": "There is a likelihood of rain.",
     "hint": "Ends in -hood, like 'childhood'.",
-    "image": "/images/level7/likelihood.webp"
+    "image": "/images/level7/likelihood.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-144",
@@ -2566,7 +2852,9 @@
     ],
     "example": "She studies English literature.",
     "hint": "Ends in -ature, four syllables.",
-    "image": "/images/level7/literature.webp"
+    "image": "/images/level7/literature.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-145",
@@ -2583,7 +2871,9 @@
     ],
     "example": "He felt lonely in the new city.",
     "hint": "Keep the silent E before -ly — 'lone-ly'.",
-    "image": "/images/level7/lonely.webp"
+    "image": "/images/level7/lonely.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-146",
@@ -2601,7 +2891,9 @@
     ],
     "example": "They enjoy a life of luxury.",
     "hint": "Ends in -ury, not -ery.",
-    "image": "/images/level7/luxury.webp"
+    "image": "/images/level7/luxury.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-147",
@@ -2619,7 +2911,9 @@
     ],
     "example": "The car needs regular maintenance.",
     "hint": "Ends in -enance, tricky middle vowel.",
-    "image": "/images/level7/maintenance.webp"
+    "image": "/images/level7/maintenance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-148",
@@ -2637,7 +2931,9 @@
     ],
     "example": "The pilot made a sharp maneuver.",
     "hint": "American spelling: -euver, not -oeuvre.",
-    "image": "/images/level7/maneuver.webp"
+    "image": "/images/level7/maneuver.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-149",
@@ -2654,7 +2950,9 @@
     ],
     "example": "Their marriage was a happy one.",
     "hint": "Double R, ends in -riage like 'carriage'.",
-    "image": "/images/level7/marriage.webp"
+    "image": "/images/level7/marriage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-150",
@@ -2673,7 +2971,9 @@
     ],
     "example": "She excels at mathematics.",
     "hint": "Ends in -matics, four syllables.",
-    "image": "/images/level7/mathematics.webp"
+    "image": "/images/level7/mathematics.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-151",
@@ -2691,7 +2991,9 @@
     ],
     "example": "Take your medicine after meals.",
     "hint": "Ends in -cine, not -sin.",
-    "image": "/images/level7/medicine.webp"
+    "image": "/images/level7/medicine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-152",
@@ -2709,7 +3011,9 @@
     ],
     "example": "She kept the ticket as a memento.",
     "hint": "Starts with ME, not MO — 'me-men-to'.",
-    "image": "/images/level7/memento.webp"
+    "image": "/images/level7/memento.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-153",
@@ -2728,7 +3032,9 @@
     ],
     "example": "We celebrated the new millennium.",
     "hint": "Double L, double N — two pairs.",
-    "image": "/images/level7/millennium.webp"
+    "image": "/images/level7/millennium.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-154",
@@ -2747,7 +3053,9 @@
     ],
     "example": "He collects miniature cars.",
     "hint": "Keep the I after MIN — 'min-i-a-ture'.",
-    "image": "/images/level7/miniature.webp"
+    "image": "/images/level7/miniature.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-155",
@@ -2764,7 +3072,9 @@
     ],
     "example": "Wait just a minute.",
     "hint": "Ends in -ute, not -it.",
-    "image": "/images/level7/minute.webp"
+    "image": "/images/level7/minute.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-156",
@@ -2782,7 +3092,9 @@
     ],
     "example": "The mischievous cat knocked over the vase.",
     "hint": "Ends in -vous, only three syllables — not 'mischievious'.",
-    "image": "/images/level7/mischievous.webp"
+    "image": "/images/level7/mischievous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-157",
@@ -2799,7 +3111,9 @@
     ],
     "example": "They took out a mortgage for their house.",
     "hint": "Has a silent T after MOR.",
-    "image": "/images/level7/mortgage.webp"
+    "image": "/images/level7/mortgage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-158",
@@ -2816,7 +3130,9 @@
     ],
     "example": "He built strong muscle from exercise.",
     "hint": "Has a silent C — 'mus-cle', not 'musle'.",
-    "image": "/images/level7/muscle.webp"
+    "image": "/images/level7/muscle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-159",
@@ -2835,7 +3151,9 @@
     ],
     "example": "A mysterious noise came from upstairs.",
     "hint": "Starts with MYS, not MIS.",
-    "image": "/images/level7/mysterious.webp"
+    "image": "/images/level7/mysterious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-160",
@@ -2852,7 +3170,9 @@
     ],
     "example": "It was naive of him to trust a stranger.",
     "hint": "Two vowels together, each pronounced separately.",
-    "image": "/images/level7/naive.webp"
+    "image": "/images/level7/naive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-161",
@@ -2871,7 +3191,9 @@
     ],
     "example": "Water is necessary for life.",
     "hint": "One C, two S's — 'one collar, two socks'.",
-    "image": "/images/level7/necessary.webp"
+    "image": "/images/level7/necessary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-162",
@@ -2888,7 +3210,9 @@
     ],
     "example": "Our neighbor waved hello.",
     "hint": "EIGH together, silent GH.",
-    "image": "/images/level7/neighbor.webp"
+    "image": "/images/level7/neighbor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-163",
@@ -2905,7 +3229,9 @@
     ],
     "example": "Neither of us was hungry.",
     "hint": "EI here, an exception to I-before-E.",
-    "image": "/images/level7/neither.webp"
+    "image": "/images/level7/neither.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-164",
@@ -2921,7 +3247,9 @@
     ],
     "example": "My niece is turning five.",
     "hint": "I before E — 'niece', not 'neice'.",
-    "image": "/images/level7/niece.webp"
+    "image": "/images/level7/niece.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-165",
@@ -2938,7 +3266,9 @@
     ],
     "example": "He is ninety years old.",
     "hint": "Drop the silent E from 'nine' before -ty.",
-    "image": "/images/level7/ninety.webp"
+    "image": "/images/level7/ninety.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-166",
@@ -2957,7 +3287,9 @@
     ],
     "example": "There was a noticeable change.",
     "hint": "Keep the E before -able to keep the C soft.",
-    "image": "/images/level7/noticeable.webp"
+    "image": "/images/level7/noticeable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-167",
@@ -2975,7 +3307,9 @@
     ],
     "example": "Nowadays, everyone has a phone.",
     "hint": "Joins 'now' + 'a' + 'days', no extra letters.",
-    "image": "/images/level7/nowadays.webp"
+    "image": "/images/level7/nowadays.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-168",
@@ -2993,7 +3327,9 @@
     ],
     "example": "The plant produces nuclear energy.",
     "hint": "Ends in -clear-style but spelled -clear... actually -clear: 'nu-cle-ar'.",
-    "image": "/images/level7/nuclear.webp"
+    "image": "/images/level7/nuclear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-169",
@@ -3011,7 +3347,9 @@
     ],
     "example": "There were numerous mistakes.",
     "hint": "Ends in -ous, not -us.",
-    "image": "/images/level7/numerous.webp"
+    "image": "/images/level7/numerous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-170",
@@ -3030,7 +3368,9 @@
     ],
     "example": "The dog was trained for obedience.",
     "hint": "Ends in -ence, four syllables.",
-    "image": "/images/level7/obedience.webp"
+    "image": "/images/level7/obedience.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-171",
@@ -3048,7 +3388,9 @@
     ],
     "example": "They overcame every obstacle.",
     "hint": "Ends in -cle, not -cal.",
-    "image": "/images/level7/obstacle.webp"
+    "image": "/images/level7/obstacle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-172",
@@ -3066,7 +3408,9 @@
     ],
     "example": "It was a special occasion.",
     "hint": "Double C, single S — 'oc-ca-sion'.",
-    "image": "/images/level7/occasion.webp"
+    "image": "/images/level7/occasion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-173",
@@ -3086,7 +3430,9 @@
     ],
     "example": "We occasionally eat out.",
     "hint": "Double C, keep -al before -ly.",
-    "image": "/images/level7/occasionally.webp"
+    "image": "/images/level7/occasionally.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-174",
@@ -3103,7 +3449,9 @@
     ],
     "example": "The accident occurred last night.",
     "hint": "Double C, double R — 'oc-curred'.",
-    "image": "/images/level7/occurred.webp"
+    "image": "/images/level7/occurred.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-175",
@@ -3121,7 +3469,9 @@
     ],
     "example": "It was a rare occurrence.",
     "hint": "Double C, double R, ends in -rence.",
-    "image": "/images/level7/occurrence.webp"
+    "image": "/images/level7/occurrence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-176",
@@ -3139,7 +3489,9 @@
     ],
     "example": "It is now official.",
     "hint": "Double F, ends in -cial not -tial.",
-    "image": "/images/level7/official.webp"
+    "image": "/images/level7/official.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-177",
@@ -3157,7 +3509,9 @@
     ],
     "example": "The report had an omission.",
     "hint": "One M, double S — 'o-mis-sion'.",
-    "image": "/images/level7/omission.webp"
+    "image": "/images/level7/omission.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-178",
@@ -3175,7 +3529,9 @@
     ],
     "example": "Everyone has a different opinion.",
     "hint": "One P, ends in -ion not -in.",
-    "image": "/images/level7/opinion.webp"
+    "image": "/images/level7/opinion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-179",
@@ -3195,7 +3551,9 @@
     ],
     "example": "This is a great opportunity.",
     "hint": "Double P, single R — 'op-por-tu-ni-ty'.",
-    "image": "/images/level7/opportunity.webp"
+    "image": "/images/level7/opportunity.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-180",
@@ -3213,7 +3571,9 @@
     ],
     "example": "Up is the opposite of down.",
     "hint": "Double P, ends in -site.",
-    "image": "/images/level7/opposite.webp"
+    "image": "/images/level7/opposite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-181",
@@ -3233,7 +3593,9 @@
     ],
     "example": "She works for a large organization.",
     "hint": "Ends in -ization, five syllables.",
-    "image": "/images/level7/organization.webp"
+    "image": "/images/level7/organization.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-182",
@@ -3252,7 +3614,9 @@
     ],
     "example": "This is the original painting.",
     "hint": "One R, ends in -nal not -nel.",
-    "image": "/images/level7/original.webp"
+    "image": "/images/level7/original.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-183",
@@ -3270,7 +3634,9 @@
     ],
     "example": "That price is outrageous.",
     "hint": "Keep the E before -ous to keep the G soft.",
-    "image": "/images/level7/outrageous.webp"
+    "image": "/images/level7/outrageous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-184",
@@ -3288,7 +3654,9 @@
     ],
     "example": "Weeds began to overrun the garden.",
     "hint": "Double R where 'over' meets 'run'.",
-    "image": "/images/level7/overrun.webp"
+    "image": "/images/level7/overrun.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-185",
@@ -3304,7 +3672,9 @@
     ],
     "example": "She paid for the tickets.",
     "hint": "No Y — 'paid', not 'payed'.",
-    "image": "/images/level7/paid.webp"
+    "image": "/images/level7/paid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-186",
@@ -3321,7 +3691,9 @@
     ],
     "example": "He handed out a pamphlet.",
     "hint": "Has a silent P before H — 'pam-phlet'.",
-    "image": "/images/level7/pamphlet.webp"
+    "image": "/images/level7/pamphlet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-187",
@@ -3339,7 +3711,9 @@
     ],
     "example": "The roads run parallel to each other.",
     "hint": "One R, one L, then double L at the end.",
-    "image": "/images/level7/parallel.webp"
+    "image": "/images/level7/parallel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-188",
@@ -3357,7 +3731,9 @@
     ],
     "example": "The law was passed by parliament.",
     "hint": "Has a silent I — 'par-lia-ment'.",
-    "image": "/images/level7/parliament.webp"
+    "image": "/images/level7/parliament.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-189",
@@ -3376,7 +3752,9 @@
     ],
     "example": "She has a particular way of doing things.",
     "hint": "Ends in -ular, four syllables.",
-    "image": "/images/level7/particular.webp"
+    "image": "/images/level7/particular.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-190",
@@ -3393,7 +3771,9 @@
     ],
     "example": "Reading is her favorite pastime.",
     "hint": "Only one S — 'pas' plus 'time'.",
-    "image": "/images/level7/pastime.webp"
+    "image": "/images/level7/pastime.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-191",
@@ -3411,7 +3791,9 @@
     ],
     "example": "There was a peculiar smell in the room.",
     "hint": "Ends in -liar, not -lier.",
-    "image": "/images/level7/peculiar.webp"
+    "image": "/images/level7/peculiar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-192",
@@ -3428,7 +3810,9 @@
     ],
     "example": "We perceive light through our eyes.",
     "hint": "E before I after C — 'per-ceive'.",
-    "image": "/images/level7/perceive.webp"
+    "image": "/images/level7/perceive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-193",
@@ -3445,7 +3829,9 @@
     ],
     "example": "The band will perform tonight.",
     "hint": "Starts with PER, not PRE.",
-    "image": "/images/level7/perform.webp"
+    "image": "/images/level7/perform.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-194",
@@ -3463,7 +3849,9 @@
     ],
     "example": "He got a permanent job.",
     "hint": "Ends in -nent, not -nant.",
-    "image": "/images/level7/permanent.webp"
+    "image": "/images/level7/permanent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-195",
@@ -3482,7 +3870,9 @@
     ],
     "example": "Success takes perseverance.",
     "hint": "Ends in -ance, five syllables.",
-    "image": "/images/level7/perseverance.webp"
+    "image": "/images/level7/perseverance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-196",
@@ -3500,7 +3890,9 @@
     ],
     "example": "She was persistent in her efforts.",
     "hint": "Ends in -tent, not -tant.",
-    "image": "/images/level7/persistent.webp"
+    "image": "/images/level7/persistent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-197",
@@ -3518,7 +3910,9 @@
     ],
     "example": "All personnel must wear badges.",
     "hint": "Double N, double L at the end.",
-    "image": "/images/level7/personnel.webp"
+    "image": "/images/level7/personnel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-198",
@@ -3536,7 +3930,9 @@
     ],
     "example": "Try to see it from her perspective.",
     "hint": "Ends in -tive, not -tiv.",
-    "image": "/images/level7/perspective.webp"
+    "image": "/images/level7/perspective.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-199",
@@ -3553,7 +3949,9 @@
     ],
     "example": "He tried to persuade her to stay.",
     "hint": "Ends in -suade, not -swade.",
-    "image": "/images/level7/persuade.webp"
+    "image": "/images/level7/persuade.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-200",
@@ -3571,7 +3969,9 @@
     ],
     "example": "Exercise is good for physical health.",
     "hint": "Starts with PH making an F sound.",
-    "image": "/images/level7/physical.webp"
+    "image": "/images/level7/physical.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-201",
@@ -3587,7 +3987,9 @@
     ],
     "example": "She ate a piece of cake.",
     "hint": "I before E — 'piece', not 'peice'.",
-    "image": "/images/level7/piece.webp"
+    "image": "/images/level7/piece.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-202",
@@ -3604,7 +4006,9 @@
     ],
     "example": "A pigeon landed on the roof.",
     "hint": "Has GEO together — 'pi-geon'.",
-    "image": "/images/level7/pigeon.webp"
+    "image": "/images/level7/pigeon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-203",
@@ -3621,7 +4025,9 @@
     ],
     "example": "Shakespeare was a famous playwright.",
     "hint": "Ends in -wright, like 'wright' not 'write'.",
-    "image": "/images/level7/playwright.webp"
+    "image": "/images/level7/playwright.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-204",
@@ -3638,7 +4044,9 @@
     ],
     "example": "We had a pleasant afternoon.",
     "hint": "Ends in -ant, not -ent.",
-    "image": "/images/level7/pleasant.webp"
+    "image": "/images/level7/pleasant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-205",
@@ -3656,7 +4064,9 @@
     ],
     "example": "He was hospitalized with pneumonia.",
     "hint": "Starts with a silent P — 'pneu-monia'.",
-    "image": "/images/level7/pneumonia.webp"
+    "image": "/images/level7/pneumonia.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-206",
@@ -3673,7 +4083,9 @@
     ],
     "example": "She doesn't possess much money.",
     "hint": "Double S, double S again — 'pos-sess'.",
-    "image": "/images/level7/possess.webp"
+    "image": "/images/level7/possess.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-207",
@@ -3691,7 +4103,9 @@
     ],
     "example": "That book is my prized possession.",
     "hint": "Double S, then double S again.",
-    "image": "/images/level7/possession.webp"
+    "image": "/images/level7/possession.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-208",
@@ -3709,7 +4123,9 @@
     ],
     "example": "Anything is possible with effort.",
     "hint": "Double S, ends in -sible not -sable.",
-    "image": "/images/level7/possible.webp"
+    "image": "/images/level7/possible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-209",
@@ -3727,7 +4143,9 @@
     ],
     "example": "She peeled the potato.",
     "hint": "No E in the singular — add -es for plural.",
-    "image": "/images/level7/potato.webp"
+    "image": "/images/level7/potato.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-210",
@@ -3746,7 +4164,9 @@
     ],
     "example": "We are practically finished.",
     "hint": "Keep -cal before -ly, from 'practical'.",
-    "image": "/images/level7/practically.webp"
+    "image": "/images/level7/practically.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-211",
@@ -3763,7 +4183,9 @@
     ],
     "example": "Buffalo once roamed the prairie.",
     "hint": "Ends in -rie, not -ry.",
-    "image": "/images/level7/prairie.webp"
+    "image": "/images/level7/prairie.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-212",
@@ -3780,7 +4202,9 @@
     ],
     "example": "A warning will precede the alarm.",
     "hint": "Ends in -cede, not -ceed.",
-    "image": "/images/level7/precede.webp"
+    "image": "/images/level7/precede.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-213",
@@ -3797,7 +4221,9 @@
     ],
     "example": "She preferred tea over coffee.",
     "hint": "Double R before -ed — 'pre-ferred'.",
-    "image": "/images/level7/preferred.webp"
+    "image": "/images/level7/preferred.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-214",
@@ -3815,7 +4241,9 @@
     ],
     "example": "We must fight prejudice.",
     "hint": "Ends in -dice, not -dise.",
-    "image": "/images/level7/prejudice.webp"
+    "image": "/images/level7/prejudice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-215",
@@ -3832,7 +4260,9 @@
     ],
     "example": "Her presence made everyone happy.",
     "hint": "Starts with PRES, ends in -ence.",
-    "image": "/images/level7/presence.webp"
+    "image": "/images/level7/presence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-216",
@@ -3850,7 +4280,9 @@
     ],
     "example": "It was a privilege to meet her.",
     "hint": "Ends in -lege, not -ledge.",
-    "image": "/images/level7/privilege.webp"
+    "image": "/images/level7/privilege.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-217",
@@ -3868,7 +4300,9 @@
     ],
     "example": "It will probably rain today.",
     "hint": "Has AB in the middle — 'prob-a-bly'.",
-    "image": "/images/level7/probably.webp"
+    "image": "/images/level7/probably.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-218",
@@ -3886,7 +4320,9 @@
     ],
     "example": "Follow the correct procedure.",
     "hint": "Ends in -edure, not -eedure.",
-    "image": "/images/level7/procedure.webp"
+    "image": "/images/level7/procedure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-219",
@@ -3903,7 +4339,9 @@
     ],
     "example": "Please proceed to the next room.",
     "hint": "Ends in -ceed here, unlike 'precede'.",
-    "image": "/images/level7/proceed.webp"
+    "image": "/images/level7/proceed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-220",
@@ -3921,7 +4359,9 @@
     ],
     "example": "Teaching is a noble profession.",
     "hint": "One F, double S — 'pro-fes-sion'.",
-    "image": "/images/level7/profession.webp"
+    "image": "/images/level7/profession.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-221",
@@ -3941,7 +4381,9 @@
     ],
     "example": "Her pronunciation is very clear.",
     "hint": "No O in the middle — different from 'pronounce'.",
-    "image": "/images/level7/pronunciation.webp"
+    "image": "/images/level7/pronunciation.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-222",
@@ -3960,7 +4402,9 @@
     ],
     "example": "The poster was clearly propaganda.",
     "hint": "Double P at the start, single G.",
-    "image": "/images/level7/propaganda.webp"
+    "image": "/images/level7/propaganda.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-223",
@@ -3979,7 +4423,9 @@
     ],
     "example": "She is majoring in psychology.",
     "hint": "Starts with a silent P — 'psy-chology'.",
-    "image": "/images/level7/psychology.webp"
+    "image": "/images/level7/psychology.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-224",
@@ -3997,7 +4443,9 @@
     ],
     "example": "He apologized publicly.",
     "hint": "No extra vowel — 'public' plus 'ly'.",
-    "image": "/images/level7/publicly.webp"
+    "image": "/images/level7/publicly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-225",
@@ -4014,7 +4462,9 @@
     ],
     "example": "She will pursue a career in art.",
     "hint": "Ends in -sue, not -sew.",
-    "image": "/images/level7/pursue.webp"
+    "image": "/images/level7/pursue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-226",
@@ -4032,7 +4482,9 @@
     ],
     "example": "We need a large quantity of paper.",
     "hint": "Starts with QUAN, not QUANT alone.",
-    "image": "/images/level7/quantity.webp"
+    "image": "/images/level7/quantity.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-227",
@@ -4050,7 +4502,9 @@
     ],
     "example": "The sick puppy was put in quarantine.",
     "hint": "Ends in -tine, not -teen.",
-    "image": "/images/level7/quarantine.webp"
+    "image": "/images/level7/quarantine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-228",
@@ -4068,7 +4522,9 @@
     ],
     "example": "Please fill out this questionnaire.",
     "hint": "Double N before -aire, French-style ending.",
-    "image": "/images/level7/questionnaire.webp"
+    "image": "/images/level7/questionnaire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-229",
@@ -4084,7 +4540,9 @@
     ],
     "example": "We stood in a long queue.",
     "hint": "Four silent letters after Q — 'qu' plus 'eue'.",
-    "image": "/images/level7/queue.webp"
+    "image": "/images/level7/queue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-230",
@@ -4101,7 +4559,9 @@
     ],
     "example": "Keep your receipt for the refund.",
     "hint": "Has a silent P — 're-ceipt'.",
-    "image": "/images/level7/receipt.webp"
+    "image": "/images/level7/receipt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-231",
@@ -4118,7 +4578,9 @@
     ],
     "example": "I will receive the package tomorrow.",
     "hint": "E before I after C — 're-ceive'.",
-    "image": "/images/level7/receive.webp"
+    "image": "/images/level7/receive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-232",
@@ -4136,7 +4598,9 @@
     ],
     "example": "She followed the recipe exactly.",
     "hint": "Ends in -pe, pronounced like 'pee'.",
-    "image": "/images/level7/recipe.webp"
+    "image": "/images/level7/recipe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-233",
@@ -4154,7 +4618,9 @@
     ],
     "example": "I didn't recognize you at first.",
     "hint": "Has a silent G — 'rec-og-nize'.",
-    "image": "/images/level7/recognize.webp"
+    "image": "/images/level7/recognize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-234",
@@ -4172,7 +4638,9 @@
     ],
     "example": "I recommend this book.",
     "hint": "One C, double M — 'rec-om-mend'.",
-    "image": "/images/level7/recommend.webp"
+    "image": "/images/level7/recommend.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-235",
@@ -4190,7 +4658,9 @@
     ],
     "example": "He gave a good job reference.",
     "hint": "Ends in -ence, not -ance.",
-    "image": "/images/level7/reference.webp"
+    "image": "/images/level7/reference.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-236",
@@ -4207,7 +4677,9 @@
     ],
     "example": "The doctor referred her to a specialist.",
     "hint": "Double R before -ed — 're-ferred'.",
-    "image": "/images/level7/referred.webp"
+    "image": "/images/level7/referred.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-237",
@@ -4224,7 +4696,9 @@
     ],
     "example": "The actors rehearse every day.",
     "hint": "Has a silent H after RE.",
-    "image": "/images/level7/rehearse.webp"
+    "image": "/images/level7/rehearse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-238",
@@ -4240,7 +4714,9 @@
     ],
     "example": "The king's reign lasted forty years.",
     "hint": "EIGN is silent-G, sounds like 'rain'.",
-    "image": "/images/level7/reign.webp"
+    "image": "/images/level7/reign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-239",
@@ -4258,7 +4734,9 @@
     ],
     "example": "Only relevant answers will be marked.",
     "hint": "Ends in -vant, not -vent.",
-    "image": "/images/level7/relevant.webp"
+    "image": "/images/level7/relevant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-240",
@@ -4275,7 +4753,9 @@
     ],
     "example": "The medicine will relieve the pain.",
     "hint": "I before E — 're-lieve'.",
-    "image": "/images/level7/relieve.webp"
+    "image": "/images/level7/relieve.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-241",
@@ -4293,7 +4773,9 @@
     ],
     "example": "She comes from a religious family.",
     "hint": "Ends in -gious, soft G sound.",
-    "image": "/images/level7/religious.webp"
+    "image": "/images/level7/religious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-242",
@@ -4311,7 +4793,9 @@
     ],
     "example": "Please remember to call me.",
     "hint": "Double M — 're-mem-ber'.",
-    "image": "/images/level7/remember.webp"
+    "image": "/images/level7/remember.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-243",
@@ -4329,7 +4813,9 @@
     ],
     "example": "They love to reminisce about school.",
     "hint": "Ends in -nisce, silent C sound.",
-    "image": "/images/level7/reminisce.webp"
+    "image": "/images/level7/reminisce.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-244",
@@ -4348,7 +4834,9 @@
     ],
     "example": "Repetition helps you learn spelling.",
     "hint": "Ends in -tition, like 'competition'.",
-    "image": "/images/level7/repetition.webp"
+    "image": "/images/level7/repetition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-245",
@@ -4366,7 +4854,9 @@
     ],
     "example": "We ate dinner at a nice restaurant.",
     "hint": "Has AU in the middle — 'res-tau-rant'.",
-    "image": "/images/level7/restaurant.webp"
+    "image": "/images/level7/restaurant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-246",
@@ -4382,7 +4872,9 @@
     ],
     "example": "The poem has a nice rhyme.",
     "hint": "Starts with a silent H after R.",
-    "image": "/images/level7/rhyme.webp"
+    "image": "/images/level7/rhyme.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-247",
@@ -4399,7 +4891,9 @@
     ],
     "example": "She danced to the rhythm of the music.",
     "hint": "Starts with a silent H, no vowel before -thm.",
-    "image": "/images/level7/rhythm.webp"
+    "image": "/images/level7/rhythm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-248",
@@ -4418,7 +4912,9 @@
     ],
     "example": "That excuse is ridiculous.",
     "hint": "Ends in -ulous, not -ulus.",
-    "image": "/images/level7/ridiculous.webp"
+    "image": "/images/level7/ridiculous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-249",
@@ -4435,7 +4931,9 @@
     ],
     "example": "She made a cheese sandwich.",
     "hint": "Has D before W — 'sand-wich'.",
-    "image": "/images/level7/sandwich.webp"
+    "image": "/images/level7/sandwich.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl7-250",
@@ -4453,6 +4951,8 @@
     ],
     "example": "The satellite orbits the Earth.",
     "hint": "Double L before -ite.",
-    "image": "/images/level7/satellite.webp"
+    "image": "/images/level7/satellite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

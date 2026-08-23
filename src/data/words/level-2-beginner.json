@@ -14,7 +14,9 @@
     ],
     "example": "I drink water every day.",
     "hint": "Starts with W, ends in -ter.",
-    "image": "/images/level2/water.webp"
+    "image": "/images/level2/water.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-002",
@@ -31,7 +33,9 @@
     ],
     "example": "She feels happy today.",
     "hint": "Double P, ends in -ppy.",
-    "image": "/images/level2/happy.webp"
+    "image": "/images/level2/happy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-003",
@@ -48,7 +52,9 @@
     ],
     "example": "The book is on the table.",
     "hint": "Silent E at the end, rhymes with \"able\".",
-    "image": "/images/level2/table.webp"
+    "image": "/images/level2/table.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-004",
@@ -64,7 +70,9 @@
     ],
     "example": "Please sit on the chair.",
     "hint": "Starts with \"ch\" sound, rhymes with \"hair\".",
-    "image": "/images/level2/chair.webp"
+    "image": "/images/level2/chair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-005",
@@ -80,7 +88,9 @@
     ],
     "example": "They live in a big house.",
     "hint": "Rhymes with \"mouse\".",
-    "image": "/images/level2/house.webp"
+    "image": "/images/level2/house.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-006",
@@ -96,7 +106,9 @@
     ],
     "example": "Water the plant every morning.",
     "hint": "Rhymes with \"ant\" but starts with PL.",
-    "image": "/images/level2/plant.webp"
+    "image": "/images/level2/plant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-007",
@@ -112,7 +124,9 @@
     ],
     "example": "The grass is green.",
     "hint": "Double E, rhymes with \"seen\".",
-    "image": "/images/level2/green.webp"
+    "image": "/images/level2/green.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-008",
@@ -128,7 +142,9 @@
     ],
     "example": "The dog has brown fur.",
     "hint": "Rhymes with \"down\".",
-    "image": "/images/level2/brown.webp"
+    "image": "/images/level2/brown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-009",
@@ -144,7 +160,9 @@
     ],
     "example": "The cat is black.",
     "hint": "Rhymes with \"back\".",
-    "image": "/images/level2/black.webp"
+    "image": "/images/level2/black.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-010",
@@ -160,7 +178,9 @@
     ],
     "example": "Snow is white.",
     "hint": "Silent \"h\" after W, rhymes with \"kite\".",
-    "image": "/images/level2/white.webp"
+    "image": "/images/level2/white.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-011",
@@ -177,7 +197,9 @@
     ],
     "example": "My sister is younger than me.",
     "hint": "Ends in -ter, like \"mister\".",
-    "image": "/images/level2/sister.webp"
+    "image": "/images/level2/sister.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-012",
@@ -194,7 +216,9 @@
     ],
     "example": "My brother plays football.",
     "hint": "Has a \"th\" sound in the middle.",
-    "image": "/images/level2/brother.webp"
+    "image": "/images/level2/brother.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-013",
@@ -211,7 +235,9 @@
     ],
     "example": "My mother cooks dinner.",
     "hint": "Rhymes with \"brother\".",
-    "image": "/images/level2/mother.webp"
+    "image": "/images/level2/mother.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-014",
@@ -228,7 +254,9 @@
     ],
     "example": "My father drives to work.",
     "hint": "Rhymes with \"rather\".",
-    "image": "/images/level2/father.webp"
+    "image": "/images/level2/father.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-015",
@@ -244,7 +272,9 @@
     ],
     "example": "She is my best friend.",
     "hint": "Silent I, ends like \"send\".",
-    "image": "/images/level2/friend.webp"
+    "image": "/images/level2/friend.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-016",
@@ -262,7 +292,9 @@
     ],
     "example": "I love my family.",
     "hint": "Three syllables, ends in -ly.",
-    "image": "/images/level2/family.webp"
+    "image": "/images/level2/family.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-017",
@@ -278,7 +310,9 @@
     ],
     "example": "I go to school every day.",
     "hint": "Double O, rhymes with \"cool\".",
-    "image": "/images/level2/school.webp"
+    "image": "/images/level2/school.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-018",
@@ -295,7 +329,9 @@
     ],
     "example": "My teacher is very kind.",
     "hint": "Ends in -cher, like \"teach\" plus -er.",
-    "image": "/images/level2/teacher.webp"
+    "image": "/images/level2/teacher.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-019",
@@ -312,7 +348,9 @@
     ],
     "example": "I write with a pencil.",
     "hint": "Starts like \"pen\", ends in -cil.",
-    "image": "/images/level2/pencil.webp"
+    "image": "/images/level2/pencil.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-020",
@@ -329,7 +367,9 @@
     ],
     "example": "Draw a picture on the paper.",
     "hint": "Rhymes with \"caper\", double vowel sound.",
-    "image": "/images/level2/paper.webp"
+    "image": "/images/level2/paper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-021",
@@ -346,7 +386,9 @@
     ],
     "example": "Open the window for fresh air.",
     "hint": "Starts like \"win\", ends in -dow.",
-    "image": "/images/level2/window.webp"
+    "image": "/images/level2/window.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-022",
@@ -363,7 +405,9 @@
     ],
     "example": "We planted roses in the garden.",
     "hint": "Ends in -den, like \"garden gate\".",
-    "image": "/images/level2/garden.webp"
+    "image": "/images/level2/garden.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-023",
@@ -380,7 +424,9 @@
     ],
     "example": "She picked a flower.",
     "hint": "Sounds like \"flour\" but grows in a garden.",
-    "image": "/images/level2/flower.webp"
+    "image": "/images/level2/flower.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-024",
@@ -398,7 +444,9 @@
     ],
     "example": "A lion is a wild animal.",
     "hint": "Three syllables, ends in -mal.",
-    "image": "/images/level2/animal.webp"
+    "image": "/images/level2/animal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-025",
@@ -415,7 +463,9 @@
     ],
     "example": "Fish swim in the river.",
     "hint": "Starts with \"riv\", like \"river bank\".",
-    "image": "/images/level2/river.webp"
+    "image": "/images/level2/river.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-026",
@@ -432,7 +482,9 @@
     ],
     "example": "They climbed the tall mountain.",
     "hint": "Has \"tain\" at the end, not \"ten\".",
-    "image": "/images/level2/mountain.webp"
+    "image": "/images/level2/mountain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-027",
@@ -448,7 +500,9 @@
     ],
     "example": "The cloud covered the sun.",
     "hint": "Rhymes with \"loud\".",
-    "image": "/images/level2/cloud.webp"
+    "image": "/images/level2/cloud.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-028",
@@ -464,7 +518,9 @@
     ],
     "example": "It started to rain.",
     "hint": "Rhymes with \"train\".",
-    "image": "/images/level2/rain.webp"
+    "image": "/images/level2/rain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-029",
@@ -480,7 +536,9 @@
     ],
     "example": "The snow covered the ground.",
     "hint": "Starts with SN, rhymes with \"grow\".",
-    "image": "/images/level2/snow.webp"
+    "image": "/images/level2/snow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-030",
@@ -496,7 +554,9 @@
     ],
     "example": "The wind blew the leaves away.",
     "hint": "Rhymes with \"tinned\", not like \"wined\".",
-    "image": "/images/level2/wind.webp"
+    "image": "/images/level2/wind.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-031",
@@ -513,7 +573,9 @@
     ],
     "example": "We swim in summer.",
     "hint": "Double M in the middle.",
-    "image": "/images/level2/summer.webp"
+    "image": "/images/level2/summer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-032",
@@ -530,7 +592,9 @@
     ],
     "example": "It snows in winter.",
     "hint": "Starts like \"window\".",
-    "image": "/images/level2/winter.webp"
+    "image": "/images/level2/winter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-033",
@@ -546,7 +610,9 @@
     ],
     "example": "Flowers bloom in spring.",
     "hint": "Starts with \"spr\", like a spring coil.",
-    "image": "/images/level2/spring.webp"
+    "image": "/images/level2/spring.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-034",
@@ -563,7 +629,9 @@
     ],
     "example": "Leaves fall in autumn.",
     "hint": "Silent N at the end.",
-    "image": "/images/level2/autumn.webp"
+    "image": "/images/level2/autumn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-035",
@@ -580,7 +648,9 @@
     ],
     "example": "I wake up in the morning.",
     "hint": "Ends in -ing, like \"evening\".",
-    "image": "/images/level2/morning.webp"
+    "image": "/images/level2/morning.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-036",
@@ -597,7 +667,9 @@
     ],
     "example": "We eat dinner in the evening.",
     "hint": "Starts like \"even\".",
-    "image": "/images/level2/evening.webp"
+    "image": "/images/level2/evening.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-037",
@@ -613,7 +685,9 @@
     ],
     "example": "Stars shine at night.",
     "hint": "Silent GH, rhymes with \"light\".",
-    "image": "/images/level2/night.webp"
+    "image": "/images/level2/night.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-038",
@@ -629,7 +703,9 @@
     ],
     "example": "We eat bread for breakfast.",
     "hint": "Rhymes with \"red\", not \"read\".",
-    "image": "/images/level2/bread.webp"
+    "image": "/images/level2/bread.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-039",
@@ -645,7 +721,9 @@
     ],
     "example": "We eat rice with curry.",
     "hint": "Rhymes with \"mice\".",
-    "image": "/images/level2/rice.webp"
+    "image": "/images/level2/rice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-040",
@@ -662,7 +740,9 @@
     ],
     "example": "I ate a red apple.",
     "hint": "Double P, ends in -pple.",
-    "image": "/images/level2/apple.webp"
+    "image": "/images/level2/apple.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-041",
@@ -680,7 +760,9 @@
     ],
     "example": "Monkeys like bananas.",
     "hint": "Three syllables, the same sound repeats: na-na.",
-    "image": "/images/level2/banana.webp"
+    "image": "/images/level2/banana.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-042",
@@ -697,7 +779,9 @@
     ],
     "example": "I squeezed an orange for juice.",
     "hint": "Ends in -ange, like \"change\" without CH.",
-    "image": "/images/level2/orange.webp"
+    "image": "/images/level2/orange.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-043",
@@ -713,7 +797,9 @@
     ],
     "example": "She ate a bunch of grapes.",
     "hint": "Silent E, rhymes with \"tape\".",
-    "image": "/images/level2/grape.webp"
+    "image": "/images/level2/grape.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-044",
@@ -730,7 +816,9 @@
     ],
     "example": "Mango is my favorite fruit.",
     "hint": "Ends in -go, like \"go\".",
-    "image": "/images/level2/mango.webp"
+    "image": "/images/level2/mango.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-045",
@@ -746,7 +834,9 @@
     ],
     "example": "I drank orange juice.",
     "hint": "Rhymes with \"goose\", starts with J.",
-    "image": "/images/level2/juice.webp"
+    "image": "/images/level2/juice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-046",
@@ -763,7 +853,9 @@
     ],
     "example": "Add sugar to the tea.",
     "hint": "Starts with \"su\" but sounds like \"shu\".",
-    "image": "/images/level2/sugar.webp"
+    "image": "/images/level2/sugar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-047",
@@ -779,7 +871,9 @@
     ],
     "example": "Add a pinch of salt.",
     "hint": "Rhymes with \"malt\".",
-    "image": "/images/level2/salt.webp"
+    "image": "/images/level2/salt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-048",
@@ -795,7 +889,9 @@
     ],
     "example": "Eat the soup with a spoon.",
     "hint": "Double O, rhymes with \"moon\".",
-    "image": "/images/level2/spoon.webp"
+    "image": "/images/level2/spoon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-049",
@@ -811,7 +907,9 @@
     ],
     "example": "Put the rice on the plate.",
     "hint": "Silent E, rhymes with \"gate\".",
-    "image": "/images/level2/plate.webp"
+    "image": "/images/level2/plate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-050",
@@ -828,7 +926,9 @@
     ],
     "example": "Fill the bottle with water.",
     "hint": "Double T, ends in -tle.",
-    "image": "/images/level2/bottle.webp"
+    "image": "/images/level2/bottle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-051",
@@ -844,7 +944,9 @@
     ],
     "example": "He wore a blue shirt.",
     "hint": "Rhymes with \"dirt\".",
-    "image": "/images/level2/shirt.webp"
+    "image": "/images/level2/shirt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-052",
@@ -860,7 +962,9 @@
     ],
     "example": "He bought new pants.",
     "hint": "Rhymes with \"ants\" plus P.",
-    "image": "/images/level2/pants.webp"
+    "image": "/images/level2/pants.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-053",
@@ -876,7 +980,9 @@
     ],
     "example": "Put on your shoes.",
     "hint": "Rhymes with \"choose\".",
-    "image": "/images/level2/shoes.webp"
+    "image": "/images/level2/shoes.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-054",
@@ -893,7 +999,9 @@
     ],
     "example": "Wear a jacket, it's cold.",
     "hint": "Starts like \"Jack\".",
-    "image": "/images/level2/jacket.webp"
+    "image": "/images/level2/jacket.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-055",
@@ -910,7 +1018,9 @@
     ],
     "example": "I sleep under a warm blanket.",
     "hint": "Ends in -ket, like \"basket\".",
-    "image": "/images/level2/blanket.webp"
+    "image": "/images/level2/blanket.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-056",
@@ -927,7 +1037,9 @@
     ],
     "example": "I rest my head on the pillow.",
     "hint": "Double L, ends in -low.",
-    "image": "/images/level2/pillow.webp"
+    "image": "/images/level2/pillow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-057",
@@ -943,7 +1055,9 @@
     ],
     "example": "The clock is on the wall.",
     "hint": "Rhymes with \"lock\".",
-    "image": "/images/level2/clock.webp"
+    "image": "/images/level2/clock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-058",
@@ -959,7 +1073,9 @@
     ],
     "example": "I called my friend on the phone.",
     "hint": "PH makes an F sound.",
-    "image": "/images/level2/phone.webp"
+    "image": "/images/level2/phone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-059",
@@ -976,7 +1092,9 @@
     ],
     "example": "I love listening to music.",
     "hint": "Ends in -sic, not -sick.",
-    "image": "/images/level2/music.webp"
+    "image": "/images/level2/music.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-060",
@@ -992,7 +1110,9 @@
     ],
     "example": "They dance at the party.",
     "hint": "Silent E, rhymes with \"chance\".",
-    "image": "/images/level2/dance.webp"
+    "image": "/images/level2/dance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-061",
@@ -1008,7 +1128,9 @@
     ],
     "example": "She likes to sing songs.",
     "hint": "Rhymes with \"ring\".",
-    "image": "/images/level2/sing.webp"
+    "image": "/images/level2/sing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-062",
@@ -1024,7 +1146,9 @@
     ],
     "example": "The joke made us laugh.",
     "hint": "GH makes an F sound.",
-    "image": "/images/level2/laugh.webp"
+    "image": "/images/level2/laugh.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-063",
@@ -1040,7 +1164,9 @@
     ],
     "example": "She gave a big smile.",
     "hint": "Silent E, rhymes with \"mile\".",
-    "image": "/images/level2/smile.webp"
+    "image": "/images/level2/smile.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-064",
@@ -1056,7 +1182,9 @@
     ],
     "example": "The baby began to cry.",
     "hint": "Y makes the long \"i\" sound.",
-    "image": "/images/level2/cry.webp"
+    "image": "/images/level2/cry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-065",
@@ -1072,7 +1200,9 @@
     ],
     "example": "I sleep eight hours a night.",
     "hint": "Double E, rhymes with \"deep\".",
-    "image": "/images/level2/sleep.webp"
+    "image": "/images/level2/sleep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-066",
@@ -1088,7 +1218,9 @@
     ],
     "example": "I had a nice dream last night.",
     "hint": "Double E, rhymes with \"cream\".",
-    "image": "/images/level2/dream.webp"
+    "image": "/images/level2/dream.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-067",
@@ -1104,7 +1236,9 @@
     ],
     "example": "We walk to school.",
     "hint": "Silent L, rhymes with \"talk\".",
-    "image": "/images/level2/walk.webp"
+    "image": "/images/level2/walk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-068",
@@ -1120,7 +1254,9 @@
     ],
     "example": "They climb the tree.",
     "hint": "Silent B at the end.",
-    "image": "/images/level2/climb.webp"
+    "image": "/images/level2/climb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-069",
@@ -1136,7 +1272,9 @@
     ],
     "example": "Fish swim in the sea.",
     "hint": "Rhymes with \"him\" plus SW.",
-    "image": "/images/level2/swim.webp"
+    "image": "/images/level2/swim.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-070",
@@ -1152,7 +1290,9 @@
     ],
     "example": "I read a book every night.",
     "hint": "Double E, rhymes with \"lead\" (the metal).",
-    "image": "/images/level2/read.webp"
+    "image": "/images/level2/read.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-071",
@@ -1168,7 +1308,9 @@
     ],
     "example": "Please write your name here.",
     "hint": "Silent W, rhymes with \"kite\".",
-    "image": "/images/level2/write.webp"
+    "image": "/images/level2/write.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-072",
@@ -1184,7 +1326,9 @@
     ],
     "example": "Please speak clearly.",
     "hint": "Double E after SP, rhymes with \"leak\".",
-    "image": "/images/level2/speak.webp"
+    "image": "/images/level2/speak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-073",
@@ -1201,7 +1345,9 @@
     ],
     "example": "Please listen to the teacher.",
     "hint": "Silent T in the middle.",
-    "image": "/images/level2/listen.webp"
+    "image": "/images/level2/listen.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-074",
@@ -1217,7 +1363,9 @@
     ],
     "example": "Keep your room clean.",
     "hint": "Double E, rhymes with \"bean\".",
-    "image": "/images/level2/clean.webp"
+    "image": "/images/level2/clean.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-075",
@@ -1233,7 +1381,9 @@
     ],
     "example": "Wash your hands before eating.",
     "hint": "Rhymes with \"gosh\".",
-    "image": "/images/level2/wash.webp"
+    "image": "/images/level2/wash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-076",
@@ -1249,7 +1399,9 @@
     ],
     "example": "Mom likes to cook dinner.",
     "hint": "Double O, rhymes with \"book\".",
-    "image": "/images/level2/cook.webp"
+    "image": "/images/level2/cook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-077",
@@ -1265,7 +1417,9 @@
     ],
     "example": "Drink your milk.",
     "hint": "Rhymes with \"think\".",
-    "image": "/images/level2/drink.webp"
+    "image": "/images/level2/drink.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-078",
@@ -1281,7 +1435,9 @@
     ],
     "example": "We eat breakfast at seven.",
     "hint": "Double vowel EA, rhymes with \"seat\".",
-    "image": "/images/level2/eat.webp"
+    "image": "/images/level2/eat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-079",
@@ -1297,7 +1453,9 @@
     ],
     "example": "Children play in the park.",
     "hint": "Ends in -ay, like \"day\".",
-    "image": "/images/level2/play.webp"
+    "image": "/images/level2/play.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-080",
@@ -1313,7 +1471,9 @@
     ],
     "example": "My father goes to work.",
     "hint": "Rhymes with \"jerk\".",
-    "image": "/images/level2/work.webp"
+    "image": "/images/level2/work.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-081",
@@ -1329,7 +1489,9 @@
     ],
     "example": "Can you help me, please?",
     "hint": "Rhymes with \"yelp\".",
-    "image": "/images/level2/help.webp"
+    "image": "/images/level2/help.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-082",
@@ -1345,7 +1507,9 @@
     ],
     "example": "Please share your toys.",
     "hint": "Silent E, rhymes with \"chair\".",
-    "image": "/images/level2/share.webp"
+    "image": "/images/level2/share.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-083",
@@ -1361,7 +1525,9 @@
     ],
     "example": "I want to thank you.",
     "hint": "TH sound at the start.",
-    "image": "/images/level2/thank.webp"
+    "image": "/images/level2/thank.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-084",
@@ -1378,7 +1544,9 @@
     ],
     "example": "I am sorry for being late.",
     "hint": "Double R, ends in -rry.",
-    "image": "/images/level2/sorry.webp"
+    "image": "/images/level2/sorry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-085",
@@ -1394,7 +1562,9 @@
     ],
     "example": "Please pass the salt.",
     "hint": "Silent E, ends with a Z sound.",
-    "image": "/images/level2/please.webp"
+    "image": "/images/level2/please.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-086",
@@ -1411,7 +1581,9 @@
     ],
     "example": "She said hello to her friend.",
     "hint": "Double L in the middle.",
-    "image": "/images/level2/hello.webp"
+    "image": "/images/level2/hello.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-087",
@@ -1428,7 +1600,9 @@
     ],
     "example": "We waved goodbye at the station.",
     "hint": "Two words joined: good plus bye.",
-    "image": "/images/level2/goodbye.webp"
+    "image": "/images/level2/goodbye.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-088",
@@ -1444,7 +1618,9 @@
     ],
     "example": "Yes, I would like some tea.",
     "hint": "Rhymes with \"mess\".",
-    "image": "/images/level2/yes.webp"
+    "image": "/images/level2/yes.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-089",
@@ -1461,7 +1637,9 @@
     ],
     "example": "Maybe it will rain today.",
     "hint": "Two small words joined: may plus be.",
-    "image": "/images/level2/maybe.webp"
+    "image": "/images/level2/maybe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-090",
@@ -1478,7 +1656,9 @@
     ],
     "example": "She always smiles.",
     "hint": "Starts like \"all\", ends in -ways.",
-    "image": "/images/level2/always.webp"
+    "image": "/images/level2/always.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-091",
@@ -1495,7 +1675,9 @@
     ],
     "example": "He never lies.",
     "hint": "The opposite of \"always\".",
-    "image": "/images/level2/never.webp"
+    "image": "/images/level2/never.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-092",
@@ -1512,7 +1694,9 @@
     ],
     "example": "Today is a sunny day.",
     "hint": "Two small words joined: to plus day.",
-    "image": "/images/level2/today.webp"
+    "image": "/images/level2/today.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-093",
@@ -1530,7 +1714,9 @@
     ],
     "example": "It rained yesterday.",
     "hint": "Ends the same way as \"today\".",
-    "image": "/images/level2/yesterday.webp"
+    "image": "/images/level2/yesterday.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-094",
@@ -1548,7 +1734,9 @@
     ],
     "example": "We will meet tomorrow.",
     "hint": "Double R, ends in -rrow.",
-    "image": "/images/level2/tomorrow.webp"
+    "image": "/images/level2/tomorrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-095",
@@ -1564,7 +1752,9 @@
     ],
     "example": "The rabbit is very quick.",
     "hint": "QU makes a \"kw\" sound.",
-    "image": "/images/level2/quick.webp"
+    "image": "/images/level2/quick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-096",
@@ -1580,7 +1770,9 @@
     ],
     "example": "The turtle is slow.",
     "hint": "Starts with SL, rhymes with \"grow\".",
-    "image": "/images/level2/slow.webp"
+    "image": "/images/level2/slow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-097",
@@ -1596,7 +1788,9 @@
     ],
     "example": "The strong man lifted the box.",
     "hint": "Rhymes with \"song\" plus STR.",
-    "image": "/images/level2/strong.webp"
+    "image": "/images/level2/strong.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-098",
@@ -1612,7 +1806,9 @@
     ],
     "example": "He felt weak after being sick.",
     "hint": "Sounds the same as \"week\".",
-    "image": "/images/level2/weak.webp"
+    "image": "/images/level2/weak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-099",
@@ -1628,7 +1824,9 @@
     ],
     "example": "The giraffe is very tall.",
     "hint": "Rhymes with \"ball\", the opposite of \"short\".",
-    "image": "/images/level2/tall.webp"
+    "image": "/images/level2/tall.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl2-100",
@@ -1644,6 +1842,8 @@
     ],
     "example": "The pencil is short.",
     "hint": "Rhymes with \"sport\", the opposite of \"tall\".",
-    "image": "/images/level2/short.webp"
+    "image": "/images/level2/short.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

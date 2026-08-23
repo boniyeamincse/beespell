@@ -15,7 +15,9 @@
     ],
     "example": "The lost puppy looked unhappy.",
     "hint": "Prefix 'un-' means not — 'un' + 'happy'.",
-    "image": "/images/level10/unhappy.webp"
+    "image": "/images/level10/unhappy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-002",
@@ -33,7 +35,9 @@
     ],
     "example": "He was unable to lift the box.",
     "hint": "Prefix 'un-' means not — 'un' + 'able'.",
-    "image": "/images/level10/unable.webp"
+    "image": "/images/level10/unable.webp",
+    "partOfSpeech": "adjective",
+    "origin": "English"
   },
   {
     "id": "lvl10-003",
@@ -50,7 +54,9 @@
     ],
     "example": "It felt unfair to lose the game like that.",
     "hint": "Prefix 'un-' means not — 'un' + 'fair'.",
-    "image": "/images/level10/unfair.webp"
+    "image": "/images/level10/unfair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-004",
@@ -67,7 +73,9 @@
     ],
     "example": "The old bridge is unsafe to cross.",
     "hint": "Prefix 'un-' means not — 'un' + 'safe'.",
-    "image": "/images/level10/unsafe.webp"
+    "image": "/images/level10/unsafe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-005",
@@ -84,7 +92,9 @@
     ],
     "example": "The unpaved road was full of dust.",
     "hint": "Prefix 'un-' means not — 'un' + 'paved'.",
-    "image": "/images/level10/unpaved.webp"
+    "image": "/images/level10/unpaved.webp",
+    "partOfSpeech": "adjective",
+    "origin": "English"
   },
   {
     "id": "lvl10-006",
@@ -101,7 +111,9 @@
     ],
     "example": "We need to unpack the suitcase.",
     "hint": "Prefix 'un-' means not — 'un' + 'pack'.",
-    "image": "/images/level10/unpack.webp"
+    "image": "/images/level10/unpack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-007",
@@ -118,7 +130,9 @@
     ],
     "example": "Please unplug the toaster after use.",
     "hint": "Prefix 'un-' means not — 'un' + 'plug'.",
-    "image": "/images/level10/unplug.webp"
+    "image": "/images/level10/unplug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-008",
@@ -135,7 +149,9 @@
     ],
     "example": "Click here to undo your last change.",
     "hint": "Prefix 'un-' means not — reverses 'do'.",
-    "image": "/images/level10/undo.webp"
+    "image": "/images/level10/undo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-009",
@@ -153,7 +169,9 @@
     ],
     "example": "The path was rocky and uneven.",
     "hint": "Prefix 'un-' means not — 'un' + 'even'.",
-    "image": "/images/level10/uneven.webp"
+    "image": "/images/level10/uneven.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-010",
@@ -172,7 +190,9 @@
     ],
     "example": "It was unusual to see snow in April.",
     "hint": "Prefix 'un-' means not — 'un' + 'usual'.",
-    "image": "/images/level10/unusual.webp"
+    "image": "/images/level10/unusual.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-011",
@@ -189,7 +209,9 @@
     ],
     "example": "The artist remained unknown for years.",
     "hint": "Prefix 'un-' means not — 'un' + 'known'.",
-    "image": "/images/level10/unknown.webp"
+    "image": "/images/level10/unknown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-012",
@@ -206,7 +228,9 @@
     ],
     "example": "She unwrapped her birthday gift.",
     "hint": "Prefix 'un-' means not — 'un' + 'wrap'.",
-    "image": "/images/level10/unwrap.webp"
+    "image": "/images/level10/unwrap.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl10-013",
@@ -224,7 +248,9 @@
     ],
     "example": "Detectives worked to uncover the truth.",
     "hint": "Prefix 'un-' means not — 'un' + 'cover'.",
-    "image": "/images/level10/uncover.webp"
+    "image": "/images/level10/uncover.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl10-014",
@@ -241,7 +267,9 @@
     ],
     "example": "His instructions were unclear.",
     "hint": "Prefix 'un-' means not — 'un' + 'clear'.",
-    "image": "/images/level10/unclear.webp"
+    "image": "/images/level10/unclear.webp",
+    "partOfSpeech": "adjective",
+    "origin": "English"
   },
   {
     "id": "lvl10-015",
@@ -259,7 +287,9 @@
     ],
     "example": "The two teams had unequal numbers of players.",
     "hint": "Prefix 'un-' means not — 'un' + 'equal'.",
-    "image": "/images/level10/unequal.webp"
+    "image": "/images/level10/unequal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-016",
@@ -276,7 +306,9 @@
     ],
     "example": "He unfolded the map on the table.",
     "hint": "Prefix 'un-' means not — 'un' + 'fold'.",
-    "image": "/images/level10/unfold.webp"
+    "image": "/images/level10/unfold.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-017",
@@ -294,7 +326,9 @@
     ],
     "example": "The new neighbor seemed unfriendly at first.",
     "hint": "Prefix 'un-' means not — 'un' + 'friendly'.",
-    "image": "/images/level10/unfriendly.webp"
+    "image": "/images/level10/unfriendly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-018",
@@ -312,7 +346,9 @@
     ],
     "example": "Eating too much sugar is unhealthy.",
     "hint": "Prefix 'un-' means not — 'un' + 'healthy'.",
-    "image": "/images/level10/unhealthy.webp"
+    "image": "/images/level10/unhealthy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-019",
@@ -330,7 +366,9 @@
     ],
     "example": "Breaking a mirror is said to be unlucky.",
     "hint": "Prefix 'un-' means not — 'un' + 'lucky'.",
-    "image": "/images/level10/unlucky.webp"
+    "image": "/images/level10/unlucky.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-020",
@@ -348,7 +386,9 @@
     ],
     "example": "His room was untidy after the party.",
     "hint": "Prefix 'un-' means not — 'un' + 'tidy'.",
-    "image": "/images/level10/untidy.webp"
+    "image": "/images/level10/untidy.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-021",
@@ -365,7 +405,9 @@
     ],
     "example": "The unpaid bill was still on the table.",
     "hint": "Prefix 'un-' means not — 'un' + 'paid'.",
-    "image": "/images/level10/unpaid.webp"
+    "image": "/images/level10/unpaid.webp",
+    "partOfSpeech": "adjective",
+    "origin": "English"
   },
   {
     "id": "lvl10-022",
@@ -382,7 +424,9 @@
     ],
     "example": "She likes to unwind with a good book.",
     "hint": "Prefix 'un-' means not — 'un' + 'wind'.",
-    "image": "/images/level10/unwind.webp"
+    "image": "/images/level10/unwind.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-023",
@@ -399,7 +443,9 @@
     ],
     "example": "He unzipped his jacket in the warm room.",
     "hint": "Prefix 'un-' means not — 'un' + 'zip'.",
-    "image": "/images/level10/unzip.webp"
+    "image": "/images/level10/unzip.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl10-024",
@@ -416,7 +462,9 @@
     ],
     "example": "The story unmasked the real culprit.",
     "hint": "Prefix 'un-' means not — 'un' + 'mask'.",
-    "image": "/images/level10/unmask.webp"
+    "image": "/images/level10/unmask.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-025",
@@ -434,7 +482,9 @@
     ],
     "example": "He unbuttoned his coat before sitting down.",
     "hint": "Prefix 'un-' means not — 'un' + 'button'.",
-    "image": "/images/level10/unbutton.webp"
+    "image": "/images/level10/unbutton.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl10-026",
@@ -451,7 +501,9 @@
     ],
     "example": "She had to rewrite her essay.",
     "hint": "Prefix 're-' means again — 're' + 'write'.",
-    "image": "/images/level10/rewrite.webp"
+    "image": "/images/level10/rewrite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-027",
@@ -468,7 +520,9 @@
     ],
     "example": "Let's replay that goal in slow motion.",
     "hint": "Prefix 're-' means again — 're' + 'play'.",
-    "image": "/images/level10/replay.webp"
+    "image": "/images/level10/replay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-028",
@@ -485,7 +539,9 @@
     ],
     "example": "Can you refill my water bottle?",
     "hint": "Prefix 're-' means again — 're' + 'fill'.",
-    "image": "/images/level10/refill.webp"
+    "image": "/images/level10/refill.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-029",
@@ -502,7 +558,9 @@
     ],
     "example": "The town worked to rebuild after the storm.",
     "hint": "Prefix 're-' means again — 're' + 'build'.",
-    "image": "/images/level10/rebuild.webp"
+    "image": "/images/level10/rebuild.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-030",
@@ -519,7 +577,9 @@
     ],
     "example": "I will reheat the soup for dinner.",
     "hint": "Prefix 're-' means again — 're' + 'heat'.",
-    "image": "/images/level10/reheat.webp"
+    "image": "/images/level10/reheat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-031",
@@ -536,7 +596,9 @@
     ],
     "example": "Please reload the page to see updates.",
     "hint": "Prefix 're-' means again — 're' + 'load'.",
-    "image": "/images/level10/reload.webp"
+    "image": "/images/level10/reload.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-032",
@@ -553,7 +615,9 @@
     ],
     "example": "Remind me to call her later.",
     "hint": "Prefix 're-' means again — 're' + 'mind'.",
-    "image": "/images/level10/remind.webp"
+    "image": "/images/level10/remind.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl10-033",
@@ -570,7 +634,9 @@
     ],
     "example": "He promised to repay the loan next month.",
     "hint": "Prefix 're-' means again — 're' + 'pay'.",
-    "image": "/images/level10/repay.webp"
+    "image": "/images/level10/repay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-034",
@@ -587,7 +653,9 @@
     ],
     "example": "We had to restart the computer.",
     "hint": "Prefix 're-' means again — 're' + 'start'.",
-    "image": "/images/level10/restart.webp"
+    "image": "/images/level10/restart.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-035",
@@ -604,7 +672,9 @@
     ],
     "example": "He loved to recount his travels.",
     "hint": "Prefix 're-' means again — 're' + 'count'.",
-    "image": "/images/level10/recount.webp"
+    "image": "/images/level10/recount.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-036",
@@ -621,7 +691,9 @@
     ],
     "example": "We should reuse these paper bags.",
     "hint": "Prefix 're-' means again — 're' + 'use'.",
-    "image": "/images/level10/reuse.webp"
+    "image": "/images/level10/reuse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-037",
@@ -638,7 +710,9 @@
     ],
     "example": "Please review your answers before submitting.",
     "hint": "Prefix 're-' means again — 're' + 'view'.",
-    "image": "/images/level10/review.webp"
+    "image": "/images/level10/review.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-038",
@@ -656,7 +730,9 @@
     ],
     "example": "We plan to revisit the museum next year.",
     "hint": "Prefix 're-' means again — 're' + 'visit'.",
-    "image": "/images/level10/revisit.webp"
+    "image": "/images/level10/revisit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-039",
@@ -674,7 +750,9 @@
     ],
     "example": "The shop will reopen after renovation.",
     "hint": "Prefix 're-' means again — 're' + 'open'.",
-    "image": "/images/level10/reopen.webp"
+    "image": "/images/level10/reopen.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-040",
@@ -691,7 +769,9 @@
     ],
     "example": "He decided to rejoin the football team.",
     "hint": "Prefix 're-' means again — 're' + 'join'.",
-    "image": "/images/level10/rejoin.webp"
+    "image": "/images/level10/rejoin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-041",
@@ -708,7 +788,9 @@
     ],
     "example": "They chose to rename the street.",
     "hint": "Prefix 're-' means again — 're' + 'name'.",
-    "image": "/images/level10/rename.webp"
+    "image": "/images/level10/rename.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-042",
@@ -725,7 +807,9 @@
     ],
     "example": "We repainted the fence last summer.",
     "hint": "Prefix 're-' means again — 're' + 'paint'.",
-    "image": "/images/level10/repaint.webp"
+    "image": "/images/level10/repaint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-043",
@@ -743,7 +827,9 @@
     ],
     "example": "I need to reorder more printer paper.",
     "hint": "Prefix 're-' means again — 're' + 'order'.",
-    "image": "/images/level10/reorder.webp"
+    "image": "/images/level10/reorder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-044",
@@ -760,7 +846,9 @@
     ],
     "example": "She rewound the tape to watch it again.",
     "hint": "Prefix 're-' means again — 're' + 'wind'.",
-    "image": "/images/level10/rewind.webp"
+    "image": "/images/level10/rewind.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-045",
@@ -777,7 +865,9 @@
     ],
     "example": "The players stopped to regroup at halftime.",
     "hint": "Prefix 're-' means again — 're' + 'group'.",
-    "image": "/images/level10/regroup.webp"
+    "image": "/images/level10/regroup.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-046",
@@ -795,7 +885,9 @@
     ],
     "example": "The doctor reassured the worried patient.",
     "hint": "Prefix 're-' means again — 're' + 'assure'.",
-    "image": "/images/level10/reassure.webp"
+    "image": "/images/level10/reassure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-047",
@@ -813,7 +905,9 @@
     ],
     "example": "We tried to reconnect the broken wire.",
     "hint": "Prefix 're-' means again — 're' + 'connect'.",
-    "image": "/images/level10/reconnect.webp"
+    "image": "/images/level10/reconnect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-048",
@@ -830,7 +924,9 @@
     ],
     "example": "I need to recharge my phone tonight.",
     "hint": "Prefix 're-' means again — 're' + 'charge'.",
-    "image": "/images/level10/recharge.webp"
+    "image": "/images/level10/recharge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-049",
@@ -849,7 +945,9 @@
     ],
     "example": "He had to reassemble the broken toy.",
     "hint": "Prefix 're-' means again — 're' + 'assemble'.",
-    "image": "/images/level10/reassemble.webp"
+    "image": "/images/level10/reassemble.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-050",
@@ -866,7 +964,9 @@
     ],
     "example": "The ball rebounded off the wall.",
     "hint": "Prefix 're-' means again — 're' + 'bound'.",
-    "image": "/images/level10/rebound.webp"
+    "image": "/images/level10/rebound.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-051",
@@ -884,7 +984,9 @@
     ],
     "example": "The brothers often disagree about music.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'agree'.",
-    "image": "/images/level10/disagree.webp"
+    "image": "/images/level10/disagree.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-052",
@@ -901,7 +1003,9 @@
     ],
     "example": "She does not dislike vegetables at all.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'like'.",
-    "image": "/images/level10/dislike.webp"
+    "image": "/images/level10/dislike.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-053",
@@ -919,7 +1023,9 @@
     ],
     "example": "The soldier refused to disobey orders.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'obey'.",
-    "image": "/images/level10/disobey.webp"
+    "image": "/images/level10/disobey.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-054",
@@ -937,7 +1043,9 @@
     ],
     "example": "Please disconnect the cable before moving it.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'connect'.",
-    "image": "/images/level10/disconnect.webp"
+    "image": "/images/level10/disconnect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-055",
@@ -954,7 +1062,9 @@
     ],
     "example": "The rider began to dismount slowly.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'mount'.",
-    "image": "/images/level10/dismount.webp"
+    "image": "/images/level10/dismount.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-056",
@@ -972,7 +1082,9 @@
     ],
     "example": "The tight shoes caused discomfort.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'comfort'.",
-    "image": "/images/level10/discomfort.webp"
+    "image": "/images/level10/discomfort.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-057",
@@ -990,7 +1102,9 @@
     ],
     "example": "It is wrong to be dishonest with your friends.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'honest'.",
-    "image": "/images/level10/dishonest.webp"
+    "image": "/images/level10/dishonest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-058",
@@ -1008,7 +1122,9 @@
     ],
     "example": "The room was in complete disorder.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'order'.",
-    "image": "/images/level10/disorder.webp"
+    "image": "/images/level10/disorder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-059",
@@ -1025,7 +1141,9 @@
     ],
     "example": "His rudeness seemed to displease the teacher.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'please'.",
-    "image": "/images/level10/displease.webp"
+    "image": "/images/level10/displease.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-060",
@@ -1042,7 +1160,9 @@
     ],
     "example": "Lying can create distrust between friends.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'trust'.",
-    "image": "/images/level10/distrust.webp"
+    "image": "/images/level10/distrust.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-061",
@@ -1060,7 +1180,9 @@
     ],
     "example": "Shouting at your elders shows disrespect.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'respect'.",
-    "image": "/images/level10/disrespect.webp"
+    "image": "/images/level10/disrespect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-062",
@@ -1079,7 +1201,9 @@
     ],
     "example": "The runner was disqualified for a false start.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'qualify'.",
-    "image": "/images/level10/disqualify.webp"
+    "image": "/images/level10/disqualify.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-063",
@@ -1096,7 +1220,9 @@
     ],
     "example": "New evidence helped disprove the old theory.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'prove'.",
-    "image": "/images/level10/disprove.webp"
+    "image": "/images/level10/disprove.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-064",
@@ -1113,7 +1239,9 @@
     ],
     "example": "The guard moved quickly to disarm the intruder.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'arm'.",
-    "image": "/images/level10/disarm.webp"
+    "image": "/images/level10/disarm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-065",
@@ -1131,7 +1259,9 @@
     ],
     "example": "Sunlight can discolor old photographs.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'color'.",
-    "image": "/images/level10/discolor.webp"
+    "image": "/images/level10/discolor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-066",
@@ -1149,7 +1279,9 @@
     ],
     "example": "She stared in disbelief at the news.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'belief'.",
-    "image": "/images/level10/disbelief.webp"
+    "image": "/images/level10/disbelief.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-067",
@@ -1167,7 +1299,9 @@
     ],
     "example": "Nurses disinfect the tools before use.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'infect'.",
-    "image": "/images/level10/disinfect.webp"
+    "image": "/images/level10/disinfect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-068",
@@ -1184,7 +1318,9 @@
     ],
     "example": "The wind managed to dislodge a roof tile.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'lodge'.",
-    "image": "/images/level10/dislodge.webp"
+    "image": "/images/level10/dislodge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-069",
@@ -1202,7 +1338,9 @@
     ],
     "example": "The referee disallowed the goal.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'allow'.",
-    "image": "/images/level10/disallow.webp"
+    "image": "/images/level10/disallow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-070",
@@ -1219,7 +1357,9 @@
     ],
     "example": "The flood displaced many families.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'place'.",
-    "image": "/images/level10/displace.webp"
+    "image": "/images/level10/displace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-071",
@@ -1237,7 +1377,9 @@
     ],
     "example": "Failing once should not discourage you.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'courage'.",
-    "image": "/images/level10/discourage.webp"
+    "image": "/images/level10/discourage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-072",
@@ -1255,7 +1397,9 @@
     ],
     "example": "Please disregard the earlier email.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'regard'.",
-    "image": "/images/level10/disregard.webp"
+    "image": "/images/level10/disregard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-073",
@@ -1272,7 +1416,9 @@
     ],
     "example": "The old committee decided to disband.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'band'.",
-    "image": "/images/level10/disband.webp"
+    "image": "/images/level10/disband.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-074",
@@ -1289,7 +1435,9 @@
     ],
     "example": "We watched a preview of the new movie.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'view'.",
-    "image": "/images/level10/preview.webp"
+    "image": "/images/level10/preview.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-075",
@@ -1306,7 +1454,9 @@
     ],
     "example": "You can prepay for the tickets online.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'pay'.",
-    "image": "/images/level10/prepay.webp"
+    "image": "/images/level10/prepay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-076",
@@ -1323,7 +1473,9 @@
     ],
     "example": "Preheat the oven before baking the cake.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'heat'.",
-    "image": "/images/level10/preheat.webp"
+    "image": "/images/level10/preheat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-077",
@@ -1340,7 +1492,9 @@
     ],
     "example": "Prewash the stain before regular washing.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'wash'.",
-    "image": "/images/level10/prewash.webp"
+    "image": "/images/level10/prewash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-078",
@@ -1357,7 +1511,9 @@
     ],
     "example": "The chicken was precooked to save time.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'cook'.",
-    "image": "/images/level10/precook.webp"
+    "image": "/images/level10/precook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-079",
@@ -1374,7 +1530,9 @@
     ],
     "example": "The store sells prepacked salads.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'pack'.",
-    "image": "/images/level10/prepack.webp"
+    "image": "/images/level10/prepack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-080",
@@ -1391,7 +1549,9 @@
     ],
     "example": "My little sister goes to preschool.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'school'.",
-    "image": "/images/level10/preschool.webp"
+    "image": "/images/level10/preschool.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-081",
@@ -1408,7 +1568,9 @@
     ],
     "example": "The pilot ran a preflight check.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'flight'.",
-    "image": "/images/level10/preflight.webp"
+    "image": "/images/level10/preflight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-082",
@@ -1427,7 +1589,9 @@
     ],
     "example": "Dinosaurs lived in prehistoric times.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'historic'.",
-    "image": "/images/level10/prehistoric.webp"
+    "image": "/images/level10/prehistoric.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-083",
@@ -1445,7 +1609,9 @@
     ],
     "example": "Fans could preorder the new game.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'order'.",
-    "image": "/images/level10/preorder.webp"
+    "image": "/images/level10/preorder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-084",
@@ -1462,7 +1628,9 @@
     ],
     "example": "Washing hands helps prevent illness.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'vent'.",
-    "image": "/images/level10/prevent.webp"
+    "image": "/images/level10/prevent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-085",
@@ -1479,7 +1647,9 @@
     ],
     "example": "She began to prepare dinner early.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'pare'.",
-    "image": "/images/level10/prepare.webp"
+    "image": "/images/level10/prepare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-086",
@@ -1497,7 +1667,9 @@
     ],
     "example": "Wearing a helmet is a wise precaution.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'caution'.",
-    "image": "/images/level10/precaution.webp"
+    "image": "/images/level10/precaution.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-087",
@@ -1514,7 +1686,9 @@
     ],
     "example": "No one could predict the storm's path.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'dict'.",
-    "image": "/images/level10/predict.webp"
+    "image": "/images/level10/predict.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-088",
@@ -1531,7 +1705,9 @@
     ],
     "example": "The author wrote a short preface.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'face'.",
-    "image": "/images/level10/preface.webp"
+    "image": "/images/level10/preface.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-089",
@@ -1548,7 +1724,9 @@
     ],
     "example": "'Un-' is a common prefix in English.",
     "hint": "Prefix 'pre-' means before — 'pre' + 'fix'.",
-    "image": "/images/level10/prefix.webp"
+    "image": "/images/level10/prefix.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-090",
@@ -1565,7 +1743,9 @@
     ],
     "example": "The advertisement seemed to mislead buyers.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'lead'.",
-    "image": "/images/level10/mislead.webp"
+    "image": "/images/level10/mislead.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-091",
@@ -1582,7 +1762,9 @@
     ],
     "example": "I keep misplacing my keys.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'place'.",
-    "image": "/images/level10/misplace.webp"
+    "image": "/images/level10/misplace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-092",
@@ -1600,7 +1782,9 @@
     ],
     "example": "Many people mispronounce this tricky word.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'pronounce'.",
-    "image": "/images/level10/mispronounce.webp"
+    "image": "/images/level10/mispronounce.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-093",
@@ -1617,7 +1801,9 @@
     ],
     "example": "There was a misprint on the ticket.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'print'.",
-    "image": "/images/level10/misprint.webp"
+    "image": "/images/level10/misprint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-094",
@@ -1634,7 +1820,9 @@
     ],
     "example": "His socks were a funny mismatch.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'match'.",
-    "image": "/images/level10/mismatch.webp"
+    "image": "/images/level10/mismatch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-095",
@@ -1651,7 +1839,9 @@
     ],
     "example": "I think I misjudged how far away it was.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'judge'.",
-    "image": "/images/level10/misjudge.webp"
+    "image": "/images/level10/misjudge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-096",
@@ -1668,7 +1858,9 @@
     ],
     "example": "The two rivals felt deep mistrust.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'trust'.",
-    "image": "/images/level10/mistrust.webp"
+    "image": "/images/level10/mistrust.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-097",
@@ -1685,7 +1877,9 @@
     ],
     "example": "Please do not misuse the school computers.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'use'.",
-    "image": "/images/level10/misuse.webp"
+    "image": "/images/level10/misuse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-098",
@@ -1702,7 +1896,9 @@
     ],
     "example": "He felt like a misfit at the new school.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'fit'.",
-    "image": "/images/level10/misfit.webp"
+    "image": "/images/level10/misfit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-099",
@@ -1720,7 +1916,9 @@
     ],
     "example": "The jar was mislabeled as sugar instead of salt.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'label'.",
-    "image": "/images/level10/mislabel.webp"
+    "image": "/images/level10/mislabel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-100",
@@ -1738,7 +1936,9 @@
     ],
     "example": "The report seemed to misinform the public.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'inform'.",
-    "image": "/images/level10/misinform.webp"
+    "image": "/images/level10/misinform.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-101",
@@ -1757,7 +1957,9 @@
     ],
     "example": "He miscalculated the total cost.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'calculate'.",
-    "image": "/images/level10/miscalculate.webp"
+    "image": "/images/level10/miscalculate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-102",
@@ -1774,7 +1976,9 @@
     ],
     "example": "I misread the number on the sign.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'read'.",
-    "image": "/images/level10/misread.webp"
+    "image": "/images/level10/misread.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-103",
@@ -1792,7 +1996,9 @@
     ],
     "example": "The puppy tends to misbehave when it's hungry.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'behave'.",
-    "image": "/images/level10/misbehave.webp"
+    "image": "/images/level10/misbehave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-104",
@@ -1809,7 +2015,9 @@
     ],
     "example": "It is cruel to mistreat animals.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'treat'.",
-    "image": "/images/level10/mistreat.webp"
+    "image": "/images/level10/mistreat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-105",
@@ -1826,7 +2034,9 @@
     ],
     "example": "She miscounted the change at the till.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'count'.",
-    "image": "/images/level10/miscount.webp"
+    "image": "/images/level10/miscount.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-106",
@@ -1844,7 +2054,9 @@
     ],
     "example": "The project failed because it was mismanaged.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'manage'.",
-    "image": "/images/level10/mismanage.webp"
+    "image": "/images/level10/mismanage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-107",
@@ -1862,7 +2074,9 @@
     ],
     "example": "The stranger misdirected us down the wrong street.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'direct'.",
-    "image": "/images/level10/misdirect.webp"
+    "image": "/images/level10/misdirect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-108",
@@ -1880,7 +2094,9 @@
     ],
     "example": "The worker was fired for misconduct.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'conduct'.",
-    "image": "/images/level10/misconduct.webp"
+    "image": "/images/level10/misconduct.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-109",
@@ -1897,7 +2113,9 @@
     ],
     "example": "We took a nonstop flight home.",
     "hint": "Prefix 'non-' means not — 'non' + 'stop'.",
-    "image": "/images/level10/nonstop.webp"
+    "image": "/images/level10/nonstop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-110",
@@ -1914,7 +2132,9 @@
     ],
     "example": "She prefers nonfat milk.",
     "hint": "Prefix 'non-' means not — 'non' + 'fat'.",
-    "image": "/images/level10/nonfat.webp"
+    "image": "/images/level10/nonfat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-111",
@@ -1931,7 +2151,9 @@
     ],
     "example": "He was talking complete nonsense.",
     "hint": "Prefix 'non-' means not — 'non' + 'sense'.",
-    "image": "/images/level10/nonsense.webp"
+    "image": "/images/level10/nonsense.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-112",
@@ -1949,7 +2171,9 @@
     ],
     "example": "She enjoys reading nonfiction books.",
     "hint": "Prefix 'non-' means not — 'non' + 'fiction'.",
-    "image": "/images/level10/nonfiction.webp"
+    "image": "/images/level10/nonfiction.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-113",
@@ -1966,7 +2190,9 @@
     ],
     "example": "We cooked eggs in a nonstick pan.",
     "hint": "Prefix 'non-' means not — 'non' + 'stick'.",
-    "image": "/images/level10/nonstick.webp"
+    "image": "/images/level10/nonstick.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-114",
@@ -1984,7 +2210,9 @@
     ],
     "example": "She works for a nonprofit charity.",
     "hint": "Prefix 'non-' means not — 'non' + 'profit'.",
-    "image": "/images/level10/nonprofit.webp"
+    "image": "/images/level10/nonprofit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-115",
@@ -2002,7 +2230,9 @@
     ],
     "example": "A smile is a form of nonverbal communication.",
     "hint": "Prefix 'non-' means not — 'non' + 'verbal'.",
-    "image": "/images/level10/nonverbal.webp"
+    "image": "/images/level10/nonverbal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-116",
@@ -2020,7 +2250,9 @@
     ],
     "example": "The paint used on toys must be nontoxic.",
     "hint": "Prefix 'non-' means not — 'non' + 'toxic'.",
-    "image": "/images/level10/nontoxic.webp"
+    "image": "/images/level10/nontoxic.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-117",
@@ -2038,7 +2270,9 @@
     ],
     "example": "He used a nonstandard size of screw.",
     "hint": "Prefix 'non-' means not — 'non' + 'standard'.",
-    "image": "/images/level10/nonstandard.webp"
+    "image": "/images/level10/nonstandard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-118",
@@ -2056,7 +2290,9 @@
     ],
     "example": "A rock is a nonliving thing.",
     "hint": "Prefix 'non-' means not — 'non' + 'living'.",
-    "image": "/images/level10/nonliving.webp"
+    "image": "/images/level10/nonliving.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-119",
@@ -2076,7 +2312,9 @@
     ],
     "example": "Coal is a nonrenewable energy source.",
     "hint": "Prefix 'non-' means not — 'non' + 'renewable'.",
-    "image": "/images/level10/nonrenewable.webp"
+    "image": "/images/level10/nonrenewable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-120",
@@ -2095,7 +2333,9 @@
     ],
     "example": "The protest remained peaceful and nonviolent.",
     "hint": "Prefix 'non-' means not — 'non' + 'violent'.",
-    "image": "/images/level10/nonviolent.webp"
+    "image": "/images/level10/nonviolent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-121",
@@ -2113,7 +2353,9 @@
     ],
     "example": "Be careful not to overcook the pasta.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'cook'.",
-    "image": "/images/level10/overcook.webp"
+    "image": "/images/level10/overcook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-122",
@@ -2131,7 +2373,9 @@
     ],
     "example": "It's easy to overeat at a big feast.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'eat'.",
-    "image": "/images/level10/overeat.webp"
+    "image": "/images/level10/overeat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-123",
@@ -2149,7 +2393,9 @@
     ],
     "example": "The river began to overflow its banks.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'flow'.",
-    "image": "/images/level10/overflow.webp"
+    "image": "/images/level10/overflow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-124",
@@ -2167,7 +2413,9 @@
     ],
     "example": "She was overjoyed to see her old friend.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'joyed'.",
-    "image": "/images/level10/overjoyed.webp"
+    "image": "/images/level10/overjoyed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-125",
@@ -2185,7 +2433,9 @@
     ],
     "example": "Do not overload the small elevator.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'load'.",
-    "image": "/images/level10/overload.webp"
+    "image": "/images/level10/overload.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-126",
@@ -2203,7 +2453,9 @@
     ],
     "example": "We drove under the overpass.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'pass'.",
-    "image": "/images/level10/overpass.webp"
+    "image": "/images/level10/overpass.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-127",
@@ -2221,7 +2473,9 @@
     ],
     "example": "We didn't want to overpay for the tickets.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'pay'.",
-    "image": "/images/level10/overpay.webp"
+    "image": "/images/level10/overpay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-128",
@@ -2240,7 +2494,9 @@
     ],
     "example": "Try not to overreact to small problems.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'react'.",
-    "image": "/images/level10/overreact.webp"
+    "image": "/images/level10/overreact.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-129",
@@ -2258,7 +2514,9 @@
     ],
     "example": "She was chosen to oversee the new project.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'see'.",
-    "image": "/images/level10/oversee.webp"
+    "image": "/images/level10/oversee.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-130",
@@ -2276,7 +2534,9 @@
     ],
     "example": "I overslept and missed the bus.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'sleep'.",
-    "image": "/images/level10/oversleep.webp"
+    "image": "/images/level10/oversleep.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-131",
@@ -2294,7 +2554,9 @@
     ],
     "example": "The rebels tried to overthrow the government.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'throw'.",
-    "image": "/images/level10/overthrow.webp"
+    "image": "/images/level10/overthrow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-132",
@@ -2312,7 +2574,9 @@
     ],
     "example": "The judge decided to overturn the earlier ruling.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'turn'.",
-    "image": "/images/level10/overturn.webp"
+    "image": "/images/level10/overturn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-133",
@@ -2330,7 +2594,9 @@
     ],
     "example": "The bag was overweight for the flight.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'weight'.",
-    "image": "/images/level10/overweight.webp"
+    "image": "/images/level10/overweight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-134",
@@ -2348,7 +2614,9 @@
     ],
     "example": "Don't overwork yourself before the exam.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'work'.",
-    "image": "/images/level10/overwork.webp"
+    "image": "/images/level10/overwork.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-135",
@@ -2366,7 +2634,9 @@
     ],
     "example": "The amount of homework began to overwhelm her.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'whelm'.",
-    "image": "/images/level10/overwhelm.webp"
+    "image": "/images/level10/overwhelm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-136",
@@ -2384,7 +2654,9 @@
     ],
     "example": "The car began to overtake the truck.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'take'.",
-    "image": "/images/level10/overtake.webp"
+    "image": "/images/level10/overtake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-137",
@@ -2402,7 +2674,9 @@
     ],
     "example": "The actor tended to overact in sad scenes.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'act'.",
-    "image": "/images/level10/overact.webp"
+    "image": "/images/level10/overact.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-138",
@@ -2420,7 +2694,9 @@
     ],
     "example": "The label warns against an overdose.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'dose'.",
-    "image": "/images/level10/overdose.webp"
+    "image": "/images/level10/overdose.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-139",
@@ -2438,7 +2714,9 @@
     ],
     "example": "The judge chose to overrule the objection.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'rule'.",
-    "image": "/images/level10/overrule.webp"
+    "image": "/images/level10/overrule.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-140",
@@ -2456,7 +2734,9 @@
     ],
     "example": "The plane began to overshoot the runway.",
     "hint": "Prefix 'over-' means too much or above — 'over' + 'shoot'.",
-    "image": "/images/level10/overshoot.webp"
+    "image": "/images/level10/overshoot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-141",
@@ -2474,7 +2754,9 @@
     ],
     "example": "Everyone cheered for the underdog team.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'dog'.",
-    "image": "/images/level10/underdog.webp"
+    "image": "/images/level10/underdog.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-142",
@@ -2492,7 +2774,9 @@
     ],
     "example": "She had to undergo a small surgery.",
     "hint": "Prefix 'un-' means not — 'un' + 'dergo'.",
-    "image": "/images/level10/undergo.webp"
+    "image": "/images/level10/undergo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-143",
@@ -2510,7 +2794,9 @@
     ],
     "example": "The steak was slightly underdone.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'done'.",
-    "image": "/images/level10/underdone.webp"
+    "image": "/images/level10/underdone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-144",
@@ -2528,7 +2814,9 @@
     ],
     "example": "Please underline the correct answer.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'line'.",
-    "image": "/images/level10/underline.webp"
+    "image": "/images/level10/underline.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-145",
@@ -2546,7 +2834,9 @@
     ],
     "example": "Constant doubt can undermine your confidence.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'mine'.",
-    "image": "/images/level10/undermine.webp"
+    "image": "/images/level10/undermine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-146",
@@ -2564,7 +2854,9 @@
     ],
     "example": "Many workers feel they are underpaid.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'paid'.",
-    "image": "/images/level10/underpaid.webp"
+    "image": "/images/level10/underpaid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-147",
@@ -2582,7 +2874,9 @@
     ],
     "example": "People often underrate his skill.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'rate'.",
-    "image": "/images/level10/underrate.webp"
+    "image": "/images/level10/underrate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-148",
@@ -2600,7 +2894,9 @@
     ],
     "example": "We explored the undersea coral reef.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'sea'.",
-    "image": "/images/level10/undersea.webp"
+    "image": "/images/level10/undersea.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-149",
@@ -2618,7 +2914,9 @@
     ],
     "example": "She agreed to undertake the difficult project.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'take'.",
-    "image": "/images/level10/undertake.webp"
+    "image": "/images/level10/undertake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-150",
@@ -2636,7 +2934,9 @@
     ],
     "example": "He packed fresh underwear for the trip.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'wear'.",
-    "image": "/images/level10/underwear.webp"
+    "image": "/images/level10/underwear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-151",
@@ -2655,7 +2955,9 @@
     ],
     "example": "The camera took photos underwater.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'water'.",
-    "image": "/images/level10/underwater.webp"
+    "image": "/images/level10/underwater.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-152",
@@ -2673,7 +2975,9 @@
     ],
     "example": "Undercooked chicken can be dangerous.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'cook'.",
-    "image": "/images/level10/undercook.webp"
+    "image": "/images/level10/undercook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-153",
@@ -2691,7 +2995,9 @@
     ],
     "example": "It is illegal to sell alcohol to underage buyers.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'age'.",
-    "image": "/images/level10/underage.webp"
+    "image": "/images/level10/underage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-154",
@@ -2710,7 +3016,9 @@
     ],
     "example": "The undercover officer gathered evidence.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'cover'.",
-    "image": "/images/level10/undercover.webp"
+    "image": "/images/level10/undercover.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-155",
@@ -2728,7 +3036,9 @@
     ],
     "example": "We walked through the pedestrian underpass.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'pass'.",
-    "image": "/images/level10/underpass.webp"
+    "image": "/images/level10/underpass.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-156",
@@ -2746,7 +3056,9 @@
     ],
     "example": "Hard work underpins every success.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'pin'.",
-    "image": "/images/level10/underpin.webp"
+    "image": "/images/level10/underpin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-157",
@@ -2764,7 +3076,9 @@
     ],
     "example": "The company was accused of underpaying staff.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'pay'.",
-    "image": "/images/level10/underpay.webp"
+    "image": "/images/level10/underpay.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl10-158",
@@ -2782,7 +3096,9 @@
     ],
     "example": "The library facilities are often underused.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'use'.",
-    "image": "/images/level10/underuse.webp"
+    "image": "/images/level10/underuse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-159",
@@ -2800,7 +3116,9 @@
     ],
     "example": "There was a hint of sadness in his undertone.",
     "hint": "Prefix 'under-' means too little or below — 'under' + 'tone'.",
-    "image": "/images/level10/undertone.webp"
+    "image": "/images/level10/undertone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-160",
@@ -2818,7 +3136,9 @@
     ],
     "example": "Students interact during group projects.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'act'.",
-    "image": "/images/level10/interact.webp"
+    "image": "/images/level10/interact.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-161",
@@ -2836,7 +3156,9 @@
     ],
     "example": "The defender managed to intercept the pass.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'cept'.",
-    "image": "/images/level10/intercept.webp"
+    "image": "/images/level10/intercept.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-162",
@@ -2854,7 +3176,9 @@
     ],
     "example": "The highway interchange was very busy.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'change'.",
-    "image": "/images/level10/interchange.webp"
+    "image": "/images/level10/interchange.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-163",
@@ -2872,7 +3196,9 @@
     ],
     "example": "Please don't interfere in our discussion.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'fere'.",
-    "image": "/images/level10/interfere.webp"
+    "image": "/images/level10/interfere.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-164",
@@ -2890,7 +3216,9 @@
     ],
     "example": "The puzzle pieces interlock perfectly.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'lock'.",
-    "image": "/images/level10/interlock.webp"
+    "image": "/images/level10/interlock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-165",
@@ -2908,7 +3236,9 @@
     ],
     "example": "The two colors began to intermix.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'mix'.",
-    "image": "/images/level10/intermix.webp"
+    "image": "/images/level10/intermix.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-166",
@@ -2926,7 +3256,9 @@
     ],
     "example": "The doctor checked for internal injuries.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'nal'.",
-    "image": "/images/level10/internal.webp"
+    "image": "/images/level10/internal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-167",
@@ -2944,7 +3276,9 @@
     ],
     "example": "There was an interesting interplay of light and shadow.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'play'.",
-    "image": "/images/level10/interplay.webp"
+    "image": "/images/level10/interplay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-168",
@@ -2962,7 +3296,9 @@
     ],
     "example": "The two roads intersect near the school.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'sect'.",
-    "image": "/images/level10/intersect.webp"
+    "image": "/images/level10/intersect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-169",
@@ -2980,7 +3316,9 @@
     ],
     "example": "We drove along the interstate highway.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'state'.",
-    "image": "/images/level10/interstate.webp"
+    "image": "/images/level10/interstate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-170",
@@ -2998,7 +3336,9 @@
     ],
     "example": "There was a short interval before the second act.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'val'.",
-    "image": "/images/level10/interval.webp"
+    "image": "/images/level10/interval.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-171",
@@ -3016,7 +3356,9 @@
     ],
     "example": "A teacher had to intervene in the argument.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'vene'.",
-    "image": "/images/level10/intervene.webp"
+    "image": "/images/level10/intervene.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-172",
@@ -3034,7 +3376,9 @@
     ],
     "example": "She prepared carefully for the job interview.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'view'.",
-    "image": "/images/level10/interview.webp"
+    "image": "/images/level10/interview.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-173",
@@ -3052,7 +3396,9 @@
     ],
     "example": "The story interweaves two different plots.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'weave'.",
-    "image": "/images/level10/interweave.webp"
+    "image": "/images/level10/interweave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-174",
@@ -3070,7 +3416,9 @@
     ],
     "example": "The vines interlace across the fence.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'lace'.",
-    "image": "/images/level10/interlace.webp"
+    "image": "/images/level10/interlace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-175",
@@ -3088,7 +3436,9 @@
     ],
     "example": "These pages interlink to related topics.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'link'.",
-    "image": "/images/level10/interlink.webp"
+    "image": "/images/level10/interlink.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-176",
@@ -3106,7 +3456,9 @@
     ],
     "example": "The garden had roses interspersed with tulips.",
     "hint": "Prefix 'inter-' means between — 'inter' + 'sperse'.",
-    "image": "/images/level10/intersperse.webp"
+    "image": "/images/level10/intersperse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-177",
@@ -3124,7 +3476,9 @@
     ],
     "example": "The painting was a beautiful creation.",
     "hint": "Ends in '-tion' (the act or result of) — 'crea' + '-tion'.",
-    "image": "/images/level10/creation.webp"
+    "image": "/images/level10/creation.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-178",
@@ -3143,7 +3497,9 @@
     ],
     "example": "Education opens many doors in life.",
     "hint": "Ends in '-tion' (the act or result of) — 'educa' + '-tion'.",
-    "image": "/images/level10/education.webp"
+    "image": "/images/level10/education.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-179",
@@ -3161,7 +3517,9 @@
     ],
     "example": "We asked for directions to the station.",
     "hint": "Ends in '-tion' (the act or result of) — 'direc' + '-tion'.",
-    "image": "/images/level10/direction.webp"
+    "image": "/images/level10/direction.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-180",
@@ -3179,7 +3537,9 @@
     ],
     "example": "He has a large stamp collection.",
     "hint": "Ends in '-tion' (the act or result of) — 'collec' + '-tion'.",
-    "image": "/images/level10/collection.webp"
+    "image": "/images/level10/collection.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-181",
@@ -3197,7 +3557,9 @@
     ],
     "example": "The store has a wide selection of shoes.",
     "hint": "Ends in '-tion' (the act or result of) — 'selec' + '-tion'.",
-    "image": "/images/level10/selection.webp"
+    "image": "/images/level10/selection.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-182",
@@ -3215,7 +3577,9 @@
     ],
     "example": "The teacher made a correction on my essay.",
     "hint": "Ends in '-tion' (the act or result of) — 'correc' + '-tion'.",
-    "image": "/images/level10/correction.webp"
+    "image": "/images/level10/correction.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-183",
@@ -3233,7 +3597,9 @@
     ],
     "example": "The car passed its safety inspection.",
     "hint": "Ends in '-tion' (the act or result of) — 'inspec' + '-tion'.",
-    "image": "/images/level10/inspection.webp"
+    "image": "/images/level10/inspection.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-184",
@@ -3251,7 +3617,9 @@
     ],
     "example": "The helmet gives good head protection.",
     "hint": "Ends in '-tion' (the act or result of) — 'protec' + '-tion'.",
-    "image": "/images/level10/protection.webp"
+    "image": "/images/level10/protection.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-185",
@@ -3269,7 +3637,9 @@
     ],
     "example": "Her reaction to the surprise was joy.",
     "hint": "Prefix 're-' means again — 're' + 'action'.",
-    "image": "/images/level10/reaction.webp"
+    "image": "/images/level10/reaction.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-186",
@@ -3287,7 +3657,9 @@
     ],
     "example": "Addition is one of the first math skills.",
     "hint": "Ends in '-tion' (the act or result of) — 'addi' + '-tion'.",
-    "image": "/images/level10/addition.webp"
+    "image": "/images/level10/addition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-187",
@@ -3305,7 +3677,9 @@
     ],
     "example": "The old car was in poor condition.",
     "hint": "Ends in '-tion' (the act or result of) — 'condi' + '-tion'.",
-    "image": "/images/level10/condition.webp"
+    "image": "/images/level10/condition.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-188",
@@ -3323,7 +3697,9 @@
     ],
     "example": "Move the chair to a better position.",
     "hint": "Ends in '-tion' (the act or result of) — 'posi' + '-tion'.",
-    "image": "/images/level10/position.webp"
+    "image": "/images/level10/position.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-189",
@@ -3341,7 +3717,9 @@
     ],
     "example": "We finally found a solution to the puzzle.",
     "hint": "Ends in '-tion' (the act or result of) — 'solu' + '-tion'.",
-    "image": "/images/level10/solution.webp"
+    "image": "/images/level10/solution.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-190",
@@ -3359,7 +3737,9 @@
     ],
     "example": "Air pollution can harm our health.",
     "hint": "Ends in '-tion' (the act or result of) — 'pollu' + '-tion'.",
-    "image": "/images/level10/pollution.webp"
+    "image": "/images/level10/pollution.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-191",
@@ -3378,7 +3758,9 @@
     ],
     "example": "The wedding celebration lasted all day.",
     "hint": "Ends in '-tion' (the act or result of) — 'celebra' + '-tion'.",
-    "image": "/images/level10/celebration.webp"
+    "image": "/images/level10/celebration.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-192",
@@ -3397,7 +3779,9 @@
     ],
     "example": "She sent an invitation to the party.",
     "hint": "Ends in '-tion' (the act or result of) — 'invita' + '-tion'.",
-    "image": "/images/level10/invitation.webp"
+    "image": "/images/level10/invitation.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-193",
@@ -3416,7 +3800,9 @@
     ],
     "example": "The city's population keeps growing.",
     "hint": "Ends in '-tion' (the act or result of) — 'popula' + '-tion'.",
-    "image": "/images/level10/population.webp"
+    "image": "/images/level10/population.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-194",
@@ -3435,7 +3821,9 @@
     ],
     "example": "We hung colorful decorations for the party.",
     "hint": "Ends in '-tion' (the act or result of) — 'decora' + '-tion'.",
-    "image": "/images/level10/decoration.webp"
+    "image": "/images/level10/decoration.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-195",
@@ -3454,7 +3842,9 @@
     ],
     "example": "Grandparents share stories with each generation.",
     "hint": "Ends in '-tion' (the act or result of) — 'genera' + '-tion'.",
-    "image": "/images/level10/generation.webp"
+    "image": "/images/level10/generation.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-196",
@@ -3472,7 +3862,9 @@
     ],
     "example": "Please pay attention during the lesson.",
     "hint": "Ends in '-tion' (the act or result of) — 'atten' + '-tion'.",
-    "image": "/images/level10/attention.webp"
+    "image": "/images/level10/attention.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-197",
@@ -3490,7 +3882,9 @@
     ],
     "example": "The telephone was a remarkable invention.",
     "hint": "Ends in '-tion' (the act or result of) — 'inven' + '-tion'.",
-    "image": "/images/level10/invention.webp"
+    "image": "/images/level10/invention.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-198",
@@ -3508,7 +3902,9 @@
     ],
     "example": "There is a strong connection between diet and health.",
     "hint": "Ends in '-tion' (the act or result of) — 'connec' + '-tion'.",
-    "image": "/images/level10/connection.webp"
+    "image": "/images/level10/connection.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-199",
@@ -3525,7 +3921,9 @@
     ],
     "example": "The team's mission was to explore the cave.",
     "hint": "Prefix 'mis-' means wrongly — 'mis' + 'sion'.",
-    "image": "/images/level10/mission.webp"
+    "image": "/images/level10/mission.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-200",
@@ -3542,7 +3940,9 @@
     ],
     "example": "We had a long study session yesterday.",
     "hint": "Ends in '-sion' (the act or result of) — 'ses' + '-sion'.",
-    "image": "/images/level10/session.webp"
+    "image": "/images/level10/session.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-201",
@@ -3559,7 +3959,9 @@
     ],
     "example": "She has a real passion for painting.",
     "hint": "Ends in '-sion' (the act or result of) — 'pas' + '-sion'.",
-    "image": "/images/level10/passion.webp"
+    "image": "/images/level10/passion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-202",
@@ -3576,7 +3978,9 @@
     ],
     "example": "They live in a beautiful mansion.",
     "hint": "Ends in '-sion' (the act or result of) — 'man' + '-sion'.",
-    "image": "/images/level10/mansion.webp"
+    "image": "/images/level10/mansion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-203",
@@ -3593,7 +3997,9 @@
     ],
     "example": "There was tension before the big match.",
     "hint": "Ends in '-sion' (the act or result of) — 'ten' + '-sion'.",
-    "image": "/images/level10/tension.webp"
+    "image": "/images/level10/tension.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-204",
@@ -3610,7 +4016,9 @@
     ],
     "example": "My grandfather receives a monthly pension.",
     "hint": "Ends in '-sion' (the act or result of) — 'pen' + '-sion'.",
-    "image": "/images/level10/pension.webp"
+    "image": "/images/level10/pension.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-205",
@@ -3627,7 +4035,9 @@
     ],
     "example": "This is the newest version of the app.",
     "hint": "Ends in '-sion' (the act or result of) — 'ver' + '-sion'.",
-    "image": "/images/level10/version.webp"
+    "image": "/images/level10/version.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-206",
@@ -3644,7 +4054,9 @@
     ],
     "example": "Her vision for the company was bold.",
     "hint": "Ends in '-sion' (the act or result of) — the act of seeing.",
-    "image": "/images/level10/vision.webp"
+    "image": "/images/level10/vision.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-207",
@@ -3662,7 +4074,9 @@
     ],
     "example": "We learned division in math class.",
     "hint": "Ends in '-sion' (the act or result of) — 'divi' + '-sion'.",
-    "image": "/images/level10/division.webp"
+    "image": "/images/level10/division.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-208",
@@ -3680,7 +4094,9 @@
     ],
     "example": "It was a difficult decision to make.",
     "hint": "Ends in '-sion' (the act or result of) — 'deci' + '-sion'.",
-    "image": "/images/level10/decision.webp"
+    "image": "/images/level10/decision.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-209",
@@ -3699,7 +4115,9 @@
     ],
     "example": "We watched the news on television.",
     "hint": "Ends in '-sion' (the act or result of) — 'televi' + '-sion'.",
-    "image": "/images/level10/television.webp"
+    "image": "/images/level10/television.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-210",
@@ -3717,7 +4135,9 @@
     ],
     "example": "Her expression showed pure surprise.",
     "hint": "Ends in '-sion' (the act or result of) — 'expres' + '-sion'.",
-    "image": "/images/level10/expression.webp"
+    "image": "/images/level10/expression.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-211",
@@ -3735,7 +4155,9 @@
     ],
     "example": "He made a great first impression.",
     "hint": "Ends in '-sion' (the act or result of) — 'impres' + '-sion'.",
-    "image": "/images/level10/impression.webp"
+    "image": "/images/level10/impression.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-212",
@@ -3753,7 +4175,9 @@
     ],
     "example": "We had a lively discussion in class.",
     "hint": "Prefix 'dis-' means not, or the opposite of — 'dis' + 'cussion'.",
-    "image": "/images/level10/discussion.webp"
+    "image": "/images/level10/discussion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-213",
@@ -3772,7 +4196,9 @@
     ],
     "example": "This chair is very comfortable.",
     "hint": "Ends in '-able' (able to be) — 'comfort' + '-able'.",
-    "image": "/images/level10/comfortable.webp"
+    "image": "/images/level10/comfortable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-214",
@@ -3791,7 +4217,9 @@
     ],
     "example": "The price seemed very reasonable.",
     "hint": "Prefix 're-' means again — 're' + 'asonable'.",
-    "image": "/images/level10/reasonable.webp"
+    "image": "/images/level10/reasonable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-215",
@@ -3810,7 +4238,9 @@
     ],
     "example": "We had an enjoyable day at the beach.",
     "hint": "Ends in '-able' (able to be) — 'enjoy' + '-able'.",
-    "image": "/images/level10/enjoyable.webp"
+    "image": "/images/level10/enjoyable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-216",
@@ -3828,7 +4258,9 @@
     ],
     "example": "Handle the glass vase, it is breakable.",
     "hint": "Ends in '-able' (able to be) — 'break' + '-able'.",
-    "image": "/images/level10/breakable.webp"
+    "image": "/images/level10/breakable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-217",
@@ -3846,7 +4278,9 @@
     ],
     "example": "This jacket is machine washable.",
     "hint": "Ends in '-able' (able to be) — 'wash' + '-able'.",
-    "image": "/images/level10/washable.webp"
+    "image": "/images/level10/washable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-218",
@@ -3864,7 +4298,9 @@
     ],
     "example": "Is the tap water drinkable here?",
     "hint": "Ends in '-able' (able to be) — 'drink' + '-able'.",
-    "image": "/images/level10/drinkable.webp"
+    "image": "/images/level10/drinkable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-219",
@@ -3883,7 +4319,9 @@
     ],
     "example": "The movie's plot was hardly believable.",
     "hint": "Ends in '-able' (able to be) — 'believ' + '-able'.",
-    "image": "/images/level10/believable.webp"
+    "image": "/images/level10/believable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-220",
@@ -3902,7 +4340,9 @@
     ],
     "example": "She is a dependable friend.",
     "hint": "Ends in '-able' (able to be) — 'depend' + '-able'.",
-    "image": "/images/level10/dependable.webp"
+    "image": "/images/level10/dependable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-221",
@@ -3921,7 +4361,9 @@
     ],
     "example": "The weather looked favorable for the trip.",
     "hint": "Ends in '-able' (able to be) — 'favor' + '-able'.",
-    "image": "/images/level10/favorable.webp"
+    "image": "/images/level10/favorable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-222",
@@ -3940,7 +4382,9 @@
     ],
     "example": "He was known for his honorable actions.",
     "hint": "Ends in '-able' (able to be) — 'honor' + '-able'.",
-    "image": "/images/level10/honorable.webp"
+    "image": "/images/level10/honorable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-223",
@@ -3959,7 +4403,9 @@
     ],
     "example": "She gave me some valuable advice.",
     "hint": "Ends in '-able' (able to be) — 'valu' + '-able'.",
-    "image": "/images/level10/valuable.webp"
+    "image": "/images/level10/valuable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-224",
@@ -3977,7 +4423,9 @@
     ],
     "example": "We found a workable solution.",
     "hint": "Ends in '-able' (able to be) — 'work' + '-able'.",
-    "image": "/images/level10/workable.webp"
+    "image": "/images/level10/workable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-225",
@@ -3995,7 +4443,9 @@
     ],
     "example": "This was a teachable moment for the class.",
     "hint": "Ends in '-able' (able to be) — 'teach' + '-able'.",
-    "image": "/images/level10/teachable.webp"
+    "image": "/images/level10/teachable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-226",
@@ -4014,7 +4464,9 @@
     ],
     "example": "He seemed agreeable to the new plan.",
     "hint": "Ends in '-able' (able to be) — 'agree' + '-able'.",
-    "image": "/images/level10/agreeable.webp"
+    "image": "/images/level10/agreeable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-227",
@@ -4033,7 +4485,9 @@
     ],
     "example": "The workload became more manageable.",
     "hint": "Ends in '-able' (able to be) — 'manage' + '-able'.",
-    "image": "/images/level10/manageable.webp"
+    "image": "/images/level10/manageable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-228",
@@ -4052,7 +4506,9 @@
     ],
     "example": "The office chair has an adjustable height.",
     "hint": "Ends in '-able' (able to be) — 'adjust' + '-able'.",
-    "image": "/images/level10/adjustable.webp"
+    "image": "/images/level10/adjustable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-229",
@@ -4071,7 +4527,9 @@
     ],
     "example": "It felt impossible to finish on time.",
     "hint": "Ends in '-ible' (able to be) — 'imposs' + '-ible'.",
-    "image": "/images/level10/impossible.webp"
+    "image": "/images/level10/impossible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-230",
@@ -4089,7 +4547,9 @@
     ],
     "example": "We had terrible weather all week.",
     "hint": "Ends in '-ible' (able to be) — 'terr' + '-ible'.",
-    "image": "/images/level10/terrible.webp"
+    "image": "/images/level10/terrible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-231",
@@ -4107,7 +4567,9 @@
     ],
     "example": "That was a horrible accident.",
     "hint": "Ends in '-ible' (able to be) — 'horr' + '-ible'.",
-    "image": "/images/level10/horrible.webp"
+    "image": "/images/level10/horrible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-232",
@@ -4125,7 +4587,9 @@
     ],
     "example": "The mountain was visible from far away.",
     "hint": "Ends in '-ible' (able to be) — 'vis' + '-ible'.",
-    "image": "/images/level10/visible.webp"
+    "image": "/images/level10/visible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-233",
@@ -4143,7 +4607,9 @@
     ],
     "example": "Gymnasts must be very flexible.",
     "hint": "Ends in '-ible' (able to be) — 'flex' + '-ible'.",
-    "image": "/images/level10/flexible.webp"
+    "image": "/images/level10/flexible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-234",
@@ -4161,7 +4627,9 @@
     ],
     "example": "It was a sensible choice to leave early.",
     "hint": "Ends in '-ible' (able to be) — 'sens' + '-ible'.",
-    "image": "/images/level10/sensible.webp"
+    "image": "/images/level10/sensible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-235",
@@ -4179,7 +4647,9 @@
     ],
     "example": "Not all mushrooms are edible.",
     "hint": "Ends in '-ible' (able to be) — able to be eaten.",
-    "image": "/images/level10/edible.webp"
+    "image": "/images/level10/edible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-236",
@@ -4197,7 +4667,9 @@
     ],
     "example": "The witness gave a credible account.",
     "hint": "Ends in '-ible' (able to be) — 'cred' + '-ible'.",
-    "image": "/images/level10/credible.webp"
+    "image": "/images/level10/credible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-237",
@@ -4215,7 +4687,9 @@
     ],
     "example": "Please write in legible handwriting.",
     "hint": "Ends in '-ible' (able to be) — 'leg' + '-ible'.",
-    "image": "/images/level10/legible.webp"
+    "image": "/images/level10/legible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-238",
@@ -4233,7 +4707,9 @@
     ],
     "example": "His voice was barely audible over the noise.",
     "hint": "Ends in '-ible' (able to be) — 'aud' + '-ible'.",
-    "image": "/images/level10/audible.webp"
+    "image": "/images/level10/audible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-239",
@@ -4251,7 +4727,9 @@
     ],
     "example": "We need tangible proof of the claim.",
     "hint": "Ends in '-ible' (able to be) — 'tang' + '-ible'.",
-    "image": "/images/level10/tangible.webp"
+    "image": "/images/level10/tangible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-240",
@@ -4270,7 +4748,9 @@
     ],
     "example": "The view from the top was incredible.",
     "hint": "Ends in '-ible' (able to be) — 'incred' + '-ible'.",
-    "image": "/images/level10/incredible.webp"
+    "image": "/images/level10/incredible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-241",
@@ -4289,7 +4769,9 @@
     ],
     "example": "She is responsible for the younger children.",
     "hint": "Prefix 're-' means again — 're' + 'sponsible'.",
-    "image": "/images/level10/responsible.webp"
+    "image": "/images/level10/responsible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-242",
@@ -4308,7 +4790,9 @@
     ],
     "example": "The stars are invisible during the day.",
     "hint": "Ends in '-ible' (able to be) — 'invis' + '-ible'.",
-    "image": "/images/level10/invisible.webp"
+    "image": "/images/level10/invisible.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-243",
@@ -4326,7 +4810,9 @@
     ],
     "example": "They signed an agreement to work together.",
     "hint": "Ends in '-ment' (the result or state of) — 'agree' + '-ment'.",
-    "image": "/images/level10/agreement.webp"
+    "image": "/images/level10/agreement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-244",
@@ -4343,7 +4829,9 @@
     ],
     "example": "She noticed a slight movement in the bushes.",
     "hint": "Ends in '-ment' (the result or state of) — 'move' + '-ment'.",
-    "image": "/images/level10/movement.webp"
+    "image": "/images/level10/movement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-245",
@@ -4360,7 +4848,9 @@
     ],
     "example": "The police released an official statement.",
     "hint": "Ends in '-ment' (the result or state of) — 'state' + '-ment'.",
-    "image": "/images/level10/statement.webp"
+    "image": "/images/level10/statement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-246",
@@ -4377,7 +4867,9 @@
     ],
     "example": "The doctor recommended a new treatment.",
     "hint": "Ends in '-ment' (the result or state of) — 'treat' + '-ment'.",
-    "image": "/images/level10/treatment.webp"
+    "image": "/images/level10/treatment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-247",
@@ -4395,7 +4887,9 @@
     ],
     "example": "She stared in amazement at the fireworks.",
     "hint": "Ends in '-ment' (the result or state of) — 'amaze' + '-ment'.",
-    "image": "/images/level10/amazement.webp"
+    "image": "/images/level10/amazement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-248",
@@ -4413,7 +4907,9 @@
     ],
     "example": "The old settlement had only a few houses.",
     "hint": "Ends in '-ment' (the result or state of) — 'settle' + '-ment'.",
-    "image": "/images/level10/settlement.webp"
+    "image": "/images/level10/settlement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-249",
@@ -4431,7 +4927,9 @@
     ],
     "example": "The clown was a great source of amusement.",
     "hint": "Ends in '-ment' (the result or state of) — 'amuse' + '-ment'.",
-    "image": "/images/level10/amusement.webp"
+    "image": "/images/level10/amusement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-250",
@@ -4449,7 +4947,9 @@
     ],
     "example": "Reading brings me great enjoyment.",
     "hint": "Ends in '-ment' (the result or state of) — 'enjoy' + '-ment'.",
-    "image": "/images/level10/enjoyment.webp"
+    "image": "/images/level10/enjoyment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-251",
@@ -4467,7 +4967,9 @@
     ],
     "example": "There was excitement in the air before the show.",
     "hint": "Ends in '-ment' (the result or state of) — 'excite' + '-ment'.",
-    "image": "/images/level10/excitement.webp"
+    "image": "/images/level10/excitement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-252",
@@ -4485,7 +4987,9 @@
     ],
     "example": "Her grades showed real improvement.",
     "hint": "Ends in '-ment' (the result or state of) — 'improve' + '-ment'.",
-    "image": "/images/level10/improvement.webp"
+    "image": "/images/level10/improvement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-253",
@@ -4503,7 +5007,9 @@
     ],
     "example": "We need a replacement for the broken part.",
     "hint": "Prefix 're-' means again — 're' + 'placement'.",
-    "image": "/images/level10/replacement.webp"
+    "image": "/images/level10/replacement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-254",
@@ -4521,7 +5027,9 @@
     ],
     "example": "The mechanic made a small adjustment.",
     "hint": "Ends in '-ment' (the result or state of) — 'adjust' + '-ment'.",
-    "image": "/images/level10/adjustment.webp"
+    "image": "/images/level10/adjustment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-255",
@@ -4539,7 +5047,9 @@
     ],
     "example": "Winning the award was a great achievement.",
     "hint": "Ends in '-ment' (the result or state of) — 'achieve' + '-ment'.",
-    "image": "/images/level10/achievement.webp"
+    "image": "/images/level10/achievement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-256",
@@ -4558,7 +5068,9 @@
     ],
     "example": "The city has seen a lot of development.",
     "hint": "Ends in '-ment' (the result or state of) — 'develop' + '-ment'.",
-    "image": "/images/level10/development.webp"
+    "image": "/images/level10/development.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-257",
@@ -4576,7 +5088,9 @@
     ],
     "example": "Family brings her the most happiness.",
     "hint": "Ends in '-ness' (the state of being) — 'happi' + '-ness'.",
-    "image": "/images/level10/happiness.webp"
+    "image": "/images/level10/happiness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-258",
@@ -4593,7 +5107,9 @@
     ],
     "example": "She is known for her kindness.",
     "hint": "Ends in '-ness' (the state of being) — 'kind' + '-ness'.",
-    "image": "/images/level10/kindness.webp"
+    "image": "/images/level10/kindness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-259",
@@ -4610,7 +5126,9 @@
     ],
     "example": "There was a sense of sadness in his voice.",
     "hint": "Ends in '-ness' (the state of being) — 'sad' + '-ness'.",
-    "image": "/images/level10/sadness.webp"
+    "image": "/images/level10/sadness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-260",
@@ -4627,7 +5145,9 @@
     ],
     "example": "The room was filled with darkness.",
     "hint": "Ends in '-ness' (the state of being) — 'dark' + '-ness'.",
-    "image": "/images/level10/darkness.webp"
+    "image": "/images/level10/darkness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-261",
@@ -4644,7 +5164,9 @@
     ],
     "example": "Chocolate is my biggest weakness.",
     "hint": "Ends in '-ness' (the state of being) — 'weak' + '-ness'.",
-    "image": "/images/level10/weakness.webp"
+    "image": "/images/level10/weakness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-262",
@@ -4661,7 +5183,9 @@
     ],
     "example": "He recovered quickly from his illness.",
     "hint": "Ends in '-ness' (the state of being) — 'ill' + '-ness'.",
-    "image": "/images/level10/illness.webp"
+    "image": "/images/level10/illness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-263",
@@ -4678,7 +5202,9 @@
     ],
     "example": "Running helps improve overall fitness.",
     "hint": "Ends in '-ness' (the state of being) — 'fit' + '-ness'.",
-    "image": "/images/level10/fitness.webp"
+    "image": "/images/level10/fitness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-264",
@@ -4695,7 +5221,9 @@
     ],
     "example": "I love the softness of this blanket.",
     "hint": "Ends in '-ness' (the state of being) — 'soft' + '-ness'.",
-    "image": "/images/level10/softness.webp"
+    "image": "/images/level10/softness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-265",
@@ -4712,7 +5240,9 @@
     ],
     "example": "Adjust the brightness of the screen.",
     "hint": "Ends in '-ness' (the state of being) — 'bright' + '-ness'.",
-    "image": "/images/level10/brightness.webp"
+    "image": "/images/level10/brightness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-266",
@@ -4729,7 +5259,9 @@
     ],
     "example": "Morning sickness is common in pregnancy.",
     "hint": "Ends in '-ness' (the state of being) — 'sick' + '-ness'.",
-    "image": "/images/level10/sickness.webp"
+    "image": "/images/level10/sickness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-267",
@@ -4747,7 +5279,9 @@
     ],
     "example": "The campaign raised awareness about recycling.",
     "hint": "Ends in '-ness' (the state of being) — 'aware' + '-ness'.",
-    "image": "/images/level10/awareness.webp"
+    "image": "/images/level10/awareness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-268",
@@ -4764,7 +5298,9 @@
     ],
     "example": "The judge is known for fairness.",
     "hint": "Ends in '-ness' (the state of being) — 'fair' + '-ness'.",
-    "image": "/images/level10/fairness.webp"
+    "image": "/images/level10/fairness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-269",
@@ -4781,7 +5317,9 @@
     ],
     "example": "The cake had just the right sweetness.",
     "hint": "Ends in '-ness' (the state of being) — 'sweet' + '-ness'.",
-    "image": "/images/level10/sweetness.webp"
+    "image": "/images/level10/sweetness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-270",
@@ -4798,7 +5336,9 @@
     ],
     "example": "Measure the thickness of the wood.",
     "hint": "Ends in '-ness' (the state of being) — 'thick' + '-ness'.",
-    "image": "/images/level10/thickness.webp"
+    "image": "/images/level10/thickness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-271",
@@ -4816,7 +5356,9 @@
     ],
     "example": "He felt a deep loneliness after moving away.",
     "hint": "Ends in '-ness' (the state of being) — 'loneli' + '-ness'.",
-    "image": "/images/level10/loneliness.webp"
+    "image": "/images/level10/loneliness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-272",
@@ -4834,7 +5376,9 @@
     ],
     "example": "She asked for forgiveness after the mistake.",
     "hint": "Ends in '-ness' (the state of being) — 'forgive' + '-ness'.",
-    "image": "/images/level10/forgiveness.webp"
+    "image": "/images/level10/forgiveness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-273",
@@ -4851,7 +5395,9 @@
     ],
     "example": "The singer became famous overnight.",
     "hint": "Ends in '-ous' (full of) — 'fam' + '-ous'.",
-    "image": "/images/level10/famous.webp"
+    "image": "/images/level10/famous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-274",
@@ -4869,7 +5415,9 @@
     ],
     "example": "Swimming in that river is dangerous.",
     "hint": "Ends in '-ous' (full of) — 'danger' + '-ous'.",
-    "image": "/images/level10/dangerous.webp"
+    "image": "/images/level10/dangerous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-275",
@@ -4887,7 +5435,9 @@
     ],
     "example": "The curious cat explored every corner.",
     "hint": "Ends in '-ous' (full of) — 'curi' + '-ous'.",
-    "image": "/images/level10/curious.webp"
+    "image": "/images/level10/curious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-276",
@@ -4904,7 +5454,9 @@
     ],
     "example": "A monstrous wave rose from the sea.",
     "hint": "Ends in '-ous' (full of) — 'monstr' + '-ous'.",
-    "image": "/images/level10/monstrous.webp"
+    "image": "/images/level10/monstrous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-277",
@@ -4921,7 +5473,9 @@
     ],
     "example": "She was nervous before the exam.",
     "hint": "Ends in '-ous' (full of) — 'nerv' + '-ous'.",
-    "image": "/images/level10/nervous.webp"
+    "image": "/images/level10/nervous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-278",
@@ -4939,7 +5493,9 @@
     ],
     "example": "He is generous with his time and money.",
     "hint": "Ends in '-ous' (full of) — 'gener' + '-ous'.",
-    "image": "/images/level10/generous.webp"
+    "image": "/images/level10/generous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-279",
@@ -4957,7 +5513,9 @@
     ],
     "example": "This is a serious matter to discuss.",
     "hint": "Ends in '-ous' (full of) — 'seri' + '-ous'.",
-    "image": "/images/level10/serious.webp"
+    "image": "/images/level10/serious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-280",
@@ -4976,7 +5534,9 @@
     ],
     "example": "The victorious team lifted the trophy.",
     "hint": "Ends in '-ous' (full of) — 'victori' + '-ous'.",
-    "image": "/images/level10/victorious.webp"
+    "image": "/images/level10/victorious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-281",
@@ -4993,7 +5553,9 @@
     ],
     "example": "The new apartment felt very spacious.",
     "hint": "Ends in '-ous' (full of) — a place full of space.",
-    "image": "/images/level10/spacious.webp"
+    "image": "/images/level10/spacious.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-282",
@@ -5010,7 +5572,9 @@
     ],
     "example": "The sunset was absolutely gorgeous.",
     "hint": "Ends in '-ous' (full of) — 'gorge' + '-ous'.",
-    "image": "/images/level10/gorgeous.webp"
+    "image": "/images/level10/gorgeous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-283",
@@ -5028,7 +5592,9 @@
     ],
     "example": "An enormous wave crashed on the shore.",
     "hint": "Ends in '-ous' (full of) — 'enorm' + '-ous'.",
-    "image": "/images/level10/enormous.webp"
+    "image": "/images/level10/enormous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-284",
@@ -5046,7 +5612,9 @@
     ],
     "example": "We had a marvelous time at the fair.",
     "hint": "Ends in '-ous' (full of) — 'marvel' + '-ous'.",
-    "image": "/images/level10/marvelous.webp"
+    "image": "/images/level10/marvelous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-285",
@@ -5064,7 +5632,9 @@
     ],
     "example": "The wet floor was hazardous to walk on.",
     "hint": "Ends in '-ous' (full of) — 'hazard' + '-ous'.",
-    "image": "/images/level10/hazardous.webp"
+    "image": "/images/level10/hazardous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-286",
@@ -5082,7 +5652,9 @@
     ],
     "example": "The team put in tremendous effort.",
     "hint": "Ends in '-ous' (full of) — 'tremend' + '-ous'.",
-    "image": "/images/level10/tremendous.webp"
+    "image": "/images/level10/tremendous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-287",
@@ -5101,7 +5673,9 @@
     ],
     "example": "She has always been an adventurous traveler.",
     "hint": "Ends in '-ous' (full of) — 'adventur' + '-ous'.",
-    "image": "/images/level10/adventurous.webp"
+    "image": "/images/level10/adventurous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-288",
@@ -5119,7 +5693,9 @@
     ],
     "example": "Some frogs in the rainforest are poisonous.",
     "hint": "Ends in '-ous' (full of) — 'poison' + '-ous'.",
-    "image": "/images/level10/poisonous.webp"
+    "image": "/images/level10/poisonous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-289",
@@ -5136,7 +5712,9 @@
     ],
     "example": "She leads a very active lifestyle.",
     "hint": "Ends in '-ive' (tending to) — 'act' + '-ive'.",
-    "image": "/images/level10/active.webp"
+    "image": "/images/level10/active.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-290",
@@ -5154,7 +5732,9 @@
     ],
     "example": "He found a creative way to solve it.",
     "hint": "Ends in '-ive' (tending to) — 'creat' + '-ive'.",
-    "image": "/images/level10/creative.webp"
+    "image": "/images/level10/creative.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-291",
@@ -5172,7 +5752,9 @@
     ],
     "example": "She always has a positive attitude.",
     "hint": "Ends in '-ive' (tending to) — 'posit' + '-ive'.",
-    "image": "/images/level10/positive.webp"
+    "image": "/images/level10/positive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-292",
@@ -5190,7 +5772,9 @@
     ],
     "example": "Try not to focus on negative thoughts.",
     "hint": "Ends in '-ive' (tending to) — 'negat' + '-ive'.",
-    "image": "/images/level10/negative.webp"
+    "image": "/images/level10/negative.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-293",
@@ -5208,7 +5792,9 @@
     ],
     "example": "That new phone looks quite expensive.",
     "hint": "Ends in '-ive' (tending to) — 'expens' + '-ive'.",
-    "image": "/images/level10/expensive.webp"
+    "image": "/images/level10/expensive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-294",
@@ -5226,7 +5812,9 @@
     ],
     "example": "This medicine is very effective.",
     "hint": "Ends in '-ive' (tending to) — 'effect' + '-ive'.",
-    "image": "/images/level10/effective.webp"
+    "image": "/images/level10/effective.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-295",
@@ -5244,7 +5832,9 @@
     ],
     "example": "The store window display was attractive.",
     "hint": "Ends in '-ive' (tending to) — 'attract' + '-ive'.",
-    "image": "/images/level10/attractive.webp"
+    "image": "/images/level10/attractive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-296",
@@ -5262,7 +5852,9 @@
     ],
     "example": "She is very protective of her little brother.",
     "hint": "Ends in '-ive' (tending to) — 'protect' + '-ive'.",
-    "image": "/images/level10/protective.webp"
+    "image": "/images/level10/protective.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-297",
@@ -5281,7 +5873,9 @@
     ],
     "example": "He has always been a competitive player.",
     "hint": "Ends in '-ive' (tending to) — 'competit' + '-ive'.",
-    "image": "/images/level10/competitive.webp"
+    "image": "/images/level10/competitive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-298",
@@ -5301,7 +5895,9 @@
     ],
     "example": "The story had a very imaginative plot.",
     "hint": "Ends in '-ive' (tending to) — 'imaginat' + '-ive'.",
-    "image": "/images/level10/imaginative.webp"
+    "image": "/images/level10/imaginative.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-299",
@@ -5319,7 +5915,9 @@
     ],
     "example": "My parents are always supportive of me.",
     "hint": "Ends in '-ive' (tending to) — 'support' + '-ive'.",
-    "image": "/images/level10/supportive.webp"
+    "image": "/images/level10/supportive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-300",
@@ -5337,7 +5935,9 @@
     ],
     "example": "A good leader must be decisive.",
     "hint": "Ends in '-ive' (tending to) — 'decis' + '-ive'.",
-    "image": "/images/level10/decisive.webp"
+    "image": "/images/level10/decisive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-301",
@@ -5355,7 +5955,9 @@
     ],
     "example": "He is quite sensitive about his height.",
     "hint": "Ends in '-ive' (tending to) — 'sensit' + '-ive'.",
-    "image": "/images/level10/sensitive.webp"
+    "image": "/images/level10/sensitive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-302",
@@ -5373,7 +5975,9 @@
     ],
     "example": "She had a very productive morning.",
     "hint": "Ends in '-ive' (tending to) — 'product' + '-ive'.",
-    "image": "/images/level10/productive.webp"
+    "image": "/images/level10/productive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-303",
@@ -5391,7 +5995,9 @@
     ],
     "example": "I didn't realize how late it was.",
     "hint": "Prefix 're-' means again — 're' + 'alize'.",
-    "image": "/images/level10/realize.webp"
+    "image": "/images/level10/realize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-304",
@@ -5409,7 +6015,9 @@
     ],
     "example": "Help me organize these files by date.",
     "hint": "Ends in '-ize' (to make or become) — 'organ' + '-ize'.",
-    "image": "/images/level10/organize.webp"
+    "image": "/images/level10/organize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-305",
@@ -5427,7 +6035,9 @@
     ],
     "example": "Only a manager can authorize a refund.",
     "hint": "Ends in '-ize' (to make or become) — 'author' + '-ize'.",
-    "image": "/images/level10/authorize.webp"
+    "image": "/images/level10/authorize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-306",
@@ -5446,7 +6056,9 @@
     ],
     "example": "He apologized for being late.",
     "hint": "Ends in '-ize' (to make or become) — 'apolog' + '-ize'.",
-    "image": "/images/level10/apologize.webp"
+    "image": "/images/level10/apologize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-307",
@@ -5464,7 +6076,9 @@
     ],
     "example": "She had to memorize the poem for class.",
     "hint": "Ends in '-ize' (to make or become) — 'memor' + '-ize'.",
-    "image": "/images/level10/memorize.webp"
+    "image": "/images/level10/memorize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-308",
@@ -5482,7 +6096,9 @@
     ],
     "example": "It's easy to criticize, but harder to help.",
     "hint": "Ends in '-ize' (to make or become) — 'critic' + '-ize'.",
-    "image": "/images/level10/criticize.webp"
+    "image": "/images/level10/criticize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-309",
@@ -5500,7 +6116,9 @@
     ],
     "example": "Please summarize the chapter in two lines.",
     "hint": "Ends in '-ize' (to make or become) — 'summar' + '-ize'.",
-    "image": "/images/level10/summarize.webp"
+    "image": "/images/level10/summarize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-310",
@@ -5519,7 +6137,9 @@
     ],
     "example": "Remember to capitalize the first letter.",
     "hint": "Ends in '-ize' (to make or become) — 'capital' + '-ize'.",
-    "image": "/images/level10/capitalize.webp"
+    "image": "/images/level10/capitalize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-311",
@@ -5537,7 +6157,9 @@
     ],
     "example": "A dove can symbolize peace.",
     "hint": "Ends in '-ize' (to make or become) — 'symbol' + '-ize'.",
-    "image": "/images/level10/symbolize.webp"
+    "image": "/images/level10/symbolize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-312",
@@ -5555,7 +6177,9 @@
     ],
     "example": "A short walk can energize your morning.",
     "hint": "Ends in '-ize' (to make or become) — 'energ' + '-ize'.",
-    "image": "/images/level10/energize.webp"
+    "image": "/images/level10/energize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-313",
@@ -5574,7 +6198,9 @@
     ],
     "example": "Take time to familiarize yourself with the rules.",
     "hint": "Ends in '-ize' (to make or become) — 'familiar' + '-ize'.",
-    "image": "/images/level10/familiarize.webp"
+    "image": "/images/level10/familiarize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-314",
@@ -5592,7 +6218,9 @@
     ],
     "example": "The old factory needs to modernize its machines.",
     "hint": "Ends in '-ize' (to make or become) — 'modern' + '-ize'.",
-    "image": "/images/level10/modernize.webp"
+    "image": "/images/level10/modernize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-315",
@@ -5610,7 +6238,9 @@
     ],
     "example": "She plans to specialize in eye surgery.",
     "hint": "Ends in '-ize' (to make or become) — 'special' + '-ize'.",
-    "image": "/images/level10/specialize.webp"
+    "image": "/images/level10/specialize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-316",
@@ -5629,7 +6259,9 @@
     ],
     "example": "Try to visualize your goal before you start.",
     "hint": "Ends in '-ize' (to make or become) — 'visual' + '-ize'.",
-    "image": "/images/level10/visualize.webp"
+    "image": "/images/level10/visualize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-317",
@@ -5645,7 +6277,9 @@
     ],
     "example": "She has a real knack for painting.",
     "hint": "Silent K at the start — pronounced 'nack'.",
-    "image": "/images/level10/knack.webp"
+    "image": "/images/level10/knack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-318",
@@ -5661,7 +6295,9 @@
     ],
     "example": "She began to knead the bread dough.",
     "hint": "Silent K at the start — pronounced 'need'.",
-    "image": "/images/level10/knead.webp"
+    "image": "/images/level10/knead.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-319",
@@ -5678,7 +6314,9 @@
     ],
     "example": "Purple knapweed grew along the trail.",
     "hint": "Silent K at the start — pronounced 'nap-weed'.",
-    "image": "/images/level10/knapweed.webp"
+    "image": "/images/level10/knapweed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-320",
@@ -5695,7 +6333,9 @@
     ],
     "example": "The boxer won by a knockout.",
     "hint": "Silent K at the start — pronounced 'nock-out'.",
-    "image": "/images/level10/knockout.webp"
+    "image": "/images/level10/knockout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-321",
@@ -5712,7 +6352,9 @@
     ],
     "example": "The garden was overrun with knotweed.",
     "hint": "Silent K at the start — pronounced 'not-weed'.",
-    "image": "/images/level10/knotweed.webp"
+    "image": "/images/level10/knotweed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-322",
@@ -5728,7 +6370,9 @@
     ],
     "example": "The knight began to kneel before the king.",
     "hint": "Silent K at the start — pronounced 'neel'.",
-    "image": "/images/level10/kneel.webp"
+    "image": "/images/level10/kneel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-323",
@@ -5745,7 +6389,9 @@
     ],
     "example": "He knocked with his knuckle on the door.",
     "hint": "Silent K at the start — pronounced 'nuckle'.",
-    "image": "/images/level10/knuckle.webp"
+    "image": "/images/level10/knuckle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-324",
@@ -5764,7 +6410,9 @@
     ],
     "example": "The librarian was very knowledgeable about history.",
     "hint": "Silent K at the start — pronounced 'nolledge-able'.",
-    "image": "/images/level10/knowledgeable.webp"
+    "image": "/images/level10/knowledgeable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-325",
@@ -5780,7 +6428,9 @@
     ],
     "example": "Turn the knob to open the door.",
     "hint": "Silent K at the start — pronounced 'nob'.",
-    "image": "/images/level10/knob.webp"
+    "image": "/images/level10/knob.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-326",
@@ -5797,7 +6447,9 @@
     ],
     "example": "He packed his knapsack for the hike.",
     "hint": "Silent K at the start — pronounced 'nap-sack'.",
-    "image": "/images/level10/knapsack.webp"
+    "image": "/images/level10/knapsack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-327",
@@ -5814,7 +6466,9 @@
     ],
     "example": "He robbed the store at knifepoint.",
     "hint": "Silent K at the start — pronounced 'nife-point'.",
-    "image": "/images/level10/knifepoint.webp"
+    "image": "/images/level10/knifepoint.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-328",
@@ -5831,7 +6485,9 @@
     ],
     "example": "Light shone through the knothole in the fence.",
     "hint": "Silent K at the start — pronounced 'not-hole'.",
-    "image": "/images/level10/knothole.webp"
+    "image": "/images/level10/knothole.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-329",
@@ -5848,7 +6504,9 @@
     ],
     "example": "He checked the time on his wristwatch.",
     "hint": "Silent W at the start — pronounced 'rist-watch'.",
-    "image": "/images/level10/wristwatch.webp"
+    "image": "/images/level10/wristwatch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-330",
@@ -5865,7 +6523,9 @@
     ],
     "example": "She threw the candy wrapper in the bin.",
     "hint": "Silent W at the start — pronounced 'rapper'.",
-    "image": "/images/level10/wrapper.webp"
+    "image": "/images/level10/wrapper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-331",
@@ -5882,7 +6542,9 @@
     ],
     "example": "Rescuers searched through the wreckage.",
     "hint": "Silent W at the start — pronounced 'reck-age'.",
-    "image": "/images/level10/wreckage.webp"
+    "image": "/images/level10/wreckage.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-332",
@@ -5898,7 +6560,9 @@
     ],
     "example": "The injured player began to writhe in pain.",
     "hint": "Silent W at the start — pronounced 'rithe'.",
-    "image": "/images/level10/writhe.webp"
+    "image": "/images/level10/writhe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-333",
@@ -5916,7 +6580,9 @@
     ],
     "example": "The wrongdoer was finally caught.",
     "hint": "Silent W at the start — pronounced 'rong-doo-er'.",
-    "image": "/images/level10/wrongdoer.webp"
+    "image": "/images/level10/wrongdoer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-334",
@@ -5935,7 +6601,9 @@
     ],
     "example": "Leaders are answerable to the public.",
     "hint": "Silent W in the middle — pronounced 'anser-able'.",
-    "image": "/images/level10/answerable.webp"
+    "image": "/images/level10/answerable.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-335",
@@ -5952,7 +6620,9 @@
     ],
     "example": "The movie had an exciting swordplay scene.",
     "hint": "Silent W in 'sword' — pronounced 'sord-play'.",
-    "image": "/images/level10/swordplay.webp"
+    "image": "/images/level10/swordplay.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-336",
@@ -5969,7 +6639,9 @@
     ],
     "example": "The boys began to wrestle on the mat.",
     "hint": "Silent W at the start — pronounced 'ressle'.",
-    "image": "/images/level10/wrestle.webp"
+    "image": "/images/level10/wrestle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-337",
@@ -5986,7 +6658,9 @@
     ],
     "example": "He was wrongly blamed for the mistake.",
     "hint": "Silent W at the start — pronounced 'rong-ly'.",
-    "image": "/images/level10/wrongly.webp"
+    "image": "/images/level10/wrongly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-338",
@@ -6002,7 +6676,9 @@
     ],
     "example": "The hero carried a shining sword.",
     "hint": "Silent W in the middle — pronounced 'sord'.",
-    "image": "/images/level10/sword.webp"
+    "image": "/images/level10/sword.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-339",
@@ -6019,7 +6695,9 @@
     ],
     "example": "Do you know the answer to this riddle?",
     "hint": "Silent W in the middle — pronounced 'anser'.",
-    "image": "/images/level10/answer.webp"
+    "image": "/images/level10/answer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-340",
@@ -6036,7 +6714,9 @@
     ],
     "example": "She sued the company for wrongful dismissal.",
     "hint": "Silent W at the start — pronounced 'rong-ful'.",
-    "image": "/images/level10/wrongful.webp"
+    "image": "/images/level10/wrongful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-341",
@@ -6053,7 +6733,9 @@
     ],
     "example": "She pinned the note with a thumbtack.",
     "hint": "Silent B in 'thumb' — pronounced 'thum-tack'.",
-    "image": "/images/level10/thumbtack.webp"
+    "image": "/images/level10/thumbtack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-342",
@@ -6070,7 +6752,9 @@
     ],
     "example": "The climber reached the summit at noon.",
     "hint": "Silent B in 'climb' — pronounced 'clime-er'.",
-    "image": "/images/level10/climber.webp"
+    "image": "/images/level10/climber.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-343",
@@ -6087,7 +6771,9 @@
     ],
     "example": "She looked doubtful about the plan.",
     "hint": "Silent B in 'doubt' — pronounced 'dowt-ful'.",
-    "image": "/images/level10/doubtful.webp"
+    "image": "/images/level10/doubtful.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-344",
@@ -6105,7 +6791,9 @@
     ],
     "example": "He felt indebted to his teacher for her help.",
     "hint": "Silent B in 'debt' — pronounced 'in-det-ed'.",
-    "image": "/images/level10/indebted.webp"
+    "image": "/images/level10/indebted.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-345",
@@ -6121,7 +6809,9 @@
     ],
     "example": "A single crumb fell on the floor.",
     "hint": "Silent B at the end — pronounced 'crum'.",
-    "image": "/images/level10/crumb.webp"
+    "image": "/images/level10/crumb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-346",
@@ -6137,7 +6827,9 @@
     ],
     "example": "The old bomb was carefully removed.",
     "hint": "Silent B at the end — pronounced 'bom'.",
-    "image": "/images/level10/bomb.webp"
+    "image": "/images/level10/bomb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-347",
@@ -6154,7 +6846,9 @@
     ],
     "example": "The old wall began to crumble.",
     "hint": "Silent B in the middle — pronounced 'crum-bl'.",
-    "image": "/images/level10/crumble.webp"
+    "image": "/images/level10/crumble.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-348",
@@ -6171,7 +6865,9 @@
     ],
     "example": "Reporters began to bombard her with questions.",
     "hint": "Silent B in 'bomb' — pronounced 'bom-bard'.",
-    "image": "/images/level10/bombard.webp"
+    "image": "/images/level10/bombard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-349",
@@ -6187,7 +6883,9 @@
     ],
     "example": "My fingers felt numb in the cold.",
     "hint": "Silent B at the end — pronounced 'num'.",
-    "image": "/images/level10/numb.webp"
+    "image": "/images/level10/numb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-350",
@@ -6204,7 +6902,9 @@
     ],
     "example": "We called a plumber to fix the leak.",
     "hint": "Silent B in the middle — pronounced 'plummer'.",
-    "image": "/images/level10/plumber.webp"
+    "image": "/images/level10/plumber.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-351",
@@ -6221,7 +6921,9 @@
     ],
     "example": "The snake is a limbless reptile.",
     "hint": "Silent B in 'limb' — pronounced 'lim-less'.",
-    "image": "/images/level10/limbless.webp"
+    "image": "/images/level10/limbless.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-352",
@@ -6238,7 +6940,9 @@
     ],
     "example": "The cold caused numbness in her fingers.",
     "hint": "Silent B in 'numb' — pronounced 'num-ness'.",
-    "image": "/images/level10/numbness.webp"
+    "image": "/images/level10/numbness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-353",
@@ -6254,7 +6958,9 @@
     ],
     "example": "A garden gnome stood by the flowers.",
     "hint": "Silent G at the start — pronounced 'nome'.",
-    "image": "/images/level10/gnome.webp"
+    "image": "/images/level10/gnome.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-354",
@@ -6270,7 +6976,9 @@
     ],
     "example": "The sign pointed toward the exit.",
     "hint": "Silent G at the end — pronounced 'sine'.",
-    "image": "/images/level10/sign.webp"
+    "image": "/images/level10/sign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-355",
@@ -6287,7 +6995,9 @@
     ],
     "example": "She created a new design for the poster.",
     "hint": "Silent G at the end — pronounced 'de-zine'.",
-    "image": "/images/level10/design.webp"
+    "image": "/images/level10/design.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-356",
@@ -6304,7 +7014,9 @@
     ],
     "example": "The school ran a recycling campaign.",
     "hint": "Silent G at the end — pronounced 'cam-pain'.",
-    "image": "/images/level10/campaign.webp"
+    "image": "/images/level10/campaign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-357",
@@ -6320,7 +7032,9 @@
     ],
     "example": "A gnat buzzed near his ear.",
     "hint": "Silent G at the start — pronounced 'nat'.",
-    "image": "/images/level10/gnat.webp"
+    "image": "/images/level10/gnat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-358",
@@ -6336,7 +7050,9 @@
     ],
     "example": "The dog began to gnaw on the bone.",
     "hint": "Silent G at the start — pronounced 'naw'.",
-    "image": "/images/level10/gnaw.webp"
+    "image": "/images/level10/gnaw.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-359",
@@ -6353,7 +7069,9 @@
     ],
     "example": "The manager decided to resign.",
     "hint": "Silent G at the end — pronounced 're-zine'.",
-    "image": "/images/level10/resign.webp"
+    "image": "/images/level10/resign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-360",
@@ -6370,7 +7088,9 @@
     ],
     "example": "The teacher will assign new homework.",
     "hint": "Silent G at the end — pronounced 'a-sine'.",
-    "image": "/images/level10/assign.webp"
+    "image": "/images/level10/assign.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-361",
@@ -6387,7 +7107,9 @@
     ],
     "example": "They celebrated with a glass of champagne.",
     "hint": "Silent G in 'pagne' — pronounced 'sham-pain'.",
-    "image": "/images/level10/champagne.webp"
+    "image": "/images/level10/champagne.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-362",
@@ -6404,7 +7126,9 @@
     ],
     "example": "He wore a fresh cologne to the party.",
     "hint": "Silent G in 'logne' — pronounced 'co-loan'.",
-    "image": "/images/level10/cologne.webp"
+    "image": "/images/level10/cologne.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-363",
@@ -6420,7 +7144,9 @@
     ],
     "example": "The old tree had a thick gnarl in its trunk.",
     "hint": "Silent G at the start — pronounced 'narl'.",
-    "image": "/images/level10/gnarl.webp"
+    "image": "/images/level10/gnarl.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-364",
@@ -6436,7 +7162,9 @@
     ],
     "example": "He began to gnash his teeth in anger.",
     "hint": "Silent G at the start — pronounced 'nash'.",
-    "image": "/images/level10/gnash.webp"
+    "image": "/images/level10/gnash.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-365",
@@ -6452,7 +7180,9 @@
     ],
     "example": "She ate half of the sandwich.",
     "hint": "Silent L in the middle — pronounced 'haf'.",
-    "image": "/images/level10/half.webp"
+    "image": "/images/level10/half.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-366",
@@ -6469,7 +7199,9 @@
     ],
     "example": "The early morning walker waved hello.",
     "hint": "Silent L in 'walk' — pronounced 'wawk-er'.",
-    "image": "/images/level10/walker.webp"
+    "image": "/images/level10/walker.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-367",
@@ -6486,7 +7218,9 @@
     ],
     "example": "The medicine had a chalky taste.",
     "hint": "Silent L in 'chalk' — pronounced 'chawk-y'.",
-    "image": "/images/level10/chalky.webp"
+    "image": "/images/level10/chalky.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-368",
@@ -6503,7 +7237,9 @@
     ],
     "example": "A sense of calmness filled the room.",
     "hint": "Silent L in 'calm' — pronounced 'cahm-ness'.",
-    "image": "/images/level10/calmness.webp"
+    "image": "/images/level10/calmness.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-369",
@@ -6520,7 +7256,9 @@
     ],
     "example": "The old tale is part of local folklore.",
     "hint": "Silent L in 'folk' — pronounced 'foke-lore'.",
-    "image": "/images/level10/folklore.webp"
+    "image": "/images/level10/folklore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-370",
@@ -6536,7 +7274,9 @@
     ],
     "example": "He held the coin in his palm.",
     "hint": "Silent L in the middle — pronounced 'pahm'.",
-    "image": "/images/level10/palm.webp"
+    "image": "/images/level10/palm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-371",
@@ -6552,7 +7292,9 @@
     ],
     "example": "They enjoyed listening to folk music.",
     "hint": "Silent L in the middle — pronounced 'foke'.",
-    "image": "/images/level10/folk.webp"
+    "image": "/images/level10/folk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-372",
@@ -6570,7 +7312,9 @@
     ],
     "example": "She was curious to learn about palmistry.",
     "hint": "Silent L in 'palm' — pronounced 'pahm-is-try'.",
-    "image": "/images/level10/palmistry.webp"
+    "image": "/images/level10/palmistry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-373",
@@ -6586,7 +7330,9 @@
     ],
     "example": "She could swim before she could walk.",
     "hint": "Silent L in the middle — pronounced 'cood'.",
-    "image": "/images/level10/could.webp"
+    "image": "/images/level10/could.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-374",
@@ -6602,7 +7348,9 @@
     ],
     "example": "You should finish your homework first.",
     "hint": "Silent L in the middle — pronounced 'shood'.",
-    "image": "/images/level10/should.webp"
+    "image": "/images/level10/should.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-375",
@@ -6619,7 +7367,9 @@
     ],
     "example": "We had grilled salmon for dinner.",
     "hint": "Silent L in the middle — pronounced 'sam-un'.",
-    "image": "/images/level10/salmon.webp"
+    "image": "/images/level10/salmon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-376",
@@ -6637,7 +7387,9 @@
     ],
     "example": "My little cousin is very talkative.",
     "hint": "Silent L in 'talk' — pronounced 'tawk-a-tiv'.",
-    "image": "/images/level10/talkative.webp"
+    "image": "/images/level10/talkative.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-377",
@@ -6654,7 +7406,9 @@
     ],
     "example": "The old castle stood on the hill.",
     "hint": "Silent T in the middle — pronounced 'cassel'.",
-    "image": "/images/level10/castle.webp"
+    "image": "/images/level10/castle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-378",
@@ -6672,7 +7426,9 @@
     ],
     "example": "The radio host thanked every listener.",
     "hint": "Silent T in 'listen' — pronounced 'lissen-er'.",
-    "image": "/images/level10/listener.webp"
+    "image": "/images/level10/listener.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-379",
@@ -6689,7 +7445,9 @@
     ],
     "example": "He walked home whistling a tune.",
     "hint": "Silent T in 'whistle' — pronounced 'wissel-ing'.",
-    "image": "/images/level10/whistling.webp"
+    "image": "/images/level10/whistling.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-380",
@@ -6706,7 +7464,9 @@
     ],
     "example": "We had to hustle to catch the train.",
     "hint": "Silent T in the middle — pronounced 'hussel'.",
-    "image": "/images/level10/hustle.webp"
+    "image": "/images/level10/hustle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-381",
@@ -6723,7 +7483,9 @@
     ],
     "example": "The market was full of hustle and bustle.",
     "hint": "Silent T in the middle — pronounced 'bussel'.",
-    "image": "/images/level10/bustle.webp"
+    "image": "/images/level10/bustle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-382",
@@ -6740,7 +7502,9 @@
     ],
     "example": "The dew made the grass glisten.",
     "hint": "Silent T in the middle — pronounced 'glissen'.",
-    "image": "/images/level10/glisten.webp"
+    "image": "/images/level10/glisten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-383",
@@ -6757,7 +7521,9 @@
     ],
     "example": "Please fasten your seatbelt.",
     "hint": "Silent T in the middle — pronounced 'fassen'.",
-    "image": "/images/level10/fasten.webp"
+    "image": "/images/level10/fasten.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-384",
@@ -6774,7 +7540,9 @@
     ],
     "example": "Warm water will soften the clay.",
     "hint": "Silent T in the middle — pronounced 'soffen'.",
-    "image": "/images/level10/soften.webp"
+    "image": "/images/level10/soften.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-385",
@@ -6791,7 +7559,9 @@
     ],
     "example": "We often walk to school together.",
     "hint": "Silent T in the middle — pronounced 'offen'.",
-    "image": "/images/level10/often.webp"
+    "image": "/images/level10/often.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-386",
@@ -6809,7 +7579,9 @@
     ],
     "example": "The bag has a metal fastener.",
     "hint": "Silent T in 'fasten' — pronounced 'fassen-er'.",
-    "image": "/images/level10/fastener.webp"
+    "image": "/images/level10/fastener.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-387",
@@ -6826,7 +7598,9 @@
     ],
     "example": "A thistle grew beside the old fence.",
     "hint": "Silent T in the middle — pronounced 'thissel'.",
-    "image": "/images/level10/thistle.webp"
+    "image": "/images/level10/thistle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-388",
@@ -6843,7 +7617,9 @@
     ],
     "example": "The wind made the leaves rustle.",
     "hint": "Silent T in the middle — pronounced 'russel'.",
-    "image": "/images/level10/rustle.webp"
+    "image": "/images/level10/rustle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-389",
@@ -6860,7 +7636,9 @@
     ],
     "example": "She drank a cup of herbal tea.",
     "hint": "Silent H in 'herb' — pronounced 'urb-al'.",
-    "image": "/images/level10/herbal.webp"
+    "image": "/images/level10/herbal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-390",
@@ -6877,7 +7655,9 @@
     ],
     "example": "A ghostly figure appeared in the mist.",
     "hint": "Silent H after G — pronounced 'gost-ly'.",
-    "image": "/images/level10/ghostly.webp"
+    "image": "/images/level10/ghostly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-391",
@@ -6894,7 +7674,9 @@
     ],
     "example": "It was an honor to meet the mayor.",
     "hint": "Silent H at the start — pronounced 'on-or'.",
-    "image": "/images/level10/honor.webp"
+    "image": "/images/level10/honor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-392",
@@ -6910,7 +7692,9 @@
     ],
     "example": "The prince is the heir to the throne.",
     "hint": "Silent H at the start — pronounced 'air'.",
-    "image": "/images/level10/heir.webp"
+    "image": "/images/level10/heir.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-393",
@@ -6926,7 +7710,9 @@
     ],
     "example": "She grows fresh herb in her garden.",
     "hint": "Silent H at the start — pronounced 'urb'.",
-    "image": "/images/level10/herb.webp"
+    "image": "/images/level10/herb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-394",
@@ -6942,7 +7728,9 @@
     ],
     "example": "The old house was said to have a ghost.",
     "hint": "Silent H after G — pronounced 'gost'.",
-    "image": "/images/level10/ghost.webp"
+    "image": "/images/level10/ghost.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-395",
@@ -6961,7 +7749,9 @@
     ],
     "example": "The sign warned of heavy vehicular traffic.",
     "hint": "Silent H in 'vehicle' — pronounced 'vee-hic-u-lar'.",
-    "image": "/images/level10/vehicular.webp"
+    "image": "/images/level10/vehicular.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-396",
@@ -6978,7 +7768,9 @@
     ],
     "example": "She took a deep breath and began to exhale.",
     "hint": "Silent H in the middle — pronounced 'ex-hale'.",
-    "image": "/images/level10/exhale.webp"
+    "image": "/images/level10/exhale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-397",
@@ -6996,7 +7788,9 @@
     ],
     "example": "She honestly answered every question.",
     "hint": "Silent H in 'honest' — pronounced 'on-est-ly'.",
-    "image": "/images/level10/honestly.webp"
+    "image": "/images/level10/honestly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-398",
@@ -7014,7 +7808,9 @@
     ],
     "example": "The vehicle drove slowly down the street.",
     "hint": "Silent H in the middle — pronounced 'vee-i-cle'.",
-    "image": "/images/level10/vehicle.webp"
+    "image": "/images/level10/vehicle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-399",
@@ -7031,7 +7827,9 @@
     ],
     "example": "He checked his phone hourly.",
     "hint": "Silent H at the start of 'hour' — pronounced 'our-ly'.",
-    "image": "/images/level10/hourly.webp"
+    "image": "/images/level10/hourly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl10-400",
@@ -7050,6 +7848,8 @@
     ],
     "example": "She received an honorary degree.",
     "hint": "Silent H at the start of 'honor' — pronounced 'on-er-ary'.",
-    "image": "/images/level10/honorary.webp"
+    "image": "/images/level10/honorary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

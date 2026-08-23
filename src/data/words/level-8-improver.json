@@ -14,7 +14,9 @@
     ],
     "example": "Put the box over there.",
     "hint": "Points to a place — not \"their\" (belonging to them) or \"they're\" (they are).",
-    "image": "/images/level8/there.webp"
+    "image": "/images/level8/there.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-002",
@@ -30,7 +32,9 @@
     ],
     "example": "That is their house.",
     "hint": "Shows ownership — not \"there\" (a place) or \"they're\" (they are).",
-    "image": "/images/level8/their.webp"
+    "image": "/images/level8/their.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-003",
@@ -47,7 +51,9 @@
     ],
     "example": "They're coming to the party.",
     "hint": "Short for \"they are\" — not \"there\" (a place) or \"their\" (ownership).",
-    "image": "/images/level8/theyre.webp"
+    "image": "/images/level8/theyre.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-004",
@@ -63,7 +69,9 @@
     ],
     "example": "I want to come too.",
     "hint": "Means \"also\" — has an extra O, not \"to\" (toward).",
-    "image": "/images/level8/too.webp"
+    "image": "/images/level8/too.webp",
+    "partOfSpeech": "adverb",
+    "origin": "English"
   },
   {
     "id": "lvl8-005",
@@ -79,7 +87,9 @@
     ],
     "example": "The dog wagged its tail.",
     "hint": "Shows ownership — no apostrophe, not \"it's\" (it is).",
-    "image": "/images/level8/its.webp"
+    "image": "/images/level8/its.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-006",
@@ -95,7 +105,9 @@
     ],
     "example": "It's raining outside.",
     "hint": "Short for \"it is\" — has an apostrophe, not \"its\" (ownership).",
-    "image": "/images/level8/its.webp"
+    "image": "/images/level8/its.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-007",
@@ -111,7 +123,9 @@
     ],
     "example": "Is this your bag?",
     "hint": "Shows ownership — not \"you're\" (you are).",
-    "image": "/images/level8/your.webp"
+    "image": "/images/level8/your.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-008",
@@ -128,7 +142,9 @@
     ],
     "example": "You're my best friend.",
     "hint": "Short for \"you are\" — not \"your\" (ownership).",
-    "image": "/images/level8/youre.webp"
+    "image": "/images/level8/youre.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-009",
@@ -145,7 +161,9 @@
     ],
     "example": "The rain will affect the game.",
     "hint": "A verb meaning to influence — not \"effect\" (the result, a noun).",
-    "image": "/images/level8/affect.webp"
+    "image": "/images/level8/affect.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-010",
@@ -162,7 +180,9 @@
     ],
     "example": "The medicine had a good effect.",
     "hint": "A noun meaning a result — not \"affect\" (to influence, a verb).",
-    "image": "/images/level8/effect.webp"
+    "image": "/images/level8/effect.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-011",
@@ -179,7 +199,9 @@
     ],
     "example": "I accept your invitation.",
     "hint": "Means to agree/take — not \"except\" (leaving something out).",
-    "image": "/images/level8/accept.webp"
+    "image": "/images/level8/accept.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-012",
@@ -195,7 +217,9 @@
     ],
     "example": "She is taller than me.",
     "hint": "Used for comparison — not \"then\" (referring to time).",
-    "image": "/images/level8/than.webp"
+    "image": "/images/level8/than.webp",
+    "partOfSpeech": "adverb",
+    "origin": "English"
   },
   {
     "id": "lvl8-013",
@@ -212,7 +236,9 @@
     ],
     "example": "The weather is sunny today.",
     "hint": "Talks about rain/sun/wind — not \"whether\" (if).",
-    "image": "/images/level8/weather.webp"
+    "image": "/images/level8/weather.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-014",
@@ -229,7 +255,9 @@
     ],
     "example": "I don't know whether to go.",
     "hint": "Means \"if\" when choosing — not \"weather\" (sun/rain).",
-    "image": "/images/level8/whether.webp"
+    "image": "/images/level8/whether.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-015",
@@ -247,7 +275,9 @@
     ],
     "example": "The principal gave a speech.",
     "hint": "The school's leader — remember, the principal is your \"pal\".",
-    "image": "/images/level8/principal.webp"
+    "image": "/images/level8/principal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-016",
@@ -265,7 +295,9 @@
     ],
     "example": "Honesty is an important principle.",
     "hint": "A rule you believe in — ends in -le, not -pal like \"principal\".",
-    "image": "/images/level8/principle.webp"
+    "image": "/images/level8/principle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-017",
@@ -283,7 +315,9 @@
     ],
     "example": "The car remained stationary.",
     "hint": "Means \"not moving\" — has an A, like \"stAy\" in place.",
-    "image": "/images/level8/stationary.webp"
+    "image": "/images/level8/stationary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-018",
@@ -301,7 +335,9 @@
     ],
     "example": "She bought new stationery.",
     "hint": "Means paper/pens — has an E, like \"lEtter\".",
-    "image": "/images/level8/stationery.webp"
+    "image": "/images/level8/stationery.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-019",
@@ -319,7 +355,9 @@
     ],
     "example": "The scarf is a nice complement to the coat.",
     "hint": "Means \"completes\" — has an E, like \"complEte\".",
-    "image": "/images/level8/complement.webp"
+    "image": "/images/level8/complement.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-020",
@@ -337,7 +375,9 @@
     ],
     "example": "She gave me a nice compliment.",
     "hint": "Means \"praise\" — has an I, like \"I like it\".",
-    "image": "/images/level8/compliment.webp"
+    "image": "/images/level8/compliment.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-021",
@@ -354,7 +394,9 @@
     ],
     "example": "We had ice cream for dessert.",
     "hint": "The sweet treat — has double S, so sweet you want it twice.",
-    "image": "/images/level8/dessert.webp"
+    "image": "/images/level8/dessert.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-022",
@@ -371,7 +413,9 @@
     ],
     "example": "Don't lose your keys.",
     "hint": "To misplace or fail to win — one O, sounds like \"looz\".",
-    "image": "/images/level8/lose.webp"
+    "image": "/images/level8/lose.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-023",
@@ -388,7 +432,9 @@
     ],
     "example": "This shirt is too loose.",
     "hint": "Means \"not tight\" — double O, like a goose on the loose.",
-    "image": "/images/level8/loose.webp"
+    "image": "/images/level8/loose.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-024",
@@ -404,7 +450,9 @@
     ],
     "example": "Take a deep breath.",
     "hint": "A noun — the air itself, short vowel sound.",
-    "image": "/images/level8/breath.webp"
+    "image": "/images/level8/breath.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-025",
@@ -421,7 +469,9 @@
     ],
     "example": "Remember to breathe slowly.",
     "hint": "A verb — the action, with a silent E and long vowel sound.",
-    "image": "/images/level8/breathe.webp"
+    "image": "/images/level8/breathe.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-026",
@@ -438,7 +488,9 @@
     ],
     "example": "I am quite tired today.",
     "hint": "Means \"very\" or \"completely\" — one syllable, ends in E.",
-    "image": "/images/level8/quite.webp"
+    "image": "/images/level8/quite.webp",
+    "partOfSpeech": "adverb",
+    "origin": "English"
   },
   {
     "id": "lvl8-027",
@@ -454,7 +506,9 @@
     ],
     "example": "He decided to quit the game.",
     "hint": "Means \"to stop\" — short word, no extra letters.",
-    "image": "/images/level8/quit.webp"
+    "image": "/images/level8/quit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-028",
@@ -470,7 +524,9 @@
     ],
     "example": "We walked through the park.",
     "hint": "Means \"from one side to the other\" — tricky silent letters, ends in -ough.",
-    "image": "/images/level8/through.webp"
+    "image": "/images/level8/through.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-029",
@@ -487,7 +543,9 @@
     ],
     "example": "She did a thorough job cleaning.",
     "hint": "Means \"very careful/complete\" — has an extra O compared to \"through\".",
-    "image": "/images/level8/thorough.webp"
+    "image": "/images/level8/thorough.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-030",
@@ -503,7 +561,9 @@
     ],
     "example": "Though it rained, we went out.",
     "hint": "Means \"although\" — rhymes with \"go\", not \"through\".",
-    "image": "/images/level8/though.webp"
+    "image": "/images/level8/though.webp",
+    "partOfSpeech": "adverb",
+    "origin": "English"
   },
   {
     "id": "lvl8-031",
@@ -519,7 +579,9 @@
     ],
     "example": "He threw the ball far.",
     "hint": "Past tense of \"throw\" — sounds like \"through\" but means an action.",
-    "image": "/images/level8/threw.webp"
+    "image": "/images/level8/threw.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-032",
@@ -536,7 +598,9 @@
     ],
     "example": "Where are you going?",
     "hint": "Asks about a place — rhymes with \"wear\" and \"were\".",
-    "image": "/images/level8/where.webp"
+    "image": "/images/level8/where.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-033",
@@ -553,7 +617,9 @@
     ],
     "example": "They were happy yesterday.",
     "hint": "Past tense of \"are\" — spelled with two E's, not like \"wear\".",
-    "image": "/images/level8/were.webp"
+    "image": "/images/level8/were.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-034",
@@ -570,7 +636,9 @@
     ],
     "example": "Come here, please.",
     "hint": "Means \"this place\" — contains the word \"ear\", you hear here.",
-    "image": "/images/level8/here.webp"
+    "image": "/images/level8/here.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-035",
@@ -586,7 +654,9 @@
     ],
     "example": "Can you hear the music?",
     "hint": "Means to notice sound — contains \"ear\", the body part you hear with.",
-    "image": "/images/level8/hear.webp"
+    "image": "/images/level8/hear.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-036",
@@ -603,7 +673,9 @@
     ],
     "example": "The two countries made peace.",
     "hint": "Means \"calm, no war\" — ends in -ace like \"grace\".",
-    "image": "/images/level8/peace.webp"
+    "image": "/images/level8/peace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-037",
@@ -620,7 +692,9 @@
     ],
     "example": "He ate the whole pizza.",
     "hint": "Means \"entire\" — starts with a silent W.",
-    "image": "/images/level8/whole.webp"
+    "image": "/images/level8/whole.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-038",
@@ -637,7 +711,9 @@
     ],
     "example": "The dog dug a hole.",
     "hint": "Means \"an opening\" — no silent letter, just h-o-l-e.",
-    "image": "/images/level8/hole.webp"
+    "image": "/images/level8/hole.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-039",
@@ -654,7 +730,9 @@
     ],
     "example": "It was an ancient rite.",
     "hint": "Means \"a ceremony\" — short and simple, r-i-t-e.",
-    "image": "/images/level8/rite.webp"
+    "image": "/images/level8/rite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-040",
@@ -670,7 +748,9 @@
     ],
     "example": "We use flour to bake bread.",
     "hint": "The baking powder — contains \"our\", as in \"our bread\".",
-    "image": "/images/level8/flour.webp"
+    "image": "/images/level8/flour.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-041",
@@ -687,7 +767,9 @@
     ],
     "example": "She made a cake.",
     "hint": "Past tense of \"make\" — silent E makes the A long.",
-    "image": "/images/level8/made.webp"
+    "image": "/images/level8/made.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-042",
@@ -703,7 +785,9 @@
     ],
     "example": "The maid cleaned the house.",
     "hint": "A household helper — has an \"ai\" spelling.",
-    "image": "/images/level8/maid.webp"
+    "image": "/images/level8/maid.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-043",
@@ -719,7 +803,9 @@
     ],
     "example": "I bought a pair of shoes.",
     "hint": "Means \"a set of two\" — contains \"air\", like a pair floats together.",
-    "image": "/images/level8/pair.webp"
+    "image": "/images/level8/pair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-044",
@@ -735,7 +821,9 @@
     ],
     "example": "She ate a ripe pear.",
     "hint": "The fruit — starts with \"pea\", like the vegetable.",
-    "image": "/images/level8/pear.webp"
+    "image": "/images/level8/pear.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-045",
@@ -752,7 +840,9 @@
     ],
     "example": "Pare the apple before eating.",
     "hint": "Means \"to peel\" — short word ending in silent E.",
-    "image": "/images/level8/pare.webp"
+    "image": "/images/level8/pare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-046",
@@ -768,7 +858,9 @@
     ],
     "example": "She wore a plain dress.",
     "hint": "Means \"simple\" — ends in -ain like \"rain\".",
-    "image": "/images/level8/plain.webp"
+    "image": "/images/level8/plain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-047",
@@ -784,7 +876,9 @@
     ],
     "example": "She pulled the horse's rein.",
     "hint": "The strap for a horse — ends in -ein, not -ain.",
-    "image": "/images/level8/rein.webp"
+    "image": "/images/level8/rein.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-048",
@@ -801,7 +895,9 @@
     ],
     "example": "She rode her bike to school.",
     "hint": "Past tense of \"ride\" — silent E after D makes the O long.",
-    "image": "/images/level8/rode.webp"
+    "image": "/images/level8/rode.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-049",
@@ -818,7 +914,9 @@
     ],
     "example": "He rowed the boat across the lake.",
     "hint": "Past tense of \"row\" — the boat-paddling action, plus -ed.",
-    "image": "/images/level8/rowed.webp"
+    "image": "/images/level8/rowed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-050",
@@ -834,7 +932,9 @@
     ],
     "example": "The boat had a white sail.",
     "hint": "The cloth on a boat — ends in -ail like \"tail\".",
-    "image": "/images/level8/sail.webp"
+    "image": "/images/level8/sail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-051",
@@ -851,7 +951,9 @@
     ],
     "example": "The store had a big sale.",
     "hint": "Means \"selling event\" — ends in silent E.",
-    "image": "/images/level8/sale.webp"
+    "image": "/images/level8/sale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-052",
@@ -867,7 +969,9 @@
     ],
     "example": "The eagle began to soar.",
     "hint": "Means \"to fly high\" — contains \"oar\", like paddling through the sky.",
-    "image": "/images/level8/soar.webp"
+    "image": "/images/level8/soar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-053",
@@ -884,7 +988,9 @@
     ],
     "example": "My leg feels sore.",
     "hint": "Means \"painful\" — short word ending in silent E.",
-    "image": "/images/level8/sore.webp"
+    "image": "/images/level8/sore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-054",
@@ -900,7 +1006,9 @@
     ],
     "example": "She sat on the top stair.",
     "hint": "A step you climb — ends in -air.",
-    "image": "/images/level8/stair.webp"
+    "image": "/images/level8/stair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-055",
@@ -916,7 +1024,9 @@
     ],
     "example": "Do not steal from others.",
     "hint": "Means \"to take illegally\" — has \"ea\", like a sneaky thief.",
-    "image": "/images/level8/steal.webp"
+    "image": "/images/level8/steal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-056",
@@ -932,7 +1042,9 @@
     ],
     "example": "The bridge is made of steel.",
     "hint": "The strong metal — has double E.",
-    "image": "/images/level8/steel.webp"
+    "image": "/images/level8/steel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-057",
@@ -948,7 +1060,9 @@
     ],
     "example": "The dog wagged its tail.",
     "hint": "An animal's back part — ends in -ail.",
-    "image": "/images/level8/tail.webp"
+    "image": "/images/level8/tail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-058",
@@ -965,7 +1079,9 @@
     ],
     "example": "She told a bedtime tale.",
     "hint": "Means \"a story\" — ends in silent E.",
-    "image": "/images/level8/tale.webp"
+    "image": "/images/level8/tale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-059",
@@ -981,7 +1097,9 @@
     ],
     "example": "She tied a belt around her waist.",
     "hint": "The body part — contains \"ai\", like the middle of your body.",
-    "image": "/images/level8/waist.webp"
+    "image": "/images/level8/waist.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-060",
@@ -998,7 +1116,9 @@
     ],
     "example": "Don't waste your food.",
     "hint": "Means \"to use carelessly\" — ends in silent E.",
-    "image": "/images/level8/waste.webp"
+    "image": "/images/level8/waste.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-061",
@@ -1014,7 +1134,9 @@
     ],
     "example": "Please wait for me.",
     "hint": "Means \"to stay and expect\" — ends in -ait.",
-    "image": "/images/level8/wait.webp"
+    "image": "/images/level8/wait.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-062",
@@ -1030,7 +1152,9 @@
     ],
     "example": "Check the weight of the box.",
     "hint": "Means \"heaviness\" — has a silent GH.",
-    "image": "/images/level8/weight.webp"
+    "image": "/images/level8/weight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-063",
@@ -1046,7 +1170,9 @@
     ],
     "example": "Which color do you like?",
     "hint": "Asks about a choice — starts with WH like other question words.",
-    "image": "/images/level8/which.webp"
+    "image": "/images/level8/which.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-064",
@@ -1062,7 +1188,9 @@
     ],
     "example": "The witch wore a black hat.",
     "hint": "The magical woman — starts with a plain W.",
-    "image": "/images/level8/witch.webp"
+    "image": "/images/level8/witch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-065",
@@ -1078,7 +1206,9 @@
     ],
     "example": "The chair is made of wood.",
     "hint": "The material from trees — double O, short sound.",
-    "image": "/images/level8/wood.webp"
+    "image": "/images/level8/wood.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-066",
@@ -1094,7 +1224,9 @@
     ],
     "example": "I would like some tea.",
     "hint": "A helping verb for polite requests — has a silent L.",
-    "image": "/images/level8/would.webp"
+    "image": "/images/level8/would.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-067",
@@ -1112,7 +1244,9 @@
     ],
     "example": "Photos are not allowed here.",
     "hint": "Means \"permitted\" — related to the word \"allow\".",
-    "image": "/images/level8/allowed.webp"
+    "image": "/images/level8/allowed.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-068",
@@ -1129,7 +1263,9 @@
     ],
     "example": "Please read the story aloud.",
     "hint": "Means \"out loud\" — related to the word \"loud\".",
-    "image": "/images/level8/aloud.webp"
+    "image": "/images/level8/aloud.webp",
+    "partOfSpeech": "adjective",
+    "origin": "English"
   },
   {
     "id": "lvl8-069",
@@ -1145,7 +1281,9 @@
     ],
     "example": "She picked a red berry.",
     "hint": "The small fruit — ends in -erry, like \"cherry\".",
-    "image": "/images/level8/berry.webp"
+    "image": "/images/level8/berry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-070",
@@ -1161,7 +1299,9 @@
     ],
     "example": "The dog will bury the bone.",
     "hint": "Means \"to put underground\" — spelled with a U, sounds like \"berry\".",
-    "image": "/images/level8/bury.webp"
+    "image": "/images/level8/bury.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-071",
@@ -1177,7 +1317,9 @@
     ],
     "example": "Write your name on the board.",
     "hint": "A flat wooden panel — contains \"boar\".",
-    "image": "/images/level8/board.webp"
+    "image": "/images/level8/board.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-072",
@@ -1194,7 +1336,9 @@
     ],
     "example": "I was bored during the long trip.",
     "hint": "Means \"uninterested\" — comes from the verb \"bore\", plus -ed.",
-    "image": "/images/level8/bored.webp"
+    "image": "/images/level8/bored.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-073",
@@ -1210,7 +1354,9 @@
     ],
     "example": "A body is made of many cells.",
     "hint": "A tiny unit or room — double L.",
-    "image": "/images/level8/cell.webp"
+    "image": "/images/level8/cell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-074",
@@ -1226,7 +1372,9 @@
     ],
     "example": "The candy costs one cent.",
     "hint": "A coin unit — related to \"century\" (100).",
-    "image": "/images/level8/cent.webp"
+    "image": "/images/level8/cent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-075",
@@ -1242,7 +1390,9 @@
     ],
     "example": "The flower has a sweet scent.",
     "hint": "Means \"a smell\" — has a silent C at the start.",
-    "image": "/images/level8/scent.webp"
+    "image": "/images/level8/scent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-076",
@@ -1258,7 +1408,9 @@
     ],
     "example": "She sent a letter to her friend.",
     "hint": "Past tense of \"send\" — simple spelling, no silent letters.",
-    "image": "/images/level8/sent.webp"
+    "image": "/images/level8/sent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-077",
@@ -1274,7 +1426,9 @@
     ],
     "example": "The dog chews its bone.",
     "hint": "Means \"bites repeatedly\" — from the verb \"chew\".",
-    "image": "/images/level8/chews.webp"
+    "image": "/images/level8/chews.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-078",
@@ -1291,7 +1445,9 @@
     ],
     "example": "Choose your favorite color.",
     "hint": "Means \"to select\" — double O, ends in -oose.",
-    "image": "/images/level8/choose.webp"
+    "image": "/images/level8/choose.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-079",
@@ -1308,7 +1464,9 @@
     ],
     "example": "The sand felt coarse.",
     "hint": "Means \"rough\" — contains the word \"ear\" (c-o-a-r-s-e).",
-    "image": "/images/level8/coarse.webp"
+    "image": "/images/level8/coarse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-080",
@@ -1325,7 +1483,9 @@
     ],
     "example": "She is taking a math course.",
     "hint": "Means \"a path or class\" — no A after the C.",
-    "image": "/images/level8/course.webp"
+    "image": "/images/level8/course.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-081",
@@ -1342,7 +1502,9 @@
     ],
     "example": "The city council met today.",
     "hint": "A decision-making group — ends in -cil, like \"pencil\".",
-    "image": "/images/level8/council.webp"
+    "image": "/images/level8/council.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-082",
@@ -1359,7 +1521,9 @@
     ],
     "example": "She gave wise counsel.",
     "hint": "Means \"advice\" — ends in -sel, like \"sell advice\".",
-    "image": "/images/level8/counsel.webp"
+    "image": "/images/level8/counsel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-083",
@@ -1375,7 +1539,9 @@
     ],
     "example": "The old door began to creak.",
     "hint": "A squeaky sound — has \"ea\", like the sound machines make.",
-    "image": "/images/level8/creak.webp"
+    "image": "/images/level8/creak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-084",
@@ -1391,7 +1557,9 @@
     ],
     "example": "We waded across the creek.",
     "hint": "A small stream — double E, like flowing water.",
-    "image": "/images/level8/creek.webp"
+    "image": "/images/level8/creek.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-085",
@@ -1407,7 +1575,9 @@
     ],
     "example": "Plants die without water.",
     "hint": "Means \"to stop living\" — three letters, ends in -ie.",
-    "image": "/images/level8/die.webp"
+    "image": "/images/level8/die.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-086",
@@ -1423,7 +1593,9 @@
     ],
     "example": "She used dye to color the fabric.",
     "hint": "Means \"to color something\" — ends in -ye, not -ie.",
-    "image": "/images/level8/dye.webp"
+    "image": "/images/level8/dye.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-087",
@@ -1439,7 +1611,9 @@
     ],
     "example": "The rules were fair to everyone.",
     "hint": "Means \"just\" or a carnival — ends in -air.",
-    "image": "/images/level8/fair.webp"
+    "image": "/images/level8/fair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-088",
@@ -1456,7 +1630,9 @@
     ],
     "example": "The bus fare is two dollars.",
     "hint": "Means \"travel cost\" — ends in silent E.",
-    "image": "/images/level8/fare.webp"
+    "image": "/images/level8/fare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-089",
@@ -1472,7 +1648,9 @@
     ],
     "example": "Climbing the mountain was a great feat.",
     "hint": "Means \"an achievement\" — has \"ea\".",
-    "image": "/images/level8/feat.webp"
+    "image": "/images/level8/feat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-090",
@@ -1488,7 +1666,9 @@
     ],
     "example": "Wash your feet before bed.",
     "hint": "The body part, plural of \"foot\" — double E.",
-    "image": "/images/level8/feet.webp"
+    "image": "/images/level8/feet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-091",
@@ -1504,7 +1684,9 @@
     ],
     "example": "Help me find my keys.",
     "hint": "Means \"to discover\" — present tense, ends in -ind.",
-    "image": "/images/level8/find.webp"
+    "image": "/images/level8/find.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-092",
@@ -1521,7 +1703,9 @@
     ],
     "example": "He was fined for speeding.",
     "hint": "Means \"charged a penalty\" — from the noun \"fine\", plus -ed.",
-    "image": "/images/level8/fined.webp"
+    "image": "/images/level8/fined.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-093",
@@ -1537,7 +1721,9 @@
     ],
     "example": "We decorated a fir tree.",
     "hint": "An evergreen tree — spelled f-i-r, like \"first\".",
-    "image": "/images/level8/fir.webp"
+    "image": "/images/level8/fir.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-094",
@@ -1553,7 +1739,9 @@
     ],
     "example": "The cat has soft fur.",
     "hint": "An animal's soft coat — spelled f-u-r.",
-    "image": "/images/level8/fur.webp"
+    "image": "/images/level8/fur.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-095",
@@ -1569,7 +1757,9 @@
     ],
     "example": "He stayed home with the flu.",
     "hint": "The illness — short for \"influenza\".",
-    "image": "/images/level8/flu.webp"
+    "image": "/images/level8/flu.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-096",
@@ -1585,7 +1775,9 @@
     ],
     "example": "Smoke rose through the flue.",
     "hint": "A smoke pipe — ends in -ue, unlike the illness \"flu\".",
-    "image": "/images/level8/flue.webp"
+    "image": "/images/level8/flue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-097",
@@ -1602,7 +1794,9 @@
     ],
     "example": "He stood at the fore of the ship.",
     "hint": "Means \"at the front\" — like the front (\"fore\") part of a word.",
-    "image": "/images/level8/fore.webp"
+    "image": "/images/level8/fore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-098",
@@ -1618,7 +1812,9 @@
     ],
     "example": "They set forth on their journey.",
     "hint": "Means \"forward\" — related to \"forward\", not a number.",
-    "image": "/images/level8/forth.webp"
+    "image": "/images/level8/forth.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-099",
@@ -1635,7 +1831,9 @@
     ],
     "example": "Grate the cheese for the pizza.",
     "hint": "Means \"to shred\" — ends in silent E.",
-    "image": "/images/level8/grate.webp"
+    "image": "/images/level8/grate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-100",
@@ -1651,7 +1849,9 @@
     ],
     "example": "He let out a groan of pain.",
     "hint": "A pain sound — has \"oa\".",
-    "image": "/images/level8/groan.webp"
+    "image": "/images/level8/groan.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-101",
@@ -1667,7 +1867,9 @@
     ],
     "example": "The plant has grown tall.",
     "hint": "Past participle of \"grow\" — related to \"grow\", plus -n.",
-    "image": "/images/level8/grown.webp"
+    "image": "/images/level8/grown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-102",
@@ -1684,7 +1886,9 @@
     ],
     "example": "I guessed the right answer.",
     "hint": "Past tense of \"guess\" — from \"guess\", plus -ed.",
-    "image": "/images/level8/guessed.webp"
+    "image": "/images/level8/guessed.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-103",
@@ -1700,7 +1904,9 @@
     ],
     "example": "We welcomed our guest warmly.",
     "hint": "A visitor — simple spelling, no double S.",
-    "image": "/images/level8/guest.webp"
+    "image": "/images/level8/guest.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-104",
@@ -1716,7 +1922,9 @@
     ],
     "example": "She has long brown hair.",
     "hint": "The strands on your head — ends in -air.",
-    "image": "/images/level8/hair.webp"
+    "image": "/images/level8/hair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-105",
@@ -1733,7 +1941,9 @@
     ],
     "example": "The hare ran across the field.",
     "hint": "A rabbit-like animal — ends in silent E.",
-    "image": "/images/level8/hare.webp"
+    "image": "/images/level8/hare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-106",
@@ -1749,7 +1959,9 @@
     ],
     "example": "They had to haul the heavy boxes.",
     "hint": "Means \"to pull with effort\" — has \"au\", not double L.",
-    "image": "/images/level8/haul.webp"
+    "image": "/images/level8/haul.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-107",
@@ -1765,7 +1977,9 @@
     ],
     "example": "The wound will heal soon.",
     "hint": "Means \"to get better\" — has \"ea\", related to \"health\".",
-    "image": "/images/level8/heal.webp"
+    "image": "/images/level8/heal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-108",
@@ -1781,7 +1995,9 @@
     ],
     "example": "She hurt her heel while running.",
     "hint": "The back of the foot — double E, like \"feet\".",
-    "image": "/images/level8/heel.webp"
+    "image": "/images/level8/heel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-109",
@@ -1797,7 +2013,9 @@
     ],
     "example": "I heard a strange noise.",
     "hint": "Past tense of \"hear\" — contains \"hear\" plus D.",
-    "image": "/images/level8/heard.webp"
+    "image": "/images/level8/heard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-110",
@@ -1813,7 +2031,9 @@
     ],
     "example": "A herd of cows crossed the road.",
     "hint": "A group of animals — no \"a\", just h-e-r-d.",
-    "image": "/images/level8/herd.webp"
+    "image": "/images/level8/herd.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-111",
@@ -1830,7 +2050,9 @@
     ],
     "example": "The kite flew higher than the tree.",
     "hint": "Comparative of \"high\" — related to the word \"high\".",
-    "image": "/images/level8/higher.webp"
+    "image": "/images/level8/higher.webp",
+    "partOfSpeech": "adjective",
+    "origin": "English"
   },
   {
     "id": "lvl8-112",
@@ -1847,7 +2069,9 @@
     ],
     "example": "The company will hire new staff.",
     "hint": "Means \"to employ\" — shorter word, ends in silent E.",
-    "image": "/images/level8/hire.webp"
+    "image": "/images/level8/hire.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-113",
@@ -1864,7 +2088,9 @@
     ],
     "example": "His voice was hoarse from shouting.",
     "hint": "A croaky voice — contains \"hoar\", think of a rough throat.",
-    "image": "/images/level8/hoarse.webp"
+    "image": "/images/level8/hoarse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-114",
@@ -1880,7 +2106,9 @@
     ],
     "example": "We waited for an hour.",
     "hint": "Sixty minutes — starts with a silent H.",
-    "image": "/images/level8/hour.webp"
+    "image": "/images/level8/hour.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-115",
@@ -1897,7 +2125,9 @@
     ],
     "example": "The machine sat idle all day.",
     "hint": "Means \"not active\" — ends in -dle, related to \"idling\".",
-    "image": "/images/level8/idle.webp"
+    "image": "/images/level8/idle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-116",
@@ -1914,7 +2144,9 @@
     ],
     "example": "The singer is a pop idol.",
     "hint": "Means \"someone admired\" — ends in -ol, like \"adore\".",
-    "image": "/images/level8/idol.webp"
+    "image": "/images/level8/idol.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-117",
@@ -1930,7 +2162,9 @@
     ],
     "example": "There is a leak in the pipe.",
     "hint": "A hole letting liquid escape — has \"ea\".",
-    "image": "/images/level8/leak.webp"
+    "image": "/images/level8/leak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-118",
@@ -1946,7 +2180,9 @@
     ],
     "example": "She added leek to the soup.",
     "hint": "The vegetable — double E, like other veggies \"peas\" and \"beans\".",
-    "image": "/images/level8/leek.webp"
+    "image": "/images/level8/leek.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-119",
@@ -1963,7 +2199,9 @@
     ],
     "example": "This medicine will lessen the pain.",
     "hint": "Means \"to reduce\" — related to the word \"less\".",
-    "image": "/images/level8/lessen.webp"
+    "image": "/images/level8/lessen.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-120",
@@ -1980,7 +2218,9 @@
     ],
     "example": "We had a math lesson today.",
     "hint": "A learning class — related to the word \"lesson plan\".",
-    "image": "/images/level8/lesson.webp"
+    "image": "/images/level8/lesson.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-121",
@@ -1997,7 +2237,9 @@
     ],
     "example": "The lion shook its mane.",
     "hint": "An animal's neck hair — ends in silent E.",
-    "image": "/images/level8/mane.webp"
+    "image": "/images/level8/mane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-122",
@@ -2013,7 +2255,9 @@
     ],
     "example": "This is the main road.",
     "hint": "Means \"most important\" — ends in -ain, like the main event.",
-    "image": "/images/level8/main.webp"
+    "image": "/images/level8/main.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-123",
@@ -2029,7 +2273,9 @@
     ],
     "example": "Let's meet at the park.",
     "hint": "Means \"to come together\" — double E, like people meeting eye to eye.",
-    "image": "/images/level8/meet.webp"
+    "image": "/images/level8/meet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-124",
@@ -2046,7 +2292,9 @@
     ],
     "example": "She won a gold medal.",
     "hint": "An award disc — ends in -al, like a medal you \"admire\".",
-    "image": "/images/level8/medal.webp"
+    "image": "/images/level8/medal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-125",
@@ -2063,7 +2311,9 @@
     ],
     "example": "The gate is made of metal.",
     "hint": "The hard material — ends in -al, spelled m-e-t-a-l.",
-    "image": "/images/level8/metal.webp"
+    "image": "/images/level8/metal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-126",
@@ -2080,7 +2330,9 @@
     ],
     "example": "Don't meddle in their business.",
     "hint": "Means \"to interfere\" — double D, like \"middle of others' business\".",
-    "image": "/images/level8/meddle.webp"
+    "image": "/images/level8/meddle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-127",
@@ -2097,7 +2349,9 @@
     ],
     "example": "The miner dug deep underground.",
     "hint": "A person who digs in mines — related to \"mine\".",
-    "image": "/images/level8/miner.webp"
+    "image": "/images/level8/miner.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-128",
@@ -2114,7 +2368,9 @@
     ],
     "example": "It was only a minor problem.",
     "hint": "Means \"less important\" or \"underage\" — spelled with -or, not -er.",
-    "image": "/images/level8/minor.webp"
+    "image": "/images/level8/minor.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-129",
@@ -2131,7 +2387,9 @@
     ],
     "example": "He missed the bus this morning.",
     "hint": "Past tense of \"miss\" — double S, from the verb \"miss\".",
-    "image": "/images/level8/missed.webp"
+    "image": "/images/level8/missed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-130",
@@ -2147,7 +2405,9 @@
     ],
     "example": "Mist covered the hills at dawn.",
     "hint": "A thin fog — single S, m-i-s-t.",
-    "image": "/images/level8/mist.webp"
+    "image": "/images/level8/mist.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-131",
@@ -2164,7 +2424,9 @@
     ],
     "example": "We saw a moose in the forest.",
     "hint": "The large antlered animal — double O, one animal or many.",
-    "image": "/images/level8/moose.webp"
+    "image": "/images/level8/moose.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-132",
@@ -2181,7 +2443,9 @@
     ],
     "example": "She ate chocolate mousse.",
     "hint": "The fluffy dessert — double S, French spelling.",
-    "image": "/images/level8/mousse.webp"
+    "image": "/images/level8/mousse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-133",
@@ -2198,7 +2462,9 @@
     ],
     "example": "The family was mourning their loss.",
     "hint": "Means \"grieving\" — related to \"mourn\", contains \"mourn\".",
-    "image": "/images/level8/mourning.webp"
+    "image": "/images/level8/mourning.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-134",
@@ -2215,7 +2481,9 @@
     ],
     "example": "We ate mussels at the seafood restaurant.",
     "hint": "The shellfish — double S, no silent C.",
-    "image": "/images/level8/mussel.webp"
+    "image": "/images/level8/mussel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-135",
@@ -2232,7 +2500,9 @@
     ],
     "example": "None of the students were late.",
     "hint": "Means \"not any\" — related to \"no\", ends in silent E.",
-    "image": "/images/level8/none.webp"
+    "image": "/images/level8/none.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-136",
@@ -2248,7 +2518,9 @@
     ],
     "example": "The nun prayed every morning.",
     "hint": "A religious woman — short spelling, n-u-n.",
-    "image": "/images/level8/nun.webp"
+    "image": "/images/level8/nun.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-137",
@@ -2264,7 +2536,9 @@
     ],
     "example": "He used an oar to row the boat.",
     "hint": "The rowing pole — three letters, o-a-r.",
-    "image": "/images/level8/oar.webp"
+    "image": "/images/level8/oar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-138",
@@ -2281,7 +2555,9 @@
     ],
     "example": "Miners dug for iron ore.",
     "hint": "Metal-bearing rock — ends in silent E.",
-    "image": "/images/level8/ore.webp"
+    "image": "/images/level8/ore.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-139",
@@ -2299,7 +2575,9 @@
     ],
     "example": "Don't overdo the exercise.",
     "hint": "Means \"to do too much\" — related to \"do\", no extra letters.",
-    "image": "/images/level8/overdo.webp"
+    "image": "/images/level8/overdo.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-140",
@@ -2317,7 +2595,9 @@
     ],
     "example": "The library book is overdue.",
     "hint": "Means \"past due\" — related to \"due\", ends in -due.",
-    "image": "/images/level8/overdue.webp"
+    "image": "/images/level8/overdue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-141",
@@ -2333,7 +2613,9 @@
     ],
     "example": "She felt pain in her leg.",
     "hint": "Physical discomfort — ends in -ain, like \"rain of hurt\".",
-    "image": "/images/level8/pain.webp"
+    "image": "/images/level8/pain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-142",
@@ -2350,7 +2632,9 @@
     ],
     "example": "The pane of glass cracked.",
     "hint": "A sheet of window glass — ends in silent E.",
-    "image": "/images/level8/pane.webp"
+    "image": "/images/level8/pane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-143",
@@ -2367,7 +2651,9 @@
     ],
     "example": "She passed the exam.",
     "hint": "Past tense of the verb \"pass\" — double S, an action.",
-    "image": "/images/level8/passed.webp"
+    "image": "/images/level8/passed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-144",
@@ -2383,7 +2669,9 @@
     ],
     "example": "We talked about the past.",
     "hint": "Means \"time before now\" — a noun/adjective, single S.",
-    "image": "/images/level8/past.webp"
+    "image": "/images/level8/past.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl8-145",
@@ -2401,7 +2689,9 @@
     ],
     "example": "She waited with great patience.",
     "hint": "The ability to wait calmly — ends in -ence, an quality.",
-    "image": "/images/level8/patience.webp"
+    "image": "/images/level8/patience.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-146",
@@ -2418,7 +2708,9 @@
     ],
     "example": "The doctor saw many patients.",
     "hint": "People under medical care — plural, ends in -ents like \"clients\".",
-    "image": "/images/level8/patients.webp"
+    "image": "/images/level8/patients.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-147",
@@ -2434,7 +2726,9 @@
     ],
     "example": "They reached the mountain's peak.",
     "hint": "A mountain top — has \"ea\".",
-    "image": "/images/level8/peak.webp"
+    "image": "/images/level8/peak.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-148",
@@ -2451,7 +2745,9 @@
     ],
     "example": "The mystery piqued her curiosity.",
     "hint": "Means \"to arouse interest\" — French spelling, p-i-q-u-e.",
-    "image": "/images/level8/pique.webp"
+    "image": "/images/level8/pique.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-149",
@@ -2467,7 +2763,9 @@
     ],
     "example": "She ate a ripe plum.",
     "hint": "The purple fruit — short spelling, p-l-u-m.",
-    "image": "/images/level8/plum.webp"
+    "image": "/images/level8/plum.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-150",
@@ -2483,7 +2781,9 @@
     ],
     "example": "The wall was plumb and straight.",
     "hint": "Related to pipes/vertical lines — has a silent B.",
-    "image": "/images/level8/plumb.webp"
+    "image": "/images/level8/plumb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-151",
@@ -2499,7 +2799,9 @@
     ],
     "example": "The lion caught its prey.",
     "hint": "An animal hunted for food — ends in -ey, unlike \"pray\".",
-    "image": "/images/level8/prey.webp"
+    "image": "/images/level8/prey.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-152",
@@ -2516,7 +2818,9 @@
     ],
     "example": "She opened all her presents.",
     "hint": "Gifts, plural — ends in -ents, related to \"a gift\".",
-    "image": "/images/level8/presents.webp"
+    "image": "/images/level8/presents.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-153",
@@ -2533,7 +2837,9 @@
     ],
     "example": "The shop made a good profit.",
     "hint": "Business earnings — related to \"profitable\".",
-    "image": "/images/level8/profit.webp"
+    "image": "/images/level8/profit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-154",
@@ -2550,7 +2856,9 @@
     ],
     "example": "The prophet delivered a message.",
     "hint": "A religious messenger — has a silent PH sound but spelled with PH.",
-    "image": "/images/level8/prophet.webp"
+    "image": "/images/level8/prophet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-155",
@@ -2567,7 +2875,9 @@
     ],
     "example": "Raise your hand to answer.",
     "hint": "Means \"to lift up\" — ends in -aise.",
-    "image": "/images/level8/raise.webp"
+    "image": "/images/level8/raise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-156",
@@ -2583,7 +2893,9 @@
     ],
     "example": "The sun's rays warmed the earth.",
     "hint": "Beams of light — plural of \"ray\", ends in -ays.",
-    "image": "/images/level8/rays.webp"
+    "image": "/images/level8/rays.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-157",
@@ -2599,7 +2911,9 @@
     ],
     "example": "This is a real diamond.",
     "hint": "Means \"genuine\" — related to \"reality\".",
-    "image": "/images/level8/real.webp"
+    "image": "/images/level8/real.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-158",
@@ -2615,7 +2929,9 @@
     ],
     "example": "He wound the fishing reel.",
     "hint": "A spool for winding things — double E.",
-    "image": "/images/level8/reel.webp"
+    "image": "/images/level8/reel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-159",
@@ -2632,7 +2948,9 @@
     ],
     "example": "We took a scenic route home.",
     "hint": "A path or way — has a silent E, French origin.",
-    "image": "/images/level8/route.webp"
+    "image": "/images/level8/route.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-160",
@@ -2649,7 +2967,9 @@
     ],
     "example": "She gave him a red rose.",
     "hint": "A thorny flower, or past tense of \"rise\" — ends in silent E.",
-    "image": "/images/level8/rose.webp"
+    "image": "/images/level8/rose.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-161",
@@ -2665,7 +2985,9 @@
     ],
     "example": "The seats were arranged in rows.",
     "hint": "Lines of things, plural of \"row\" — ends in -ows.",
-    "image": "/images/level8/rows.webp"
+    "image": "/images/level8/rows.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-162",
@@ -2681,7 +3003,9 @@
     ],
     "example": "He climbed each rung of the ladder.",
     "hint": "A ladder step, or past participle of \"ring\" — ends in -ung.",
-    "image": "/images/level8/rung.webp"
+    "image": "/images/level8/rung.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-163",
@@ -2697,7 +3021,9 @@
     ],
     "example": "She wrung out the wet towel.",
     "hint": "Past tense of \"wring\" (to twist) — starts with a silent W.",
-    "image": "/images/level8/wrung.webp"
+    "image": "/images/level8/wrung.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-164",
@@ -2713,7 +3039,9 @@
     ],
     "example": "The seam of the shirt ripped.",
     "hint": "A sewn line — has \"ea\".",
-    "image": "/images/level8/seam.webp"
+    "image": "/images/level8/seam.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-165",
@@ -2729,7 +3057,9 @@
     ],
     "example": "You seem tired today.",
     "hint": "Means \"to appear\" — double E.",
-    "image": "/images/level8/seem.webp"
+    "image": "/images/level8/seem.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-166",
@@ -2745,7 +3075,9 @@
     ],
     "example": "Ships sailed across the seas.",
     "hint": "Bodies of water, plural of \"sea\" — has \"ea\".",
-    "image": "/images/level8/seas.webp"
+    "image": "/images/level8/seas.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-167",
@@ -2761,7 +3093,9 @@
     ],
     "example": "She sees the mountains from her window.",
     "hint": "The verb \"see\" with an S — double E.",
-    "image": "/images/level8/sees.webp"
+    "image": "/images/level8/sees.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-168",
@@ -2778,7 +3112,9 @@
     ],
     "example": "The police seized the stolen goods.",
     "hint": "Means \"to grab suddenly\" — tricky spelling, i before e here.",
-    "image": "/images/level8/seize.webp"
+    "image": "/images/level8/seize.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-169",
@@ -2795,7 +3131,9 @@
     ],
     "example": "He wore a hole in his shoe's sole.",
     "hint": "The bottom of a shoe, or \"only one\" — ends in silent E.",
-    "image": "/images/level8/sole.webp"
+    "image": "/images/level8/sole.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-170",
@@ -2811,7 +3149,9 @@
     ],
     "example": "They believe in the soul's journey.",
     "hint": "The spiritual self — has \"ou\", like \"you're soulful\".",
-    "image": "/images/level8/soul.webp"
+    "image": "/images/level8/soul.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-171",
@@ -2828,7 +3168,9 @@
     ],
     "example": "Can I have some water?",
     "hint": "Means \"an amount of\" — ends in silent E.",
-    "image": "/images/level8/some.webp"
+    "image": "/images/level8/some.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-172",
@@ -2844,7 +3186,9 @@
     ],
     "example": "Find the sum of these numbers.",
     "hint": "A math total — short spelling, s-u-m.",
-    "image": "/images/level8/sum.webp"
+    "image": "/images/level8/sum.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-173",
@@ -2860,7 +3204,9 @@
     ],
     "example": "Draw a straight line.",
     "hint": "Means \"not curved\" — has a silent GH.",
-    "image": "/images/level8/straight.webp"
+    "image": "/images/level8/straight.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-174",
@@ -2876,7 +3222,9 @@
     ],
     "example": "Ships passed through the strait.",
     "hint": "A narrow water passage — no silent GH, ends in -ait.",
-    "image": "/images/level8/strait.webp"
+    "image": "/images/level8/strait.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-175",
@@ -2893,7 +3241,9 @@
     ],
     "example": "They stayed in a hotel suite.",
     "hint": "A set of connected rooms — silent E, pronounced \"sweet\".",
-    "image": "/images/level8/suite.webp"
+    "image": "/images/level8/suite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-176",
@@ -2909,7 +3259,9 @@
     ],
     "example": "The cake tasted very sweet.",
     "hint": "Means \"sugary\" — double E, w spelling.",
-    "image": "/images/level8/sweet.webp"
+    "image": "/images/level8/sweet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-177",
@@ -2925,7 +3277,9 @@
     ],
     "example": "The dove is a symbol of peace.",
     "hint": "A representative sign — ends in -bol.",
-    "image": "/images/level8/symbol.webp"
+    "image": "/images/level8/symbol.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-178",
@@ -2941,7 +3295,9 @@
     ],
     "example": "The drummer hit the cymbal.",
     "hint": "The brass musical instrument — starts with C, not S.",
-    "image": "/images/level8/cymbal.webp"
+    "image": "/images/level8/cymbal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-179",
@@ -2957,7 +3313,9 @@
     ],
     "example": "He hammered the tacks into the board.",
     "hint": "Small sharp nails, plural of \"tack\" — ends in -acks.",
-    "image": "/images/level8/tacks.webp"
+    "image": "/images/level8/tacks.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-180",
@@ -2973,7 +3331,9 @@
     ],
     "example": "We pay tax on our income.",
     "hint": "Government money — short spelling, t-a-x.",
-    "image": "/images/level8/tax.webp"
+    "image": "/images/level8/tax.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-181",
@@ -2989,7 +3349,9 @@
     ],
     "example": "Our team won the match.",
     "hint": "A working group — has \"ea\".",
-    "image": "/images/level8/team.webp"
+    "image": "/images/level8/team.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-182",
@@ -3005,7 +3367,9 @@
     ],
     "example": "The pond teems with fish.",
     "hint": "Means \"to be full of\" — double E.",
-    "image": "/images/level8/teem.webp"
+    "image": "/images/level8/teem.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-183",
@@ -3021,7 +3385,9 @@
     ],
     "example": "The ball was thrown far.",
     "hint": "Past participle of \"throw\" — related to \"throw\", plus -n.",
-    "image": "/images/level8/thrown.webp"
+    "image": "/images/level8/thrown.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-184",
@@ -3038,7 +3404,9 @@
     ],
     "example": "The tide came in quickly.",
     "hint": "The sea's rise and fall — ends in silent E.",
-    "image": "/images/level8/tide.webp"
+    "image": "/images/level8/tide.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-185",
@@ -3054,7 +3422,9 @@
     ],
     "example": "She tied her shoelaces.",
     "hint": "Past tense of \"tie\" — related to \"tie\", plus -d.",
-    "image": "/images/level8/tied.webp"
+    "image": "/images/level8/tied.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-186",
@@ -3070,7 +3440,9 @@
     ],
     "example": "She stubbed her toe.",
     "hint": "A foot digit — three letters, t-o-e.",
-    "image": "/images/level8/toe.webp"
+    "image": "/images/level8/toe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-187",
@@ -3086,7 +3458,9 @@
     ],
     "example": "The truck will tow the broken car.",
     "hint": "Means \"to pull a vehicle\" — ends in -ow, like \"row\".",
-    "image": "/images/level8/tow.webp"
+    "image": "/images/level8/tow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-188",
@@ -3102,7 +3476,9 @@
     ],
     "example": "She told me a secret.",
     "hint": "Past tense of \"tell\" — related to \"tell\".",
-    "image": "/images/level8/told.webp"
+    "image": "/images/level8/told.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-189",
@@ -3119,7 +3495,9 @@
     ],
     "example": "The bell tolled at noon.",
     "hint": "Past tense of \"toll\" (to ring a bell) — double L.",
-    "image": "/images/level8/tolled.webp"
+    "image": "/images/level8/tolled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-190",
@@ -3135,7 +3513,9 @@
     ],
     "example": "He is too vain about his looks.",
     "hint": "Means \"overly proud\" — ends in -ain.",
-    "image": "/images/level8/vain.webp"
+    "image": "/images/level8/vain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-191",
@@ -3151,7 +3531,9 @@
     ],
     "example": "Blood flows through each vein.",
     "hint": "The blood vessel — ends in -ein, e before i.",
-    "image": "/images/level8/vein.webp"
+    "image": "/images/level8/vein.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-192",
@@ -3168,7 +3550,9 @@
     ],
     "example": "The weather vane spun in the wind.",
     "hint": "The wind-direction device — ends in silent E.",
-    "image": "/images/level8/vane.webp"
+    "image": "/images/level8/vane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-193",
@@ -3184,7 +3568,9 @@
     ],
     "example": "Prices vary by store.",
     "hint": "Means \"to change/differ\" — related to \"variety\".",
-    "image": "/images/level8/vary.webp"
+    "image": "/images/level8/vary.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-194",
@@ -3200,7 +3586,9 @@
     ],
     "example": "She is very happy today.",
     "hint": "Means \"extremely\" — a common intensifier word.",
-    "image": "/images/level8/very.webp"
+    "image": "/images/level8/very.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-195",
@@ -3217,7 +3605,9 @@
     ],
     "example": "The kids waded in the shallow river.",
     "hint": "Means \"to walk through water\" — ends in silent E.",
-    "image": "/images/level8/wade.webp"
+    "image": "/images/level8/wade.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-196",
@@ -3234,7 +3624,9 @@
     ],
     "example": "She weighed the fruit at the store.",
     "hint": "Past tense of \"weigh\" — has a silent GH like \"weight\".",
-    "image": "/images/level8/weighed.webp"
+    "image": "/images/level8/weighed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-197",
@@ -3251,7 +3643,9 @@
     ],
     "example": "The school waived the late fee.",
     "hint": "Means \"to give up a right\" — spelled w-a-i-v-e.",
-    "image": "/images/level8/waive.webp"
+    "image": "/images/level8/waive.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-198",
@@ -3267,7 +3661,9 @@
     ],
     "example": "I warn you, the road is icy.",
     "hint": "Means \"to alert of danger\" — related to \"warning\".",
-    "image": "/images/level8/warn.webp"
+    "image": "/images/level8/warn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-199",
@@ -3283,7 +3679,9 @@
     ],
     "example": "His shoes were worn out.",
     "hint": "Past participle of \"wear\" — related to \"wear\".",
-    "image": "/images/level8/worn.webp"
+    "image": "/images/level8/worn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-200",
@@ -3299,7 +3697,9 @@
     ],
     "example": "Please weigh the apples.",
     "hint": "Means \"to measure heaviness\" — has a silent GH.",
-    "image": "/images/level8/weigh.webp"
+    "image": "/images/level8/weigh.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-201",
@@ -3316,7 +3716,9 @@
     ],
     "example": "The puppy began to whine.",
     "hint": "Means \"to complain\" — starts with WH, related to a whining sound.",
-    "image": "/images/level8/whine.webp"
+    "image": "/images/level8/whine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-202",
@@ -3332,7 +3734,9 @@
     ],
     "example": "Who's coming to the party?",
     "hint": "Short for \"who is\" — has an apostrophe.",
-    "image": "/images/level8/whos.webp"
+    "image": "/images/level8/whos.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-203",
@@ -3349,7 +3753,9 @@
     ],
     "example": "Whose bag is this?",
     "hint": "Shows ownership — no apostrophe, unlike \"who's\".",
-    "image": "/images/level8/whose.webp"
+    "image": "/images/level8/whose.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-204",
@@ -3366,7 +3772,9 @@
     ],
     "example": "The artist painted on canvas.",
     "hint": "The heavy painting cloth — single S at the end.",
-    "image": "/images/level8/canvas.webp"
+    "image": "/images/level8/canvas.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-205",
@@ -3383,7 +3791,9 @@
     ],
     "example": "Volunteers canvassed the neighborhood.",
     "hint": "Means \"to ask for votes\" — double S at the end.",
-    "image": "/images/level8/canvass.webp"
+    "image": "/images/level8/canvass.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-206",
@@ -3400,7 +3810,9 @@
     ],
     "example": "The current situation is difficult.",
     "hint": "Means \"happening now\" or \"a flow\" — ends in -ent.",
-    "image": "/images/level8/current.webp"
+    "image": "/images/level8/current.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-207",
@@ -3417,7 +3829,9 @@
     ],
     "example": "She added currants to the cake.",
     "hint": "The small dried fruit — ends in -ant, like \"a plant\".",
-    "image": "/images/level8/currant.webp"
+    "image": "/images/level8/currant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-208",
@@ -3434,7 +3848,9 @@
     ],
     "example": "She cited the book in her essay.",
     "hint": "Means \"to quote as a source\" — ends in silent E.",
-    "image": "/images/level8/cite.webp"
+    "image": "/images/level8/cite.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-209",
@@ -3451,7 +3867,9 @@
     ],
     "example": "They built a house on the site.",
     "hint": "A location or place — ends in silent E, different meaning from \"cite\".",
-    "image": "/images/level8/site.webp"
+    "image": "/images/level8/site.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-210",
@@ -3469,7 +3887,9 @@
     ],
     "example": "The gorilla ate leaves in the zoo.",
     "hint": "The large ape — double L.",
-    "image": "/images/level8/gorilla.webp"
+    "image": "/images/level8/gorilla.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-211",
@@ -3487,7 +3907,9 @@
     ],
     "example": "The guerrilla fighters hid in the jungle.",
     "hint": "An irregular-warfare fighter — double R and double L.",
-    "image": "/images/level8/guerrilla.webp"
+    "image": "/images/level8/guerrilla.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-212",
@@ -3503,7 +3925,9 @@
     ],
     "example": "The nurse filled a vial with medicine.",
     "hint": "A small glass bottle — ends in -ial.",
-    "image": "/images/level8/vial.webp"
+    "image": "/images/level8/vial.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-213",
@@ -3520,7 +3944,9 @@
     ],
     "example": "The food had a vile smell.",
     "hint": "Means \"very unpleasant\" — ends in silent E.",
-    "image": "/images/level8/vile.webp"
+    "image": "/images/level8/vile.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-214",
@@ -3537,7 +3963,9 @@
     ],
     "example": "The plane began its descent.",
     "hint": "Means \"moving downward\" — related to \"descend\".",
-    "image": "/images/level8/descent.webp"
+    "image": "/images/level8/descent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-215",
@@ -3554,7 +3982,9 @@
     ],
     "example": "There was dissent among the group.",
     "hint": "Means \"disagreement\" — double S, related to \"disagree\".",
-    "image": "/images/level8/dissent.webp"
+    "image": "/images/level8/dissent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-216",
@@ -3570,7 +4000,9 @@
     ],
     "example": "He walked with a limping gait.",
     "hint": "A walking style — ends in -ait, like \"wait\".",
-    "image": "/images/level8/gait.webp"
+    "image": "/images/level8/gait.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-217",
@@ -3586,7 +4018,9 @@
     ],
     "example": "She has a flair for design.",
     "hint": "A natural stylish talent — ends in -air.",
-    "image": "/images/level8/flair.webp"
+    "image": "/images/level8/flair.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-218",
@@ -3603,7 +4037,9 @@
     ],
     "example": "The flare lit up the dark sky.",
     "hint": "A bright burst of light — ends in silent E.",
-    "image": "/images/level8/flare.webp"
+    "image": "/images/level8/flare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-219",
@@ -3620,7 +4056,9 @@
     ],
     "example": "She walked down the store aisle.",
     "hint": "A passage between rows — has a silent S.",
-    "image": "/images/level8/aisle.webp"
+    "image": "/images/level8/aisle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-220",
@@ -3637,7 +4075,9 @@
     ],
     "example": "They sailed to a small isle.",
     "hint": "A small island — short spelling, i-s-l-e.",
-    "image": "/images/level8/isle.webp"
+    "image": "/images/level8/isle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-221",
@@ -3653,7 +4093,9 @@
     ],
     "example": "The yolk of the egg was bright orange.",
     "hint": "The yellow egg part — has a silent L.",
-    "image": "/images/level8/yolk.webp"
+    "image": "/images/level8/yolk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-222",
@@ -3670,7 +4112,9 @@
     ],
     "example": "The oxen wore a wooden yoke.",
     "hint": "A wooden animal harness — no silent L, just y-o-k-e.",
-    "image": "/images/level8/yoke.webp"
+    "image": "/images/level8/yoke.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-223",
@@ -3687,7 +4131,9 @@
     ],
     "example": "Every human needs food and water.",
     "hint": "A person — related to \"humanity\".",
-    "image": "/images/level8/human.webp"
+    "image": "/images/level8/human.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-224",
@@ -3705,7 +4151,9 @@
     ],
     "example": "They treated the animals in a humane way.",
     "hint": "Means \"kind and compassionate\" — ends in silent E, stress on second syllable.",
-    "image": "/images/level8/humane.webp"
+    "image": "/images/level8/humane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-225",
@@ -3721,7 +4169,9 @@
     ],
     "example": "The car has dual controls.",
     "hint": "Means \"having two parts\" — related to the number \"two\".",
-    "image": "/images/level8/dual.webp"
+    "image": "/images/level8/dual.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-226",
@@ -3737,7 +4187,9 @@
     ],
     "example": "The knights fought a duel.",
     "hint": "A fight between two people — related to the word \"duo\".",
-    "image": "/images/level8/duel.webp"
+    "image": "/images/level8/duel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-227",
@@ -3754,7 +4206,9 @@
     ],
     "example": "The project entered its final phase.",
     "hint": "A stage in a process — starts with PH, sounds like F.",
-    "image": "/images/level8/phase.webp"
+    "image": "/images/level8/phase.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-228",
@@ -3771,7 +4225,9 @@
     ],
     "example": "Nothing seemed to faze her.",
     "hint": "Means \"to disturb\" — starts with a plain F.",
-    "image": "/images/level8/faze.webp"
+    "image": "/images/level8/faze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-229",
@@ -3788,7 +4244,9 @@
     ],
     "example": "She was discreet about the surprise party.",
     "hint": "Means \"careful/private\" — double E together.",
-    "image": "/images/level8/discreet.webp"
+    "image": "/images/level8/discreet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-230",
@@ -3806,7 +4264,9 @@
     ],
     "example": "Each step is a discrete part of the process.",
     "hint": "Means \"separate\" — E's are split apart, like the meaning.",
-    "image": "/images/level8/discrete.webp"
+    "image": "/images/level8/discrete.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-231",
@@ -3824,7 +4284,9 @@
     ],
     "example": "She is an eminent scientist.",
     "hint": "Means \"famous/respected\" — related to \"prominent\".",
-    "image": "/images/level8/eminent.webp"
+    "image": "/images/level8/eminent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-232",
@@ -3842,7 +4304,9 @@
     ],
     "example": "A storm is imminent.",
     "hint": "Means \"about to happen\" — double M, think \"immediately\".",
-    "image": "/images/level8/imminent.webp"
+    "image": "/images/level8/imminent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-233",
@@ -3860,7 +4324,9 @@
     ],
     "example": "The question elicited a laugh.",
     "hint": "Means \"to draw out\" — starts with E, related to \"extract\".",
-    "image": "/images/level8/elicit.webp"
+    "image": "/images/level8/elicit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-234",
@@ -3878,7 +4344,9 @@
     ],
     "example": "The illicit goods were seized.",
     "hint": "Means \"illegal\" — starts with double L, like \"illegal\".",
-    "image": "/images/level8/illicit.webp"
+    "image": "/images/level8/illicit.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-235",
@@ -3895,7 +4363,9 @@
     ],
     "example": "We walked farther than before.",
     "hint": "Physical distance — related to \"far\", has an R.",
-    "image": "/images/level8/farther.webp"
+    "image": "/images/level8/farther.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-236",
@@ -3911,7 +4381,9 @@
     ],
     "example": "She loves to flaunt her jewelry.",
     "hint": "Means \"to show off\" — has \"au\".",
-    "image": "/images/level8/flaunt.webp"
+    "image": "/images/level8/flaunt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-237",
@@ -3927,7 +4399,9 @@
     ],
     "example": "He continued to flout the rules.",
     "hint": "Means \"to break rules openly\" — has \"ou\", different sound from \"flaunt\".",
-    "image": "/images/level8/flout.webp"
+    "image": "/images/level8/flout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-238",
@@ -3944,7 +4418,9 @@
     ],
     "example": "She began to waver on her decision.",
     "hint": "Means \"to hesitate\" — related to a wavy, unsteady motion.",
-    "image": "/images/level8/waver.webp"
+    "image": "/images/level8/waver.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-239",
@@ -3961,7 +4437,9 @@
     ],
     "example": "He signed a waiver before the race.",
     "hint": "A legal give-up document — related to \"waive\", has an I.",
-    "image": "/images/level8/waiver.webp"
+    "image": "/images/level8/waiver.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-240",
@@ -3978,7 +4456,9 @@
     ],
     "example": "Of the two books, I prefer the latter.",
     "hint": "Means \"the second one\" — not \"later\" (a future time).",
-    "image": "/images/level8/latter.webp"
+    "image": "/images/level8/latter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-241",
@@ -3994,7 +4474,9 @@
     ],
     "example": "She was loath to leave early.",
     "hint": "Means \"unwilling\" — an adjective, no silent E.",
-    "image": "/images/level8/loath.webp"
+    "image": "/images/level8/loath.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-242",
@@ -4011,7 +4493,9 @@
     ],
     "example": "I loathe waiting in long lines.",
     "hint": "Means \"to hate\" — a verb, ends in silent E.",
-    "image": "/images/level8/loathe.webp"
+    "image": "/images/level8/loathe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-243",
@@ -4027,7 +4511,9 @@
     ],
     "example": "The baby was born in May.",
     "hint": "Means \"brought into life\" — used for birth.",
-    "image": "/images/level8/born.webp"
+    "image": "/images/level8/born.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-244",
@@ -4044,7 +4530,9 @@
     ],
     "example": "The costs were borne by the company.",
     "hint": "Means \"carried/endured\" — past participle of \"bear\", ends in silent E.",
-    "image": "/images/level8/borne.webp"
+    "image": "/images/level8/borne.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-245",
@@ -4062,7 +4550,9 @@
     ],
     "example": "Paris is the capital of France.",
     "hint": "The government city or money — ends in -al.",
-    "image": "/images/level8/capital.webp"
+    "image": "/images/level8/capital.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-246",
@@ -4080,7 +4570,9 @@
     ],
     "example": "Lawmakers gathered at the capitol.",
     "hint": "The government building — ends in -ol, think \"dome\".",
-    "image": "/images/level8/capitol.webp"
+    "image": "/images/level8/capitol.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-247",
@@ -4098,7 +4590,9 @@
     ],
     "example": "She used a device to measure temperature.",
     "hint": "A noun meaning a tool — ends in -ice.",
-    "image": "/images/level8/device.webp"
+    "image": "/images/level8/device.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-248",
@@ -4116,7 +4610,9 @@
     ],
     "example": "They devised a new plan.",
     "hint": "A verb meaning to plan — ends in -ise.",
-    "image": "/images/level8/devise.webp"
+    "image": "/images/level8/devise.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-249",
@@ -4135,7 +4631,9 @@
     ],
     "example": "She sealed the envelope.",
     "hint": "The paper cover for letters — a noun.",
-    "image": "/images/level8/envelope.webp"
+    "image": "/images/level8/envelope.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-250",
@@ -4153,7 +4651,9 @@
     ],
     "example": "Fog began to envelop the city.",
     "hint": "A verb meaning to wrap around — no final E.",
-    "image": "/images/level8/envelop.webp"
+    "image": "/images/level8/envelop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-251",
@@ -4171,7 +4671,9 @@
     ],
     "example": "Please ensure the door is locked.",
     "hint": "Means \"to make certain\" — general use.",
-    "image": "/images/level8/ensure.webp"
+    "image": "/images/level8/ensure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-252",
@@ -4189,7 +4691,9 @@
     ],
     "example": "We insured our car against theft.",
     "hint": "Means \"to buy insurance for\" — related to \"insurance\".",
-    "image": "/images/level8/insure.webp"
+    "image": "/images/level8/insure.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-253",
@@ -4206,7 +4710,9 @@
     ],
     "example": "He formally introduced the guest.",
     "hint": "Means \"in a formal way\" — related to \"formal\".",
-    "image": "/images/level8/formally.webp"
+    "image": "/images/level8/formally.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-254",
@@ -4223,7 +4729,9 @@
     ],
     "example": "She was formerly a teacher.",
     "hint": "Means \"previously\" — related to \"former\".",
-    "image": "/images/level8/formerly.webp"
+    "image": "/images/level8/formerly.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-255",
@@ -4240,7 +4748,9 @@
     ],
     "example": "It was the moral thing to do.",
     "hint": "Means \"related to right/wrong\" — an adjective/noun.",
-    "image": "/images/level8/moral.webp"
+    "image": "/images/level8/moral.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-256",
@@ -4258,7 +4768,9 @@
     ],
     "example": "The team's morale was high.",
     "hint": "Means \"group spirit\" — ends in silent E, stress on second syllable.",
-    "image": "/images/level8/morale.webp"
+    "image": "/images/level8/morale.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-257",
@@ -4276,7 +4788,9 @@
     ],
     "example": "This is a personal matter.",
     "hint": "Means \"private/individual\" — ends in -al.",
-    "image": "/images/level8/personal.webp"
+    "image": "/images/level8/personal.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-258",
@@ -4294,7 +4808,9 @@
     ],
     "example": "He respectfully disagreed.",
     "hint": "Means \"with respect\" — related to \"respect\".",
-    "image": "/images/level8/respectfully.webp"
+    "image": "/images/level8/respectfully.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-259",
@@ -4313,7 +4829,9 @@
     ],
     "example": "Tom and Ann are 10 and 12, respectively.",
     "hint": "Means \"in that order\" — related to \"respective\", not \"respect\".",
-    "image": "/images/level8/respectively.webp"
+    "image": "/images/level8/respectively.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-260",
@@ -4331,7 +4849,9 @@
     ],
     "example": "The king had to accede to their demands.",
     "hint": "Means \"to agree to\" — ends in -cede.",
-    "image": "/images/level8/accede.webp"
+    "image": "/images/level8/accede.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-261",
@@ -4348,7 +4868,9 @@
     ],
     "example": "Do not exceed the speed limit.",
     "hint": "Means \"to go beyond\" — double E, ends in -ceed.",
-    "image": "/images/level8/exceed.webp"
+    "image": "/images/level8/exceed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-262",
@@ -4365,7 +4887,9 @@
     ],
     "example": "Animals adapt to their environment.",
     "hint": "Means \"to adjust\" — related to \"adaptation\".",
-    "image": "/images/level8/adapt.webp"
+    "image": "/images/level8/adapt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-263",
@@ -4382,7 +4906,9 @@
     ],
     "example": "They decided to adopt a puppy.",
     "hint": "Means \"to take as your own\" — related to \"adoption\".",
-    "image": "/images/level8/adopt.webp"
+    "image": "/images/level8/adopt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-264",
@@ -4400,7 +4926,9 @@
     ],
     "example": "She alluded to a secret plan.",
     "hint": "Means \"to hint indirectly\" — related to \"allusion\".",
-    "image": "/images/level8/allude.webp"
+    "image": "/images/level8/allude.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-265",
@@ -4418,7 +4946,9 @@
     ],
     "example": "The thief managed to elude police.",
     "hint": "Means \"to escape cleverly\" — related to \"elusive\".",
-    "image": "/images/level8/elude.webp"
+    "image": "/images/level8/elude.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-266",
@@ -4435,7 +4965,9 @@
     ],
     "example": "The couple stood at the altar.",
     "hint": "The religious table — ends in -ar.",
-    "image": "/images/level8/altar.webp"
+    "image": "/images/level8/altar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-267",
@@ -4452,7 +4984,9 @@
     ],
     "example": "They had to alter their plans.",
     "hint": "Means \"to change\" — ends in -er.",
-    "image": "/images/level8/alter.webp"
+    "image": "/images/level8/alter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-268",
@@ -4469,7 +5003,9 @@
     ],
     "example": "The climbers began their ascent.",
     "hint": "Means \"climbing up\" — related to \"ascend\".",
-    "image": "/images/level8/ascent.webp"
+    "image": "/images/level8/ascent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-269",
@@ -4486,7 +5022,9 @@
     ],
     "example": "The king gave his assent.",
     "hint": "Means \"agreement\" — double S, related to \"agree\".",
-    "image": "/images/level8/assent.webp"
+    "image": "/images/level8/assent.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-270",
@@ -4502,7 +5040,9 @@
     ],
     "example": "The old man was bald.",
     "hint": "Means \"no hair\" — a simple adjective.",
-    "image": "/images/level8/bald.webp"
+    "image": "/images/level8/bald.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-271",
@@ -4519,7 +5059,9 @@
     ],
     "example": "The baby bawled all night.",
     "hint": "Past tense of \"bawl\" (to cry loudly) — has a W.",
-    "image": "/images/level8/bawled.webp"
+    "image": "/images/level8/bawled.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-272",
@@ -4535,7 +5077,9 @@
     ],
     "example": "The trade bloc signed an agreement.",
     "hint": "A political alliance group — no K at the end.",
-    "image": "/images/level8/bloc.webp"
+    "image": "/images/level8/bloc.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-273",
@@ -4552,7 +5096,9 @@
     ],
     "example": "The boarder paid rent monthly.",
     "hint": "A paying house-guest — related to \"board and lodging\".",
-    "image": "/images/level8/boarder.webp"
+    "image": "/images/level8/boarder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-274",
@@ -4569,7 +5115,9 @@
     ],
     "example": "They crossed the border at night.",
     "hint": "The line between countries — no A after B.",
-    "image": "/images/level8/border.webp"
+    "image": "/images/level8/border.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-275",
@@ -4585,7 +5133,9 @@
     ],
     "example": "He decided to broach the subject.",
     "hint": "Means \"to bring up a topic\" — a verb, ends in -oach.",
-    "image": "/images/level8/broach.webp"
+    "image": "/images/level8/broach.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-276",
@@ -4601,7 +5151,9 @@
     ],
     "example": "She wore a silver brooch.",
     "hint": "The decorative pin — double O, a noun.",
-    "image": "/images/level8/brooch.webp"
+    "image": "/images/level8/brooch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-277",
@@ -4618,7 +5170,9 @@
     ],
     "example": "His callous remark hurt her feelings.",
     "hint": "Means \"unsympathetic\" — double L, ends in -ous.",
-    "image": "/images/level8/callous.webp"
+    "image": "/images/level8/callous.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-278",
@@ -4635,7 +5189,9 @@
     ],
     "example": "He developed a callus on his hand.",
     "hint": "Thick skin patch — double L, ends in -us.",
-    "image": "/images/level8/callus.webp"
+    "image": "/images/level8/callus.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-279",
@@ -4652,7 +5208,9 @@
     ],
     "example": "The book is part of the literary canon.",
     "hint": "A set of accepted rules — single N in the middle.",
-    "image": "/images/level8/canon.webp"
+    "image": "/images/level8/canon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-280",
@@ -4669,7 +5227,9 @@
     ],
     "example": "The cannon fired across the field.",
     "hint": "The large gun — double N in the middle.",
-    "image": "/images/level8/cannon.webp"
+    "image": "/images/level8/cannon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-281",
@@ -4685,7 +5245,9 @@
     ],
     "example": "She played a chord on the piano.",
     "hint": "A group of musical notes — has a silent H.",
-    "image": "/images/level8/chord.webp"
+    "image": "/images/level8/chord.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-282",
@@ -4701,7 +5263,9 @@
     ],
     "example": "Plug in the power cord.",
     "hint": "The rope or wire — no silent H.",
-    "image": "/images/level8/cord.webp"
+    "image": "/images/level8/cord.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-283",
@@ -4718,7 +5282,9 @@
     ],
     "example": "He was in a coma for a week.",
     "hint": "The unconscious state — no punctuation.",
-    "image": "/images/level8/coma.webp"
+    "image": "/images/level8/coma.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-284",
@@ -4735,7 +5301,9 @@
     ],
     "example": "Use a comma to separate the list.",
     "hint": "The punctuation mark — double M.",
-    "image": "/images/level8/comma.webp"
+    "image": "/images/level8/comma.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-285",
@@ -4753,7 +5321,9 @@
     ],
     "example": "She is my closest confidant.",
     "hint": "A trusted friend — ends in -ant, a noun for a person.",
-    "image": "/images/level8/confidant.webp"
+    "image": "/images/level8/confidant.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-286",
@@ -4771,7 +5341,9 @@
     ],
     "example": "He felt confident about the exam.",
     "hint": "Means \"sure of yourself\" — ends in -ent, an adjective.",
-    "image": "/images/level8/confident.webp"
+    "image": "/images/level8/confident.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-287",
@@ -4789,7 +5361,9 @@
     ],
     "example": "There were continual interruptions.",
     "hint": "Frequent but with pauses — related to \"continue\".",
-    "image": "/images/level8/continual.webp"
+    "image": "/images/level8/continual.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-288",
@@ -4808,7 +5382,9 @@
     ],
     "example": "The city passed a new ordinance.",
     "hint": "A local law — ends in -ance.",
-    "image": "/images/level8/ordinance.webp"
+    "image": "/images/level8/ordinance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-289",
@@ -4826,7 +5402,9 @@
     ],
     "example": "The ordnance was stored safely.",
     "hint": "Military weapons — no I, shorter than \"ordinance\".",
-    "image": "/images/level8/ordnance.webp"
+    "image": "/images/level8/ordnance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-290",
@@ -4844,7 +5422,9 @@
     ],
     "example": "The poem contains an allusion to history.",
     "hint": "An indirect reference — related to \"allude\".",
-    "image": "/images/level8/allusion.webp"
+    "image": "/images/level8/allusion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-291",
@@ -4862,7 +5442,9 @@
     ],
     "example": "The magician created an illusion.",
     "hint": "A false appearance — starts with double L, like \"illegal reality\".",
-    "image": "/images/level8/illusion.webp"
+    "image": "/images/level8/illusion.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-292",
@@ -4879,7 +5461,9 @@
     ],
     "example": "She looked like an angel.",
     "hint": "The winged spiritual being — soft G sound.",
-    "image": "/images/level8/angel.webp"
+    "image": "/images/level8/angel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-293",
@@ -4896,7 +5480,9 @@
     ],
     "example": "Measure the angle of the triangle.",
     "hint": "The geometry shape — hard G sound.",
-    "image": "/images/level8/angle.webp"
+    "image": "/images/level8/angle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-294",
@@ -4912,7 +5498,9 @@
     ],
     "example": "He booked a berth on the night train.",
     "hint": "A sleeping bunk — no vowel before R, unlike \"birth\".",
-    "image": "/images/level8/berth.webp"
+    "image": "/images/level8/berth.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-295",
@@ -4928,7 +5516,9 @@
     ],
     "example": "It was a breach of contract.",
     "hint": "Means \"a violation\" — ends in -each, not -eech.",
-    "image": "/images/level8/breach.webp"
+    "image": "/images/level8/breach.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-296",
@@ -4944,7 +5534,9 @@
     ],
     "example": "The rifle's breech was cleaned.",
     "hint": "The back of a gun — double E, not \"breach\".",
-    "image": "/images/level8/breech.webp"
+    "image": "/images/level8/breech.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-297",
@@ -4961,7 +5553,9 @@
     ],
     "example": "The diamond was two carats.",
     "hint": "A gem's weight unit — ends in -at.",
-    "image": "/images/level8/carat.webp"
+    "image": "/images/level8/carat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-298",
@@ -4978,7 +5572,9 @@
     ],
     "example": "She used a caret to add a word.",
     "hint": "A proofreading insert mark — ends in -et.",
-    "image": "/images/level8/caret.webp"
+    "image": "/images/level8/caret.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-299",
@@ -4995,7 +5591,9 @@
     ],
     "example": "Rabbits love to eat carrot.",
     "hint": "The orange vegetable — double R.",
-    "image": "/images/level8/carrot.webp"
+    "image": "/images/level8/carrot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl8-300",
@@ -5012,6 +5610,8 @@
     ],
     "example": "They kept wine in the cellar.",
     "hint": "An underground room — ends in -ar.",
-    "image": "/images/level8/cellar.webp"
+    "image": "/images/level8/cellar.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

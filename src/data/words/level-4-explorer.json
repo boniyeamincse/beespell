@@ -14,7 +14,9 @@
     ],
     "example": "She looked at herself in the mirror.",
     "hint": "Double R in the middle.",
-    "image": "/images/level4/mirror.webp"
+    "image": "/images/level4/mirror.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-002",
@@ -31,7 +33,9 @@
     ],
     "example": "Close the curtain, it's too bright.",
     "hint": "Ends with -tain, not -ten.",
-    "image": "/images/level4/curtain.webp"
+    "image": "/images/level4/curtain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-003",
@@ -48,7 +52,9 @@
     ],
     "example": "The carpet feels soft under my feet.",
     "hint": "Starts with CAR, like a vehicle.",
-    "image": "/images/level4/carpet.webp"
+    "image": "/images/level4/carpet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-004",
@@ -64,7 +70,9 @@
     ],
     "example": "Put the books back on the shelf.",
     "hint": "Rhymes with \"self\".",
-    "image": "/images/level4/shelf.webp"
+    "image": "/images/level4/shelf.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-005",
@@ -81,7 +89,9 @@
     ],
     "example": "She opened the drawer to find a pen.",
     "hint": "Contains the word \"draw\" plus -er.",
-    "image": "/images/level4/drawer.webp"
+    "image": "/images/level4/drawer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-006",
@@ -98,7 +108,9 @@
     ],
     "example": "We sat together on the sofa.",
     "hint": "Starts like \"so\", ends like \"far\" without R.",
-    "image": "/images/level4/sofa.webp"
+    "image": "/images/level4/sofa.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-007",
@@ -114,7 +126,9 @@
     ],
     "example": "He fell asleep on the couch.",
     "hint": "Rhymes with \"pouch\".",
-    "image": "/images/level4/couch.webp"
+    "image": "/images/level4/couch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-008",
@@ -131,7 +145,9 @@
     ],
     "example": "We lit a candle in the dark.",
     "hint": "Starts with CAN, ends with -dle.",
-    "image": "/images/level4/candle.webp"
+    "image": "/images/level4/candle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-009",
@@ -147,7 +163,9 @@
     ],
     "example": "He swept the floor with a broom.",
     "hint": "Starts with BR, double O makes the long \"oo\" sound.",
-    "image": "/images/level4/broom.webp"
+    "image": "/images/level4/broom.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-010",
@@ -164,7 +182,9 @@
     ],
     "example": "She filled the bucket with water.",
     "hint": "Starts with BUCK, like a deer.",
-    "image": "/images/level4/bucket.webp"
+    "image": "/images/level4/bucket.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-011",
@@ -181,7 +201,9 @@
     ],
     "example": "She put the apples in a basket.",
     "hint": "Starts with BAS, ends with -ket.",
-    "image": "/images/level4/basket.webp"
+    "image": "/images/level4/basket.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-012",
@@ -198,7 +220,9 @@
     ],
     "example": "He climbed the ladder to fix the roof.",
     "hint": "Double D in the middle.",
-    "image": "/images/level4/ladder.webp"
+    "image": "/images/level4/ladder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-013",
@@ -215,7 +239,9 @@
     ],
     "example": "She used a hammer to fix the shelf.",
     "hint": "Double M in the middle.",
-    "image": "/images/level4/hammer.webp"
+    "image": "/images/level4/hammer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-014",
@@ -231,7 +257,9 @@
     ],
     "example": "He hit the nail with a hammer.",
     "hint": "Rhymes with \"mail\".",
-    "image": "/images/level4/nail.webp"
+    "image": "/images/level4/nail.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-015",
@@ -247,7 +275,9 @@
     ],
     "example": "Turn the screw to tighten it.",
     "hint": "Double letters: sc + rew.",
-    "image": "/images/level4/screw.webp"
+    "image": "/images/level4/screw.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-016",
@@ -263,7 +293,9 @@
     ],
     "example": "He used a wrench to fix the pipe.",
     "hint": "Silent W at the start.",
-    "image": "/images/level4/wrench.webp"
+    "image": "/images/level4/wrench.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-017",
@@ -279,7 +311,9 @@
     ],
     "example": "He used a saw to cut the wood.",
     "hint": "Just three letters — S, A, W.",
-    "image": "/images/level4/saw.webp"
+    "image": "/images/level4/saw.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-018",
@@ -295,7 +329,9 @@
     ],
     "example": "She used a brush to clean her hair.",
     "hint": "Ends with -ush like \"rush\".",
-    "image": "/images/level4/brush.webp"
+    "image": "/images/level4/brush.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-019",
@@ -311,7 +347,9 @@
     ],
     "example": "He combed his hair before school.",
     "hint": "Silent B at the end.",
-    "image": "/images/level4/comb.webp"
+    "image": "/images/level4/comb.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-020",
@@ -328,7 +366,9 @@
     ],
     "example": "She dried her hands with a towel.",
     "hint": "Starts like \"tow\", ends with -el.",
-    "image": "/images/level4/towel.webp"
+    "image": "/images/level4/towel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-021",
@@ -344,7 +384,9 @@
     ],
     "example": "Wash your hands with soap.",
     "hint": "Double O makes the long O sound.",
-    "image": "/images/level4/soap.webp"
+    "image": "/images/level4/soap.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-022",
@@ -360,7 +402,9 @@
     ],
     "example": "She wiped the table with a sponge.",
     "hint": "The G sounds like J.",
-    "image": "/images/level4/sponge.webp"
+    "image": "/images/level4/sponge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-023",
@@ -376,7 +420,9 @@
     ],
     "example": "She ate soup from a bowl.",
     "hint": "Rhymes with \"coal\".",
-    "image": "/images/level4/bowl.webp"
+    "image": "/images/level4/bowl.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-024",
@@ -393,7 +439,9 @@
     ],
     "example": "He boiled water in the kettle.",
     "hint": "Double T in the middle.",
-    "image": "/images/level4/kettle.webp"
+    "image": "/images/level4/kettle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-025",
@@ -410,7 +458,9 @@
     ],
     "example": "Mom baked bread in the oven.",
     "hint": "Starts with OV, like \"of\" plus V.",
-    "image": "/images/level4/oven.webp"
+    "image": "/images/level4/oven.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-026",
@@ -426,7 +476,9 @@
     ],
     "example": "She cooked rice on the stove.",
     "hint": "Silent E makes the O long.",
-    "image": "/images/level4/stove.webp"
+    "image": "/images/level4/stove.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-027",
@@ -443,7 +495,9 @@
     ],
     "example": "She made juice in the blender.",
     "hint": "Contains the word \"blend\".",
-    "image": "/images/level4/blender.webp"
+    "image": "/images/level4/blender.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-028",
@@ -460,7 +514,9 @@
     ],
     "example": "He put bread in the toaster.",
     "hint": "Contains the word \"toast\".",
-    "image": "/images/level4/toaster.webp"
+    "image": "/images/level4/toaster.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-029",
@@ -477,7 +533,9 @@
     ],
     "example": "She used an iron to press her shirt.",
     "hint": "Sounds like \"eye-ern\", not \"eye-ron\".",
-    "image": "/images/level4/iron.webp"
+    "image": "/images/level4/iron.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-030",
@@ -493,7 +551,9 @@
     ],
     "example": "He cleaned the floor with a mop.",
     "hint": "Rhymes with \"top\".",
-    "image": "/images/level4/mop.webp"
+    "image": "/images/level4/mop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-031",
@@ -510,7 +570,9 @@
     ],
     "example": "She carried her books in a backpack.",
     "hint": "Two small words joined: back + pack.",
-    "image": "/images/level4/backpack.webp"
+    "image": "/images/level4/backpack.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-032",
@@ -527,7 +589,9 @@
     ],
     "example": "He used a ruler to draw a straight line.",
     "hint": "Contains the word \"rule\".",
-    "image": "/images/level4/ruler.webp"
+    "image": "/images/level4/ruler.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-033",
@@ -545,7 +609,9 @@
     ],
     "example": "She used an eraser to fix her mistake.",
     "hint": "Contains the word \"erase\".",
-    "image": "/images/level4/eraser.webp"
+    "image": "/images/level4/eraser.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-034",
@@ -562,7 +628,9 @@
     ],
     "example": "The child drew with a red crayon.",
     "hint": "Starts with CRAY, like \"cray-fish\".",
-    "image": "/images/level4/crayon.webp"
+    "image": "/images/level4/crayon.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-035",
@@ -579,7 +647,9 @@
     ],
     "example": "She wrote her name with a marker.",
     "hint": "Contains the word \"mark\".",
-    "image": "/images/level4/marker.webp"
+    "image": "/images/level4/marker.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-036",
@@ -596,7 +666,9 @@
     ],
     "example": "He wrote the answers in his notebook.",
     "hint": "Two words joined: note + book.",
-    "image": "/images/level4/notebook.webp"
+    "image": "/images/level4/notebook.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-037",
@@ -612,7 +684,9 @@
     ],
     "example": "The teacher wrote with white chalk.",
     "hint": "Silent L before K.",
-    "image": "/images/level4/chalk.webp"
+    "image": "/images/level4/chalk.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-038",
@@ -629,7 +703,9 @@
     ],
     "example": "The teacher wrote on the blackboard.",
     "hint": "Two words joined: black + board.",
-    "image": "/images/level4/blackboard.webp"
+    "image": "/images/level4/blackboard.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-039",
@@ -645,7 +721,9 @@
     ],
     "example": "The globe shows all the countries.",
     "hint": "Silent E, rhymes with \"robe\".",
-    "image": "/images/level4/globe.webp"
+    "image": "/images/level4/globe.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-040",
@@ -664,7 +742,9 @@
     ],
     "example": "She used a calculator for the test.",
     "hint": "Contains the word \"calculate\".",
-    "image": "/images/level4/calculator.webp"
+    "image": "/images/level4/calculator.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-041",
@@ -681,7 +761,9 @@
     ],
     "example": "He cut the paper with scissors.",
     "hint": "Silent C at the start.",
-    "image": "/images/level4/scissors.webp"
+    "image": "/images/level4/scissors.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-042",
@@ -697,7 +779,9 @@
     ],
     "example": "She used glue to fix the paper.",
     "hint": "Just four letters: g-l-u-e.",
-    "image": "/images/level4/glue.webp"
+    "image": "/images/level4/glue.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-043",
@@ -714,7 +798,9 @@
     ],
     "example": "He stapled the pages together.",
     "hint": "Contains the word \"staple\".",
-    "image": "/images/level4/stapler.webp"
+    "image": "/images/level4/stapler.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-044",
@@ -731,7 +817,9 @@
     ],
     "example": "She kept her papers in a folder.",
     "hint": "Contains the word \"fold\".",
-    "image": "/images/level4/folder.webp"
+    "image": "/images/level4/folder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-045",
@@ -747,7 +835,9 @@
     ],
     "example": "They sat together on the bench.",
     "hint": "Rhymes with \"trench\".",
-    "image": "/images/level4/bench.webp"
+    "image": "/images/level4/bench.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-046",
@@ -763,7 +853,9 @@
     ],
     "example": "The children played on the swing.",
     "hint": "Ends with -ing, not -ink.",
-    "image": "/images/level4/swing.webp"
+    "image": "/images/level4/swing.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-047",
@@ -779,7 +871,9 @@
     ],
     "example": "The kids went down the slide.",
     "hint": "Silent E makes the I long.",
-    "image": "/images/level4/slide.webp"
+    "image": "/images/level4/slide.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-048",
@@ -795,7 +889,9 @@
     ],
     "example": "A fence surrounds the garden.",
     "hint": "The C sounds like S.",
-    "image": "/images/level4/fence.webp"
+    "image": "/images/level4/fence.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-049",
@@ -811,7 +907,9 @@
     ],
     "example": "She opened the gate to the yard.",
     "hint": "Starts with G, silent E makes the A long.",
-    "image": "/images/level4/gate.webp"
+    "image": "/images/level4/gate.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-050",
@@ -827,7 +925,9 @@
     ],
     "example": "We crossed the bridge to the other side.",
     "hint": "The DG makes a J sound.",
-    "image": "/images/level4/bridge.webp"
+    "image": "/images/level4/bridge.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-051",
@@ -843,7 +943,9 @@
     ],
     "example": "He threw a stone into the pond.",
     "hint": "Silent E, rhymes with \"bone\".",
-    "image": "/images/level4/stone.webp"
+    "image": "/images/level4/stone.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-052",
@@ -859,7 +961,9 @@
     ],
     "example": "The children climbed on the big rock.",
     "hint": "Rhymes with \"sock\".",
-    "image": "/images/level4/rock.webp"
+    "image": "/images/level4/rock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-053",
@@ -875,7 +979,9 @@
     ],
     "example": "The children built castles in the sand.",
     "hint": "Rhymes with \"hand\".",
-    "image": "/images/level4/sand.webp"
+    "image": "/images/level4/sand.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-054",
@@ -891,7 +997,9 @@
     ],
     "example": "They walked up the hill.",
     "hint": "Starts with H, double L at the end.",
-    "image": "/images/level4/hill.webp"
+    "image": "/images/level4/hill.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-055",
@@ -907,7 +1015,9 @@
     ],
     "example": "Ducks swim in the pond.",
     "hint": "Rhymes with \"fond\".",
-    "image": "/images/level4/pond.webp"
+    "image": "/images/level4/pond.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-056",
@@ -923,7 +1033,9 @@
     ],
     "example": "We went boating on the lake.",
     "hint": "Starts with L, silent E makes the A long.",
-    "image": "/images/level4/lake.webp"
+    "image": "/images/level4/lake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-057",
@@ -939,7 +1051,9 @@
     ],
     "example": "The wave crashed on the shore.",
     "hint": "Starts with W, silent E makes the A long.",
-    "image": "/images/level4/wave.webp"
+    "image": "/images/level4/wave.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-058",
@@ -955,7 +1069,9 @@
     ],
     "example": "A bird sat on the branch.",
     "hint": "Ends with -anch, not -antch.",
-    "image": "/images/level4/branch.webp"
+    "image": "/images/level4/branch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-059",
@@ -971,7 +1087,9 @@
     ],
     "example": "The root holds the tree in the ground.",
     "hint": "Starts with R, double O makes the long \"oo\" sound.",
-    "image": "/images/level4/root.webp"
+    "image": "/images/level4/root.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-060",
@@ -987,7 +1105,9 @@
     ],
     "example": "She planted a seed in the garden.",
     "hint": "Starts with SE, double E sound.",
-    "image": "/images/level4/seed.webp"
+    "image": "/images/level4/seed.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-061",
@@ -1003,7 +1123,9 @@
     ],
     "example": "Plants grow well in rich soil.",
     "hint": "Rhymes with \"boil\".",
-    "image": "/images/level4/soil.webp"
+    "image": "/images/level4/soil.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-062",
@@ -1019,7 +1141,9 @@
     ],
     "example": "The pig rolled in the mud.",
     "hint": "Rhymes with \"bud\".",
-    "image": "/images/level4/mud.webp"
+    "image": "/images/level4/mud.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-063",
@@ -1036,7 +1160,9 @@
     ],
     "example": "He jumped over the puddle.",
     "hint": "Ends with -uddle, double D in the middle.",
-    "image": "/images/level4/puddle.webp"
+    "image": "/images/level4/puddle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-064",
@@ -1053,7 +1179,9 @@
     ],
     "example": "We saw a rainbow after the storm.",
     "hint": "Two words joined: rain + bow.",
-    "image": "/images/level4/rainbow.webp"
+    "image": "/images/level4/rainbow.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-065",
@@ -1070,7 +1198,9 @@
     ],
     "example": "The thunder scared the puppy.",
     "hint": "Starts with TH like \"think\".",
-    "image": "/images/level4/thunder.webp"
+    "image": "/images/level4/thunder.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-066",
@@ -1087,7 +1217,9 @@
     ],
     "example": "Lightning lit up the dark sky.",
     "hint": "Contains the word \"light\".",
-    "image": "/images/level4/lightning.webp"
+    "image": "/images/level4/lightning.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-067",
@@ -1103,7 +1235,9 @@
     ],
     "example": "A storm is coming, take shelter.",
     "hint": "Rhymes with \"form\".",
-    "image": "/images/level4/storm.webp"
+    "image": "/images/level4/storm.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-068",
@@ -1119,7 +1253,9 @@
     ],
     "example": "We could not see far in the fog.",
     "hint": "Rhymes with \"dog\".",
-    "image": "/images/level4/fog.webp"
+    "image": "/images/level4/fog.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-069",
@@ -1135,7 +1271,9 @@
     ],
     "example": "The grass was wet with morning dew.",
     "hint": "Sounds like the letters \"D-U\".",
-    "image": "/images/level4/dew.webp"
+    "image": "/images/level4/dew.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-070",
@@ -1152,7 +1290,9 @@
     ],
     "example": "She skipped a pebble across the lake.",
     "hint": "Double B in the middle.",
-    "image": "/images/level4/pebble.webp"
+    "image": "/images/level4/pebble.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-071",
@@ -1168,7 +1308,9 @@
     ],
     "example": "The truck carried boxes to the shop.",
     "hint": "Rhymes with \"duck\".",
-    "image": "/images/level4/truck.webp"
+    "image": "/images/level4/truck.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-072",
@@ -1184,7 +1326,9 @@
     ],
     "example": "We traveled by train to the city.",
     "hint": "The AI makes the long A sound.",
-    "image": "/images/level4/train.webp"
+    "image": "/images/level4/train.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-073",
@@ -1200,7 +1344,9 @@
     ],
     "example": "They rowed the boat across the river.",
     "hint": "The OA makes the long O sound.",
-    "image": "/images/level4/boat.webp"
+    "image": "/images/level4/boat.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-074",
@@ -1216,7 +1362,9 @@
     ],
     "example": "The ship sailed across the ocean.",
     "hint": "Rhymes with \"trip\".",
-    "image": "/images/level4/ship.webp"
+    "image": "/images/level4/ship.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-075",
@@ -1232,7 +1380,9 @@
     ],
     "example": "We flew to Dhaka by plane.",
     "hint": "Starts with PL, silent E makes the A long.",
-    "image": "/images/level4/plane.webp"
+    "image": "/images/level4/plane.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-076",
@@ -1251,7 +1401,9 @@
     ],
     "example": "The helicopter landed on the roof.",
     "hint": "Long word — break it into four parts.",
-    "image": "/images/level4/helicopter.webp"
+    "image": "/images/level4/helicopter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-077",
@@ -1269,7 +1421,9 @@
     ],
     "example": "She rides her bicycle to school.",
     "hint": "Starts with BI, meaning \"two\".",
-    "image": "/images/level4/bicycle.webp"
+    "image": "/images/level4/bicycle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-078",
@@ -1288,7 +1442,9 @@
     ],
     "example": "He rides a motorcycle to work.",
     "hint": "Contains the words \"motor\" and \"cycle\".",
-    "image": "/images/level4/motorcycle.webp"
+    "image": "/images/level4/motorcycle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-079",
@@ -1305,7 +1461,9 @@
     ],
     "example": "The child rode a scooter in the park.",
     "hint": "Contains the word \"scoot\", double O sound.",
-    "image": "/images/level4/scooter.webp"
+    "image": "/images/level4/scooter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-080",
@@ -1321,7 +1479,9 @@
     ],
     "example": "The car has four wheels.",
     "hint": "Silent W, rhymes with \"feel\".",
-    "image": "/images/level4/wheel.webp"
+    "image": "/images/level4/wheel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-081",
@@ -1338,7 +1498,9 @@
     ],
     "example": "The engine started with a loud noise.",
     "hint": "The G sounds like J, ends in -gine.",
-    "image": "/images/level4/engine.webp"
+    "image": "/images/level4/engine.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-082",
@@ -1354,7 +1516,9 @@
     ],
     "example": "She pressed the brake to stop the car.",
     "hint": "Silent E, sounds the same as \"break\".",
-    "image": "/images/level4/brake.webp"
+    "image": "/images/level4/brake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-083",
@@ -1370,7 +1534,9 @@
     ],
     "example": "They tied the boat with a rope.",
     "hint": "Silent E, rhymes with \"hope\".",
-    "image": "/images/level4/rope.webp"
+    "image": "/images/level4/rope.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-084",
@@ -1386,7 +1552,9 @@
     ],
     "example": "The dog was tied with a chain.",
     "hint": "Starts with CH, the AI makes the long A sound.",
-    "image": "/images/level4/chain.webp"
+    "image": "/images/level4/chain.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-085",
@@ -1402,7 +1570,9 @@
     ],
     "example": "She put a lock on the door.",
     "hint": "Rhymes with \"rock\".",
-    "image": "/images/level4/lock.webp"
+    "image": "/images/level4/lock.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-086",
@@ -1419,7 +1589,9 @@
     ],
     "example": "He wore a sweater in winter.",
     "hint": "Contains the word \"sweat\".",
-    "image": "/images/level4/sweater.webp"
+    "image": "/images/level4/sweater.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-087",
@@ -1435,7 +1607,9 @@
     ],
     "example": "She wrapped a scarf around her neck.",
     "hint": "Ends with -arf, like \"barf\" but for clothes.",
-    "image": "/images/level4/scarf.webp"
+    "image": "/images/level4/scarf.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-088",
@@ -1451,7 +1625,9 @@
     ],
     "example": "He wore gloves to keep his hands warm.",
     "hint": "Rhymes with \"love\", not \"cove\".",
-    "image": "/images/level4/glove.webp"
+    "image": "/images/level4/glove.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-089",
@@ -1467,7 +1643,9 @@
     ],
     "example": "He wore boots in the rain.",
     "hint": "Starts with B, double O sound, rhymes with \"root\".",
-    "image": "/images/level4/boot.webp"
+    "image": "/images/level4/boot.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-090",
@@ -1483,7 +1661,9 @@
     ],
     "example": "He wore a leather belt.",
     "hint": "Rhymes with \"felt\".",
-    "image": "/images/level4/belt.webp"
+    "image": "/images/level4/belt.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-091",
@@ -1500,7 +1680,9 @@
     ],
     "example": "She fastened the button on her shirt.",
     "hint": "Double T, rhymes with \"mutton\".",
-    "image": "/images/level4/button.webp"
+    "image": "/images/level4/button.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-092",
@@ -1517,7 +1699,9 @@
     ],
     "example": "He pulled up the zipper on his jacket.",
     "hint": "Contains the word \"zip\".",
-    "image": "/images/level4/zipper.webp"
+    "image": "/images/level4/zipper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-093",
@@ -1535,7 +1719,9 @@
     ],
     "example": "She opened her umbrella in the rain.",
     "hint": "Double L near the end.",
-    "image": "/images/level4/umbrella.webp"
+    "image": "/images/level4/umbrella.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-094",
@@ -1552,7 +1738,9 @@
     ],
     "example": "He kept his money in a wallet.",
     "hint": "Starts with WAL, like \"wall\".",
-    "image": "/images/level4/wallet.webp"
+    "image": "/images/level4/wallet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-095",
@@ -1568,7 +1756,9 @@
     ],
     "example": "She carried her keys in her purse.",
     "hint": "Rhymes with \"nurse\".",
-    "image": "/images/level4/purse.webp"
+    "image": "/images/level4/purse.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-096",
@@ -1584,7 +1774,9 @@
     ],
     "example": "He checked the time on his watch.",
     "hint": "Rhymes with \"blotch\".",
-    "image": "/images/level4/watch.webp"
+    "image": "/images/level4/watch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-097",
@@ -1601,7 +1793,9 @@
     ],
     "example": "She wore a gold necklace.",
     "hint": "Contains the words \"neck\" and \"lace\".",
-    "image": "/images/level4/necklace.webp"
+    "image": "/images/level4/necklace.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-098",
@@ -1618,7 +1812,9 @@
     ],
     "example": "She wore a silver bracelet.",
     "hint": "Contains the word \"brace\".",
-    "image": "/images/level4/bracelet.webp"
+    "image": "/images/level4/bracelet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-099",
@@ -1635,7 +1831,9 @@
     ],
     "example": "She used a hairbrush every morning.",
     "hint": "Two words joined: hair + brush.",
-    "image": "/images/level4/hairbrush.webp"
+    "image": "/images/level4/hairbrush.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-100",
@@ -1652,7 +1850,9 @@
     ],
     "example": "He wore a helmet while riding his bike.",
     "hint": "Starts with HEL, ends with -met.",
-    "image": "/images/level4/helmet.webp"
+    "image": "/images/level4/helmet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-101",
@@ -1668,7 +1868,9 @@
     ],
     "example": "The crowd began to clap.",
     "hint": "Rhymes with \"map\".",
-    "image": "/images/level4/clap.webp"
+    "image": "/images/level4/clap.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-102",
@@ -1684,7 +1886,9 @@
     ],
     "example": "She pointed at the map.",
     "hint": "Rhymes with \"joint\".",
-    "image": "/images/level4/point.webp"
+    "image": "/images/level4/point.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-103",
@@ -1700,7 +1904,9 @@
     ],
     "example": "He gave her a friendly wink.",
     "hint": "Rhymes with \"pink\".",
-    "image": "/images/level4/wink.webp"
+    "image": "/images/level4/wink.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-104",
@@ -1716,7 +1922,9 @@
     ],
     "example": "She blinked in the bright light.",
     "hint": "Rhymes with \"think\".",
-    "image": "/images/level4/blink.webp"
+    "image": "/images/level4/blink.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-105",
@@ -1732,7 +1940,9 @@
     ],
     "example": "He nodded to say yes.",
     "hint": "Rhymes with \"pod\".",
-    "image": "/images/level4/nod.webp"
+    "image": "/images/level4/nod.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-106",
@@ -1748,7 +1958,9 @@
     ],
     "example": "She shook the bottle before opening it.",
     "hint": "Starts with SH, silent E makes the A long.",
-    "image": "/images/level4/shake.webp"
+    "image": "/images/level4/shake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-107",
@@ -1764,7 +1976,9 @@
     ],
     "example": "The wheel began to spin fast.",
     "hint": "Rhymes with \"pin\".",
-    "image": "/images/level4/spin.webp"
+    "image": "/images/level4/spin.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-108",
@@ -1780,7 +1994,9 @@
     ],
     "example": "The ball rolled down the hill.",
     "hint": "Starts with R, double L at the end.",
-    "image": "/images/level4/roll.webp"
+    "image": "/images/level4/roll.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-109",
@@ -1797,7 +2013,9 @@
     ],
     "example": "He tripped and tumbled down the stairs.",
     "hint": "Ends with -umble like \"stumble\".",
-    "image": "/images/level4/tumble.webp"
+    "image": "/images/level4/tumble.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-110",
@@ -1813,7 +2031,9 @@
     ],
     "example": "The baby began to crawl.",
     "hint": "Rhymes with \"ball\", not \"owl\".",
-    "image": "/images/level4/crawl.webp"
+    "image": "/images/level4/crawl.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-111",
@@ -1829,7 +2049,9 @@
     ],
     "example": "The trees swayed in the wind.",
     "hint": "Rhymes with \"way\".",
-    "image": "/images/level4/sway.webp"
+    "image": "/images/level4/sway.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-112",
@@ -1845,7 +2067,9 @@
     ],
     "example": "The ball bounced off the wall.",
     "hint": "The C makes an S sound.",
-    "image": "/images/level4/bounce.webp"
+    "image": "/images/level4/bounce.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-113",
@@ -1861,7 +2085,9 @@
     ],
     "example": "She stretched before running.",
     "hint": "Ends with -etch like \"fetch\".",
-    "image": "/images/level4/stretch.webp"
+    "image": "/images/level4/stretch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-114",
@@ -1877,7 +2103,9 @@
     ],
     "example": "He bent down to tie his shoes.",
     "hint": "Rhymes with \"send\".",
-    "image": "/images/level4/bend.webp"
+    "image": "/images/level4/bend.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-115",
@@ -1893,7 +2121,9 @@
     ],
     "example": "She twisted the lid to open the jar.",
     "hint": "Rhymes with \"fist\".",
-    "image": "/images/level4/twist.webp"
+    "image": "/images/level4/twist.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-116",
@@ -1909,7 +2139,9 @@
     ],
     "example": "Turn left at the corner.",
     "hint": "Rhymes with \"burn\".",
-    "image": "/images/level4/turn.webp"
+    "image": "/images/level4/turn.webp",
+    "partOfSpeech": "verb",
+    "origin": "English"
   },
   {
     "id": "lvl4-117",
@@ -1925,7 +2157,9 @@
     ],
     "example": "He lifted the heavy box.",
     "hint": "Rhymes with \"gift\".",
-    "image": "/images/level4/lift.webp"
+    "image": "/images/level4/lift.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-118",
@@ -1941,7 +2175,9 @@
     ],
     "example": "She dropped the plate by accident.",
     "hint": "Rhymes with \"stop\".",
-    "image": "/images/level4/drop.webp"
+    "image": "/images/level4/drop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-119",
@@ -1957,7 +2193,9 @@
     ],
     "example": "He poured water into the glass.",
     "hint": "Rhymes with \"for\".",
-    "image": "/images/level4/pour.webp"
+    "image": "/images/level4/pour.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-120",
@@ -1973,7 +2211,9 @@
     ],
     "example": "She mixed the flour and sugar.",
     "hint": "Rhymes with \"fix\".",
-    "image": "/images/level4/mix.webp"
+    "image": "/images/level4/mix.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-121",
@@ -1989,7 +2229,9 @@
     ],
     "example": "He stirred the soup with a spoon.",
     "hint": "Rhymes with \"fur\".",
-    "image": "/images/level4/stir.webp"
+    "image": "/images/level4/stir.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-122",
@@ -2005,7 +2247,9 @@
     ],
     "example": "She chopped the vegetables.",
     "hint": "Rhymes with \"stop\", starts with CH.",
-    "image": "/images/level4/chop.webp"
+    "image": "/images/level4/chop.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-123",
@@ -2021,7 +2265,9 @@
     ],
     "example": "He sliced the bread for breakfast.",
     "hint": "Starts with SL, the C makes an S sound.",
-    "image": "/images/level4/slice.webp"
+    "image": "/images/level4/slice.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-124",
@@ -2037,7 +2283,9 @@
     ],
     "example": "She peeled the banana.",
     "hint": "Starts with PEE, double E sound, ends in L.",
-    "image": "/images/level4/peel.webp"
+    "image": "/images/level4/peel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-125",
@@ -2053,7 +2301,9 @@
     ],
     "example": "She boiled the water for tea.",
     "hint": "Rhymes with \"oil\".",
-    "image": "/images/level4/boil.webp"
+    "image": "/images/level4/boil.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-126",
@@ -2069,7 +2319,9 @@
     ],
     "example": "Mom fried the eggs for breakfast.",
     "hint": "Rhymes with \"try\".",
-    "image": "/images/level4/fry.webp"
+    "image": "/images/level4/fry.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-127",
@@ -2085,7 +2337,9 @@
     ],
     "example": "She baked a cake for the party.",
     "hint": "Starts with B, silent E makes the A long.",
-    "image": "/images/level4/bake.webp"
+    "image": "/images/level4/bake.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-128",
@@ -2101,7 +2355,9 @@
     ],
     "example": "Dad grilled the fish outside.",
     "hint": "Starts with GR, double L at the end.",
-    "image": "/images/level4/grill.webp"
+    "image": "/images/level4/grill.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-129",
@@ -2117,7 +2373,9 @@
     ],
     "example": "She tasted the soup before serving.",
     "hint": "Starts with T, silent E makes the A long.",
-    "image": "/images/level4/taste.webp"
+    "image": "/images/level4/taste.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-130",
@@ -2133,7 +2391,9 @@
     ],
     "example": "She could smell the fresh bread.",
     "hint": "Starts with SM, double L at the end.",
-    "image": "/images/level4/smell.webp"
+    "image": "/images/level4/smell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-131",
@@ -2149,7 +2409,9 @@
     ],
     "example": "Please do not touch the paint.",
     "hint": "Ends with -ouch but sounds like \"tuch\".",
-    "image": "/images/level4/touch.webp"
+    "image": "/images/level4/touch.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-132",
@@ -2165,7 +2427,9 @@
     ],
     "example": "She could feel the warmth of the sun.",
     "hint": "Starts with F, double E sound.",
-    "image": "/images/level4/feel.webp"
+    "image": "/images/level4/feel.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-133",
@@ -2181,7 +2445,9 @@
     ],
     "example": "Look at the beautiful sunset.",
     "hint": "Double O makes a short sound.",
-    "image": "/images/level4/look.webp"
+    "image": "/images/level4/look.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-134",
@@ -2197,7 +2463,9 @@
     ],
     "example": "She gazed at the stars.",
     "hint": "Starts with GA, silent E makes the A long, ends in ZE.",
-    "image": "/images/level4/gaze.webp"
+    "image": "/images/level4/gaze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-135",
@@ -2213,7 +2481,9 @@
     ],
     "example": "He stared at the strange animal.",
     "hint": "Silent E after \"star\".",
-    "image": "/images/level4/stare.webp"
+    "image": "/images/level4/stare.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-136",
@@ -2229,7 +2499,9 @@
     ],
     "example": "She glanced at the clock.",
     "hint": "Starts with GL, the C makes an S sound.",
-    "image": "/images/level4/glance.webp"
+    "image": "/images/level4/glance.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-137",
@@ -2245,7 +2517,9 @@
     ],
     "example": "He peeked through the curtain.",
     "hint": "Starts with PEE, double E sound, ends in K.",
-    "image": "/images/level4/peek.webp"
+    "image": "/images/level4/peek.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-138",
@@ -2262,7 +2536,9 @@
     ],
     "example": "She whispered the secret to her friend.",
     "hint": "Silent W, starts like \"whistle\".",
-    "image": "/images/level4/whisper.webp"
+    "image": "/images/level4/whisper.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-139",
@@ -2278,7 +2554,9 @@
     ],
     "example": "He shouted for help.",
     "hint": "Rhymes with \"out\".",
-    "image": "/images/level4/shout.webp"
+    "image": "/images/level4/shout.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-140",
@@ -2294,7 +2572,9 @@
     ],
     "example": "She yelled with joy at the surprise.",
     "hint": "Starts with Y, double L at the end.",
-    "image": "/images/level4/yell.webp"
+    "image": "/images/level4/yell.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-141",
@@ -2310,7 +2590,9 @@
     ],
     "example": "She hummed a happy tune.",
     "hint": "Rhymes with \"drum\".",
-    "image": "/images/level4/hum.webp"
+    "image": "/images/level4/hum.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-142",
@@ -2327,7 +2609,9 @@
     ],
     "example": "He whistled a cheerful song.",
     "hint": "Silent W and silent T.",
-    "image": "/images/level4/whistle.webp"
+    "image": "/images/level4/whistle.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-143",
@@ -2343,7 +2627,9 @@
     ],
     "example": "The fans cheered for their team.",
     "hint": "Starts with CH, double E sound.",
-    "image": "/images/level4/cheer.webp"
+    "image": "/images/level4/cheer.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-144",
@@ -2359,7 +2645,9 @@
     ],
     "example": "She greeted her guests warmly.",
     "hint": "Starts with GR, double E sound.",
-    "image": "/images/level4/greet.webp"
+    "image": "/images/level4/greet.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-145",
@@ -2375,7 +2663,9 @@
     ],
     "example": "She gave her mom a big hug.",
     "hint": "Rhymes with \"bug\".",
-    "image": "/images/level4/hug.webp"
+    "image": "/images/level4/hug.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-146",
@@ -2391,7 +2681,9 @@
     ],
     "example": "She kissed her baby goodnight.",
     "hint": "Double S at the end.",
-    "image": "/images/level4/kiss.webp"
+    "image": "/images/level4/kiss.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-147",
@@ -2408,7 +2700,9 @@
     ],
     "example": "The butterfly fluttered near the flower.",
     "hint": "Double T, ends with -utter.",
-    "image": "/images/level4/flutter.webp"
+    "image": "/images/level4/flutter.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-148",
@@ -2424,7 +2718,9 @@
     ],
     "example": "He sneezed because of the dust.",
     "hint": "Starts with SN, double E sound.",
-    "image": "/images/level4/sneeze.webp"
+    "image": "/images/level4/sneeze.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-149",
@@ -2440,7 +2736,9 @@
     ],
     "example": "She coughed because of the smoke.",
     "hint": "The GH sounds like F.",
-    "image": "/images/level4/cough.webp"
+    "image": "/images/level4/cough.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   },
   {
     "id": "lvl4-150",
@@ -2456,6 +2754,8 @@
     ],
     "example": "He yawned during the long meeting.",
     "hint": "Rhymes with \"lawn\".",
-    "image": "/images/level4/yawn.webp"
+    "image": "/images/level4/yawn.webp",
+    "partOfSpeech": "noun",
+    "origin": "English"
   }
 ]

@@ -82,7 +82,7 @@
 | 12 | Thinker | `level-12-thinker.json` | 500 | 500 | ✅ Done |
 | 13 | Scholar | `level-13-intermediate.json` | 600 | 600 | ✅ Done |
 | 14 | Wordsmith | `level-14-wordsmith.json` | 700 | 700 | ✅ Done |
-| 15 | Upper Intermediate | — | 0 | 800 | ❌ Missing |
+| 15 | Upper Intermediate | `level-15-upper-intermediate.json` | 800 | 800 | ✅ Done |
 | 16 | Specialist | — | 0 | 900 | ❌ Missing |
 | 17 | Analyst | — | 0 | 1000 | ❌ Missing |
 | 18 | Strategist | — | 0 | 1100 | ❌ Missing |

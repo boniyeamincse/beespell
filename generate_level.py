@@ -79,8 +79,8 @@ def process_word(i, word):
     syllables = get_syllables(word)
     
     item = {
-        "id": f"lvl14-{i+1:03d}",
-        "level": 14,
+        "id": f"lvl15-{i+1:03d}",
+        "level": 15,
         "order": i+1,
         "word": word,
         "pronunciation": phonetic,
@@ -92,36 +92,38 @@ def process_word(i, word):
         "syllables": syllables,
         "example": example,
         "hint": f"Starts with {word[0].upper()} and ends with {word[-1].upper()}.",
-        "image": f"/images/level14/{word}.webp"
+        "image": f"/images/level15/{word}.webp"
     }
     return i, item
 
 def main():
     print("Fetching words from NLTK...")
-    word_list = [w.lower() for w in nltk_words.words() if w.isalpha() and 7 <= len(w) <= 10]
+    word_list = [w.lower() for w in nltk_words.words() if w.isalpha() and 8 <= len(w) <= 12]
     
-    random.seed(42)
+    # Filter out words that were already used in previous levels
+    # For now, just shuffle and pick
+    random.seed(43)
     random.shuffle(word_list)
-    words = word_list[:700]
+    words = word_list[:800]
     
     print(f"Found {len(words)} words. Fetching details and translating with ThreadPoolExecutor...")
     
     results = [None] * len(words)
     completed = 0
     
-    with ThreadPoolExecutor(max_workers=20) as executor:
+    with ThreadPoolExecutor(max_workers=30) as executor:
         futures = {executor.submit(process_word, i, word): i for i, word in enumerate(words)}
         for future in as_completed(futures):
             idx, item = future.result()
             results[idx] = item
             completed += 1
-            if completed % 50 == 0:
+            if completed % 100 == 0:
                 print(f"Processed {completed}/{len(words)} words...")
             
-    with open("src/data/words/level-14-wordsmith.json", "w", encoding="utf-8") as f:
+    with open("src/data/words/level-15-upper-intermediate.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
         
-    print("Completed generation of level-14-wordsmith.json")
+    print("Completed generation of level-15-upper-intermediate.json")
 
 if __name__ == "__main__":
     main()

@@ -84,7 +84,7 @@
 | 14 | Wordsmith | `level-14-wordsmith.json` | 700 | 700 | ✅ Done |
 | 15 | Upper Intermediate | `level-15-upper-intermediate.json` | 800 | 800 | ✅ Done |
 | 16 | Specialist | `level-16-specialist.json` | 900 | 900 | ✅ Done |
-| 17 | Analyst | — | 0 | 1000 | ❌ Missing |
+| 17 | Analyst | `level-17-analyst.json` | 1000 | 1000 | ✅ Done |
 | 18 | Strategist | — | 0 | 1100 | ❌ Missing |
 | 19 | Tactician | — | 0 | 1200 | ❌ Missing |
 | 20 | Advanced | — | 0 | 1300 | ❌ Missing |

@@ -11,6 +11,8 @@ export interface WordData {
   example: string;
   hint: string;
   image?: string;
+  partOfSpeech?: string;
+  origin?: string;
 }
 
 export interface LevelMeta {

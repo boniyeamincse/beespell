@@ -15,7 +15,8 @@ export default function LevelsPage() {
   const levels = Array.from({ length: 50 }, (_, i) => ({
     level: i,
     title: i === 0 ? "Foundation" : `Level ${i}`,
-    locked: !progress.unlockedLevels.includes(i)
+    // locked: !progress.unlockedLevels.includes(i) // COMMENTED FOR TESTING
+    locked: false // TEMPORARILY UNLOCKED ALL LEVELS
   }));
 
   return (

@@ -1,0 +1,119 @@
+import json
+import random
+import time
+import requests
+import pyphen
+import nltk
+from nltk.corpus import words as nltk_words
+import pronouncing
+from deep_translator import GoogleTranslator
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+def get_syllables(word):
+    dic = pyphen.Pyphen(lang='en_US')
+    syl = dic.inserted(word).split('-')
+    if len(syl) <= 1:
+        return list(word)
+    return syl
+
+def get_word_details(word):
+    try:
+        res = requests.get(f"https://api.dictionaryapi.dev/api/v2/entries/en/{word}", timeout=3)
+        if res.status_code == 200:
+            data = res.json()[0]
+            
+            phonetic = f"/{word}/"
+            if 'phonetic' in data and data['phonetic']:
+                phonetic = data['phonetic']
+            elif 'phonetics' in data:
+                for p in data['phonetics']:
+                    if 'text' in p and p['text']:
+                        phonetic = p['text']
+                        break
+                        
+            meaning = "A descriptive word."
+            example = f"This is an example of {word}."
+            
+            if 'meanings' in data and data['meanings']:
+                meanings_list = data['meanings']
+                for m in meanings_list:
+                    if 'definitions' in m and m['definitions']:
+                        defn = m['definitions'][0]
+                        if 'definition' in defn:
+                            meaning = defn['definition']
+                        if 'example' in defn:
+                            example = defn['example']
+                            break
+                        
+            return phonetic, meaning, example
+    except Exception as e:
+        pass
+    
+    # Fallback
+    phones = pronouncing.phones_for_word(word)
+    phonetic = f"/{word}/"
+    if phones:
+        phonetic = f"/{phones[0].split()[0].lower()}/"
+        
+    return phonetic, f"A vocabulary word.", f"The word is {word}."
+
+def process_word(i, word):
+    phonetic, meaning, example = get_word_details(word)
+    translator = GoogleTranslator(source='en', target='bn')
+    
+    try:
+        bn_word = translator.translate(word)
+        bn_meaning = translator.translate(meaning)
+        bn_pronunciation = bn_word # Approx
+    except:
+        bn_word = word
+        bn_meaning = meaning
+        bn_pronunciation = word
+        
+    syllables = get_syllables(word)
+    
+    item = {
+        "id": f"lvl14-{i+1:03d}",
+        "level": 14,
+        "order": i+1,
+        "word": word,
+        "pronunciation": phonetic,
+        "banglaPronunciation": bn_pronunciation,
+        "meaning": meaning,
+        "banglaMeaning": bn_meaning,
+        "syllables": syllables,
+        "example": example,
+        "hint": f"Starts with {word[0].upper()} and ends with {word[-1].upper()}.",
+        "image": f"/images/level14/{word}.webp"
+    }
+    return i, item
+
+def main():
+    print("Fetching words from NLTK...")
+    word_list = [w.lower() for w in nltk_words.words() if w.isalpha() and 7 <= len(w) <= 10]
+    
+    random.seed(42)
+    random.shuffle(word_list)
+    words = word_list[:700]
+    
+    print(f"Found {len(words)} words. Fetching details and translating with ThreadPoolExecutor...")
+    
+    results = [None] * len(words)
+    completed = 0
+    
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        futures = {executor.submit(process_word, i, word): i for i, word in enumerate(words)}
+        for future in as_completed(futures):
+            idx, item = future.result()
+            results[idx] = item
+            completed += 1
+            if completed % 50 == 0:
+                print(f"Processed {completed}/{len(words)} words...")
+            
+    with open("src/data/words/level-14-wordsmith.json", "w", encoding="utf-8") as f:
+        json.dump(results, f, ensure_ascii=False, indent=2)
+        
+    print("Completed generation of level-14-wordsmith.json")
+
+if __name__ == "__main__":
+    main()

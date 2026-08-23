@@ -61,18 +61,34 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
           {currentWord.syllables && currentWord.syllables.length > 0 && (
             <div className="syllables-box">
               <span className="syllables-text">
-                {currentWord.syllables.length === 1 
-                  ? currentWord.word.toUpperCase().split('').join(' - ') 
-                  : currentWord.syllables.join(' • ')}
+                {currentWord.syllables.join(' • ')}
               </span>
             </div>
           )}
+
+          <div className="spelling-breakdown mb-3">
+            <span style={{ fontSize: '1.2rem', fontWeight: 'bold', color: 'var(--primary)', letterSpacing: '4px' }}>
+              {currentWord.word.toUpperCase().split('').join(' - ')}
+            </span>
+          </div>
 
           <div className="pronunciation">
             <span>{currentWord.pronunciation}</span> • <span>{currentWord.banglaPronunciation}</span>
           </div>
 
           <div className="details-grid">
+            {currentWord.partOfSpeech && (
+              <div className="detail-item">
+                <span className="label">Type:</span>
+                <p>{currentWord.partOfSpeech}</p>
+              </div>
+            )}
+            {currentWord.origin && (
+              <div className="detail-item">
+                <span className="label">Origin:</span>
+                <p>{currentWord.origin}</p>
+              </div>
+            )}
             <div className="detail-item">
               <span className="label">Meaning:</span>
               <p>{currentWord.meaning}</p>

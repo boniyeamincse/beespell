@@ -79,8 +79,8 @@ def process_word(i, word):
     syllables = get_syllables(word)
     
     item = {
-        "id": f"lvl15-{i+1:03d}",
-        "level": 15,
+        "id": f"lvl16-{i+1:03d}",
+        "level": 16,
         "order": i+1,
         "word": word,
         "pronunciation": phonetic,
@@ -92,21 +92,25 @@ def process_word(i, word):
         "syllables": syllables,
         "example": example,
         "hint": f"Starts with {word[0].upper()} and ends with {word[-1].upper()}.",
-        "image": f"/images/level15/{word}.webp"
+        "image": f"/images/level16/{word}.webp"
     }
     return i, item
 
 def main():
     print("Fetching words from NLTK...")
-    word_list = [w.lower() for w in nltk_words.words() if w.isalpha() and 8 <= len(w) <= 12]
+    word_list = [w.lower() for w in nltk_words.words() if w.isalpha() and 8 <= len(w) <= 13]
     
     # Filter out words that were already used in previous levels
     # For now, just shuffle and pick
-    random.seed(43)
+    random.seed(44)
     random.shuffle(word_list)
-    words = word_list[:800]
+    words = word_list[:900]
     
     print(f"Found {len(words)} words. Fetching details and translating with ThreadPoolExecutor...")
+    
+    # Initialize pronouncing dictionary in main thread to avoid race conditions
+    import pronouncing
+    pronouncing.phones_for_word("test")
     
     results = [None] * len(words)
     completed = 0
@@ -120,10 +124,10 @@ def main():
             if completed % 100 == 0:
                 print(f"Processed {completed}/{len(words)} words...")
             
-    with open("src/data/words/level-15-upper-intermediate.json", "w", encoding="utf-8") as f:
+    with open("src/data/words/level-16-specialist.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
         
-    print("Completed generation of level-15-upper-intermediate.json")
+    print("Completed generation of level-16-specialist.json")
 
 if __name__ == "__main__":
     main()

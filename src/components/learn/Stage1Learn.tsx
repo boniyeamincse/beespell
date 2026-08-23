@@ -56,8 +56,28 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
     <div className="stage-container fade-in">
       {!isSpellingPhase ? (
         <>
-          <h1 className="main-word text-gradient-primary">{currentWord.word}</h1>
+          <div className="word-header">
+            <h1 className="main-word text-gradient-primary">{currentWord.word}</h1>
+            <button onClick={speakWord} className="btn-icon bounce-hover" title="Listen">
+              🔊
+            </button>
+          </div>
           
+          <div className="tags-row">
+            {currentWord.partOfSpeech && (
+              <span className="badge tag-type">{currentWord.partOfSpeech}</span>
+            )}
+            {currentWord.origin && (
+              <span className="badge tag-origin">🌍 {currentWord.origin}</span>
+            )}
+          </div>
+
+          <div className="pronunciation">
+            <span className="ipa-text">{currentWord.pronunciation}</span>
+            <span className="dot-divider">•</span>
+            <span className="bn-pronunciation">{currentWord.banglaPronunciation}</span>
+          </div>
+
           {currentWord.syllables && currentWord.syllables.length > 0 && (
             <div className="syllables-box">
               <span className="syllables-text">
@@ -67,43 +87,27 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
           )}
 
           <div className="spelling-breakdown mb-3">
-            <span style={{ fontSize: '1.2rem', fontWeight: 'bold', color: 'var(--primary)', letterSpacing: '4px' }}>
-              {currentWord.word.toUpperCase().split('').join(' - ')}
-            </span>
-          </div>
-
-          <div className="pronunciation">
-            <span>{currentWord.pronunciation}</span> • <span>{currentWord.banglaPronunciation}</span>
+            {currentWord.word.toUpperCase().split('').map((letter, idx) => (
+              <span key={idx} className="letter-tile">{letter}</span>
+            ))}
           </div>
 
           <div className="details-grid">
-            {currentWord.partOfSpeech && (
-              <div className="detail-item">
-                <span className="label">Type:</span>
-                <p>{currentWord.partOfSpeech}</p>
-              </div>
-            )}
-            {currentWord.origin && (
-              <div className="detail-item">
-                <span className="label">Origin:</span>
-                <p>{currentWord.origin}</p>
-              </div>
-            )}
             <div className="detail-item">
-              <span className="label">Meaning:</span>
+              <span className="label">📖 Meaning</span>
               <p>{currentWord.meaning}</p>
             </div>
             <div className="detail-item">
-              <span className="label">Bangla:</span>
+              <span className="label">🇧🇩 Bangla</span>
               <p>{currentWord.banglaMeaning}</p>
             </div>
-            <div className="detail-item">
-              <span className="label">Example:</span>
-              <p>{currentWord.example}</p>
+            <div className="detail-item full-width">
+              <span className="label">✍️ Example</span>
+              <p className="example-text">"{currentWord.example}"</p>
             </div>
             {showHint && currentWord.hint && (
-              <div className="detail-item fade-in">
-                <span className="label text-warning" style={{color: 'orange'}}>Hint:</span>
+              <div className="detail-item full-width fade-in hint-box">
+                <span className="label text-warning">💡 Hint</span>
                 <p>{currentWord.hint}</p>
               </div>
             )}
@@ -115,39 +119,37 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
                 ⬅️ Previous
               </button>
             )}
-            <button onClick={speakWord} className="btn btn-glass small-btn">
-              🔊 Listen Again
-            </button>
             <button onClick={() => setShowHint(true)} className="btn btn-glass small-btn">
-              💡 Show Hint
+              💡 Hint
             </button>
-            <button onClick={markDifficult} className="btn btn-glass small-btn">
-              ⚠️ Mark Difficult
+            <button onClick={markDifficult} className="btn btn-glass small-btn warning-border">
+              ⚠️ Hard
             </button>
           </div>
 
-          {difficultMsg && <p className="text-muted mt-2" style={{ marginTop: 10 }}>{difficultMsg}</p>}
+          {difficultMsg && <p className="text-muted mt-2 fade-in">{difficultMsg}</p>}
 
           <div className="card-actions mt-4">
-            <button onClick={startSpellingPhase} className="btn btn-primary next-btn">
+            <button onClick={startSpellingPhase} className="btn btn-primary next-btn glow-effect">
               I Learned This ➡️
             </button>
           </div>
         </>
       ) : (
         <div className="spelling-phase fade-in">
-          <h2 className="stage-title">Hide and Spell!</h2>
-          <p className="text-muted mb-4" style={{marginBottom: 20}}>Type the word you just learned.</p>
+          <div className="spelling-header">
+            <h2 className="stage-title">Hide and Spell!</h2>
+            <button onClick={speakWord} className="btn-icon pulse-soft" title="Listen">
+              🔊
+            </button>
+          </div>
+          <p className="text-muted mb-4 subtitle-text">Type the word you just learned.</p>
           
-          <button onClick={speakWord} className="btn btn-glass mb-4" style={{marginBottom: 30}}>
-            🔊 Listen Again
-          </button>
-
           <div className="input-group">
             <input 
               ref={inputRef}
               type="text" 
-              className={`spell-input ${isCorrect ? 'correct-input' : ''}`}
+              className={`spell-input ${isCorrect ? 'correct-input' : errorMsg ? 'error-input' : ''}`}
               value={spellInput}
               onChange={(e) => setSpellInput(e.target.value)}
               disabled={isCorrect}
@@ -158,16 +160,17 @@ export default function Stage1Learn({ currentWord, isLastWord, onComplete, onPre
             />
           </div>
           
-          {errorMsg && <p className="error-text mt-2" style={{color: 'red', marginTop: 10}}>{errorMsg}</p>}
+          {errorMsg && <p className="error-text mt-3 slide-up">❌ {errorMsg}</p>}
+          {isCorrect && <p className="success-text mt-3 slide-up">✅ Brilliant!</p>}
 
-          <div className="card-actions" style={{marginTop: 40}}>
+          <div className="card-actions mt-5">
             {!isCorrect ? (
-              <button onClick={checkSpelling} className="btn btn-primary">
+              <button onClick={checkSpelling} className="btn btn-primary submit-btn">
                 Check Spelling
               </button>
             ) : (
-              <button onClick={onComplete} className="btn btn-primary pulse-anim" style={{background: 'var(--success)'}}>
-                {isLastWord ? "Take Level Exercise ➡️" : "Next Word ➡️"}
+              <button onClick={onComplete} className="btn btn-success pulse-anim next-btn">
+                {isLastWord ? "Take Level Exercise 🏆" : "Next Word ➡️"}
               </button>
             )}
           </div>

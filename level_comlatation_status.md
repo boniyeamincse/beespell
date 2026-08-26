@@ -89,7 +89,7 @@
 | 19 | Tactician | `level-19-tactician.json` | 1200 | 1200 | ✅ Done |
 | 20 | Advanced | `level-20-advanced.json` | 1300 | 1300 | ✅ Done |
 | 21 | Expert | `level-21-expert.json` | 1400 | 1400 | ✅ Done |
-| 22 | Virtuoso | — | 0 | 1500 | ❌ Missing |
+| 22 | Virtuoso | `level-22-virtuoso.json` | 1500 | 1500 | ✅ Done |
 | 23 | Maestro | — | 0 | 1700 | ❌ Missing |
 | 24 | Prodigy | — | 0 | 1900 | ❌ Missing |
 | 25 | Champion | — | 0 | 2100 | ❌ Missing |
@@ -118,7 +118,7 @@
 | 48 | World Champion | — | 0 | 12000 | ❌ Missing |
 | 49 | Ultimate Legend | — | 0 | 13000 | ❌ Missing |
 
-**Total Actual Words:** 9,275 (across 19 levels)
+**Total Actual Words:** 10,775 (across 20 levels)
 **Total Planned Words:** ~300,000+ (across 50 levels)
 
 ---

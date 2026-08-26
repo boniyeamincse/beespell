@@ -27576,5 +27576,3209 @@
   "example": "The aurora was beautiful.",
   "hint": "Starts with A and ends with A.",
   "image": ""
+ },
+ {
+  "id": "lvl22-1336",
+  "level": 22,
+  "order": 1336,
+  "word": "available",
+  "pronunciation": "/əˈveɪləbəl/",
+  "banglaPronunciation": "অ্যাভেইলেবল",
+  "meaning": "able to be used",
+  "banglaMeaning": "উপলব্ধ",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "va",
+   "i",
+   "la",
+   "ble"
+  ],
+  "example": "The book is available.",
+  "hint": "Starts with A and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1337",
+  "level": 22,
+  "order": 1337,
+  "word": "avalanche",
+  "pronunciation": "/ˈævəlɑːntʃ/",
+  "banglaPronunciation": "অ্যাভালান্চ",
+  "meaning": "a mass of falling snow",
+  "banglaMeaning": "তুষারধস",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "a",
+   "va",
+   "la",
+   "nche"
+  ],
+  "example": "The avalanche buried the road.",
+  "hint": "Starts with A and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1338",
+  "level": 22,
+  "order": 1338,
+  "word": "average",
+  "pronunciation": "/ˈævərɪdʒ/",
+  "banglaPronunciation": "অ্যাভারেজ",
+  "meaning": "the typical amount",
+  "banglaMeaning": "গড়",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "ve",
+   "ra",
+   "ge"
+  ],
+  "example": "The average was computed.",
+  "hint": "Starts with A and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1339",
+  "level": 22,
+  "order": 1339,
+  "word": "aviation",
+  "pronunciation": "/ˌeɪviˈeɪʃən/",
+  "banglaPronunciation": "এভিয়েশন",
+  "meaning": "the flying of aircraft",
+  "banglaMeaning": "বিমানচালনা",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "vi",
+   "a",
+   "ti",
+   "on"
+  ],
+  "example": "Aviation changed travel.",
+  "hint": "Starts with A and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1340",
+  "level": 22,
+  "order": 1340,
+  "word": "avid",
+  "pronunciation": "/ˈævɪd/",
+  "banglaPronunciation": "অ্যাভিড",
+  "meaning": "eager and enthusiastic",
+  "banglaMeaning": "উত্সাহী",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "vid"
+  ],
+  "example": "An avid reader.",
+  "hint": "Starts with A and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1341",
+  "level": 22,
+  "order": 1341,
+  "word": "avoid",
+  "pronunciation": "/əˈvɔɪd/",
+  "banglaPronunciation": "অ্যাভয়েড",
+  "meaning": "to keep away from",
+  "banglaMeaning": "এড়ানো",
+  "partOfSpeech": "verb",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "vo",
+   "id"
+  ],
+  "example": "Avoid the danger.",
+  "hint": "Starts with A and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1342",
+  "level": 22,
+  "order": 1342,
+  "word": "award",
+  "pronunciation": "/əˈwɔːrd/",
+  "banglaPronunciation": "অ্যাওয়ার্ড",
+  "meaning": "a prize given",
+  "banglaMeaning": "পুরস্কার",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "ward"
+  ],
+  "example": "She won an award.",
+  "hint": "Starts with A and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1343",
+  "level": 22,
+  "order": 1343,
+  "word": "aware",
+  "pronunciation": "/əˈwɛər/",
+  "banglaPronunciation": "অ্যাওয়্যার",
+  "meaning": "having knowledge",
+  "banglaMeaning": "সচেতন",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "a",
+   "wa",
+   "re"
+  ],
+  "example": "Be aware of the risks.",
+  "hint": "Starts with A and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1344",
+  "level": 22,
+  "order": 1344,
+  "word": "awkward",
+  "pronunciation": "/ˈɔːkwərd/",
+  "banglaPronunciation": "অকওয়ার্ড",
+  "meaning": "clumsy or embarrassing",
+  "banglaMeaning": "বেমানান",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "a",
+   "wkward"
+  ],
+  "example": "An awkward silence.",
+  "hint": "Starts with A and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1345",
+  "level": 22,
+  "order": 1345,
+  "word": "axis",
+  "pronunciation": "/ˈæksɪs/",
+  "banglaPronunciation": "অ্যাক্সিস",
+  "meaning": "a reference line",
+  "banglaMeaning": "অক্ষ",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "xis"
+  ],
+  "example": "The axis was drawn.",
+  "hint": "Starts with A and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1346",
+  "level": 22,
+  "order": 1346,
+  "word": "bachelor",
+  "pronunciation": "/ˈbætʃələr/",
+  "banglaPronunciation": "ব্যাচেলর",
+  "meaning": "an unmarried man",
+  "banglaMeaning": "অবিবাহিত পুরুষ",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "ba",
+   "che",
+   "lor"
+  ],
+  "example": "He is a bachelor.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1347",
+  "level": 22,
+  "order": 1347,
+  "word": "backbone",
+  "pronunciation": "/ˈbækboʊn/",
+  "banglaPronunciation": "ব্যাকবোন",
+  "meaning": "the spine",
+  "banglaMeaning": "মেরুদণ্ড",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "ckbo",
+   "ne"
+  ],
+  "example": "The backbone supports the body.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1348",
+  "level": 22,
+  "order": 1348,
+  "word": "backdrop",
+  "pronunciation": "/ˈbækdrɒp/",
+  "banglaPronunciation": "ব্যাকড্রপ",
+  "meaning": "a background setting",
+  "banglaMeaning": "পটভূমি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "ckdrop"
+  ],
+  "example": "The mountain backdrop was stunning.",
+  "hint": "Starts with B and ends with P.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1349",
+  "level": 22,
+  "order": 1349,
+  "word": "backfire",
+  "pronunciation": "/ˌbækˈfaɪər/",
+  "banglaPronunciation": "ব্যাকফায়ার",
+  "meaning": "to have an opposite effect",
+  "banglaMeaning": "বিপরীত ফল দেওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "ckfi",
+   "re"
+  ],
+  "example": "The plan backfired.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1350",
+  "level": 22,
+  "order": 1350,
+  "word": "background",
+  "pronunciation": "/ˈbækɡraʊnd/",
+  "banglaPronunciation": "ব্যাকগ্রাউন্ড",
+  "meaning": "the surrounding facts",
+  "banglaMeaning": "পটভূমি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "ckgro",
+   "und"
+  ],
+  "example": "The background was important.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1351",
+  "level": 22,
+  "order": 1351,
+  "word": "backlash",
+  "pronunciation": "/ˈbæklæʃ/",
+  "banglaPronunciation": "ব্যাকল্যাশ",
+  "meaning": "a strong negative reaction",
+  "banglaMeaning": "প্রতিক্রিয়া",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "cklash"
+  ],
+  "example": "The policy caused a backlash.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1352",
+  "level": 22,
+  "order": 1352,
+  "word": "bacteria",
+  "pronunciation": "/bækˈtɪəriə/",
+  "banglaPronunciation": "ব্যাকটেরিয়া",
+  "meaning": "tiny single-celled organisms",
+  "banglaMeaning": "ব্যাকটেরিয়া",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "ba",
+   "cte",
+   "ri",
+   "a"
+  ],
+  "example": "Some bacteria are good.",
+  "hint": "Starts with B and ends with A.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1353",
+  "level": 22,
+  "order": 1353,
+  "word": "badge",
+  "pronunciation": "/bædʒ/",
+  "banglaPronunciation": "ব্যাজ",
+  "meaning": "a distinctive emblem",
+  "banglaMeaning": "ব্যাজ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "dge"
+  ],
+  "example": "He wore a badge.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1354",
+  "level": 22,
+  "order": 1354,
+  "word": "baffle",
+  "pronunciation": "/ˈbæfəl/",
+  "banglaPronunciation": "ব্যাফল",
+  "meaning": "to confuse completely",
+  "banglaMeaning": "হতবুদ্ধি করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "ba",
+   "ffle"
+  ],
+  "example": "The puzzle baffled him.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1355",
+  "level": 22,
+  "order": 1355,
+  "word": "balance",
+  "pronunciation": "/ˈbæləns/",
+  "banglaPronunciation": "ব্যালেন্স",
+  "meaning": "an even state",
+  "banglaMeaning": "ভারসাম্য",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "ba",
+   "la",
+   "nce"
+  ],
+  "example": "Keep your balance.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1356",
+  "level": 22,
+  "order": 1356,
+  "word": "balcony",
+  "pronunciation": "/ˈbælkəni/",
+  "banglaPronunciation": "ব্যালকনি",
+  "meaning": "a platform on a building",
+  "banglaMeaning": "বারান্দা",
+  "partOfSpeech": "noun",
+  "origin": "Italian",
+  "syllables": [
+   "ba",
+   "lco",
+   "ny"
+  ],
+  "example": "The balcony overlooked the garden.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1357",
+  "level": 22,
+  "order": 1357,
+  "word": "ballad",
+  "pronunciation": "/ˈbæləd/",
+  "banglaPronunciation": "ব্যালাড",
+  "meaning": "a narrative song",
+  "banglaMeaning": "গাথা",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "ba",
+   "llad"
+  ],
+  "example": "The ballad told a story.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1358",
+  "level": 22,
+  "order": 1358,
+  "word": "ballot",
+  "pronunciation": "/ˈbælət/",
+  "banglaPronunciation": "ব্যালট",
+  "meaning": "a system of voting",
+  "banglaMeaning": "ভোট",
+  "partOfSpeech": "noun",
+  "origin": "Italian",
+  "syllables": [
+   "ba",
+   "llot"
+  ],
+  "example": "The ballot was secret.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1359",
+  "level": 22,
+  "order": 1359,
+  "word": "bamboo",
+  "pronunciation": "/bæmˈbuː/",
+  "banglaPronunciation": "বাঁশ",
+  "meaning": "a tall tropical grass",
+  "banglaMeaning": "বাঁশ",
+  "partOfSpeech": "noun",
+  "origin": "Malay",
+  "syllables": [
+   "ba",
+   "mbo",
+   "o"
+  ],
+  "example": "Bamboo grows fast.",
+  "hint": "Starts with B and ends with O.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1360",
+  "level": 22,
+  "order": 1360,
+  "word": "bandage",
+  "pronunciation": "/ˈbændɪdʒ/",
+  "banglaPronunciation": "ব্যান্ডেজ",
+  "meaning": "a strip for wrapping wounds",
+  "banglaMeaning": "ব্যান্ডেজ",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "ba",
+   "nda",
+   "ge"
+  ],
+  "example": "Apply a bandage.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1361",
+  "level": 22,
+  "order": 1361,
+  "word": "bankrupt",
+  "pronunciation": "/ˈbæŋkrʌpt/",
+  "banglaPronunciation": "ব্যাংক্রাপ্ট",
+  "meaning": "unable to pay debts",
+  "banglaMeaning": "দেউলিয়া",
+  "partOfSpeech": "adjective",
+  "origin": "Italian",
+  "syllables": [
+   "ba",
+   "nkrupt"
+  ],
+  "example": "The company went bankrupt.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1362",
+  "level": 22,
+  "order": 1362,
+  "word": "banquet",
+  "pronunciation": "/ˈbæŋkwɪt/",
+  "banglaPronunciation": "ভোজ",
+  "meaning": "a formal large meal",
+  "banglaMeaning": "ভোজ",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "ba",
+   "nqu",
+   "et"
+  ],
+  "example": "The banquet was grand.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1363",
+  "level": 22,
+  "order": 1363,
+  "word": "baptism",
+  "pronunciation": "/ˈbæptɪzəm/",
+  "banglaPronunciation": "ব্যাপ্টিজম",
+  "meaning": "a Christian ritual of initiation",
+  "banglaMeaning": "বাপ্তিস্ম",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "ba",
+   "ptism"
+  ],
+  "example": "The baptism was at the church.",
+  "hint": "Starts with B and ends with M.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1364",
+  "level": 22,
+  "order": 1364,
+  "word": "barricade",
+  "pronunciation": "/ˌbærɪˈkeɪd/",
+  "banglaPronunciation": "ব্যারিকেড",
+  "meaning": "a barrier for defense",
+  "banglaMeaning": "বাধা",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "ba",
+   "rri",
+   "ca",
+   "de"
+  ],
+  "example": "They built a barricade.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1365",
+  "level": 22,
+  "order": 1365,
+  "word": "barrier",
+  "pronunciation": "/ˈbæriər/",
+  "banglaPronunciation": "ব্যারিয়ার",
+  "meaning": "something that blocks the way",
+  "banglaMeaning": "বাধা",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "ba",
+   "rri",
+   "er"
+  ],
+  "example": "The barrier stopped the flood.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1366",
+  "level": 22,
+  "order": 1366,
+  "word": "barter",
+  "pronunciation": "/ˈbɑːrtər/",
+  "banglaPronunciation": "বার্টার",
+  "meaning": "to trade without money",
+  "banglaMeaning": "বিনিময় করা",
+  "partOfSpeech": "verb",
+  "origin": "French",
+  "syllables": [
+   "ba",
+   "rter"
+  ],
+  "example": "They bartered goods.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1367",
+  "level": 22,
+  "order": 1367,
+  "word": "basin",
+  "pronunciation": "/ˈbeɪsən/",
+  "banglaPronunciation": "বেসিন",
+  "meaning": "a bowl for washing",
+  "banglaMeaning": "বেসিন",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "ba",
+   "sin"
+  ],
+  "example": "Wash your hands in the basin.",
+  "hint": "Starts with B and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1368",
+  "level": 22,
+  "order": 1368,
+  "word": "bask",
+  "pronunciation": "/bɑːsk/",
+  "banglaPronunciation": "বাস্ক",
+  "meaning": "to lie in warmth",
+  "banglaMeaning": "রোদ পোহানো",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bask"
+  ],
+  "example": "Bask in the sun.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1369",
+  "level": 22,
+  "order": 1369,
+  "word": "battery",
+  "pronunciation": "/ˈbætəri/",
+  "banglaPronunciation": "ব্যাটারি",
+  "meaning": "a device that stores electrical energy",
+  "banglaMeaning": "ব্যাটারি",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "ba",
+   "tte",
+   "ry"
+  ],
+  "example": "The battery died.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1370",
+  "level": 22,
+  "order": 1370,
+  "word": "battle",
+  "pronunciation": "/ˈbætəl/",
+  "banglaPronunciation": "ব্যাটল",
+  "meaning": "a fight between armies",
+  "banglaMeaning": "যুদ্ধ",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "ba",
+   "ttle"
+  ],
+  "example": "The battle was fierce.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1371",
+  "level": 22,
+  "order": 1371,
+  "word": "beacon",
+  "pronunciation": "/ˈbiːkən/",
+  "banglaPronunciation": "বীকন",
+  "meaning": "a light that guides",
+  "banglaMeaning": "বাতিঘর",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "a",
+   "con"
+  ],
+  "example": "The beacon guided the ship.",
+  "hint": "Starts with B and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1372",
+  "level": 22,
+  "order": 1372,
+  "word": "beak",
+  "pronunciation": "/biːk/",
+  "banglaPronunciation": "বীক",
+  "meaning": "the hard mouth of a bird",
+  "banglaMeaning": "ঠোঁট",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ak"
+  ],
+  "example": "The bird had a sharp beak.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1373",
+  "level": 22,
+  "order": 1373,
+  "word": "beam",
+  "pronunciation": "/biːm/",
+  "banglaPronunciation": "বীম",
+  "meaning": "a long piece of wood or metal",
+  "banglaMeaning": "রশ্মি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "am"
+  ],
+  "example": "The beam supported the roof.",
+  "hint": "Starts with B and ends with M.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1374",
+  "level": 22,
+  "order": 1374,
+  "word": "beard",
+  "pronunciation": "/bɪərd/",
+  "banglaPronunciation": "বিয়ার্ড",
+  "meaning": "hair on the chin",
+  "banglaMeaning": "দাড়ি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "ard"
+  ],
+  "example": "He grew a beard.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1375",
+  "level": 22,
+  "order": 1375,
+  "word": "beast",
+  "pronunciation": "/biːst/",
+  "banglaPronunciation": "বিস্ট",
+  "meaning": "a large animal",
+  "banglaMeaning": "পশু",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ast"
+  ],
+  "example": "The beast roared.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1376",
+  "level": 22,
+  "order": 1376,
+  "word": "beauty",
+  "pronunciation": "/ˈbjuːti/",
+  "banglaPronunciation": "বিউটি",
+  "meaning": "a quality that pleases the senses",
+  "banglaMeaning": "সৌন্দর্য",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "a",
+   "u",
+   "ty"
+  ],
+  "example": "The beauty of nature.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1377",
+  "level": 22,
+  "order": 1377,
+  "word": "beaver",
+  "pronunciation": "/ˈbiːvər/",
+  "banglaPronunciation": "বিভার",
+  "meaning": "a large rodent that builds dams",
+  "banglaMeaning": "বিভার",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "a",
+   "ver"
+  ],
+  "example": "The beaver built a dam.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1378",
+  "level": 22,
+  "order": 1378,
+  "word": "bedrock",
+  "pronunciation": "/ˈbɛdrɒk/",
+  "banglaPronunciation": "বেডরক",
+  "meaning": "solid rock beneath the soil",
+  "banglaMeaning": "শক্ত পাথর",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "drock"
+  ],
+  "example": "The bedrock was solid.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1379",
+  "level": 22,
+  "order": 1379,
+  "word": "beef",
+  "pronunciation": "/biːf/",
+  "banglaPronunciation": "বিফ",
+  "meaning": "meat from cattle",
+  "banglaMeaning": "গরুর মাংস",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ef"
+  ],
+  "example": "He ate beef.",
+  "hint": "Starts with B and ends with F.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1380",
+  "level": 22,
+  "order": 1380,
+  "word": "beetle",
+  "pronunciation": "/ˈbiːtəl/",
+  "banglaPronunciation": "বীটল",
+  "meaning": "a type of insect",
+  "banglaMeaning": "গুবরে পোকা",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "e",
+   "tle"
+  ],
+  "example": "The beetle crawled.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1381",
+  "level": 22,
+  "order": 1381,
+  "word": "befall",
+  "pronunciation": "/bɪˈfɔːl/",
+  "banglaPronunciation": "বিফল",
+  "meaning": "to happen to",
+  "banglaMeaning": "ঘটা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "fall"
+  ],
+  "example": "A tragedy befell them.",
+  "hint": "Starts with B and ends with L.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1382",
+  "level": 22,
+  "order": 1382,
+  "word": "beguile",
+  "pronunciation": "/bɪˈɡaɪl/",
+  "banglaPronunciation": "বিগাইল",
+  "meaning": "to charm or deceive",
+  "banglaMeaning": "মুগ্ধ করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "gu",
+   "i",
+   "le"
+  ],
+  "example": "The music beguiled her.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1383",
+  "level": 22,
+  "order": 1383,
+  "word": "behalf",
+  "pronunciation": "/bɪˈhæf/",
+  "banglaPronunciation": "বিহাফ",
+  "meaning": "in the interest of",
+  "banglaMeaning": "পক্ষে",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "half"
+  ],
+  "example": "On behalf of the team.",
+  "hint": "Starts with B and ends with F.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1384",
+  "level": 22,
+  "order": 1384,
+  "word": "behave",
+  "pronunciation": "/bɪˈheɪv/",
+  "banglaPronunciation": "বিহেভ",
+  "meaning": "to act in a certain way",
+  "banglaMeaning": "আচরণ করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "ha",
+   "ve"
+  ],
+  "example": "Behave yourself.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1385",
+  "level": 22,
+  "order": 1385,
+  "word": "behavior",
+  "pronunciation": "/bɪˈheɪvjər/",
+  "banglaPronunciation": "বিহেভিয়র",
+  "meaning": "the way one acts",
+  "banglaMeaning": "আচরণ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "ha",
+   "vi",
+   "or"
+  ],
+  "example": "His behavior was good.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1386",
+  "level": 22,
+  "order": 1386,
+  "word": "belated",
+  "pronunciation": "/bɪˈleɪtɪd/",
+  "banglaPronunciation": "বিলেটেড",
+  "meaning": "late",
+  "banglaMeaning": "দেরিতে",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "la",
+   "ted"
+  ],
+  "example": "A belated birthday wish.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1387",
+  "level": 22,
+  "order": 1387,
+  "word": "belief",
+  "pronunciation": "/bɪˈliːf/",
+  "banglaPronunciation": "বিলিফ",
+  "meaning": "an accepted truth",
+  "banglaMeaning": "বিশ্বাস",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "li",
+   "ef"
+  ],
+  "example": "The belief was strong.",
+  "hint": "Starts with B and ends with F.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1388",
+  "level": 22,
+  "order": 1388,
+  "word": "belittle",
+  "pronunciation": "/bɪˈlɪtəl/",
+  "banglaPronunciation": "বিলিটল",
+  "meaning": "to make seem unimportant",
+  "banglaMeaning": "ছোট করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "li",
+   "ttle"
+  ],
+  "example": "Do not belittle others.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1389",
+  "level": 22,
+  "order": 1389,
+  "word": "bellow",
+  "pronunciation": "/ˈbɛloʊ/",
+  "banglaPronunciation": "বেলো",
+  "meaning": "to shout loudly",
+  "banglaMeaning": "গর্জন করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "llow"
+  ],
+  "example": "The bull bellowed.",
+  "hint": "Starts with B and ends with W.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1390",
+  "level": 22,
+  "order": 1390,
+  "word": "beloved",
+  "pronunciation": "/bɪˈlʌvɪd/",
+  "banglaPronunciation": "বিলাভড",
+  "meaning": "dearly loved",
+  "banglaMeaning": "প্রিয়",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "lo",
+   "ved"
+  ],
+  "example": "Her beloved husband.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1391",
+  "level": 22,
+  "order": 1391,
+  "word": "bemoan",
+  "pronunciation": "/bɪˈmoʊn/",
+  "banglaPronunciation": "বিমোন",
+  "meaning": "to express regret",
+  "banglaMeaning": "শোক করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "mo",
+   "an"
+  ],
+  "example": "He bemoaned his fate.",
+  "hint": "Starts with B and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1392",
+  "level": 22,
+  "order": 1392,
+  "word": "bemused",
+  "pronunciation": "/bɪˈmjuːzd/",
+  "banglaPronunciation": "বিমিউজড",
+  "meaning": "confused or puzzled",
+  "banglaMeaning": "বিভ্রান্ত",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "mu",
+   "sed"
+  ],
+  "example": "A bemused look.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1393",
+  "level": 22,
+  "order": 1393,
+  "word": "bench",
+  "pronunciation": "/bɛntʃ/",
+  "banglaPronunciation": "বেনচ",
+  "meaning": "a long seat",
+  "banglaMeaning": "বেনচ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bench"
+  ],
+  "example": "Sit on the bench.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1394",
+  "level": 22,
+  "order": 1394,
+  "word": "beneath",
+  "pronunciation": "/bɪˈniːθ/",
+  "banglaPronunciation": "বিনিথ",
+  "meaning": "under",
+  "banglaMeaning": "নিচে",
+  "partOfSpeech": "preposition",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "ne",
+   "ath"
+  ],
+  "example": "Beneath the surface.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1395",
+  "level": 22,
+  "order": 1395,
+  "word": "benefactor",
+  "pronunciation": "/ˈbɛnɪfæktər/",
+  "banglaPronunciation": "বেনিফ্যাক্টর",
+  "meaning": "a person who gives help",
+  "banglaMeaning": "দাতা",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ne",
+   "fa",
+   "ctor"
+  ],
+  "example": "The benefactor funded the library.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1396",
+  "level": 22,
+  "order": 1396,
+  "word": "beneficial",
+  "pronunciation": "/ˌbɛnɪˈfɪʃəl/",
+  "banglaPronunciation": "বেনিফিশিয়াল",
+  "meaning": "helpful and good",
+  "banglaMeaning": "উপকারী",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ne",
+   "fi",
+   "ci",
+   "al"
+  ],
+  "example": "Exercise is beneficial.",
+  "hint": "Starts with B and ends with L.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1397",
+  "level": 22,
+  "order": 1397,
+  "word": "benefit",
+  "pronunciation": "/ˈbɛnɪfɪt/",
+  "banglaPronunciation": "বেনিফিট",
+  "meaning": "a good result",
+  "banglaMeaning": "সুবিধা",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ne",
+   "fit"
+  ],
+  "example": "The benefit was real.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1398",
+  "level": 22,
+  "order": 1398,
+  "word": "benevolent",
+  "pronunciation": "/bəˈnɛvələnt/",
+  "banglaPronunciation": "বেনিভোলেন্ট",
+  "meaning": "kind and generous",
+  "banglaMeaning": "সদয়",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ne",
+   "vo",
+   "lent"
+  ],
+  "example": "The benevolent king helped all.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1399",
+  "level": 22,
+  "order": 1399,
+  "word": "bequeath",
+  "pronunciation": "/bɪˈkwiːð/",
+  "banglaPronunciation": "বিকুইথ",
+  "meaning": "to leave in a will",
+  "banglaMeaning": "উত্তরাধিকার দিয়ে যাওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "qu",
+   "e",
+   "ath"
+  ],
+  "example": "He bequeathed his wealth.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1400",
+  "level": 22,
+  "order": 1400,
+  "word": "berate",
+  "pronunciation": "/bɪˈreɪt/",
+  "banglaPronunciation": "বিরেট",
+  "meaning": "to scold angrily",
+  "banglaMeaning": "গালিগালাজ করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "ra",
+   "te"
+  ],
+  "example": "He berated the staff.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1401",
+  "level": 22,
+  "order": 1401,
+  "word": "bereft",
+  "pronunciation": "/bɪˈrɛft/",
+  "banglaPronunciation": "বিরেফ্ট",
+  "meaning": "deprived of",
+  "banglaMeaning": "বঞ্চিত",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "reft"
+  ],
+  "example": "Bereft of hope.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1402",
+  "level": 22,
+  "order": 1402,
+  "word": "beseech",
+  "pronunciation": "/bɪˈsiːtʃ/",
+  "banglaPronunciation": "বিসিচ",
+  "meaning": "to beg urgently",
+  "banglaMeaning": "অনুনয় করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "se",
+   "ech"
+  ],
+  "example": "I beseech you to help.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1403",
+  "level": 22,
+  "order": 1403,
+  "word": "beset",
+  "pronunciation": "/bɪˈsɛt/",
+  "banglaPronunciation": "বিসেট",
+  "meaning": "to surround or attack",
+  "banglaMeaning": "ঘেরাও করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "set"
+  ],
+  "example": "Beset by problems.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1404",
+  "level": 22,
+  "order": 1404,
+  "word": "besiege",
+  "pronunciation": "/bɪˈsiːdʒ/",
+  "banglaPronunciation": "বিসিজ",
+  "meaning": "to surround with an army",
+  "banglaMeaning": "অবরোধ করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "si",
+   "e",
+   "ge"
+  ],
+  "example": "The army besieged the city.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1405",
+  "level": 22,
+  "order": 1405,
+  "word": "bestow",
+  "pronunciation": "/bɪˈstoʊ/",
+  "banglaPronunciation": "বিস্টো",
+  "meaning": "to give as a gift",
+  "banglaMeaning": "দান করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "stow"
+  ],
+  "example": "Bestow an honor.",
+  "hint": "Starts with B and ends with W.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1406",
+  "level": 22,
+  "order": 1406,
+  "word": "betray",
+  "pronunciation": "/bɪˈtreɪ/",
+  "banglaPronunciation": "বিট্রে",
+  "meaning": "to be disloyal to",
+  "banglaMeaning": "বিশ্বাসঘাতকতা করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "tra",
+   "y"
+  ],
+  "example": "Do not betray your friend.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1407",
+  "level": 22,
+  "order": 1407,
+  "word": "beverage",
+  "pronunciation": "/ˈbɛvərɪdʒ/",
+  "banglaPronunciation": "বেভারেজ",
+  "meaning": "a drink",
+  "banglaMeaning": "পানীয়",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "be",
+   "ve",
+   "ra",
+   "ge"
+  ],
+  "example": "A cold beverage.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1408",
+  "level": 22,
+  "order": 1408,
+  "word": "bewilder",
+  "pronunciation": "/bɪˈwɪldər/",
+  "banglaPronunciation": "বিউইল্ডার",
+  "meaning": "to confuse",
+  "banglaMeaning": "বিভ্রান্ত করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "be",
+   "wi",
+   "lder"
+  ],
+  "example": "The maze bewildered them.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1409",
+  "level": 22,
+  "order": 1409,
+  "word": "bias",
+  "pronunciation": "/ˈbaɪəs/",
+  "banglaPronunciation": "বায়াস",
+  "meaning": "an unfair preference",
+  "banglaMeaning": "পক্ষপাত",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bi",
+   "as"
+  ],
+  "example": "The bias was clear.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1410",
+  "level": 22,
+  "order": 1410,
+  "word": "bicker",
+  "pronunciation": "/ˈbɪkər/",
+  "banglaPronunciation": "বিকার",
+  "meaning": "to argue about small things",
+  "banglaMeaning": "বচসা করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bi",
+   "cker"
+  ],
+  "example": "They bickered all day.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1411",
+  "level": 22,
+  "order": 1411,
+  "word": "bicycle",
+  "pronunciation": "/ˈbaɪsɪkəl/",
+  "banglaPronunciation": "বাইসাইকেল",
+  "meaning": "a two-wheeled vehicle",
+  "banglaMeaning": "সাইকেল",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "bi",
+   "cy",
+   "cle"
+  ],
+  "example": "She rode her bicycle.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1412",
+  "level": 22,
+  "order": 1412,
+  "word": "bid",
+  "pronunciation": "/bɪd/",
+  "banglaPronunciation": "বিড",
+  "meaning": "an offer of money",
+  "banglaMeaning": "দর",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bid"
+  ],
+  "example": "The bid was accepted.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1413",
+  "level": 22,
+  "order": 1413,
+  "word": "bilingual",
+  "pronunciation": "/baɪˈlɪŋɡwəl/",
+  "banglaPronunciation": "বাইলিঙ্গুয়াল",
+  "meaning": "speaking two languages",
+  "banglaMeaning": "দ্বিভাষী",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "bi",
+   "li",
+   "ngu",
+   "al"
+  ],
+  "example": "She is bilingual.",
+  "hint": "Starts with B and ends with L.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1414",
+  "level": 22,
+  "order": 1414,
+  "word": "billow",
+  "pronunciation": "/ˈbɪloʊ/",
+  "banglaPronunciation": "বিলো",
+  "meaning": "a large wave of smoke or cloud",
+  "banglaMeaning": "উর্মি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bi",
+   "llow"
+  ],
+  "example": "Billows of smoke.",
+  "hint": "Starts with B and ends with W.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1415",
+  "level": 22,
+  "order": 1415,
+  "word": "bind",
+  "pronunciation": "/baɪnd/",
+  "banglaPronunciation": "বাইন্ড",
+  "meaning": "to tie together",
+  "banglaMeaning": "বাঁধা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bind"
+  ],
+  "example": "Bind the papers.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1416",
+  "level": 22,
+  "order": 1416,
+  "word": "binoculars",
+  "pronunciation": "/bɪˈnɒkjələrz/",
+  "banglaPronunciation": "বাইনোকুলার",
+  "meaning": "a device for viewing distant objects",
+  "banglaMeaning": "দূরবিন",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "bi",
+   "no",
+   "cu",
+   "lars"
+  ],
+  "example": "He looked through binoculars.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1417",
+  "level": 22,
+  "order": 1417,
+  "word": "biography",
+  "pronunciation": "/baɪˈɒɡrəfi/",
+  "banglaPronunciation": "বায়োগ্রাফি",
+  "meaning": "the story of a person's life",
+  "banglaMeaning": "জীবনী",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "bi",
+   "o",
+   "gra",
+   "phy"
+  ],
+  "example": "I read a biography of Einstein.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1418",
+  "level": 22,
+  "order": 1418,
+  "word": "biology",
+  "pronunciation": "/baɪˈɒlədʒi/",
+  "banglaPronunciation": "বায়োলজি",
+  "meaning": "the study of life",
+  "banglaMeaning": "জীববিজ্ঞান",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "bi",
+   "o",
+   "lo",
+   "gy"
+  ],
+  "example": "Biology is my favorite.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1419",
+  "level": 22,
+  "order": 1419,
+  "word": "biscuit",
+  "pronunciation": "/ˈbɪskɪt/",
+  "banglaPronunciation": "বিস্কিট",
+  "meaning": "a small baked bread",
+  "banglaMeaning": "বিস্কুট",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bi",
+   "scu",
+   "it"
+  ],
+  "example": "She ate a biscuit.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1420",
+  "level": 22,
+  "order": 1420,
+  "word": "bishop",
+  "pronunciation": "/ˈbɪʃəp/",
+  "banglaPronunciation": "বিশপ",
+  "meaning": "a high-ranking church official",
+  "banglaMeaning": "বিশপ",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "bi",
+   "shop"
+  ],
+  "example": "The bishop gave a sermon.",
+  "hint": "Starts with B and ends with P.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1421",
+  "level": 22,
+  "order": 1421,
+  "word": "bitter",
+  "pronunciation": "/ˈbɪtər/",
+  "banglaPronunciation": "বিটার",
+  "meaning": "having a sharp taste",
+  "banglaMeaning": "তিক্ত",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bi",
+   "tter"
+  ],
+  "example": "The coffee was bitter.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1422",
+  "level": 22,
+  "order": 1422,
+  "word": "bizarre",
+  "pronunciation": "/bɪˈzɑːr/",
+  "banglaPronunciation": "বিজার",
+  "meaning": "very strange",
+  "banglaMeaning": "অদ্ভুত",
+  "partOfSpeech": "adjective",
+  "origin": "French",
+  "syllables": [
+   "bi",
+   "za",
+   "rre"
+  ],
+  "example": "A bizarre costume.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1423",
+  "level": 22,
+  "order": 1423,
+  "word": "blackmail",
+  "pronunciation": "/ˈblækmeɪl/",
+  "banglaPronunciation": "ব্ল্যাকমেইল",
+  "meaning": "to demand payment by threat",
+  "banglaMeaning": "ব্ল্যাকমেইল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bla",
+   "ckma",
+   "il"
+  ],
+  "example": "He was charged with blackmail.",
+  "hint": "Starts with B and ends with L.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1424",
+  "level": 22,
+  "order": 1424,
+  "word": "blade",
+  "pronunciation": "/bleɪd/",
+  "banglaPronunciation": "ব্লেড",
+  "meaning": "the sharp part of a knife",
+  "banglaMeaning": "ব্লেড",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bla",
+   "de"
+  ],
+  "example": "The blade was sharp.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1425",
+  "level": 22,
+  "order": 1425,
+  "word": "blame",
+  "pronunciation": "/bleɪm/",
+  "banglaPronunciation": "ব্লেম",
+  "meaning": "to hold responsible",
+  "banglaMeaning": "দোষ দেওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bla",
+   "me"
+  ],
+  "example": "Do not blame me.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1426",
+  "level": 22,
+  "order": 1426,
+  "word": "blank",
+  "pronunciation": "/blæŋk/",
+  "banglaPronunciation": "ব্ল্যাংক",
+  "meaning": "empty",
+  "banglaMeaning": "ফাঁকা",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "blank"
+  ],
+  "example": "A blank page.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1427",
+  "level": 22,
+  "order": 1427,
+  "word": "blanket",
+  "pronunciation": "/ˈblæŋkɪt/",
+  "banglaPronunciation": "ব্ল্যাংকেট",
+  "meaning": "a large cover for warmth",
+  "banglaMeaning": "কম্বল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bla",
+   "nket"
+  ],
+  "example": "The blanket was warm.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1428",
+  "level": 22,
+  "order": 1428,
+  "word": "blast",
+  "pronunciation": "/blɑːst/",
+  "banglaPronunciation": "ব্লাস্ট",
+  "meaning": "an explosion",
+  "banglaMeaning": "বিস্ফোরণ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "blast"
+  ],
+  "example": "The blast was heard for miles.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1429",
+  "level": 22,
+  "order": 1429,
+  "word": "blatant",
+  "pronunciation": "/ˈbleɪtənt/",
+  "banglaPronunciation": "ব্লেট্যান্ট",
+  "meaning": "obvious and loud",
+  "banglaMeaning": "সুস্পষ্ট",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "bla",
+   "tant"
+  ],
+  "example": "A blatant lie.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1430",
+  "level": 22,
+  "order": 1430,
+  "word": "blaze",
+  "pronunciation": "/bleɪz/",
+  "banglaPronunciation": "ব্লেজ",
+  "meaning": "a bright flame",
+  "banglaMeaning": "শিখা",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bla",
+   "ze"
+  ],
+  "example": "The blaze was huge.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1431",
+  "level": 22,
+  "order": 1431,
+  "word": "bleak",
+  "pronunciation": "/bliːk/",
+  "banglaPronunciation": "ব্লিক",
+  "meaning": "cold and hopeless",
+  "banglaMeaning": "নিরাশাজনক",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "ble",
+   "ak"
+  ],
+  "example": "The future looked bleak.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1432",
+  "level": 22,
+  "order": 1432,
+  "word": "bleed",
+  "pronunciation": "/bliːd/",
+  "banglaPronunciation": "ব্লিড",
+  "meaning": "to lose blood",
+  "banglaMeaning": "রক্তপাত হওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "ble",
+   "ed"
+  ],
+  "example": "The wound bled.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1433",
+  "level": 22,
+  "order": 1433,
+  "word": "blemish",
+  "pronunciation": "/ˈblɛmɪʃ/",
+  "banglaPronunciation": "ব্লেমিশ",
+  "meaning": "a mark or flaw",
+  "banglaMeaning": "দাগ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "ble",
+   "mish"
+  ],
+  "example": "The skin had a blemish.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1434",
+  "level": 22,
+  "order": 1434,
+  "word": "blend",
+  "pronunciation": "/blɛnd/",
+  "banglaPronunciation": "ব্লেন্ড",
+  "meaning": "to mix together",
+  "banglaMeaning": "মিশ্রণ করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "blend"
+  ],
+  "example": "Blend the ingredients.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1435",
+  "level": 22,
+  "order": 1435,
+  "word": "bless",
+  "pronunciation": "/blɛs/",
+  "banglaPronunciation": "ব্লেস",
+  "meaning": "to make holy",
+  "banglaMeaning": "আশীর্বাদ করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bless"
+  ],
+  "example": "Bless this house.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1436",
+  "level": 22,
+  "order": 1436,
+  "word": "blink",
+  "pronunciation": "/blɪŋk/",
+  "banglaPronunciation": "ব্লিংক",
+  "meaning": "to open and close the eyes quickly",
+  "banglaMeaning": "পলক ফেলা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "blink"
+  ],
+  "example": "Blink your eyes.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1437",
+  "level": 22,
+  "order": 1437,
+  "word": "bliss",
+  "pronunciation": "/blɪs/",
+  "banglaPronunciation": "ব্লিস",
+  "meaning": "perfect happiness",
+  "banglaMeaning": "পরম সুখ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bliss"
+  ],
+  "example": "A state of bliss.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1438",
+  "level": 22,
+  "order": 1438,
+  "word": "blizzard",
+  "pronunciation": "/ˈblɪzərd/",
+  "banglaPronunciation": "ব্লিজার্ড",
+  "meaning": "a severe snowstorm",
+  "banglaMeaning": "তুষারঝড়",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bli",
+   "zzard"
+  ],
+  "example": "The blizzard closed the roads.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1439",
+  "level": 22,
+  "order": 1439,
+  "word": "bloom",
+  "pronunciation": "/bluːm/",
+  "banglaPronunciation": "ব্লুম",
+  "meaning": "to produce flowers",
+  "banglaMeaning": "ফুল ফোটা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "blo",
+   "om"
+  ],
+  "example": "The flowers bloomed.",
+  "hint": "Starts with B and ends with M.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1440",
+  "level": 22,
+  "order": 1440,
+  "word": "blossom",
+  "pronunciation": "/ˈblɒsəm/",
+  "banglaPronunciation": "ব্লসম",
+  "meaning": "a flower or the state of flowering",
+  "banglaMeaning": "পুষ্প",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "blo",
+   "ssom"
+  ],
+  "example": "The cherry blossom.",
+  "hint": "Starts with B and ends with M.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1441",
+  "level": 22,
+  "order": 1441,
+  "word": "blueprint",
+  "pronunciation": "/ˈbluːprɪnt/",
+  "banglaPronunciation": "ব্লুপ্রিন্ট",
+  "meaning": "a detailed plan",
+  "banglaMeaning": "নির্দেশক নকশা",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "blu",
+   "e",
+   "print"
+  ],
+  "example": "The blueprint was followed.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1442",
+  "level": 22,
+  "order": 1442,
+  "word": "bluff",
+  "pronunciation": "/blʌf/",
+  "banglaPronunciation": "ব্লাফ",
+  "meaning": "to pretend to be stronger",
+  "banglaMeaning": "ভান করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bluff"
+  ],
+  "example": "He bluffed his way through.",
+  "hint": "Starts with B and ends with F.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1443",
+  "level": 22,
+  "order": 1443,
+  "word": "blunder",
+  "pronunciation": "/ˈblʌndər/",
+  "banglaPronunciation": "ব্লান্ডার",
+  "meaning": "a stupid mistake",
+  "banglaMeaning": "বড় ভুল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "blu",
+   "nder"
+  ],
+  "example": "He made a blunder.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1444",
+  "level": 22,
+  "order": 1444,
+  "word": "blunt",
+  "pronunciation": "/blʌnt/",
+  "banglaPronunciation": "ব্লান্ট",
+  "meaning": "not sharp; direct",
+  "banglaMeaning": "ভোঁতা",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "blunt"
+  ],
+  "example": "A blunt knife.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1445",
+  "level": 22,
+  "order": 1445,
+  "word": "blur",
+  "pronunciation": "/blɜːr/",
+  "banglaPronunciation": "ব্লার",
+  "meaning": "to make unclear",
+  "banglaMeaning": "অস্পষ্ট করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "blur"
+  ],
+  "example": "The photo was blurred.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1446",
+  "level": 22,
+  "order": 1446,
+  "word": "blush",
+  "pronunciation": "/blʌʃ/",
+  "banglaPronunciation": "ব্লাশ",
+  "meaning": "to become red from embarrassment",
+  "banglaMeaning": "লজ্জায় লাল হওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "blush"
+  ],
+  "example": "She blushed.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1447",
+  "level": 22,
+  "order": 1447,
+  "word": "board",
+  "pronunciation": "/bɔːrd/",
+  "banglaPronunciation": "বোর্ড",
+  "meaning": "a flat piece of wood",
+  "banglaMeaning": "বোর্ড",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "ard"
+  ],
+  "example": "The board was nailed.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1448",
+  "level": 22,
+  "order": 1448,
+  "word": "boast",
+  "pronunciation": "/boʊst/",
+  "banglaPronunciation": "বোস্ট",
+  "meaning": "to brag",
+  "banglaMeaning": "অহংকার করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "ast"
+  ],
+  "example": "He boasted about his wealth.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1449",
+  "level": 22,
+  "order": 1449,
+  "word": "boisterous",
+  "pronunciation": "/ˈbɔɪstərəs/",
+  "banglaPronunciation": "বয়স্টারাস",
+  "meaning": "noisy and lively",
+  "banglaMeaning": "উদ্দাম",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "i",
+   "ste",
+   "ro",
+   "us"
+  ],
+  "example": "A boisterous crowd.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1450",
+  "level": 22,
+  "order": 1450,
+  "word": "bold",
+  "pronunciation": "/boʊld/",
+  "banglaPronunciation": "বোল্ড",
+  "meaning": "brave and confident",
+  "banglaMeaning": "সাহসী",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bold"
+  ],
+  "example": "A bold move.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1451",
+  "level": 22,
+  "order": 1451,
+  "word": "bolt",
+  "pronunciation": "/boʊlt/",
+  "banglaPronunciation": "বোল্ট",
+  "meaning": "a fastener for a door",
+  "banglaMeaning": "বল্টু",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bolt"
+  ],
+  "example": "Bolt the door.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1452",
+  "level": 22,
+  "order": 1452,
+  "word": "bombard",
+  "pronunciation": "/bɒmˈbɑːrd/",
+  "banglaPronunciation": "বম্বার্ড",
+  "meaning": "to attack with bombs",
+  "banglaMeaning": "বোমা মারা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "mbard"
+  ],
+  "example": "They bombarded the city.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1453",
+  "level": 22,
+  "order": 1453,
+  "word": "bond",
+  "pronunciation": "/bɒnd/",
+  "banglaPronunciation": "বন্ড",
+  "meaning": "a connection or link",
+  "banglaMeaning": "বন্ধন",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bond"
+  ],
+  "example": "The bond between them was strong.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1454",
+  "level": 22,
+  "order": 1454,
+  "word": "bonus",
+  "pronunciation": "/ˈboʊnəs/",
+  "banglaPronunciation": "বোনাস",
+  "meaning": "an extra payment",
+  "banglaMeaning": "বোনাস",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "bo",
+   "nus"
+  ],
+  "example": "She received a bonus.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1455",
+  "level": 22,
+  "order": 1455,
+  "word": "boom",
+  "pronunciation": "/buːm/",
+  "banglaPronunciation": "বুম",
+  "meaning": "a loud deep sound",
+  "banglaMeaning": "গর্জন",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "om"
+  ],
+  "example": "The boom of thunder.",
+  "hint": "Starts with B and ends with M.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1456",
+  "level": 22,
+  "order": 1456,
+  "word": "boon",
+  "pronunciation": "/buːn/",
+  "banglaPronunciation": "বুন",
+  "meaning": "a benefit or blessing",
+  "banglaMeaning": "বর",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "on"
+  ],
+  "example": "The rain was a boon.",
+  "hint": "Starts with B and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1457",
+  "level": 22,
+  "order": 1457,
+  "word": "boost",
+  "pronunciation": "/buːst/",
+  "banglaPronunciation": "বুস্ট",
+  "meaning": "to increase or improve",
+  "banglaMeaning": "বাড়ানো",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "ost"
+  ],
+  "example": "Boost the signal.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1458",
+  "level": 22,
+  "order": 1458,
+  "word": "boot",
+  "pronunciation": "/buːt/",
+  "banglaPronunciation": "বুট",
+  "meaning": "a strong shoe",
+  "banglaMeaning": "বুট",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "ot"
+  ],
+  "example": "Wear your boots.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1459",
+  "level": 22,
+  "order": 1459,
+  "word": "border",
+  "pronunciation": "/ˈbɔːrdər/",
+  "banglaPronunciation": "বর্ডার",
+  "meaning": "a line dividing two areas",
+  "banglaMeaning": "সীমানা",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bo",
+   "rder"
+  ],
+  "example": "Cross the border.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1460",
+  "level": 22,
+  "order": 1460,
+  "word": "borrow",
+  "pronunciation": "/ˈbɒroʊ/",
+  "banglaPronunciation": "বোরো",
+  "meaning": "to take with permission to return",
+  "banglaMeaning": "ধার করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "rrow"
+  ],
+  "example": "Borrow a book.",
+  "hint": "Starts with B and ends with W.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1461",
+  "level": 22,
+  "order": 1461,
+  "word": "bother",
+  "pronunciation": "/ˈbɒðər/",
+  "banglaPronunciation": "বদার",
+  "meaning": "to trouble or annoy",
+  "banglaMeaning": "বিরক্ত করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "ther"
+  ],
+  "example": "Do not bother me.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1462",
+  "level": 22,
+  "order": 1462,
+  "word": "bottle",
+  "pronunciation": "/ˈbɒtəl/",
+  "banglaPronunciation": "বটল",
+  "meaning": "a container for liquid",
+  "banglaMeaning": "বোতল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "ttle"
+  ],
+  "example": "The bottle was full.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1463",
+  "level": 22,
+  "order": 1463,
+  "word": "boulder",
+  "pronunciation": "/ˈboʊldər/",
+  "banglaPronunciation": "বোল্ডার",
+  "meaning": "a large rock",
+  "banglaMeaning": "বড় পাথর",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "u",
+   "lder"
+  ],
+  "example": "The boulder blocked the road.",
+  "hint": "Starts with B and ends with R.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1464",
+  "level": 22,
+  "order": 1464,
+  "word": "bounce",
+  "pronunciation": "/baʊns/",
+  "banglaPronunciation": "বাউন্স",
+  "meaning": "to spring back after hitting",
+  "banglaMeaning": "উঠে পড়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "u",
+   "nce"
+  ],
+  "example": "The ball bounced.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1465",
+  "level": 22,
+  "order": 1465,
+  "word": "bound",
+  "pronunciation": "/baʊnd/",
+  "banglaPronunciation": "বাউন্ড",
+  "meaning": "to jump; a limit",
+  "banglaMeaning": "সীমা",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "und"
+  ],
+  "example": "The bounds of the property.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1466",
+  "level": 22,
+  "order": 1466,
+  "word": "boundary",
+  "pronunciation": "/ˈbaʊndəri/",
+  "banglaPronunciation": "বাউন্ডারি",
+  "meaning": "a dividing line",
+  "banglaMeaning": "সীমানা",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "bo",
+   "u",
+   "nda",
+   "ry"
+  ],
+  "example": "The river forms a boundary.",
+  "hint": "Starts with B and ends with Y.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1467",
+  "level": 22,
+  "order": 1467,
+  "word": "bouquet",
+  "pronunciation": "/buːˈkeɪ/",
+  "banglaPronunciation": "বুকেই",
+  "meaning": "a bunch of flowers",
+  "banglaMeaning": "ফুলের তোড়া",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bo",
+   "u",
+   "qu",
+   "et"
+  ],
+  "example": "He gave her a bouquet.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1468",
+  "level": 22,
+  "order": 1468,
+  "word": "boutique",
+  "pronunciation": "/buːˈtiːk/",
+  "banglaPronunciation": "বুটিক",
+  "meaning": "a small fashionable shop",
+  "banglaMeaning": "বুটিক দোকান",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bo",
+   "u",
+   "ti",
+   "qu",
+   "e"
+  ],
+  "example": "She owns a dress boutique.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1469",
+  "level": 22,
+  "order": 1469,
+  "word": "boycott",
+  "pronunciation": "/ˈbɔɪkɒt/",
+  "banglaPronunciation": "বয়কট",
+  "meaning": "to refuse to deal with",
+  "banglaMeaning": "বয়কট করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bo",
+   "y",
+   "cott"
+  ],
+  "example": "They boycotted the store.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1470",
+  "level": 22,
+  "order": 1470,
+  "word": "brace",
+  "pronunciation": "/breɪs/",
+  "banglaPronunciation": "ব্রেস",
+  "meaning": "to prepare for impact",
+  "banglaMeaning": "প্রস্তুত করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bra",
+   "ce"
+  ],
+  "example": "Brace for the blow.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1471",
+  "level": 22,
+  "order": 1471,
+  "word": "bracelet",
+  "pronunciation": "/ˈbreɪslət/",
+  "banglaPronunciation": "ব্রেসলেট",
+  "meaning": "a piece of jewelry for the wrist",
+  "banglaMeaning": "ব্রেসলেট",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bra",
+   "ce",
+   "let"
+  ],
+  "example": "She wore a gold bracelet.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1472",
+  "level": 22,
+  "order": 1472,
+  "word": "bracket",
+  "pronunciation": "/ˈbrækɪt/",
+  "banglaPronunciation": "ব্র্যাকেট",
+  "meaning": "a support for a shelf",
+  "banglaMeaning": "বন্ধনী",
+  "partOfSpeech": "noun",
+  "origin": "French",
+  "syllables": [
+   "bra",
+   "cket"
+  ],
+  "example": "Fix the bracket to the wall.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1473",
+  "level": 22,
+  "order": 1473,
+  "word": "brag",
+  "pronunciation": "/bræɡ/",
+  "banglaPronunciation": "ব্র্যাগ",
+  "meaning": "to boast",
+  "banglaMeaning": "অহংকার করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "brag"
+  ],
+  "example": "He bragged about his car.",
+  "hint": "Starts with B and ends with G.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1474",
+  "level": 22,
+  "order": 1474,
+  "word": "braid",
+  "pronunciation": "/breɪd/",
+  "banglaPronunciation": "ব্রেইড",
+  "meaning": "to weave hair",
+  "banglaMeaning": "বেণী করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bra",
+   "id"
+  ],
+  "example": "She braided her hair.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1475",
+  "level": 22,
+  "order": 1475,
+  "word": "brain",
+  "pronunciation": "/breɪn/",
+  "banglaPronunciation": "ব্রেইন",
+  "meaning": "the organ of the mind",
+  "banglaMeaning": "মস্তিষ্ক",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bra",
+   "in"
+  ],
+  "example": "The brain controls the body.",
+  "hint": "Starts with B and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1476",
+  "level": 22,
+  "order": 1476,
+  "word": "brake",
+  "pronunciation": "/breɪk/",
+  "banglaPronunciation": "ব্রেক",
+  "meaning": "a device for stopping",
+  "banglaMeaning": "ব্রেক",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bra",
+   "ke"
+  ],
+  "example": "Press the brake.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1477",
+  "level": 22,
+  "order": 1477,
+  "word": "branch",
+  "pronunciation": "/brɑːntʃ/",
+  "banglaPronunciation": "ব্রাঞ্চ",
+  "meaning": "a part of a tree",
+  "banglaMeaning": "ডাল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "branch"
+  ],
+  "example": "The bird sat on a branch.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1478",
+  "level": 22,
+  "order": 1478,
+  "word": "brand",
+  "pronunciation": "/brænd/",
+  "banglaPronunciation": "ব্র্যান্ড",
+  "meaning": "a type of product",
+  "banglaMeaning": "ব্র্যান্ড",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "brand"
+  ],
+  "example": "What brand is that?",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1479",
+  "level": 22,
+  "order": 1479,
+  "word": "brass",
+  "pronunciation": "/brɑːs/",
+  "banglaPronunciation": "ব্রাস",
+  "meaning": "a yellow metal",
+  "banglaMeaning": "পিতল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "brass"
+  ],
+  "example": "The handle was made of brass.",
+  "hint": "Starts with B and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1480",
+  "level": 22,
+  "order": 1480,
+  "word": "brave",
+  "pronunciation": "/breɪv/",
+  "banglaPronunciation": "ব্রেইভ",
+  "meaning": "courageous",
+  "banglaMeaning": "সাহসী",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bra",
+   "ve"
+  ],
+  "example": "A brave firefighter.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1481",
+  "level": 22,
+  "order": 1481,
+  "word": "brawl",
+  "pronunciation": "/brɔːl/",
+  "banglaPronunciation": "ব্রল",
+  "meaning": "a noisy fight",
+  "banglaMeaning": "হাতাহাতি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "brawl"
+  ],
+  "example": "The brawl broke out.",
+  "hint": "Starts with B and ends with L.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1482",
+  "level": 22,
+  "order": 1482,
+  "word": "breach",
+  "pronunciation": "/briːtʃ/",
+  "banglaPronunciation": "ব্রিচ",
+  "meaning": "a break in something",
+  "banglaMeaning": "ফাটল",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "ach"
+  ],
+  "example": "A breach of security.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1483",
+  "level": 22,
+  "order": 1483,
+  "word": "breadth",
+  "pronunciation": "/brɛdθ/",
+  "banglaPronunciation": "ব্রেডথ",
+  "meaning": "the width or scope",
+  "banglaMeaning": "প্রস্থ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "adth"
+  ],
+  "example": "The breadth of the river.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1484",
+  "level": 22,
+  "order": 1484,
+  "word": "breakthrough",
+  "pronunciation": "/ˈbreɪkθruː/",
+  "banglaPronunciation": "ব্রেকথ্রু",
+  "meaning": "a major advance",
+  "banglaMeaning": "বড় অগ্রগতি",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "a",
+   "kthro",
+   "ugh"
+  ],
+  "example": "The breakthrough was huge.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1485",
+  "level": 22,
+  "order": 1485,
+  "word": "breath",
+  "pronunciation": "/brɛθ/",
+  "banglaPronunciation": "ব্রেথ",
+  "meaning": "air taken into the lungs",
+  "banglaMeaning": "নিঃশ্বাস",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "ath"
+  ],
+  "example": "Take a deep breath.",
+  "hint": "Starts with B and ends with H.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1486",
+  "level": 22,
+  "order": 1486,
+  "word": "breathe",
+  "pronunciation": "/briːð/",
+  "banglaPronunciation": "ব্রিথ",
+  "meaning": "to take air into the lungs",
+  "banglaMeaning": "শ্বাস নেওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "a",
+   "the"
+  ],
+  "example": "Breathe deeply.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1487",
+  "level": 22,
+  "order": 1487,
+  "word": "breed",
+  "pronunciation": "/briːd/",
+  "banglaPronunciation": "ব্রিড",
+  "meaning": "to reproduce animals",
+  "banglaMeaning": "প্রজনন করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "ed"
+  ],
+  "example": "They breed horses.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1488",
+  "level": 22,
+  "order": 1488,
+  "word": "breeze",
+  "pronunciation": "/briːz/",
+  "banglaPronunciation": "ব্রিজ",
+  "meaning": "a light wind",
+  "banglaMeaning": "মৃদু বাতাস",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bre",
+   "e",
+   "ze"
+  ],
+  "example": "The breeze was cool.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1489",
+  "level": 22,
+  "order": 1489,
+  "word": "bribe",
+  "pronunciation": "/braɪb/",
+  "banglaPronunciation": "ব্রাইব",
+  "meaning": "to offer money for a favor",
+  "banglaMeaning": "ঘুষ দেওয়া",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bri",
+   "be"
+  ],
+  "example": "He tried to bribe the official.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1490",
+  "level": 22,
+  "order": 1490,
+  "word": "brick",
+  "pronunciation": "/brɪk/",
+  "banglaPronunciation": "ব্রিক",
+  "meaning": "a block of baked clay",
+  "banglaMeaning": "ইট",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "brick"
+  ],
+  "example": "The brick wall was strong.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1491",
+  "level": 22,
+  "order": 1491,
+  "word": "bride",
+  "pronunciation": "/braɪd/",
+  "banglaPronunciation": "ব্রাইড",
+  "meaning": "a woman on her wedding day",
+  "banglaMeaning": "বধূ",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bri",
+   "de"
+  ],
+  "example": "The bride wore a white dress.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1492",
+  "level": 22,
+  "order": 1492,
+  "word": "bridge",
+  "pronunciation": "/brɪdʒ/",
+  "banglaPronunciation": "ব্রিজ",
+  "meaning": "a structure over water",
+  "banglaMeaning": "সেতু",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "bri",
+   "dge"
+  ],
+  "example": "Cross the bridge.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1493",
+  "level": 22,
+  "order": 1493,
+  "word": "brief",
+  "pronunciation": "/briːf/",
+  "banglaPronunciation": "ব্রিফ",
+  "meaning": "short in time",
+  "banglaMeaning": "সংক্ষিপ্ত",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "bri",
+   "ef"
+  ],
+  "example": "A brief meeting.",
+  "hint": "Starts with B and ends with F.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1494",
+  "level": 22,
+  "order": 1494,
+  "word": "bright",
+  "pronunciation": "/braɪt/",
+  "banglaPronunciation": "ব্রাইট",
+  "meaning": "full of light",
+  "banglaMeaning": "উজ্জ্বল",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bright"
+  ],
+  "example": "A bright day.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1495",
+  "level": 22,
+  "order": 1495,
+  "word": "brilliant",
+  "pronunciation": "/ˈbrɪliənt/",
+  "banglaPronunciation": "ব্রিলিয়ান্ট",
+  "meaning": "very bright or clever",
+  "banglaMeaning": "উজ্জ্বল",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "bri",
+   "lli",
+   "ant"
+  ],
+  "example": "A brilliant idea.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1496",
+  "level": 22,
+  "order": 1496,
+  "word": "brink",
+  "pronunciation": "/brɪŋk/",
+  "banglaPronunciation": "ব্রিংক",
+  "meaning": "the edge of something",
+  "banglaMeaning": "ধার",
+  "partOfSpeech": "noun",
+  "origin": "English",
+  "syllables": [
+   "brink"
+  ],
+  "example": "On the brink of disaster.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1497",
+  "level": 22,
+  "order": 1497,
+  "word": "brisk",
+  "pronunciation": "/brɪsk/",
+  "banglaPronunciation": "ব্রিস্ক",
+  "meaning": "quick and energetic",
+  "banglaMeaning": "সতেজ",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "brisk"
+  ],
+  "example": "A brisk walk.",
+  "hint": "Starts with B and ends with K.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1498",
+  "level": 22,
+  "order": 1498,
+  "word": "brittle",
+  "pronunciation": "/ˈbrɪtəl/",
+  "banglaPronunciation": "ব্রিটল",
+  "meaning": "hard but easily broken",
+  "banglaMeaning": "ভঙ্গুর",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bri",
+   "ttle"
+  ],
+  "example": "The glass was brittle.",
+  "hint": "Starts with B and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1499",
+  "level": 22,
+  "order": 1499,
+  "word": "broad",
+  "pronunciation": "/brɔːd/",
+  "banglaPronunciation": "ব্রড",
+  "meaning": "wide",
+  "banglaMeaning": "প্রশস্ত",
+  "partOfSpeech": "adjective",
+  "origin": "English",
+  "syllables": [
+   "bro",
+   "ad"
+  ],
+  "example": "A broad street.",
+  "hint": "Starts with B and ends with D.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-1500",
+  "level": 22,
+  "order": 1500,
+  "word": "broadcast",
+  "pronunciation": "/ˈbrɔːdkɑːst/",
+  "banglaPronunciation": "ব্রডকাস্ট",
+  "meaning": "to transmit by radio or TV",
+  "banglaMeaning": "সম্প্রচার করা",
+  "partOfSpeech": "verb",
+  "origin": "English",
+  "syllables": [
+   "bro",
+   "a",
+   "dcast"
+  ],
+  "example": "They broadcast the news.",
+  "hint": "Starts with B and ends with T.",
+  "image": ""
  }
 ]

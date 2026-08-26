@@ -1,9 +1,9 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 
-export default function ContactPage() {
+function ContactFormContent() {
   const searchParams = useSearchParams();
   const isSuccess = searchParams.get('success');
 
@@ -71,7 +71,7 @@ export default function ContactPage() {
           <input type="hidden" name="_captcha" value="false" />
           
           {/* Optional: Redirect back to this page with a success message (you will need to update the domain when hosted) */}
-          <input type="hidden" name="_next" value="http://localhost:3000/contact?success=true" />
+          <input type="hidden" name="_next" value="https://beespell.vercel.app/contact?success=true" />
           
           <div>
             <label style={{ display: 'block', fontSize: '1.2rem', fontWeight: '800', marginBottom: '10px', color: 'var(--text)' }}>Your Name 🦸‍♂️</label>
@@ -148,5 +148,13 @@ export default function ContactPage() {
       </div>
 
     </div>
+  );
+}
+
+export default function ContactPage() {
+  return (
+    <Suspense fallback={<div style={{ textAlign: 'center', padding: '100px' }}>Loading...</div>}>
+      <ContactFormContent />
+    </Suspense>
   );
 }

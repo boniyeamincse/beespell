@@ -20258,5 +20258,243 @@
   "example": "His rhetoric was strong.",
   "hint": "Starts with R and ends with C.",
   "image": ""
+ },
+ {
+  "id": "lvl22-975",
+  "level": 22,
+  "order": 975,
+  "word": "abrade",
+  "pronunciation": "/əˈbreɪd/",
+  "banglaPronunciation": "অ্যাব্রেড",
+  "meaning": "to scrape off",
+  "banglaMeaning": "ঘষে ফেলা",
+  "partOfSpeech": "verb",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "bra",
+   "de"
+  ],
+  "example": "The sand abraded the rock.",
+  "hint": "Starts with A and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-976",
+  "level": 22,
+  "order": 976,
+  "word": "abstention",
+  "pronunciation": "/əbˈstɛnʃən/",
+  "banglaPronunciation": "অ্যাবস্টেনশন",
+  "meaning": "the act of refraining",
+  "banglaMeaning": "বিরত থাকা",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "bste",
+   "nti",
+   "on"
+  ],
+  "example": "Abstention from voting.",
+  "hint": "Starts with A and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-977",
+  "level": 22,
+  "order": 977,
+  "word": "accede",
+  "pronunciation": "/əkˈsiːd/",
+  "banglaPronunciation": "অ্যাকসিড",
+  "meaning": "to agree to",
+  "banglaMeaning": "সম্মতি দেওয়া",
+  "partOfSpeech": "verb",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "cce",
+   "de"
+  ],
+  "example": "He acceded to the request.",
+  "hint": "Starts with A and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-978",
+  "level": 22,
+  "order": 978,
+  "word": "aggrandizement",
+  "pronunciation": "/əˌɡrændɪzmənt/",
+  "banglaPronunciation": "অ্যাগ্রান্ডাইজমেন্ট",
+  "meaning": "increase in power",
+  "banglaMeaning": "ক্ষমতা বৃদ্ধি",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "ggra",
+   "ndi",
+   "ze",
+   "ment"
+  ],
+  "example": "His aggrandizement was unchecked.",
+  "hint": "Starts with A and ends with T.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-979",
+  "level": 22,
+  "order": 979,
+  "word": "asceticism",
+  "pronunciation": "/əˈsɛtɪsɪzəm/",
+  "banglaPronunciation": "অ্যাসেটিসিজম",
+  "meaning": "self-denial for spiritual reasons",
+  "banglaMeaning": "তপস্যা",
+  "partOfSpeech": "noun",
+  "origin": "Greek",
+  "syllables": [
+   "a",
+   "sce",
+   "ti",
+   "cism"
+  ],
+  "example": "Asceticism was his way.",
+  "hint": "Starts with A and ends with M.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-980",
+  "level": 22,
+  "order": 980,
+  "word": "auspicious",
+  "pronunciation": "/ɔːˈspɪʃəs/",
+  "banglaPronunciation": "অস্পিশাস",
+  "meaning": "favorable",
+  "banglaMeaning": "শুভ",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "a",
+   "u",
+   "spi",
+   "ci",
+   "o",
+   "us"
+  ],
+  "example": "An auspicious beginning.",
+  "hint": "Starts with A and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-981",
+  "level": 22,
+  "order": 981,
+  "word": "autochthonous",
+  "pronunciation": "/ɔːˈtɒkθənəs/",
+  "banglaPronunciation": "অটকথোনাস",
+  "meaning": "native to the land",
+  "banglaMeaning": "স্বদেশী",
+  "partOfSpeech": "adjective",
+  "origin": "Greek",
+  "syllables": [
+   "a",
+   "u",
+   "to",
+   "chtho",
+   "no",
+   "us"
+  ],
+  "example": "Autochthonous peoples.",
+  "hint": "Starts with A and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-982",
+  "level": 22,
+  "order": 982,
+  "word": "bacchanalian",
+  "pronunciation": "/ˌbækəˈneɪliən/",
+  "banglaPronunciation": "ব্যাকানেলিয়ান",
+  "meaning": "wild and drunken",
+  "banglaMeaning": "মত্ত",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "ba",
+   "ccha",
+   "na",
+   "li",
+   "an"
+  ],
+  "example": "A bacchanalian party.",
+  "hint": "Starts with B and ends with N.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-983",
+  "level": 22,
+  "order": 983,
+  "word": "conspicuous",
+  "pronunciation": "/kənˈspɪkjuəs/",
+  "banglaPronunciation": "কনস্পিকিউয়াস",
+  "meaning": "easily noticed",
+  "banglaMeaning": "সুস্পষ্ট",
+  "partOfSpeech": "adjective",
+  "origin": "Latin",
+  "syllables": [
+   "co",
+   "nspi",
+   "cu",
+   "o",
+   "us"
+  ],
+  "example": "A conspicuous sign.",
+  "hint": "Starts with C and ends with S.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-984",
+  "level": 22,
+  "order": 984,
+  "word": "disseminate",
+  "pronunciation": "/dɪˈsɛmɪneɪt/",
+  "banglaPronunciation": "ডিসেমিনেট",
+  "meaning": "to spread widely",
+  "banglaMeaning": "প্রচার করা",
+  "partOfSpeech": "verb",
+  "origin": "Latin",
+  "syllables": [
+   "di",
+   "sse",
+   "mi",
+   "na",
+   "te"
+  ],
+  "example": "Disseminate the news.",
+  "hint": "Starts with D and ends with E.",
+  "image": ""
+ },
+ {
+  "id": "lvl22-985",
+  "level": 22,
+  "order": 985,
+  "word": "dissolution",
+  "pronunciation": "/ˌdɪsəˈluːʃən/",
+  "banglaPronunciation": "ডিসল্যুশন",
+  "meaning": "the breaking up of something",
+  "banglaMeaning": "বিলুপ্তি",
+  "partOfSpeech": "noun",
+  "origin": "Latin",
+  "syllables": [
+   "di",
+   "sso",
+   "lu",
+   "ti",
+   "on"
+  ],
+  "example": "The dissolution of the empire.",
+  "hint": "Starts with D and ends with N.",
+  "image": ""
  }
 ]

@@ -23,6 +23,7 @@ export default function RootLayout({
             <nav className="nav-links">
               <Link href="/levels" className="nav-link">Levels Journey</Link>
               <Link href="/progress" className="nav-link">Progress</Link>
+              <Link href="/tongue-twister" className="nav-link">Tongue Twister</Link>
               <Link href="/about" className="nav-link">About</Link>
             </nav>
           </div>

@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "text": "She sells snailshells by the seashore."
+  },
+  {
+    "id": 2,
+    "level": 1,
+    "text": "How much wood would a weedwhacker chuck if a weedwhacker could chuck wood?"
+  },
+  {
+    "id": 3,
+    "level": 1,
+    "text": "Peter Piper picked a peck of purple peppers."
+  },
+  {
+    "id": 4,
+    "level": 1,
+    "text": "I scream, you scream, we all scream for ice cream!"
+  },
+  {
+    "id": 5,
+    "level": 1,
+    "text": "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hope."
+  },
+  {
+    "id": 6,
+    "level": 2,
+    "text": "Betty Botter bought some butter, but she said the butter's broken."
+  },
+  {
+    "id": 7,
+    "level": 2,
+    "text": "A proper crafty candy pot."
+  },
+  {
+    "id": 8,
+    "level": 2,
+    "text": "Red lorry, yellow lorry, red lorry, yellow lorry."
+  },
+  {
+    "id": 9,
+    "level": 2,
+    "text": "Unique New York, unique New York, you know you need unique New York."
+  },
+  {
+    "id": 10,
+    "level": 2,
+    "text": "Six slippery seals slid slowly southward."
+  },
+  {
+    "id": 11,
+    "level": 3,
+    "text": "I saw a kitten eating chicken in the kitchen."
+  },
+  {
+    "id": 12,
+    "level": 3,
+    "text": "If a dog chews shoes, whose shoes does he choose?"
+  },
+  {
+    "id": 13,
+    "level": 3,
+    "text": "I thought I thought of thinking of thawing you."
+  },
+  {
+    "id": 14,
+    "level": 3,
+    "text": "Nine nice night newts nursing nicely."
+  },
+  {
+    "id": 15,
+    "level": 3,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 16,
+    "level": 4,
+    "text": "Four fine fresh fish for you."
+  },
+  {
+    "id": 17,
+    "level": 4,
+    "text": "Which wristwatches are swank wristwatches?"
+  },
+  {
+    "id": 18,
+    "level": 4,
+    "text": "Fred fed Ted berries, and Ted fed Fred berries."
+  },
+  {
+    "id": 19,
+    "level": 4,
+    "text": "We surely shall see the sky shine soon."
+  },
+  {
+    "id": 20,
+    "level": 4,
+    "text": "A big black bug bit a big black bull."
+  },
+  {
+    "id": 21,
+    "level": 5,
+    "text": "Selfish sheep."
+  },
+  {
+    "id": 22,
+    "level": 5,
+    "text": "Any noise annoys an oyster, but a noisy noise annoys an oyster more."
+  },
+  {
+    "id": 23,
+    "level": 5,
+    "text": "A happy hippo hopped and howled."
+  },
+  {
+    "id": 24,
+    "level": 5,
+    "text": "Lesser leather never weathered worse weather better."
+  },
+  {
+    "id": 25,
+    "level": 5,
+    "text": "Eleven benevolent elves."
+  },
+  {
+    "id": 26,
+    "level": 6,
+    "text": "Two toads, totally tired, trying to trot to Tewkesbury."
+  },
+  {
+    "id": 27,
+    "level": 6,
+    "text": "Brisk brave brigadiers brandished broad bright blades."
+  },
+  {
+    "id": 28,
+    "level": 6,
+    "text": "If you notice this notice, you will notice that this notice is not worth naming."
+  },
+  {
+    "id": 29,
+    "level": 6,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chicken."
+  },
+  {
+    "id": 30,
+    "level": 6,
+    "text": "Double bubble gum, bubbles deeply."
+  },
+  {
+    "id": 31,
+    "level": 7,
+    "text": "She sells shoeshells by the seashore."
+  },
+  {
+    "id": 32,
+    "level": 7,
+    "text": "How much wood would a woolsheep chuck if a woolsheep could chuck wood?"
+  },
+  {
+    "id": 33,
+    "level": 7,
+    "text": "Peter Piper picked a peck of pickled peppers."
+  },
+  {
+    "id": 34,
+    "level": 7,
+    "text": "I scream, you scream, we all scream for iced tea!"
+  },
+  {
+    "id": 35,
+    "level": 7,
+    "text": "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hare."
+  },
+  {
+    "id": 36,
+    "level": 8,
+    "text": "Betty Botter bought some batter, but she said the batter's broken."
+  },
+  {
+    "id": 37,
+    "level": 8,
+    "text": "A proper crimson coffee pot."
+  },
+  {
+    "id": 38,
+    "level": 8,
+    "text": "Red lizard, yellow lizard, red lizard, yellow lizard."
+  },
+  {
+    "id": 39,
+    "level": 8,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 39)"
+  },
+  {
+    "id": 40,
+    "level": 8,
+    "text": "Six slippery snakes slid slowly sideways."
+  },
+  {
+    "id": 41,
+    "level": 9,
+    "text": "I saw a kitten eating cheese in the kitchen."
+  },
+  {
+    "id": 42,
+    "level": 9,
+    "text": "If a dog chews slippers, whose slippers does he choose?"
+  },
+  {
+    "id": 43,
+    "level": 9,
+    "text": "I thought I thought of throwing of thawing you."
+  },
+  {
+    "id": 44,
+    "level": 9,
+    "text": "Nine nice night newts nursing neatly."
+  },
+  {
+    "id": 45,
+    "level": 9,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 46,
+    "level": 10,
+    "text": "Four fine fresh fish for you."
+  },
+  {
+    "id": 47,
+    "level": 10,
+    "text": "Which wristwatches are swank wristwatches?"
+  },
+  {
+    "id": 48,
+    "level": 10,
+    "text": "Fred fed Ted bread, and Ted fed Fred bread."
+  },
+  {
+    "id": 49,
+    "level": 10,
+    "text": "We surely shall see the sun shine soon."
+  },
+  {
+    "id": 50,
+    "level": 10,
+    "text": "A big black bug bit a big black bull."
+  },
+  {
+    "id": 51,
+    "level": 11,
+    "text": "Selfish shellfish."
+  },
+  {
+    "id": 52,
+    "level": 11,
+    "text": "Any noise annoys an oyster, but a nasty noise annoys an oyster more."
+  },
+  {
+    "id": 53,
+    "level": 11,
+    "text": "A happy hippo hopped and hiccupped."
+  },
+  {
+    "id": 54,
+    "level": 11,
+    "text": "Lesser leather never weathered wetter weather better."
+  },
+  {
+    "id": 55,
+    "level": 11,
+    "text": "Eleven benevolent elephants."
+  },
+  {
+    "id": 56,
+    "level": 12,
+    "text": "Two toads, totally tired, trying to trot to Texas."
+  },
+  {
+    "id": 57,
+    "level": 12,
+    "text": "Brisk brave brigadiers brandished broad bright bricks."
+  },
+  {
+    "id": 58,
+    "level": 12,
+    "text": "If you notice this notice, you will notice that this notice is not worth nothing."
+  },
+  {
+    "id": 59,
+    "level": 12,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chalk."
+  },
+  {
+    "id": 60,
+    "level": 12,
+    "text": "Double bubble gum, bubbles deeply."
+  },
+  {
+    "id": 61,
+    "level": 13,
+    "text": "She sells seashells by the seaside."
+  },
+  {
+    "id": 62,
+    "level": 13,
+    "text": "How much wool would a woodchuck chuck if a woodchuck could chuck wool?"
+  },
+  {
+    "id": 63,
+    "level": 13,
+    "text": "Peter Piper picked a peck of pungent plums."
+  },
+  {
+    "id": 64,
+    "level": 13,
+    "text": "I scream, you scream, we all scream for ice cubes!"
+  },
+  {
+    "id": 65,
+    "level": 13,
+    "text": "Fuzzy Wuzzy was a bunny. Fuzzy Wuzzy had no hope."
+  },
+  {
+    "id": 66,
+    "level": 14,
+    "text": "Betty Botter bought some butter, but she said the butter's broken."
+  },
+  {
+    "id": 67,
+    "level": 14,
+    "text": "A proper crafty coffee pot."
+  },
+  {
+    "id": 68,
+    "level": 14,
+    "text": "Red lizard, yellow lizard, red lizard, yellow lizard."
+  },
+  {
+    "id": 69,
+    "level": 14,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 69)"
+  },
+  {
+    "id": 70,
+    "level": 14,
+    "text": "Six slippery seals slid slowly seaward."
+  },
+  {
+    "id": 71,
+    "level": 15,
+    "text": "I saw a kitten eating cheese in the kingdom."
+  },
+  {
+    "id": 72,
+    "level": 15,
+    "text": "If a dog chews socks, whose socks does he choose?"
+  },
+  {
+    "id": 73,
+    "level": 15,
+    "text": "I thought I thought of thrilling of thawing you."
+  },
+  {
+    "id": 74,
+    "level": 15,
+    "text": "Nine nice night newts nursing nicely."
+  },
+  {
+    "id": 75,
+    "level": 15,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 76,
+    "level": 16,
+    "text": "Four fine fresh figs for you."
+  },
+  {
+    "id": 77,
+    "level": 16,
+    "text": "Which wristwatches are Swiss wristwatches?"
+  },
+  {
+    "id": 78,
+    "level": 16,
+    "text": "Fred fed Ted bread, and Ted fed Fred bread."
+  },
+  {
+    "id": 79,
+    "level": 16,
+    "text": "We surely shall see the sun shine soon."
+  },
+  {
+    "id": 80,
+    "level": 16,
+    "text": "A big black bug bit a big black boar."
+  },
+  {
+    "id": 81,
+    "level": 17,
+    "text": "Selfish sheep."
+  },
+  {
+    "id": 82,
+    "level": 17,
+    "text": "Any noise annoys an oyster, but a nasty noise annoys an oyster more."
+  },
+  {
+    "id": 83,
+    "level": 17,
+    "text": "A happy hippo hopped and hiccupped."
+  },
+  {
+    "id": 84,
+    "level": 17,
+    "text": "Lesser leather never weathered wetter weather better."
+  },
+  {
+    "id": 85,
+    "level": 17,
+    "text": "Eleven benevolent eagles."
+  },
+  {
+    "id": 86,
+    "level": 18,
+    "text": "Two toads, totally tired, trying to trot to Tokyo."
+  },
+  {
+    "id": 87,
+    "level": 18,
+    "text": "Brisk brave brigadiers brandished broad bright bricks."
+  },
+  {
+    "id": 88,
+    "level": 18,
+    "text": "If you notice this notice, you will notice that this notice is not worth noticing."
+  },
+  {
+    "id": 89,
+    "level": 18,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chalk."
+  },
+  {
+    "id": 90,
+    "level": 18,
+    "text": "Double bubble gum, bubbles deeply."
+  },
+  {
+    "id": 91,
+    "level": 19,
+    "text": "She sells shoeshells by the sandbank."
+  },
+  {
+    "id": 92,
+    "level": 19,
+    "text": "How much wool would a woodchuck chuck if a woodchuck could chuck wool?"
+  },
+  {
+    "id": 93,
+    "level": 19,
+    "text": "Peter Piper picked a peck of purple peppers."
+  },
+  {
+    "id": 94,
+    "level": 19,
+    "text": "I scream, you scream, we all scream for ice cream!"
+  },
+  {
+    "id": 95,
+    "level": 19,
+    "text": "Fuzzy Wuzzy was a bunny. Fuzzy Wuzzy had no hope."
+  },
+  {
+    "id": 96,
+    "level": 20,
+    "text": "Betty Botter bought some bacon, but she said the bacon's better."
+  },
+  {
+    "id": 97,
+    "level": 20,
+    "text": "A proper crafty candy pot."
+  },
+  {
+    "id": 98,
+    "level": 20,
+    "text": "Red leather, yellow leather, red leather, yellow leather."
+  },
+  {
+    "id": 99,
+    "level": 20,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 99)"
+  },
+  {
+    "id": 100,
+    "level": 20,
+    "text": "Six slippery seals slid slowly southward."
+  },
+  {
+    "id": 101,
+    "level": 21,
+    "text": "I saw a kid eating chicken in the kitchen."
+  },
+  {
+    "id": 102,
+    "level": 21,
+    "text": "If a dog chews slippers, whose slippers does he choose?"
+  },
+  {
+    "id": 103,
+    "level": 21,
+    "text": "I thought I thought of throwing of thanking you."
+  },
+  {
+    "id": 104,
+    "level": 21,
+    "text": "Nine nice night nurses nursing nicely."
+  },
+  {
+    "id": 105,
+    "level": 21,
+    "text": "Wayne went to Wales to watch walruses."
+  },
+  {
+    "id": 106,
+    "level": 22,
+    "text": "Four fine fresh fries for you."
+  },
+  {
+    "id": 107,
+    "level": 22,
+    "text": "Which wristwatches are Swiss wristwatches?"
+  },
+  {
+    "id": 108,
+    "level": 22,
+    "text": "Fred fed Ted berries, and Ted fed Fred berries."
+  },
+  {
+    "id": 109,
+    "level": 22,
+    "text": "We surely shall see the stars shine soon."
+  },
+  {
+    "id": 110,
+    "level": 22,
+    "text": "A big black bug bit a big black bull."
+  },
+  {
+    "id": 111,
+    "level": 23,
+    "text": "Selfish shellfish."
+  },
+  {
+    "id": 112,
+    "level": 23,
+    "text": "Any noise annoys an oyster, but a nasty noise annoys an oyster more."
+  },
+  {
+    "id": 113,
+    "level": 23,
+    "text": "A happy hippo hopped and howled."
+  },
+  {
+    "id": 114,
+    "level": 23,
+    "text": "Lesser leather never weathered worse weather better."
+  },
+  {
+    "id": 115,
+    "level": 23,
+    "text": "Eleven benevolent elves."
+  },
+  {
+    "id": 116,
+    "level": 24,
+    "text": "Two toads, totally tired, trying to trot to Tokyo."
+  },
+  {
+    "id": 117,
+    "level": 24,
+    "text": "Brisk brave brigadiers brandished broad bright bricks."
+  },
+  {
+    "id": 118,
+    "level": 24,
+    "text": "If you notice this notice, you will notice that this notice is not worth naming."
+  },
+  {
+    "id": 119,
+    "level": 24,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar cheese."
+  },
+  {
+    "id": 120,
+    "level": 24,
+    "text": "Double bubble gum, bubbles down."
+  },
+  {
+    "id": 121,
+    "level": 25,
+    "text": "She sells snailshells by the seashore."
+  },
+  {
+    "id": 122,
+    "level": 25,
+    "text": "How much weed would a weedwhacker chuck if a weedwhacker could chuck weed?"
+  },
+  {
+    "id": 123,
+    "level": 25,
+    "text": "Peter Piper picked a peck of purple pears."
+  },
+  {
+    "id": 124,
+    "level": 25,
+    "text": "I scream, you scream, we all scream for iced tea!"
+  },
+  {
+    "id": 125,
+    "level": 25,
+    "text": "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hare."
+  },
+  {
+    "id": 126,
+    "level": 26,
+    "text": "Betty Botter bought some batter, but she said the batter's bitter."
+  },
+  {
+    "id": 127,
+    "level": 26,
+    "text": "A proper crimson coffee pot."
+  },
+  {
+    "id": 128,
+    "level": 26,
+    "text": "Red lizard, yellow lizard, red lizard, yellow lizard."
+  },
+  {
+    "id": 129,
+    "level": 26,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 129)"
+  },
+  {
+    "id": 130,
+    "level": 26,
+    "text": "Six slippery seals slid slowly southward."
+  },
+  {
+    "id": 131,
+    "level": 27,
+    "text": "I saw a king eating chicken in the kiosk."
+  },
+  {
+    "id": 132,
+    "level": 27,
+    "text": "If a dog chews shoes, whose shoes does he choose?"
+  },
+  {
+    "id": 133,
+    "level": 27,
+    "text": "I thought I thought of thrilling of thumping you."
+  },
+  {
+    "id": 134,
+    "level": 27,
+    "text": "Nine nice night newts nursing naturally."
+  },
+  {
+    "id": 135,
+    "level": 27,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 136,
+    "level": 28,
+    "text": "Four fine fresh fish for you."
+  },
+  {
+    "id": 137,
+    "level": 28,
+    "text": "Which wristwatches are Swiss wristwatches?"
+  },
+  {
+    "id": 138,
+    "level": 28,
+    "text": "Fred fed Ted beans, and Ted fed Fred beans."
+  },
+  {
+    "id": 139,
+    "level": 28,
+    "text": "We surely shall see the sun shine soon."
+  },
+  {
+    "id": 140,
+    "level": 28,
+    "text": "A big black bug bit a big black bull."
+  },
+  {
+    "id": 141,
+    "level": 29,
+    "text": "Selfish sharks."
+  },
+  {
+    "id": 142,
+    "level": 29,
+    "text": "Any noise annoys an oyster, but a noisy noise annoys an oyster more."
+  },
+  {
+    "id": 143,
+    "level": 29,
+    "text": "A happy hippo hopped and hissed."
+  },
+  {
+    "id": 144,
+    "level": 29,
+    "text": "Lesser leather never weathered warmer weather better."
+  },
+  {
+    "id": 145,
+    "level": 29,
+    "text": "Eleven benevolent elves."
+  },
+  {
+    "id": 146,
+    "level": 30,
+    "text": "Two toads, totally tired, trying to trot to Tewkesbury."
+  },
+  {
+    "id": 147,
+    "level": 30,
+    "text": "Brisk brave brigadiers brandished broad bright blades."
+  },
+  {
+    "id": 148,
+    "level": 30,
+    "text": "If you notice this notice, you will notice that this notice is not worth nothing."
+  },
+  {
+    "id": 149,
+    "level": 30,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chicken."
+  },
+  {
+    "id": 150,
+    "level": 30,
+    "text": "Double bubble gum, bubbles double."
+  },
+  {
+    "id": 151,
+    "level": 31,
+    "text": "She sells seashells by the seashore."
+  },
+  {
+    "id": 152,
+    "level": 31,
+    "text": "How much weed would a woodchuck chuck if a woodchuck could chuck weed?"
+  },
+  {
+    "id": 153,
+    "level": 31,
+    "text": "Peter Piper picked a peck of pickled pears."
+  },
+  {
+    "id": 154,
+    "level": 31,
+    "text": "I scream, you scream, we all scream for iced tea!"
+  },
+  {
+    "id": 155,
+    "level": 31,
+    "text": "Fuzzy Wuzzy was a bear. Fuzzy Wuzzy had no hope."
+  },
+  {
+    "id": 156,
+    "level": 32,
+    "text": "Betty Botter bought some butter, but she said the butter's bitter."
+  },
+  {
+    "id": 157,
+    "level": 32,
+    "text": "A proper crafty cocoa pot."
+  },
+  {
+    "id": 158,
+    "level": 32,
+    "text": "Red lizard, yellow lizard, red lizard, yellow lizard."
+  },
+  {
+    "id": 159,
+    "level": 32,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 159)"
+  },
+  {
+    "id": 160,
+    "level": 32,
+    "text": "Six slippery snails slid slowly southward."
+  },
+  {
+    "id": 161,
+    "level": 33,
+    "text": "I saw a king eating chips in the kingdom."
+  },
+  {
+    "id": 162,
+    "level": 33,
+    "text": "If a dog chews shoes, whose shoes does he choose?"
+  },
+  {
+    "id": 163,
+    "level": 33,
+    "text": "I thought I thought of thrilling of thawing you."
+  },
+  {
+    "id": 164,
+    "level": 33,
+    "text": "Nine nice night newts nursing nicely."
+  },
+  {
+    "id": 165,
+    "level": 33,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 166,
+    "level": 34,
+    "text": "Four fine fresh figs for you."
+  },
+  {
+    "id": 167,
+    "level": 34,
+    "text": "Which wristwatches are sweet wristwatches?"
+  },
+  {
+    "id": 168,
+    "level": 34,
+    "text": "Fred fed Ted berries, and Ted fed Fred berries."
+  },
+  {
+    "id": 169,
+    "level": 34,
+    "text": "We surely shall see the sky shine soon."
+  },
+  {
+    "id": 170,
+    "level": 34,
+    "text": "A big black bug bit a big black boar."
+  },
+  {
+    "id": 171,
+    "level": 35,
+    "text": "Selfish sheep."
+  },
+  {
+    "id": 172,
+    "level": 35,
+    "text": "Any noise annoys an oyster, but a new noise annoys an oyster more."
+  },
+  {
+    "id": 173,
+    "level": 35,
+    "text": "A happy hippo hopped and howled."
+  },
+  {
+    "id": 174,
+    "level": 35,
+    "text": "Lesser leather never weathered wetter weather better."
+  },
+  {
+    "id": 175,
+    "level": 35,
+    "text": "Eleven benevolent elephants."
+  },
+  {
+    "id": 176,
+    "level": 36,
+    "text": "Two toads, totally tired, trying to trot to Tewkesbury."
+  },
+  {
+    "id": 177,
+    "level": 36,
+    "text": "Brisk brave brigadiers brandished broad bright blades."
+  },
+  {
+    "id": 178,
+    "level": 36,
+    "text": "If you notice this notice, you will notice that this notice is not worth nothing."
+  },
+  {
+    "id": 179,
+    "level": 36,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar cheese."
+  },
+  {
+    "id": 180,
+    "level": 36,
+    "text": "Double bubble gum, bubbles down."
+  },
+  {
+    "id": 181,
+    "level": 37,
+    "text": "She sells snailshells by the seashore."
+  },
+  {
+    "id": 182,
+    "level": 37,
+    "text": "How much weed would a woodchuck chuck if a woodchuck could chuck weed?"
+  },
+  {
+    "id": 183,
+    "level": 37,
+    "text": "Peter Piper picked a peck of pickled peppers."
+  },
+  {
+    "id": 184,
+    "level": 37,
+    "text": "I scream, you scream, we all scream for ice cubes!"
+  },
+  {
+    "id": 185,
+    "level": 37,
+    "text": "Fuzzy Wuzzy was a bunny. Fuzzy Wuzzy had no hair."
+  },
+  {
+    "id": 186,
+    "level": 38,
+    "text": "Betty Botter bought some butter, but she said the butter's bitter."
+  },
+  {
+    "id": 187,
+    "level": 38,
+    "text": "A proper copper cocoa pot."
+  },
+  {
+    "id": 188,
+    "level": 38,
+    "text": "Red lorry, yellow lorry, red lorry, yellow lorry."
+  },
+  {
+    "id": 189,
+    "level": 38,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 189)"
+  },
+  {
+    "id": 190,
+    "level": 38,
+    "text": "Six slippery seals slid slowly seaward."
+  },
+  {
+    "id": 191,
+    "level": 39,
+    "text": "I saw a kid eating chips in the kingdom."
+  },
+  {
+    "id": 192,
+    "level": 39,
+    "text": "If a dog chews shoes, whose shoes does he choose?"
+  },
+  {
+    "id": 193,
+    "level": 39,
+    "text": "I thought I thought of thrilling of thanking you."
+  },
+  {
+    "id": 194,
+    "level": 39,
+    "text": "Nine nice night newts nursing naturally."
+  },
+  {
+    "id": 195,
+    "level": 39,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 196,
+    "level": 40,
+    "text": "Four fine fresh figs for you."
+  },
+  {
+    "id": 197,
+    "level": 40,
+    "text": "Which wristwatches are Swiss wristwatches?"
+  },
+  {
+    "id": 198,
+    "level": 40,
+    "text": "Fred fed Ted beans, and Ted fed Fred beans."
+  },
+  {
+    "id": 199,
+    "level": 40,
+    "text": "We surely shall see the stars shine soon."
+  },
+  {
+    "id": 200,
+    "level": 40,
+    "text": "A big black bug bit a big black bear."
+  },
+  {
+    "id": 201,
+    "level": 41,
+    "text": "Selfish shellfish."
+  },
+  {
+    "id": 202,
+    "level": 41,
+    "text": "Any noise annoys an oyster, but a noisy noise annoys an oyster more."
+  },
+  {
+    "id": 203,
+    "level": 41,
+    "text": "A happy hippo hopped and hissed."
+  },
+  {
+    "id": 204,
+    "level": 41,
+    "text": "Lesser leather never weathered warmer weather better."
+  },
+  {
+    "id": 205,
+    "level": 41,
+    "text": "Eleven benevolent elves."
+  },
+  {
+    "id": 206,
+    "level": 42,
+    "text": "Two toads, totally tired, trying to trot to Texas."
+  },
+  {
+    "id": 207,
+    "level": 42,
+    "text": "Brisk brave brigadiers brandished broad bright bricks."
+  },
+  {
+    "id": 208,
+    "level": 42,
+    "text": "If you notice this notice, you will notice that this notice is not worth nothing."
+  },
+  {
+    "id": 209,
+    "level": 42,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chalk."
+  },
+  {
+    "id": 210,
+    "level": 42,
+    "text": "Double bubble gum, bubbles double."
+  },
+  {
+    "id": 211,
+    "level": 43,
+    "text": "She sells snailshells by the sandbank."
+  },
+  {
+    "id": 212,
+    "level": 43,
+    "text": "How much weed would a woodchuck chuck if a woodchuck could chuck weed?"
+  },
+  {
+    "id": 213,
+    "level": 43,
+    "text": "Peter Piper picked a peck of pickled plums."
+  },
+  {
+    "id": 214,
+    "level": 43,
+    "text": "I scream, you scream, we all scream for ice cubes!"
+  },
+  {
+    "id": 215,
+    "level": 43,
+    "text": "Fuzzy Wuzzy was a boar. Fuzzy Wuzzy had no hair."
+  },
+  {
+    "id": 216,
+    "level": 44,
+    "text": "Betty Botter bought some butter, but she said the butter's bitter."
+  },
+  {
+    "id": 217,
+    "level": 44,
+    "text": "A proper copper candy pot."
+  },
+  {
+    "id": 218,
+    "level": 44,
+    "text": "Red leather, yellow leather, red leather, yellow leather."
+  },
+  {
+    "id": 219,
+    "level": 44,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 219)"
+  },
+  {
+    "id": 220,
+    "level": 44,
+    "text": "Six slippery snails slid slowly southward."
+  },
+  {
+    "id": 221,
+    "level": 45,
+    "text": "I saw a kitten eating cheese in the kingdom."
+  },
+  {
+    "id": 222,
+    "level": 45,
+    "text": "If a dog chews shoes, whose shoes does he choose?"
+  },
+  {
+    "id": 223,
+    "level": 45,
+    "text": "I thought I thought of thinking of thumping you."
+  },
+  {
+    "id": 224,
+    "level": 45,
+    "text": "Nine nice night newts nursing nicely."
+  },
+  {
+    "id": 225,
+    "level": 45,
+    "text": "Wayne went to Wales to watch walruses."
+  },
+  {
+    "id": 226,
+    "level": 46,
+    "text": "Four fine fresh fries for you."
+  },
+  {
+    "id": 227,
+    "level": 46,
+    "text": "Which wristwatches are swank wristwatches?"
+  },
+  {
+    "id": 228,
+    "level": 46,
+    "text": "Fred fed Ted bread, and Ted fed Fred bread."
+  },
+  {
+    "id": 229,
+    "level": 46,
+    "text": "We surely shall see the sun shine soon."
+  },
+  {
+    "id": 230,
+    "level": 46,
+    "text": "A big black bug bit a big black bear."
+  },
+  {
+    "id": 231,
+    "level": 47,
+    "text": "Selfish shellfish."
+  },
+  {
+    "id": 232,
+    "level": 47,
+    "text": "Any noise annoys an oyster, but a nasty noise annoys an oyster more."
+  },
+  {
+    "id": 233,
+    "level": 47,
+    "text": "A happy hippo hopped and howled."
+  },
+  {
+    "id": 234,
+    "level": 47,
+    "text": "Lesser leather never weathered warmer weather better."
+  },
+  {
+    "id": 235,
+    "level": 47,
+    "text": "Eleven benevolent elephants."
+  },
+  {
+    "id": 236,
+    "level": 48,
+    "text": "Two toads, totally tired, trying to trot to Texas."
+  },
+  {
+    "id": 237,
+    "level": 48,
+    "text": "Brisk brave brigadiers brandished broad bright blades."
+  },
+  {
+    "id": 238,
+    "level": 48,
+    "text": "If you notice this notice, you will notice that this notice is not worth noticing."
+  },
+  {
+    "id": 239,
+    "level": 48,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chicken."
+  },
+  {
+    "id": 240,
+    "level": 48,
+    "text": "Double bubble gum, bubbles double."
+  },
+  {
+    "id": 241,
+    "level": 49,
+    "text": "She sells shoeshells by the seaside."
+  },
+  {
+    "id": 242,
+    "level": 49,
+    "text": "How much wool would a woolsheep chuck if a woolsheep could chuck wool?"
+  },
+  {
+    "id": 243,
+    "level": 49,
+    "text": "Peter Piper picked a peck of purple pears."
+  },
+  {
+    "id": 244,
+    "level": 49,
+    "text": "I scream, you scream, we all scream for ice cubes!"
+  },
+  {
+    "id": 245,
+    "level": 49,
+    "text": "Fuzzy Wuzzy was a bunny. Fuzzy Wuzzy had no hope."
+  },
+  {
+    "id": 246,
+    "level": 50,
+    "text": "Betty Botter bought some bacon, but she said the bacon's better."
+  },
+  {
+    "id": 247,
+    "level": 50,
+    "text": "A proper copper coffee pot."
+  },
+  {
+    "id": 248,
+    "level": 50,
+    "text": "Red leather, yellow leather, red leather, yellow leather."
+  },
+  {
+    "id": 249,
+    "level": 50,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 249)"
+  },
+  {
+    "id": 250,
+    "level": 50,
+    "text": "Six slippery snails slid slowly seaward."
+  },
+  {
+    "id": 251,
+    "level": 51,
+    "text": "I saw a king eating chips in the kiosk."
+  },
+  {
+    "id": 252,
+    "level": 51,
+    "text": "If a dog chews shoes, whose shoes does he choose?"
+  },
+  {
+    "id": 253,
+    "level": 51,
+    "text": "I thought I thought of thrilling of thumping you."
+  },
+  {
+    "id": 254,
+    "level": 51,
+    "text": "Nine nice night nurses nursing nicely."
+  },
+  {
+    "id": 255,
+    "level": 51,
+    "text": "Wayne went to Wales to watch wolves."
+  },
+  {
+    "id": 256,
+    "level": 52,
+    "text": "Four fine fresh figs for you."
+  },
+  {
+    "id": 257,
+    "level": 52,
+    "text": "Which wristwatches are swank wristwatches?"
+  },
+  {
+    "id": 258,
+    "level": 52,
+    "text": "Fred fed Ted berries, and Ted fed Fred berries."
+  },
+  {
+    "id": 259,
+    "level": 52,
+    "text": "We surely shall see the sun shine soon."
+  },
+  {
+    "id": 260,
+    "level": 52,
+    "text": "A big black bug bit a big black bear."
+  },
+  {
+    "id": 261,
+    "level": 53,
+    "text": "Selfish sharks."
+  },
+  {
+    "id": 262,
+    "level": 53,
+    "text": "Any noise annoys an oyster, but a noisy noise annoys an oyster more."
+  },
+  {
+    "id": 263,
+    "level": 53,
+    "text": "A happy hippo hopped and hiccupped."
+  },
+  {
+    "id": 264,
+    "level": 53,
+    "text": "Lesser leather never weathered wetter weather better."
+  },
+  {
+    "id": 265,
+    "level": 53,
+    "text": "Eleven benevolent eagles."
+  },
+  {
+    "id": 266,
+    "level": 54,
+    "text": "Two toads, totally tired, trying to trot to Tewkesbury."
+  },
+  {
+    "id": 267,
+    "level": 54,
+    "text": "Brisk brave brigadiers brandished broad bright brooms."
+  },
+  {
+    "id": 268,
+    "level": 54,
+    "text": "If you notice this notice, you will notice that this notice is not worth noticing."
+  },
+  {
+    "id": 269,
+    "level": 54,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar chicken."
+  },
+  {
+    "id": 270,
+    "level": 54,
+    "text": "Double bubble gum, bubbles double."
+  },
+  {
+    "id": 271,
+    "level": 55,
+    "text": "She sells snailshells by the seashore."
+  },
+  {
+    "id": 272,
+    "level": 55,
+    "text": "How much weed would a weedwhacker chuck if a weedwhacker could chuck weed?"
+  },
+  {
+    "id": 273,
+    "level": 55,
+    "text": "Peter Piper picked a peck of pickled pears."
+  },
+  {
+    "id": 274,
+    "level": 55,
+    "text": "I scream, you scream, we all scream for ice cream!"
+  },
+  {
+    "id": 275,
+    "level": 55,
+    "text": "Fuzzy Wuzzy was a boar. Fuzzy Wuzzy had no hope."
+  },
+  {
+    "id": 276,
+    "level": 56,
+    "text": "Betty Botter bought some bacon, but she said the bacon's broken."
+  },
+  {
+    "id": 277,
+    "level": 56,
+    "text": "A proper crafty cocoa pot."
+  },
+  {
+    "id": 278,
+    "level": 56,
+    "text": "Red leather, yellow leather, red leather, yellow leather."
+  },
+  {
+    "id": 279,
+    "level": 56,
+    "text": "Unique New York, unique New York, you know you need unique New York. (Variation 279)"
+  },
+  {
+    "id": 280,
+    "level": 56,
+    "text": "Six slippery snails slid slowly sideways."
+  },
+  {
+    "id": 281,
+    "level": 57,
+    "text": "I saw a king eating cheese in the kitchen."
+  },
+  {
+    "id": 282,
+    "level": 57,
+    "text": "If a dog chews socks, whose socks does he choose?"
+  },
+  {
+    "id": 283,
+    "level": 57,
+    "text": "I thought I thought of throwing of thanking you."
+  },
+  {
+    "id": 284,
+    "level": 57,
+    "text": "Nine nice night newts nursing naturally."
+  },
+  {
+    "id": 285,
+    "level": 57,
+    "text": "Wayne went to Wales to watch weasels."
+  },
+  {
+    "id": 286,
+    "level": 58,
+    "text": "Four fine fresh figs for you."
+  },
+  {
+    "id": 287,
+    "level": 58,
+    "text": "Which wristwatches are sweet wristwatches?"
+  },
+  {
+    "id": 288,
+    "level": 58,
+    "text": "Fred fed Ted bread, and Ted fed Fred bread."
+  },
+  {
+    "id": 289,
+    "level": 58,
+    "text": "We surely shall see the sun shine soon."
+  },
+  {
+    "id": 290,
+    "level": 58,
+    "text": "A big black bug bit a big black boar."
+  },
+  {
+    "id": 291,
+    "level": 59,
+    "text": "Selfish sharks."
+  },
+  {
+    "id": 292,
+    "level": 59,
+    "text": "Any noise annoys an oyster, but a new noise annoys an oyster more."
+  },
+  {
+    "id": 293,
+    "level": 59,
+    "text": "A happy hippo hopped and hiccupped."
+  },
+  {
+    "id": 294,
+    "level": 59,
+    "text": "Lesser leather never weathered wetter weather better."
+  },
+  {
+    "id": 295,
+    "level": 59,
+    "text": "Eleven benevolent eagles."
+  },
+  {
+    "id": 296,
+    "level": 60,
+    "text": "Two toads, totally tired, trying to trot to Tewkesbury."
+  },
+  {
+    "id": 297,
+    "level": 60,
+    "text": "Brisk brave brigadiers brandished broad bright brooms."
+  },
+  {
+    "id": 298,
+    "level": 60,
+    "text": "If you notice this notice, you will notice that this notice is not worth nothing."
+  },
+  {
+    "id": 299,
+    "level": 60,
+    "text": "Chester Cheetah chews a chunk of cheap cheddar cheese."
+  },
+  {
+    "id": 300,
+    "level": 60,
+    "text": "Double bubble gum, bubbles deeply."
+  }
+]

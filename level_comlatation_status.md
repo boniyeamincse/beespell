@@ -85,10 +85,10 @@
 | 15 | Upper Intermediate | `level-15-upper-intermediate.json` | 800 | 800 | ✅ Done |
 | 16 | Specialist | `level-16-specialist.json` | 900 | 900 | ✅ Done |
 | 17 | Analyst | `level-17-analyst.json` | 1000 | 1000 | ✅ Done |
-| 18 | Strategist | — | 0 | 1100 | ❌ Missing |
-| 19 | Tactician | — | 0 | 1200 | ❌ Missing |
-| 20 | Advanced | — | 0 | 1300 | ❌ Missing |
-| 21 | Expert | — | 0 | 1400 | ❌ Missing |
+| 18 | Strategist | `level-18-strategist.json` | 1100 | 1100 | ✅ Done |
+| 19 | Tactician | `level-19-tactician.json` | 1200 | 1200 | ✅ Done |
+| 20 | Advanced | `level-20-advanced.json` | 1300 | 1300 | ✅ Done |
+| 21 | Expert | `level-21-expert.json` | 1400 | 1400 | ✅ Done |
 | 22 | Virtuoso | — | 0 | 1500 | ❌ Missing |
 | 23 | Maestro | — | 0 | 1700 | ❌ Missing |
 | 24 | Prodigy | — | 0 | 1900 | ❌ Missing |
@@ -118,7 +118,7 @@
 | 48 | World Champion | — | 0 | 12000 | ❌ Missing |
 | 49 | Ultimate Legend | — | 0 | 13000 | ❌ Missing |
 
-**Total Actual Words:** 4,275 (across 15 levels)
+**Total Actual Words:** 9,275 (across 19 levels)
 **Total Planned Words:** ~300,000+ (across 50 levels)
 
 ---

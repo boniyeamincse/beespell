@@ -5,6 +5,18 @@
   <br />
 </div>
 
+## 📑 Navigation Menu
+
+- [📖 Overview](#-overview)
+- [✨ Key Features](#-key-features)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [📂 Folder Structure](#-folder-structure)
+- [🚀 Getting Started (Local Development)](#-getting-started-local-development)
+- [🏆 Adding New Data](#-adding-new-data)
+- [🤝 Contributing](#-contributing)
+- [👨‍💻 About Developer](#-about-developer)
+- [📜 License](#-license)
+
 ## 📖 Overview
 
 **BeeSpell Dictionary** is a lightweight, frontend-only web application designed to help students—from toddlers to adults—master English spelling. The app features a **Linear Progression System** (Level 0 to Level 49) where users learn words step-by-step. 

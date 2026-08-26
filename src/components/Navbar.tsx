@@ -8,8 +8,9 @@ export default function Navbar() {
 
   const links = [
     { href: "/levels", label: "Journey", icon: "🗺️" },
-    { href: "/progress", label: "Progress", icon: "📈" },
+    { href: "/reading", label: "Reading", icon: "📚" },
     { href: "/tongue-twister", label: "Twisters", icon: "👅" },
+    { href: "/progress", label: "Progress", icon: "📈" },
     { href: "/about", label: "About", icon: "ℹ️" },
   ];
 

@@ -1,0 +1,2251 @@
+[
+  {
+    "id": 1,
+    "level": 1,
+    "difficulty": "easy",
+    "title": "My Little Cat",
+    "story": "I have a cat.\nMy cat is small.\nIts name is Mimi.\nMimi is white.\nIt has two blue eyes.\nMimi likes milk.\nIt likes to play.\nI love my little cat. ❤️",
+    "wordCount": 33,
+    "new_words": [
+      {
+        "word": "Cat",
+        "meaning": "বিড়াল"
+      },
+      {
+        "word": "Small",
+        "meaning": "ছোট"
+      },
+      {
+        "word": "White",
+        "meaning": "সাদা"
+      },
+      {
+        "word": "Eyes",
+        "meaning": "চোখ"
+      },
+      {
+        "word": "Milk",
+        "meaning": "দুধ"
+      },
+      {
+        "word": "Play",
+        "meaning": "খেলা"
+      },
+      {
+        "word": "Love",
+        "meaning": "ভালোবাসা"
+      }
+    ],
+    "questions": [
+      "What is the name of the cat?",
+      "What color is Mimi?",
+      "What does Mimi like?",
+      "Does Mimi like to play?"
+    ]
+  },
+  {
+    "id": 2,
+    "level": 2,
+    "difficulty": "easy",
+    "title": "My Little Dog",
+    "story": "I have a dog.\nMy dog is big.\nIts name is Max.\nMax is brown.\nIt has four legs.\nIt has two big ears.\nMax likes to run.\nI play with Max every day.\nMax is my good friend. 🐶❤️",
+    "wordCount": 42,
+    "new_words": [
+      {
+        "word": "Dog",
+        "meaning": "কুকুর"
+      },
+      {
+        "word": "Big",
+        "meaning": "বড়"
+      },
+      {
+        "word": "Brown",
+        "meaning": "বাদামি"
+      },
+      {
+        "word": "Legs",
+        "meaning": "পা"
+      },
+      {
+        "word": "Ears",
+        "meaning": "কান"
+      },
+      {
+        "word": "Run",
+        "meaning": "দৌড়ানো"
+      },
+      {
+        "word": "Friend",
+        "meaning": "বন্ধু"
+      },
+      {
+        "word": "Every day",
+        "meaning": "প্রতিদিন"
+      }
+    ],
+    "questions": [
+      "What is the name of the dog?",
+      "What color is Max?",
+      "How many legs does Max have?",
+      "What does Max like to do?",
+      "Who is Max's good friend?"
+    ]
+  },
+  {
+    "id": 3,
+    "level": 3,
+    "difficulty": "easy",
+    "title": "Story Level 3",
+    "story": "This is a placeholder story for Level 3. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 4,
+    "level": 4,
+    "difficulty": "easy",
+    "title": "Story Level 4",
+    "story": "This is a placeholder story for Level 4. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 5,
+    "level": 5,
+    "difficulty": "easy",
+    "title": "Story Level 5",
+    "story": "This is a placeholder story for Level 5. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 6,
+    "level": 6,
+    "difficulty": "easy",
+    "title": "Story Level 6",
+    "story": "This is a placeholder story for Level 6. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 7,
+    "level": 7,
+    "difficulty": "easy",
+    "title": "Story Level 7",
+    "story": "This is a placeholder story for Level 7. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 8,
+    "level": 8,
+    "difficulty": "easy",
+    "title": "Story Level 8",
+    "story": "This is a placeholder story for Level 8. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 9,
+    "level": 9,
+    "difficulty": "easy",
+    "title": "Story Level 9",
+    "story": "This is a placeholder story for Level 9. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 10,
+    "level": 10,
+    "difficulty": "easy",
+    "title": "Story Level 10",
+    "story": "This is a placeholder story for Level 10. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 11,
+    "level": 11,
+    "difficulty": "easy",
+    "title": "Story Level 11",
+    "story": "This is a placeholder story for Level 11. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 12,
+    "level": 12,
+    "difficulty": "easy",
+    "title": "Story Level 12",
+    "story": "This is a placeholder story for Level 12. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 13,
+    "level": 13,
+    "difficulty": "easy",
+    "title": "Story Level 13",
+    "story": "This is a placeholder story for Level 13. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 14,
+    "level": 14,
+    "difficulty": "easy",
+    "title": "Story Level 14",
+    "story": "This is a placeholder story for Level 14. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 15,
+    "level": 15,
+    "difficulty": "easy",
+    "title": "Story Level 15",
+    "story": "This is a placeholder story for Level 15. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 16,
+    "level": 16,
+    "difficulty": "easy",
+    "title": "Story Level 16",
+    "story": "This is a placeholder story for Level 16. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 17,
+    "level": 17,
+    "difficulty": "easy",
+    "title": "Story Level 17",
+    "story": "This is a placeholder story for Level 17. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 18,
+    "level": 18,
+    "difficulty": "easy",
+    "title": "Story Level 18",
+    "story": "This is a placeholder story for Level 18. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 19,
+    "level": 19,
+    "difficulty": "easy",
+    "title": "Story Level 19",
+    "story": "This is a placeholder story for Level 19. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 20,
+    "level": 20,
+    "difficulty": "easy",
+    "title": "Story Level 20",
+    "story": "This is a placeholder story for Level 20. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 21,
+    "level": 21,
+    "difficulty": "easy",
+    "title": "Story Level 21",
+    "story": "This is a placeholder story for Level 21. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 22,
+    "level": 22,
+    "difficulty": "easy",
+    "title": "Story Level 22",
+    "story": "This is a placeholder story for Level 22. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 23,
+    "level": 23,
+    "difficulty": "easy",
+    "title": "Story Level 23",
+    "story": "This is a placeholder story for Level 23. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 24,
+    "level": 24,
+    "difficulty": "easy",
+    "title": "Story Level 24",
+    "story": "This is a placeholder story for Level 24. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 25,
+    "level": 25,
+    "difficulty": "easy",
+    "title": "Story Level 25",
+    "story": "This is a placeholder story for Level 25. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 26,
+    "level": 26,
+    "difficulty": "intermediate",
+    "title": "Story Level 26",
+    "story": "This is a placeholder story for Level 26. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 27,
+    "level": 27,
+    "difficulty": "intermediate",
+    "title": "Story Level 27",
+    "story": "This is a placeholder story for Level 27. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 28,
+    "level": 28,
+    "difficulty": "intermediate",
+    "title": "Story Level 28",
+    "story": "This is a placeholder story for Level 28. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 29,
+    "level": 29,
+    "difficulty": "intermediate",
+    "title": "Story Level 29",
+    "story": "This is a placeholder story for Level 29. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 30,
+    "level": 30,
+    "difficulty": "intermediate",
+    "title": "Story Level 30",
+    "story": "This is a placeholder story for Level 30. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 31,
+    "level": 31,
+    "difficulty": "intermediate",
+    "title": "Story Level 31",
+    "story": "This is a placeholder story for Level 31. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 32,
+    "level": 32,
+    "difficulty": "intermediate",
+    "title": "Story Level 32",
+    "story": "This is a placeholder story for Level 32. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 33,
+    "level": 33,
+    "difficulty": "intermediate",
+    "title": "Story Level 33",
+    "story": "This is a placeholder story for Level 33. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 34,
+    "level": 34,
+    "difficulty": "intermediate",
+    "title": "Story Level 34",
+    "story": "This is a placeholder story for Level 34. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 35,
+    "level": 35,
+    "difficulty": "intermediate",
+    "title": "Story Level 35",
+    "story": "This is a placeholder story for Level 35. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 36,
+    "level": 36,
+    "difficulty": "intermediate",
+    "title": "Story Level 36",
+    "story": "This is a placeholder story for Level 36. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 37,
+    "level": 37,
+    "difficulty": "intermediate",
+    "title": "Story Level 37",
+    "story": "This is a placeholder story for Level 37. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 38,
+    "level": 38,
+    "difficulty": "intermediate",
+    "title": "Story Level 38",
+    "story": "This is a placeholder story for Level 38. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 39,
+    "level": 39,
+    "difficulty": "intermediate",
+    "title": "Story Level 39",
+    "story": "This is a placeholder story for Level 39. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 40,
+    "level": 40,
+    "difficulty": "intermediate",
+    "title": "Story Level 40",
+    "story": "This is a placeholder story for Level 40. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 41,
+    "level": 41,
+    "difficulty": "intermediate",
+    "title": "Story Level 41",
+    "story": "This is a placeholder story for Level 41. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 42,
+    "level": 42,
+    "difficulty": "intermediate",
+    "title": "Story Level 42",
+    "story": "This is a placeholder story for Level 42. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 43,
+    "level": 43,
+    "difficulty": "intermediate",
+    "title": "Story Level 43",
+    "story": "This is a placeholder story for Level 43. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 44,
+    "level": 44,
+    "difficulty": "intermediate",
+    "title": "Story Level 44",
+    "story": "This is a placeholder story for Level 44. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 45,
+    "level": 45,
+    "difficulty": "intermediate",
+    "title": "Story Level 45",
+    "story": "This is a placeholder story for Level 45. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 46,
+    "level": 46,
+    "difficulty": "intermediate",
+    "title": "Story Level 46",
+    "story": "This is a placeholder story for Level 46. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 47,
+    "level": 47,
+    "difficulty": "intermediate",
+    "title": "Story Level 47",
+    "story": "This is a placeholder story for Level 47. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 48,
+    "level": 48,
+    "difficulty": "intermediate",
+    "title": "Story Level 48",
+    "story": "This is a placeholder story for Level 48. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 49,
+    "level": 49,
+    "difficulty": "intermediate",
+    "title": "Story Level 49",
+    "story": "This is a placeholder story for Level 49. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 50,
+    "level": 50,
+    "difficulty": "intermediate",
+    "title": "Story Level 50",
+    "story": "This is a placeholder story for Level 50. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 51,
+    "level": 51,
+    "difficulty": "hard",
+    "title": "Story Level 51",
+    "story": "This is a placeholder story for Level 51. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 52,
+    "level": 52,
+    "difficulty": "hard",
+    "title": "Story Level 52",
+    "story": "This is a placeholder story for Level 52. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 53,
+    "level": 53,
+    "difficulty": "hard",
+    "title": "Story Level 53",
+    "story": "This is a placeholder story for Level 53. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 54,
+    "level": 54,
+    "difficulty": "hard",
+    "title": "Story Level 54",
+    "story": "This is a placeholder story for Level 54. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 55,
+    "level": 55,
+    "difficulty": "hard",
+    "title": "Story Level 55",
+    "story": "This is a placeholder story for Level 55. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 56,
+    "level": 56,
+    "difficulty": "hard",
+    "title": "Story Level 56",
+    "story": "This is a placeholder story for Level 56. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 57,
+    "level": 57,
+    "difficulty": "hard",
+    "title": "Story Level 57",
+    "story": "This is a placeholder story for Level 57. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 58,
+    "level": 58,
+    "difficulty": "hard",
+    "title": "Story Level 58",
+    "story": "This is a placeholder story for Level 58. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 59,
+    "level": 59,
+    "difficulty": "hard",
+    "title": "Story Level 59",
+    "story": "This is a placeholder story for Level 59. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 60,
+    "level": 60,
+    "difficulty": "hard",
+    "title": "Story Level 60",
+    "story": "This is a placeholder story for Level 60. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 61,
+    "level": 61,
+    "difficulty": "hard",
+    "title": "Story Level 61",
+    "story": "This is a placeholder story for Level 61. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 62,
+    "level": 62,
+    "difficulty": "hard",
+    "title": "Story Level 62",
+    "story": "This is a placeholder story for Level 62. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 63,
+    "level": 63,
+    "difficulty": "hard",
+    "title": "Story Level 63",
+    "story": "This is a placeholder story for Level 63. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 64,
+    "level": 64,
+    "difficulty": "hard",
+    "title": "Story Level 64",
+    "story": "This is a placeholder story for Level 64. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 65,
+    "level": 65,
+    "difficulty": "hard",
+    "title": "Story Level 65",
+    "story": "This is a placeholder story for Level 65. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 66,
+    "level": 66,
+    "difficulty": "hard",
+    "title": "Story Level 66",
+    "story": "This is a placeholder story for Level 66. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 67,
+    "level": 67,
+    "difficulty": "hard",
+    "title": "Story Level 67",
+    "story": "This is a placeholder story for Level 67. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 68,
+    "level": 68,
+    "difficulty": "hard",
+    "title": "Story Level 68",
+    "story": "This is a placeholder story for Level 68. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 69,
+    "level": 69,
+    "difficulty": "hard",
+    "title": "Story Level 69",
+    "story": "This is a placeholder story for Level 69. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 70,
+    "level": 70,
+    "difficulty": "hard",
+    "title": "Story Level 70",
+    "story": "This is a placeholder story for Level 70. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 71,
+    "level": 71,
+    "difficulty": "hard",
+    "title": "Story Level 71",
+    "story": "This is a placeholder story for Level 71. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 72,
+    "level": 72,
+    "difficulty": "hard",
+    "title": "Story Level 72",
+    "story": "This is a placeholder story for Level 72. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 73,
+    "level": 73,
+    "difficulty": "hard",
+    "title": "Story Level 73",
+    "story": "This is a placeholder story for Level 73. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 74,
+    "level": 74,
+    "difficulty": "hard",
+    "title": "Story Level 74",
+    "story": "This is a placeholder story for Level 74. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 75,
+    "level": 75,
+    "difficulty": "hard",
+    "title": "Story Level 75",
+    "story": "This is a placeholder story for Level 75. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 76,
+    "level": 76,
+    "difficulty": "advanced",
+    "title": "Story Level 76",
+    "story": "This is a placeholder story for Level 76. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 77,
+    "level": 77,
+    "difficulty": "advanced",
+    "title": "Story Level 77",
+    "story": "This is a placeholder story for Level 77. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 78,
+    "level": 78,
+    "difficulty": "advanced",
+    "title": "Story Level 78",
+    "story": "This is a placeholder story for Level 78. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 79,
+    "level": 79,
+    "difficulty": "advanced",
+    "title": "Story Level 79",
+    "story": "This is a placeholder story for Level 79. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 80,
+    "level": 80,
+    "difficulty": "advanced",
+    "title": "Story Level 80",
+    "story": "This is a placeholder story for Level 80. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 81,
+    "level": 81,
+    "difficulty": "advanced",
+    "title": "Story Level 81",
+    "story": "This is a placeholder story for Level 81. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 82,
+    "level": 82,
+    "difficulty": "advanced",
+    "title": "Story Level 82",
+    "story": "This is a placeholder story for Level 82. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 83,
+    "level": 83,
+    "difficulty": "advanced",
+    "title": "Story Level 83",
+    "story": "This is a placeholder story for Level 83. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 84,
+    "level": 84,
+    "difficulty": "advanced",
+    "title": "Story Level 84",
+    "story": "This is a placeholder story for Level 84. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 85,
+    "level": 85,
+    "difficulty": "advanced",
+    "title": "Story Level 85",
+    "story": "This is a placeholder story for Level 85. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 86,
+    "level": 86,
+    "difficulty": "advanced",
+    "title": "Story Level 86",
+    "story": "This is a placeholder story for Level 86. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 87,
+    "level": 87,
+    "difficulty": "advanced",
+    "title": "Story Level 87",
+    "story": "This is a placeholder story for Level 87. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 88,
+    "level": 88,
+    "difficulty": "advanced",
+    "title": "Story Level 88",
+    "story": "This is a placeholder story for Level 88. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 89,
+    "level": 89,
+    "difficulty": "advanced",
+    "title": "Story Level 89",
+    "story": "This is a placeholder story for Level 89. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 90,
+    "level": 90,
+    "difficulty": "advanced",
+    "title": "Story Level 90",
+    "story": "This is a placeholder story for Level 90. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 91,
+    "level": 91,
+    "difficulty": "advanced",
+    "title": "Story Level 91",
+    "story": "This is a placeholder story for Level 91. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 92,
+    "level": 92,
+    "difficulty": "advanced",
+    "title": "Story Level 92",
+    "story": "This is a placeholder story for Level 92. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 93,
+    "level": 93,
+    "difficulty": "advanced",
+    "title": "Story Level 93",
+    "story": "This is a placeholder story for Level 93. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 94,
+    "level": 94,
+    "difficulty": "advanced",
+    "title": "Story Level 94",
+    "story": "This is a placeholder story for Level 94. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 95,
+    "level": 95,
+    "difficulty": "advanced",
+    "title": "Story Level 95",
+    "story": "This is a placeholder story for Level 95. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 96,
+    "level": 96,
+    "difficulty": "advanced",
+    "title": "Story Level 96",
+    "story": "This is a placeholder story for Level 96. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 97,
+    "level": 97,
+    "difficulty": "advanced",
+    "title": "Story Level 97",
+    "story": "This is a placeholder story for Level 97. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 98,
+    "level": 98,
+    "difficulty": "advanced",
+    "title": "Story Level 98",
+    "story": "This is a placeholder story for Level 98. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 99,
+    "level": 99,
+    "difficulty": "advanced",
+    "title": "Story Level 99",
+    "story": "This is a placeholder story for Level 99. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  },
+  {
+    "id": 100,
+    "level": 100,
+    "difficulty": "advanced",
+    "title": "Story Level 100",
+    "story": "This is a placeholder story for Level 100. As you progress, the stories will become more difficult and engaging! Keep practicing your reading skills every day.",
+    "wordCount": 26,
+    "new_words": [
+      {
+        "word": "Placeholder",
+        "meaning": "স্থানধারক"
+      },
+      {
+        "word": "Practice",
+        "meaning": "অনুশীলন করা"
+      }
+    ],
+    "questions": [
+      "What level is this story?",
+      "What should you do every day?"
+    ]
+  }
+]
